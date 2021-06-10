@@ -31,7 +31,9 @@ twitter_username: MedianiSamuel
 github_username:  SamMed05
 
 # Build settings
-theme: minima
+# theme: minima
+# theme: jekyll-theme-clean-blog
+theme: alembic-jekyll-theme
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -44,7 +46,7 @@ defaults:
     values:
       layout: "post"
       author: "Samuel Mediani"
-      categories: post
+      # categories: post
       permalink: "/:categories/:year/:month/:day/:title"
 
 # Exclude from processing.
