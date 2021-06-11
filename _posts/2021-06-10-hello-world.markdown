@@ -1,7 +1,7 @@
 ---
 title:  "Hello World!"
 date:   2021-06-10 #10:09:24 +0200
-# categories: life, education, misc, 
+# categories: life, education, misc,
 ---
 
 In the following post I'm going to introduce this blog and talk a bit about me and future plans.
@@ -47,6 +47,7 @@ There is also another reason to publish posts after some time: there are some ar
 I'm not assuming that you are a programming enthusiast, so I don't want to go into details. In general I'm using Jekyll <span class="iconify" data-icon="cib:jekyll" data-inline="false"></span>, a blog-aware static site generator and Markdown <span class="iconify" data-icon="cib:markdown" data-inline="false"></span> for writing the formatted text.
 I used Alembic theme by David Darnes but I modified it until it suited my tastes. <br>
 I made this blog in about a week's time, first post included. It seems like a short time but actually I worked many hours on it these days and is was not easy, especially changing the theme, tweaking it's CSS and adding extra features like icons or the top-button ⤒. <br>
+It' not perfect yet, there are a lot of errors, but I will continue to improve it. <br>
 You can find the source code of this blog (and not only) in <a href="https://github.com/SamMed05" target="_blank">my GitHub account page</a><box-icon name='link-external' size='xs'></box-icon>.
 
 <br>
