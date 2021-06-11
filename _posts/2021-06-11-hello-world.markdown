@@ -1,17 +1,17 @@
 ---
 title:  "Hello World!"
 date:   2021-06-11 #10:09:24 +0200
-# categories: life, education, misc,
+# feature_image: "{{site.baseurl}}/assets/images/hello-world-banner.png"
+# categories: life, education, misc
 ---
 
 In the following post I'm going to introduce this blog and talk a bit about me and future plans.
 
 The intention of writing a blog has been in my head for a long time: sometimes I need to pause and meditate and I thought writing was a good way to do it. I've never been a procrastinator, but between uncertainty about *when* to write, *what* to write and *what* technologies to use, I always postponed this idea. <br>
-I'm currently 16 years old, so for about 50% of the days in a year I have (and I need to) go to school[^1] and I can't blog or doing other things because of the fewer time. <br> In the afternoon during my free time I have almost never prioritized this activity until now, I rather went out with friends, played the piano, the guitar or the violin, created or played video games, read a book, etc. <br>
+I'm Samuel, I'm passionate about programming and game development and I'm currently a 16 years old student, so for about 50% of the days in a year I have (and I need to) go to school[^1] and I can't blog or doing other things because of the fewer time. <br> In the afternoon during my free time, excluding time needed for homework and study, I almost never gave priority to this activity of writing, until now. I rather went out with friends, listened or created music, played the piano, the guitar or the violin, made or played video games, slowly worked on other projects, read some books, etc. I'll continue to do this things, but now that for a few months I have more time I can add also blogging to them! <br>
 By the way, you can find more information about me on <a href="https://samdev.netlify.app" target="_blank">my personal website</a><box-icon name='link-external' size='xs'></box-icon> or in the about page, and I'm also planning to write a post that dive a bit more in my past. <br>
-Most of the time I'll have to do my duties, like every other person, and my hobbies (and so my blog too) will be slowed down, but at least during summers and holidays, like in this moment, I will have all the time needed.
 
-*Just to clarify: I often envy those who are, but unfortunately I'm not native speaker of English, **Italian** is my first language. I apologize if there are writing errors, but I will do my best to avoid them.*
+*Just to clarify before going forward: I often envy those who are, but unfortunately I'm not native speaker of English, **Italian** is my first language. I apologize if there are writing errors, but I will do my best to avoid them.*
 
 <br>
 
@@ -20,7 +20,7 @@ Most of the time I'll have to do my duties, like every other person, and my hobb
 #### What will be written in this blog?
 I really wanted to share the *tons* of interesting thoughts, hobbies and passions that I experience and possess during my life, but I never had a good place to write them down.
 Instead of keeping these things just inside me and oppressing this necessity, I finally decided that it was time to take a more extrovert approach and start writing a collection of them in a blog. <br>
-I'm not going to put too technical things and I don't want to use a difficult language. I'd like to write something which is understandable and enjoyable by anyone who reads it. Also, I'd like to talk about similar things on my YouTube channel, but here I can tell them in a faster and simpler way.
+I'm not going to put too technical things and I don't want to use a difficult language. I'd like to write something which is understandable and enjoyable by anyone who reads it. Also, I'd like to talk about similar things on my YouTube channel, but here I can tell them in a faster and simpler way. <br>
 I don't think you will ever see tutorials in this blog because for that I would prefer using other ways. Anyway I could always change idea, time will tell.
 
 #### Why (and why should it be read)?
