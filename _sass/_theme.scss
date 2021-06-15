@@ -14,7 +14,14 @@ body {
   margin: 0 auto;
 }
 
-// ACCORDION ----------------------------------------
+// Hide this element when printing the page
+@media print {
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+
+// Accordion
 details {
     //border: 0px solid #000000;
     border-radius: 4px;
@@ -35,9 +42,6 @@ details[open] summary {
     //border: 0px solid #000000;
     //margin-bottom: .5em;
 }
-
-
-// ------------------------------------------------
 
 // Header, feature and footer
 .header,
