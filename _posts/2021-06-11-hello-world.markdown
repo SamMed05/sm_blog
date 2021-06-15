@@ -2,8 +2,8 @@
 title:  "Hello World!"
 date:   2021-06-11 #10:09:24 +0200
 # comments: true
-feature_image: "/blog/assets/images/hello-world-images/hello-world-big.png"
-# categories: life, education, misc
+feature_image: "/sm_blog/assets/images/hello-world-images/hello-world-big.png"
+categories: life-lessons habits motivation
 ---
 
 In the following post I'm going to introduce this blog and talk a bit about me and future plans.
@@ -33,6 +33,7 @@ In other words, I want to mark down and highlight the important things of life. 
 Forcing myself to expose my *mental things* out loud ensure the clarity, the honesty and the transparency of my thoughts and strengthens them. <br>
 This however must not damage the habit of having an open mentality and being able to listen to everyone's opinions, and I am aware of it.
 I think that having common topics to share and discuss is important for a healthy evolution of society, and it helps us to know ourselves more deeply. <br>
+And if sometimes it feels like I'm talking about weird things that don't concern anyone and anything, actually they have to do with our everyday actions: making a choice, planning the future, determining when something is fair or not…
 
 As I recently read [in this blog post](https://billmei.net/blog/why-blog):
 
