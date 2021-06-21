@@ -20,7 +20,7 @@ $bodytype: (
   // font-family: '"Roboto", sans-serif',
   // font-family: '"Nunito", sans-serif',
   // font-family: '"Poppins", sans-serif',
-  font-family: '"Sen", sans-serif', // Jost or Lato are good too
+  font-family: '"Lato", sans-serif', // Jost, Sen and Inter are good too
   regular: 400,
   bold: 600,
   italic: italic,
@@ -31,7 +31,7 @@ $headingtype: (
   // font-family: '"Merriweather", serif',
   // font-family: '"Inconsolata", monospace',
   // font-family: '"Jost", sans-serif',
-  font-family: '"Roboto Mono", monospace',
+  font-family: '"Sen", sans-serif',
   regular: 400,
   bold: 700,
   cap-height: 0.75
@@ -55,3 +55,5 @@ $monospacetype: (
 //@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Lora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+//@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');

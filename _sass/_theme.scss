@@ -86,6 +86,16 @@ details[open] summary {
     @include flex-direction(column);
     @include justify-content(center);
   }
+
+}
+
+@media screen and (max-width: 640px) { // break-1
+  .feature {
+    // display: none;
+    position: relative;
+    top: 2rem;
+    max-height: 25vh;
+  }
 }
 
 .logo {

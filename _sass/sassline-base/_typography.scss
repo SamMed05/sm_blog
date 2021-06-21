@@ -65,9 +65,25 @@ a {
   // Paragraphs. OpenType ligatures and oldstyle figures enabled if available.
   p {
     @include baseline($fontsize: zeta, $font: $bodytype, $lineheight: 1.9, $below: 2, $breakpoint: all);
-
+    // Justify paragraphs content
+    // text-align: justify;
+    text-align: left;
+    text-justify: inter-word; //inter-character
     font-feature-settings: 'kern', 'onum', 'liga';
   }
+
+  // Dots under h4
+  /*h4:after {
+      content: ' ';
+      display: block;
+      border: 1px solid rgba(191, 191, 191, 0.5);
+      border-style: dotted;
+      border-width: thick;
+      border-bottom: none;
+      border-left: none;
+      border-right: none;
+      margin-bottom: 10px;
+  }*/
 
   // Headings. OpenType ligatures, discretionary ligatures and lining figures enabled if available.
   h1, h2, h3, h4, h5, h6 {
@@ -76,6 +92,7 @@ a {
     font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
     font-style: normal;
     font-weight: map-get($headingtype, bold);
+    text-align: left;
   }
 
   // Heading level 1.

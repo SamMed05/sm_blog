@@ -26,7 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 
 baseurl: "/sm_blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sammed05.github.io/sm_blog/" # the base hostname & protocol for your site, e.g. http://example.com
+domain: sammed05.github.io # force HTTPS, specify the domain without the http at the start, e.g. example.com
 twitter_username: MedianiSamuel
 github_username:  SamMed05
 
@@ -47,7 +48,8 @@ defaults:
       layout: "post"
       author: "Samuel Mediani"
       # categories: post
-      permalink: "/:categories/:year/:month/:day/:title"
+      # permalink: "/:categories/:year/:month/:day/:title"
+      permalink: "/:year/:month/:day/:title"
 
 # Google Analytics
 google_analytics: G-26MQZ1PWBZ
