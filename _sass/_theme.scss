@@ -21,6 +21,21 @@ body {
     }
 }
 
+// Custom scrollbar
+body::-webkit-scrollbar {
+  width: 11px;               /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+  background: #ebedf0;        /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #67707a;    /* color of the scroll thumb */
+  border-radius: 20px;       /* roundness of the scroll thumb */
+  border: 2px solid #ebedf0;  /* creates padding around scroll thumb */
+}
+
 // Accordion
 details {
     //border: 0px solid #000000;
@@ -224,6 +239,22 @@ details[open] summary {
   .item--result,
   .item--category {
     margin-left: 0;
+    margin-bottom: 1.5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 0.1em;
+    border-radius: 7px;
+    background-color: #f7f9fa;
+    box-shadow: 0px 3px $hoverColour, 0px 6px $linkColour, 0px 9px $focusColour;
+    //box-shadow: 5px 10px #a8adac inset;
+  }
+  .item--post:hover {
+    box-shadow: 0px 0px 18px #a2aeb3;
+    transition: .4s ease;
+  }
+  .item--post:not(:hover) {
+    box-shadow: 0px 3px $hoverColour, 0px 6px $linkColour, 0px 9px $focusColour;
+    transition: .3s ease;
   }
 }
 
@@ -248,6 +279,7 @@ details[open] summary {
 // Links, icons and images
 a .icon {
   transition: fill .1s;
+
   &:hover {
     fill: currentColor;
   }
@@ -453,8 +485,10 @@ pre code {
 }
 
 ::selection {
-  background: $headingColour;
-  color: $backgroundColour;
+  // background: $linkColour;
+  background: $focusColour;
+  // color: $backgroundColour;
+  color: $bodyColour;
   text-shadow: none;
 }
 

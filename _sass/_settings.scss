@@ -2,16 +2,16 @@
 $backgroundColour: #ffffff !default; // #ebfaff
 $codeBackgroundColour: #fafafa !default;
 $featureBackgroundColour: #f9fafa !default;
-$accentColour: #0096c7 !default;
+$accentColour: #0291d9 !default;
 
 // Text colours
-$headingColour: #041f30 !default;
+$headingColour: #031b2b !default;
 $bodyColour: #000000 !default; // #101824
-$linkColour: #0096c7 !default;
-$hoverColour: #0077b6 !default;
-$focusColour: #ade8f4 !default;
-$blockquoteColour: #ade8f4 !default;
-$captionColour: #a8adac !default;
+$linkColour: #0291d9 !default;
+$hoverColour: #0568a6 !default;
+$focusColour: #93d5ed !default;
+$blockquoteColour: #93d5ed !default;
+$captionColour: #8b8e8f !default; // #a8adac
 $white: #ffffff !default;
 
 // Typography
@@ -20,7 +20,7 @@ $bodytype: (
   // font-family: '"Roboto", sans-serif',
   // font-family: '"Nunito", sans-serif',
   // font-family: '"Poppins", sans-serif',
-  font-family: '"Lato", sans-serif', // Jost, Sen and Inter are good too
+  font-family: '"Rubik", sans-serif', // Lato, Jost, Sen and Inter are good too
   regular: 400,
   bold: 600,
   italic: italic,
@@ -29,9 +29,7 @@ $bodytype: (
 
 $headingtype: (
   // font-family: '"Merriweather", serif',
-  // font-family: '"Inconsolata", monospace',
-  // font-family: '"Jost", sans-serif',
-  font-family: '"Sen", sans-serif',
+  font-family: '"Open Sans", sans-serif', // Sen or Poppins
   regular: 400,
   bold: 700,
   cap-height: 0.75
@@ -44,16 +42,20 @@ $monospacetype: (
 ) !default;
 
 // Font import, if you're using a non-standard web font
-//@import url("https://fonts.googleapis.com/css?family=Merriweather:400,700");
+@import url("https://fonts.googleapis.com/css?family=Merriweather:400,700");
 //@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 //@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
 //@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Nunito&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
-//@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-//@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+//@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 //@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Lora&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 //@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+//@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');

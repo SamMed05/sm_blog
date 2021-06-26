@@ -19,7 +19,7 @@ By the way, you can find more information about me on <a href="https://samdev.ne
 
 <br>
 
-## FAQ time!
+FAQ time!
 
 #### What will be written in this blog?
 I really wanted to share and remember to myself the *tons* of interesting passions, discoveries and stories that I experience and possess during my life, but I never had a good place to write them down.

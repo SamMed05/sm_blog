@@ -13,6 +13,7 @@
 .subhead::first-letter {
   initial-letter: 2;
 }
+
 // Setting root sizes and base styles.
 html {
   @include rootsize;
@@ -70,6 +71,12 @@ a {
     text-align: left;
     text-justify: inter-word; //inter-character
     font-feature-settings: 'kern', 'onum', 'liga';
+  }
+
+  @media screen and (max-width: 640px) {
+    p {
+      line-height: 2.5rem;
+    }
   }
 
   // Dots under h4
