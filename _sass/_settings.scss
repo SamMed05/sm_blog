@@ -2,16 +2,17 @@
 $backgroundColour: #ffffff !default; // #ebfaff
 $codeBackgroundColour: #fafafa !default;
 $featureBackgroundColour: #f9fafa !default;
-$accentColour: #0291d9 !default;
+$accentColour: #2ea2f0 !default;
 
 // Text colours
-$headingColour: #031b2b !default;
+$headingColour: #09355e !default; // #031b2b
 $bodyColour: #000000 !default; // #101824
-$linkColour: #0291d9 !default;
-$hoverColour: #0568a6 !default;
+$linkColour: #2a96f5 !default;
+$hoverColour: #087bd4 !default;
 $focusColour: #93d5ed !default;
-$blockquoteColour: #93d5ed !default;
-$captionColour: #8b8e8f !default; // #a8adac
+$blockquoteColour: #bde4ff !default;
+$captionColour: #363636 !default; // #a8adac
+$footerColour: #e8e8e8 !default;
 $white: #ffffff !default;
 
 // Typography
@@ -20,7 +21,7 @@ $bodytype: (
   // font-family: '"Roboto", sans-serif',
   // font-family: '"Nunito", sans-serif',
   // font-family: '"Poppins", sans-serif',
-  font-family: '"Rubik", sans-serif', // Lato, Jost, Sen and Inter are good too
+  font-family: '"Rubik", sans-serif', // Noto Sans, Lato, Jost, Sen, Mulish and Inter are good too
   regular: 400,
   bold: 600,
   italic: italic,
@@ -29,7 +30,7 @@ $bodytype: (
 
 $headingtype: (
   // font-family: '"Merriweather", serif',
-  font-family: '"Open Sans", sans-serif', // Sen or Poppins
+  font-family: '"Open Sans", sans-serif', // Sen, Montserrat and Poppins are good too
   regular: 400,
   bold: 700,
   cap-height: 0.75
@@ -59,3 +60,7 @@ $monospacetype: (
 @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+//@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+//@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');

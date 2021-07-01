@@ -37,7 +37,7 @@ This however must not damage the habit of having an open mentality and being abl
 I think that having common topics to share and discuss is important for a healthy evolution of society, and it helps us to know ourselves more deeply. <br>
 And if sometimes it feels like I'm talking about weird things that don't concern anyone and anything, actually they have to do with our everyday actions: making a choice, planning the future, determining when something is fair or not…
 
-As I recently read [in this blog post](https://billmei.net/blog/why-blog):
+As I recently read in [this blog post](https://billmei.net/blog/why-blog):
 
 > <span class="iconify" data-icon="bx-bxs-quote-alt-left" data-inline="false"></span> The blog format is nice because people expect blogs to function as a kind of public diary, so compared to coffee chats it’s not as awkward to bring up a subject like “what gives your life purpose?” — Bill Mei
 
@@ -68,8 +68,6 @@ Now that I finished making the coding part I can finally just write and publish 
 You can find the source code of this blog (and not only) in <a href="https://github.com/SamMed05" target="_blank">my GitHub account page</a><box-icon name='link-external' size='xs'></box-icon>. <br>
 You can read the question also in another way. In that case it's made with care and ❤, just like the next posts will be, of course!
 
----
-
 ## <span class="iconify" data-icon="bx-bx-bookmark-alt" data-inline="true"></span> Footnotes:
 [^1]: A little curiosity: probably it's a bit different abroad, but here in Italy school is attended in the morning for 5/6 hours and it lasts roughly 200 days, usually starting around 15<sup>th</sup> September and ending on 6<sup>th</sup> June.
-[^2]: The words are the things that matter regardless of design and features. <br> Post by Justin Jackson: [https://justinjackson.ca/words.html](https://justinjackson.ca/words.html). <br> Post by James Clear: [https://jamesclear.com/eliminate](https://jamesclear.com/eliminate).
+[^2]: The words are the things that matter regardless of design and features. <br> Post by Justin Jackson: [Words](https://justinjackson.ca/words.html). <br> Post by James Clear: [The Power of Less](https://jamesclear.com/eliminate).
