@@ -10,7 +10,7 @@ body {
 
 .container {
   width: 90%;
-  max-width: 1100px;
+  max-width: 1050px;
   margin: 0 auto;
 }
 
@@ -65,8 +65,9 @@ ol li {
 ol li:before {
   content: counter(counterVariable) ". ";
   content: counters(counterVariable, '.') ' ';
-  color: $headingColour;
+  color: $linkColour;
   font-weight: bold;
+  text-shadow: 2px 2px 2px $focusColour;
 }
 ol {
   list-style: none;
