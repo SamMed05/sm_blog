@@ -11,12 +11,8 @@ Indeed I like experimenting with pretty much every aspect of developing in gener
 For now I have done work in software, web and videogame development, but I also experiment with fractals (2D and 3D) and sometimes I have fun making logos and drawings.
 Currently I'm not specialized in any of these fields in particular, I'm still finding the best one for me. <br>
 
-My aim is to explore and share reflections, ideas and solutions about life through this blog. <br>
-I will often update the blog when corrections, additions or removals are needed in my posts. <br>
-It's basically where I put things that I couldn't put in other places (or that I don't know better places where to share them), because it would feel strange and out of context. <br>
-Most of the time I will write referring to concepts, topics and ideas that are not mine: after several time doing what I do everyday I get experience and I discover new things, including those of other people and of different fields of knowledge. <br>
-Here, then, I'll explain with my words and keep just what I consider to be the best ones, the most worthy and relevant that I encounter in my life. In this way *you* too can know and live these things without needing as much time as it took me to let them become part of my life.
-
+My aim for this blog are multiple: explore and share reflections, ideas and solutions about life, but also share interesting passions, discoveries and stories that I experience and possess during my living. <br>
+It's basically a public diary where I write my thoughts and other things to keep and preserve but at the same time also show them to someone else so that he can read them too. <br>
 I really like the idea of leaving the mark of my life experience to my posterity and contributing to the evolution of mind and life awareness.
 
 ##### Links that somehow have to do with me:

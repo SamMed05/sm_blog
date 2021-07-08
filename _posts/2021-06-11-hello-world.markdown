@@ -1,7 +1,6 @@
 ---
 title:  "Hello World!"
 date:   2021-06-11 #10:09:24 +0200
-# comments: true
 feature_image: "/sm_blog/assets/images/hello-world-images/hello-world.webp"
 categories: Life-lessons Habits Motivation
 ---
@@ -30,13 +29,13 @@ There will be a lot of exceptions: posts will differ from each other in order to
 I prefer to have the freedom to write about whatever comes into my head instead of precluding myself from exploring and talking about all the topics outside of the main one. <br>
 I don't know yet if it's the best approach, but I'll start in this way for now. Is still too early to talk about these things, so let's go ahead without worrying too much…
 
-
 #### Why (and why should it be read)?
+
 There is more than a why, especially *when* posts will be themed "life". <br>
 In those cases, I want to write down for myself (like in a diary) but also share with you my thoughts, my hobbies, my passions and, in general, my approach with life, my way of thinking and living in the world (respecting the  principles of everyone else, I underline it). <br>
 In other words, I want to mark down and highlight the important things of life. <br>
 Forcing myself to expose my *mental things* out loud ensure the clarity, the honesty and the transparency of my thoughts and strengthens them. <br>
-This however must not damage the habit of having an open mentality and being able to listen to everyone's opinions: and I am aware of it as well as I am open for any discussion and debate. You can get in touch with me via my Twitter account [@MedianiSamuel](https://twitter.com/MedianiSamuel).
+This however must not damage the habit of having an open mentality and being able to listen to everyone's opinions: and I am aware of it as well as I am open for any discussion and debate. You can get in touch with me via my Twitter account [@MedianiSamuel](https://twitter.com/MedianiSamuel). <br>
 I think that having common topics to share and discuss is important for a healthy evolution of society, and it helps us to know ourselves more deeply. <br>
 And if sometimes it feels like I'm talking about weird things that don't concern anyone and anything, actually they have to do with our everyday actions: making a choice, planning the future, determining when something is fair or not… <br>
 I also find it useful to have a blog because here I can put things that I couldn't put in other places (or that I don't know better places where to share them), because it would feel strange and out of context, or simply uncomfortable and limiting, like writing everything on a Twitter thread 😨.
@@ -53,13 +52,16 @@ And beyond these motivations, making a blog for me means also improving my writi
 Speaking of that, I use English mostly because it's the language with which I can reach other people all over the world universally and more easily, so that there are no language barriers.
 
 #### How often will new posts come out?
+
 As I said before, there are long periods where I'm too busy to blogging, but I can safely say that throughout the summer I will be much more active than any other period of the year. <br>
 Anyway, posts will not come out at a regular rate, also because I need topics to talk about and they come as time passes (but lately I'm listing a lot of ideas). <br>
 This activity, as much as many others, requires time end effort to be completed, especially if I'm looking a high quality standard.
 I'm not going to publish new posts until I'm not 100% (ok... maybe 99,97% 😉) sure that they are good. <br>
 There is also another reason to publish posts after some time: there are some arguments for which the personal opinion could change even after a few time during the reflection and writing process, so I want to be sure that I don't say something that does not correspond to my real thoughts.
+Remember that **I will often update posts if and when corrections, additions or removals will be needed** anyway.
 
 #### How it's made this blog?
+
 I'm not assuming that you are a programming enthusiast, so I don't want to go too much into details. <br>
 In general, I'm using Jekyll <span class="iconify" data-icon="cib:jekyll" data-inline="false"></span>, a blog-aware static site generator and Markdown <span class="iconify" data-icon="cib:markdown" data-inline="false"></span> for writing the formatted text.
 I used Alembic theme by David Darnes but I modified it (a lot, it's unrecognizable now 😅) until it suited my tastes. <br>
@@ -71,5 +73,6 @@ You can find the source code of this blog (and not only) in <a href="https://git
 You can read the question also in another way. In that case it's made with care and ❤, just like the next posts will be, of course!
 
 ## <span class="iconify" data-icon="bx-bx-bookmark-alt" data-inline="true"></span> Footnotes:
+
 [^1]: A little curiosity: probably it's a bit different abroad, but here in Italy school is attended in the morning for 5/6 hours and it lasts roughly 200 days, usually starting around 15<sup>th</sup> September and ending on 6<sup>th</sup> June.
 [^2]: The words are the things that matter regardless of design and features. <br> Post by Justin Jackson: [Words](https://justinjackson.ca/words.html). <br> Post by James Clear: [The Power of Less](https://jamesclear.com/eliminate).
