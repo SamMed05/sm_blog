@@ -22,32 +22,35 @@ By the way, you can find more information about me on <a href="https://samdev.ne
 FAQ time!
 
 #### What will be written in this blog?
-I really wanted to share and remember to myself the *tons* of interesting passions, discoveries and stories that I experience and possess during my life, but I never had a good place to write them down.
-Instead of keeping these things just inside me and oppressing this necessity, I finally decided that it was time to take a more extrovert approach and start writing a collection of them in a blog. <br>
-I'm not going to put too technical things and I don't want to use a difficult language. Simple words are also the best. I'd like to write something which is understandable and enjoyable by anyone simply by reading it. Also, I'd like to talk about similar things on my YouTube channel, but here I can tell them in a faster and simpler way for me. <br>
-I don't think you will ever see tutorials in this blog because for that I would prefer using other ways. Anyway I could always change idea, time will tell.
 
-It's basically where I put things that I couldn't put in other places (or that I don't know better places where to share them), because it would feel strange and out of context. <br>
+I really wanted to share and remember to myself the *tons* of interesting **passions**, **discoveries** and **stories** that I experience and possess during my life, but I never had a good place to write them down.
+Instead of keeping these things just inside me and oppressing this necessity, I finally decided that it was time to take a more extrovert approach and start writing a collection of them in a blog. <br>
+I'm not going to put too technical things and I don't want to use a difficult language. *Simple words are also the best ones*. I'd like to write something which is understandable and enjoyable by anyone without being specialized in anything in particular. Also, I'd like to talk about similar things on my YouTube channel, but I'm still planning and here I can tell them in a faster and simpler way. <br>
+There will be a lot of exceptions: posts will differ from each other in order to get closer to my necessities and be more related to my interests like the ones I mentioned earlier. <br>
+I prefer to have the freedom to write about whatever comes into my head instead of precluding myself from exploring and talking about all the topics outside of the main one. <br>
+I don't know yet if it's the best approach, but I'll start in this way for now. Is still too early to talk about these things, so let's go ahead without worrying too much…
+
 
 #### Why (and why should it be read)?
-I just want to write down for myself but also share with other people my thoughts, my hobbies, my passions and, in general, my approach with life, my way of thinking and living in the world (respecting the  principles of everyone else, I underline it). <br>
+There is more than a why, especially *when* posts will be themed "life". <br>
+In those cases, I want to write down for myself (like in a diary) but also share with you my thoughts, my hobbies, my passions and, in general, my approach with life, my way of thinking and living in the world (respecting the  principles of everyone else, I underline it). <br>
 In other words, I want to mark down and highlight the important things of life. <br>
 Forcing myself to expose my *mental things* out loud ensure the clarity, the honesty and the transparency of my thoughts and strengthens them. <br>
-This however must not damage the habit of having an open mentality and being able to listen to everyone's opinions, and I am aware of it.
+This however must not damage the habit of having an open mentality and being able to listen to everyone's opinions: and I am aware of it as well as I am open for any discussion and debate. You can get in touch with me via my Twitter account [@MedianiSamuel](https://twitter.com/MedianiSamuel).
 I think that having common topics to share and discuss is important for a healthy evolution of society, and it helps us to know ourselves more deeply. <br>
-And if sometimes it feels like I'm talking about weird things that don't concern anyone and anything, actually they have to do with our everyday actions: making a choice, planning the future, determining when something is fair or not…
+And if sometimes it feels like I'm talking about weird things that don't concern anyone and anything, actually they have to do with our everyday actions: making a choice, planning the future, determining when something is fair or not… <br>
+I also find it useful to have a blog because here I can put things that I couldn't put in other places (or that I don't know better places where to share them), because it would feel strange and out of context, or simply uncomfortable and limiting, like writing everything on a Twitter thread 😨.
 
 As I recently read in [this blog post](https://billmei.net/blog/why-blog):
 
 > <span class="iconify" data-icon="bx-bxs-quote-alt-left" data-inline="false"></span> The blog format is nice because people expect blogs to function as a kind of public diary, so compared to coffee chats it’s not as awkward to bring up a subject like “what gives your life purpose?” — Bill Mei
 
-And I also relate a lot to [this post](https://jamesclear.com/scale):
+My motivation is really close to the one said [here](https://jamesclear.com/scale):
 > <span class="iconify" data-icon="bx-bxs-quote-alt-left" data-inline="false"></span> I started to see being a writer as a way of being a leader by taking a stand for the things I believed in, sharing my mission, and rallying the people who believed the same things I believed. — James Clear
 
+Lastly, and this also applies to other post types, I want to document my journey and keep track of my progress, because I'm curious to see how things I believe change over time. It would be so cool and peculiar to read the words of me of the past. I'm curious to see… <br>
 And beyond these motivations, making a blog for me means also improving my writing skills, both for English and Italian languages. <br>
 Speaking of that, I use English mostly because it's the language with which I can reach other people all over the world universally and more easily, so that there are no language barriers.
-
-Lastly, I now want to document my journey and keep track of my progress, because I'm curious to see how things I believe change over time. It would be so cool and peculiar to read the words of me of the past. I'm curious to see…
 
 #### How often will new posts come out?
 As I said before, there are long periods where I'm too busy to blogging, but I can safely say that throughout the summer I will be much more active than any other period of the year. <br>
@@ -59,12 +62,11 @@ There is also another reason to publish posts after some time: there are some ar
 #### How it's made this blog?
 I'm not assuming that you are a programming enthusiast, so I don't want to go too much into details. <br>
 In general, I'm using Jekyll <span class="iconify" data-icon="cib:jekyll" data-inline="false"></span>, a blog-aware static site generator and Markdown <span class="iconify" data-icon="cib:markdown" data-inline="false"></span> for writing the formatted text.
-I used Alembic theme by David Darnes but I modified it until it suited my tastes. <br>
+I used Alembic theme by David Darnes but I modified it (a lot, it's unrecognizable now 😅) until it suited my tastes. <br>
 I made this blog in about a week's time, first post included. It seems like a short time but actually I worked many hours on it these days and is was not easy, especially changing the theme, tweaking it's CSS and adding extra features like icons, the top-button ⤒ or the reading time. <br>
-It's not perfect yet, there are a lot of errors, but I will continue to improve it. <br>
-Actually I removed the reading time feature, for example, after reading these two lovely posts[^2] (see footnotes) and changing idea on what matters in a website and what doesn't in conveying a message (because in the end that's my purpose).
-Now that I finished making the coding part I can finally just write and publish posts!
-
+It's not perfect yet, there are a lot of errors, but I will continue to improve it. I keep doing it very often and I'm slowly starting to be truly satisfied by the aspect. <br>
+Actually I added and then removed the reading time feature, for example, and other futile functionalities after reading these two lovely posts[^2] (see footnotes) and changing idea on what matters in a website and what doesn't in conveying a message (because in the end that's my purpose). <br>
+Now that I finished making the coding part I can finally just write and publish posts! <br>
 You can find the source code of this blog (and not only) in <a href="https://github.com/SamMed05" target="_blank">my GitHub account page</a><box-icon name='link-external' size='xs'></box-icon>. <br>
 You can read the question also in another way. In that case it's made with care and ❤, just like the next posts will be, of course!
 
