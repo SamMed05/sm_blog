@@ -9,9 +9,10 @@ In the following post I'm going to introduce this blog and talk a bit about me a
 
 The intention of writing a blog has been in my head for a long time: sometimes I need to pause and meditate and I thought writing was a good way to do it. <br>
 I've never been a procrastinator, but between uncertainty about *when* to write, *what* to write and *what* technologies to use, I always postponed this idea. <br>
-Anyway, my name is Samuel Mediani, I'm mainly passionate about music, programming (as you have probably guessed from the image at the top) and game development and I'm currently a 16 years old student from Italy.
-For about 50% of the days in a year I have (and I need to) go to school[^1] and I can't blog or doing other things because of the fewer time. That's partially why I've never done it before. <br>
-In the afternoon during my free time, excluding time needed for homework and study, I almost never gave priority to this activity of writing, until now. I rather went out with friends, did sport, listened or created music, played the piano, the guitar or the violin, made or played video games, slowly worked on other projects, read some books, etc. I'll continue to do this things, but now that for a few months I have more time I can add also blogging to them! <br>
+Anyway, my name is Samuel Mediani, I'm currently a 16 years old student from Italy and I'm mainly passionate about music, programming (as you have probably guessed from the image at the top), game development and a bunch of other things.
+I go to school for about 50% of the days in a year[^1] and in those moments I can't write or do other things because of the fewer time. That's partially why I haven't created a blog before. <br>
+In the afternoon during my free time, excluding time needed for homework and study, I almost never gave priority to this activity of writing, until now. I rather went out with friends, did sport, listened or created music, played the piano, the guitar or the violin, made or played video games, slowly worked on other projects, read some books, etc. <br>
+I'll continue to do these things, but now that for a few months I have more time I can add also blogging to them! <br>
 By the way, you can find more information about me on <a href="https://samdev.netlify.app" target="_blank">my personal website</a><box-icon name='link-external' size='xs'></box-icon> or in the about page. <br>
 
 *Just to clarify before going forward: I often envy those who are, but unfortunately I'm not native speaker of English, **Italian** is my first language. I apologize if there are writing errors, but I will do my best to avoid them.*
