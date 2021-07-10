@@ -31,7 +31,7 @@ body::-webkit-scrollbar-track {
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: #7b848c;    /* color of the scroll thumb */
+  background-color: #99a3a8;    /* color of the scroll thumb */ //#7b848c
   border-radius: 5px;       /* roundness of the scroll thumb */
   border: 2px solid #ebedf0;  /* creates padding around scroll thumb */
 }
@@ -105,19 +105,33 @@ ol {
 }
 
 .feature {
-  padding-bottom: .4rem;
+  //padding-bottom: .4rem;
   margin-bottom: 1.6rem;
   text-align: center;
-  background: $featureBackgroundColour;
+  //background: $featureBackgroundColour;
   background-size: cover;
   background-position: center;
+  //-webkit-mask-image:-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)));
+  //mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
   .container {
     min-height: 35vh;
     max-width: 60%;
     @include flex-direction(column);
     @include justify-content(center);
   }
-
+}
+.article--post .feature {
+  max-height: 10rem;
+  margin-left: -1em;
+  margin-right: -1em;
+  margin-bottom: 0;
+  border-radius: 5px 5px 0 0;
+  border-style: solid;
+  border-width: thick;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-color: #99a3a8;
 }
 
 /*@media screen and (max-width: 640px) { // break-1
@@ -264,7 +278,7 @@ ol {
     //box-shadow: 5px 10px #a8adac inset;
   }
   .item--post:hover {
-    box-shadow: 0px 0px 18px #a2aeb3;
+    box-shadow: 0px 0px 18px #99a3a8;
     transition: .4s ease;
   }
   .item--post:not(:hover) {
