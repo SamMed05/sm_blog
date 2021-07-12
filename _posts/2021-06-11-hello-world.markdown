@@ -8,7 +8,7 @@ categories: Life-lessons Habits Motivation
 In the following post I'm going to introduce this blog and talk a bit about me and future plans.
 
 The intention of writing a blog has been in my head for a long time: sometimes I need to pause and meditate and I thought writing was a good way to do it. <br>
-I've never been a procrastinator, but between uncertainty about *when* to write, *what* to write and *what* technologies to use, I always postponed this idea. <br>
+Usually I'm not a procrastinator, but between uncertainties about *when* to write, *what* to write and *what* technologies to use, I always postponed this idea. <br>
 Anyway, my name is Samuel Mediani, I'm currently a 16 years old student from Italy and I'm mainly passionate about music, programming (as you have probably guessed from the image at the top), game development and a bunch of other things.
 I go to school for about 50% of the days in a year[^1] and in those moments I can't write or do other things because of the fewer time. That's partially why I haven't created a blog before. <br>
 In the afternoon during my free time, excluding time needed for homework and study, I almost never gave priority to this activity of writing, until now. I rather went out with friends, did sport, listened or created music, played the piano, the guitar or the violin, made or played video games, slowly worked on other projects, read some books, etc. <br>
@@ -25,7 +25,7 @@ FAQ time!
 
 I really wanted to share and remember to myself the *tons* of interesting **passions**, **discoveries** and **stories** that I experience and possess during my life, but I never had a good place to write them down.
 Instead of keeping these things just inside me and oppressing this necessity, I finally decided that it was time to take a more extrovert approach and start writing a collection of them in a blog. <br>
-I'm not going to put too technical things and I don't want to use a difficult language. *Simple words are also the best ones*. I'd like to write something which is understandable and enjoyable by anyone without being specialized in anything in particular. Also, I'd like to talk about similar things on my YouTube channel, but I'm still planning and here I can tell them in a faster and simpler way. <br>
+I'm not going to put too technical things and I don't want to use a difficult language. Simple words are always the best ones too. I'd like to write something which is understandable and enjoyable by anyone without being specialized in anything in particular. Also, I'd like to talk about similar things on my YouTube channel, but I'm still planning and here I can tell them in a faster and simpler way. <br>
 There will be a lot of exceptions: posts will differ from each other in order to get closer to my necessities and be more related to my interests like the ones I mentioned earlier. <br>
 I prefer to have the freedom to write about whatever comes into my head instead of precluding myself from exploring and talking about all the topics outside of the main one. <br>
 I don't know yet if it's the best approach, but I'll start in this way for now. Is still too early to talk about these things, so let's go ahead without worrying too much…

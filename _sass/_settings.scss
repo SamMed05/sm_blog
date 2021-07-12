@@ -2,17 +2,17 @@
 $backgroundColour: #ffffff !default; // #ebfaff
 $codeBackgroundColour: #fafafa !default;
 $featureBackgroundColour: #f9fafa !default;
-$accentColour: #2696ff !default;
+$accentColour: #309eff !default;
 
 // Text colours
 $headingColour: #032040 !default; // #031b2b
 $bodyColour: #000000 !default; // #101824
-$linkColour: #2696ff !default;
+$linkColour: #309eff !default;
 $hoverColour: #0b84db !default;
 $focusColour: #bde4ff !default;
 $blockquoteColour: #bde4ff !default;
-$captionColour: #2d343d !default; // #a8adac
-$footerColour: #e8e8e8 !default;
+$captionColour: #2d343d !default;
+$footerColour: #9ea8ad !default;
 $white: #ffffff !default;
 
 // Typography
@@ -21,7 +21,7 @@ $bodytype: (
   // font-family: '"Roboto", sans-serif',
   // font-family: '"Nunito", sans-serif',
   // font-family: '"Poppins", sans-serif',
-  font-family: '"Barlow", sans-serif', // Rubik, Noto Sans, Lato, Jost, Sen, Mulish and Inter are good too
+  font-family: '"Lato", sans-serif', // Rubik, Noto Sans, Jost, Sen, Mulish and Inter are good too
   regular: 400,
   bold: 600,
   italic: italic,
@@ -30,7 +30,7 @@ $bodytype: (
 
 $headingtype: (
   // font-family: '"Merriweather", serif',
-  font-family: '"Open Sans", sans-serif', // Sen, Montserrat and Poppins are good too
+  font-family: '"Poppins", sans-serif', // Open Sans, Sen and Montserrat are good too
   regular: 400,
   bold: 700,
   cap-height: 0.75

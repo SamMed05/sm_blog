@@ -67,11 +67,27 @@ ol li:before {
   content: counters(counterVariable, '.') ' ';
   color: $linkColour;
   font-weight: bold;
-  text-shadow: 2px 2px 2px $focusColour;
+  text-shadow: 1px 1px 3px $focusColour;
 }
 ol {
   list-style: none;
   counter-reset: counterVariable;
+}
+
+// From https://www.cyanilux.com/ (.node {...})
+.highlight-box {
+	display: inline-block;
+	line-height: 100%;
+	color: $white;
+	background-color: $linkColour;
+	padding-top : 3px;
+	padding-bottom : 3px;
+	padding-left : 7px;
+	padding-right : 7px;
+	margin : 0px;
+	border: 2px solid $hoverColour;
+	border-radius : 10px;
+  box-shadow: 0 0 4px $footerColour;
 }
 
 // Header, feature and footer
@@ -143,6 +159,7 @@ ol {
   }
 }*/
 
+// Logo and animation
 .logo {
   display: inline-block;
   line-height: 0;
@@ -152,6 +169,28 @@ ol {
   img {
     max-height: 5rem;
   }
+}
+
+.blogImage {
+  position: absolute;
+  right: 3.9rem;
+  top: 0.8rem;
+  width: 3rem;
+  height: auto;
+  animation: shake-animation 8s ease-in infinite;
+  -webkit-filter: drop-shadow(0px 0px 4px #fff);
+  filter: drop-shadow(0px 0px 4px #fff);
+}
+
+@keyframes shake-animation {
+  0% { transform:translate(0,0) }
+  1.78571% { transform:translate(5px,0) }
+  3.57143% { transform:translate(0,0) }
+  5.35714% { transform:translate(5px,0) }
+  7.14286% { transform:translate(0,0) }
+  8.92857% { transform:translate(5px,0) }
+  10.71429% { transform:translate(0,0) }
+  100% { transform:translate(0,0) }
 }
 
 .nav {
@@ -165,7 +204,7 @@ ol {
 }
 
 .small {
-  padding-top: .8rem;
+  // padding-top: .2rem;
   color: $captionColour;
   display: inline-block;
 }

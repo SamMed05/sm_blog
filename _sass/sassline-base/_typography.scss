@@ -60,7 +60,6 @@ a {
     text-justify: inter-word; //inter-character
     font-feature-settings: 'kern', 'onum', 'liga';
   }
-
   @media screen and (max-width: 640px) {
     p {
       line-height: 2.3rem;
@@ -88,12 +87,12 @@ a {
     font-style: normal;
     font-weight: map-get($headingtype, bold);
     text-align: left;
-    padding-bottom: 0.6rem;
+    padding-bottom: 0.3rem;
   }
 
   // Heading level 1.
   h1, .alpha {
-    @include sassline($fontsize: alpha, $font: $headingtype, $lineheight: 4, $below: 1, $breakpoint: all);
+    @include sassline($fontsize: alpha, $font: $headingtype, $lineheight: 3.5, $below: 1, $breakpoint: all);
   }
 
   // Heading level 2.
@@ -265,7 +264,7 @@ a {
 
   // Caption and inline small text.
   small, .caption {
-    @include fontsize(theta, all);
+    @include fontsize(eta, all); // theta
 
     font-family: unquote(map-get($headingtype, font-family));
     font-style: normal;

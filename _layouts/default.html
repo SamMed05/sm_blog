@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 
+{% include head.html %}
+
   <head>
     <!-- General meta -->
     <meta charset="utf-8">
@@ -31,7 +33,7 @@
       <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
     {% endif %}
 
-    {% if site.favicons or site.avatarurl %}{% include site-favicons.html %}{% endif %}
+    <!-- {% if site.favicons or site.avatarurl %}{% include site-favicons.html %}{% endif %} -->
 
     {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
 
@@ -39,7 +41,8 @@
   </head>
 
   <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
-    <!-- {% include site-icons.svg %} -->
+
+    {% include site-logo.html %}
 
     {{ content }}
 
@@ -47,7 +50,6 @@
 
     {% include site-before-end.html %}
     {% include topButton.html %}
-    {% include head.html %}
   </body>
 
 </html>
