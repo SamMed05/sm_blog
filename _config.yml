@@ -26,7 +26,7 @@ lang_direction: "ltr"
 color: "#032040"
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcom to my blog, feel free to explore the website.
+  Welcome to my blog, feel free to explore the website.
   I'm Samuel Mediani and here you'll find posts about my life, my thoughts and my hobbies.
 
 
