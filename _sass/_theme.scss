@@ -150,6 +150,16 @@ ol {
   border-color: #99a3a8;
 }
 
+.item--post a {
+  text-decoration: none !important;
+  text-decoration-line: none;
+  color: $headingColour;
+  border-bottom: none;
+  background-image: none;
+  padding: 0;
+  margin: 0;
+}
+
 /*@media screen and (max-width: 640px) { // break-1
   .feature {
     // display: none;
@@ -215,8 +225,11 @@ ol {
   a {
     color: $footerColour; // $captionColour
     font-weight: bold;
+    background-image: none;
+    border-bottom: none;
     &:hover {
       color: $backgroundColour;
+      border-bottom: none;
     }
   }
   .container {
@@ -530,6 +543,7 @@ label {
 code {
   padding: .12rem .2rem;
   color: $headingColour;
+  border-radius: 5px;
 }
 
 pre code {

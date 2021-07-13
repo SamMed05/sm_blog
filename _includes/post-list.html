@@ -22,7 +22,7 @@
         <li class="item  item--post">
           <article class="article  article--post">
 
-            {% include site-feature.html %}
+            <a href="{{ site.baseurl }}{{ page.url }}" style="content: ""; display: inline;">{% include site-feature.html %}</a>
 
             <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
             {% include post-meta.html %}

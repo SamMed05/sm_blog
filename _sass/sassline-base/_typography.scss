@@ -19,23 +19,43 @@ body {
   line-height: 2rem;
 }
 
-// Links.
+// Links
 a {
   color: $linkColour;
-  text-decoration: none;
   transition: color .1s, background-color .1s;
-
-  &:hover, &:active, &:focus {
-    color: $hoverColour;
-    text-decoration: none;
-  }
+  text-decoration: none;
 }
 
 // Styles for typeset text.
 .typeset {
+  a {
+    color: $linkColour;
+    transition: color .1s, background-color .1s;
+
+    &:hover, &:active, &:focus {
+      color: $hoverColour;
+    }
+  }
+
+  a {
+    background-image: -webkit-gradient(linear, left top, left bottom, from($focusColour), to($focusColour));
+    background-image: linear-gradient(to right, $focusColour 0%, $focusColour 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 0;
+    background-position: 0 111%;
+    -webkit-transition: background-size .25s ease;
+    transition: background-size .25s ease;
+    padding: 2px 2px 0 0;
+    border-bottom: 2px solid $linkColour;
+    &:hover {
+      background-size: 100% 92%;
+      cursor: pointer;
+      border-bottom: 2px solid $hoverColour;
+    }
+  }
 
   // Nice underlines for text links.
-  p a, li a {
+  /*p a, li a {
     background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,$linkColour 50%);
     background-position: 0 93%;
     background-repeat: repeat-x;
@@ -48,7 +68,7 @@ a {
     &:hover, &:active, &:focus {
       background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,$hoverColour 50%);
     }
-  }
+  }*/
 
   // Paragraphs. OpenType ligatures and oldstyle figures enabled if available.
   p {
@@ -357,7 +377,7 @@ a {
   }
 
   code {
-    @include fontsize(theta, all);
+    @include fontsize(eta, all); //theta
 
     line-height: 1rem;
   }
