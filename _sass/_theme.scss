@@ -36,6 +36,58 @@ body::-webkit-scrollbar-thumb {
   border: 2px solid #ebedf0;  /* creates padding around scroll thumb */
 }
 
+// Tooltip
+.tooltip {
+  position: relative;
+  display: inline-block;
+  //border-bottom: 1px dotted black;
+  font-weight: bold;
+  color: #e33b24;
+}
+
+.tooltip code {
+  background: none;
+  @include fontsize(zeta, all);
+  font-family: unquote(map-get($monospacetype, font-family)); // or $headingtype
+  color: #e33b24;
+  padding-left: 1px;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 290px;
+  background-color: $footerColour; //$focusColour
+  color: #fff;
+  text-align: center;
+  border-radius: 5px;
+  padding: 5px 1rem 5px 1rem;
+  position: absolute;
+  z-index: 1;
+  bottom: 110%;
+  left: 50%;
+  margin-left: -145px;
+  opacity: 0;
+  transition: opacity 0.3s;
+  @include fontsize(eta, all);
+  font-weight: 400;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: $footerColour transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
 // Accordion
 details {
     //border: 0px solid #000000;
