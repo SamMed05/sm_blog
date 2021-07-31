@@ -1,6 +1,10 @@
 ---
 title:  "How I made Experience musical video cover"
+<<<<<<< HEAD
 date:   2021-07-31
+=======
+date:   2021-07-30
+>>>>>>> 96cc1e714c32412ac80c5edfc572088ed88b8f0d
 feature_image: "/sm_blog/assets/images/experience-cover-images/experience-youtube-thumbnail.jpg"
 categories: Music Projects
 site-aside: true
