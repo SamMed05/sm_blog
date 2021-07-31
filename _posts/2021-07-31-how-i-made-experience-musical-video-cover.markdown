@@ -54,7 +54,7 @@ So, three month ago I decided to start making this project.
 - A easel
 - Various softwares (more afterwards)
 
-So, as you can see, I adapted to what I had and I gave my best to get the best results possible… Of course the **sound quality**, the **technique** and **playing of the instruments is not even remotely comparable** to the original registration.
+So, as you can see, I adapted to what I had and I gave my best to get the best results possible… Of course the **sound quality**, the **technique** and the **playing of the instruments is not even remotely comparable** to the original registration. <br>
 As can be seen in the list above I don't have a professional equipment, unfortunately so the sound may be somewhat poor quality. I’m just me and the instruments, I can’t do better in a reasonable amount of time…
 
 ### The process:
@@ -62,14 +62,14 @@ I started by listening carefully and doing a breakdown of all the instruments. <
 
 As I said before, I already knew the piano notes for this song for some time, they are very easy. <br>
 The tempo for this song (the album version) is between 92 and 93 bpm, so I used <b class="highlight-box">92.5 bpm</b>. <br>
-This song has two main (very similar) versions, but they differ for duration, tempo and instruments. Since in one is used the harp and in the other is used the guitar, and I don’t have an harp, I chose the latter, then realizing that its part was quite difficult to play at that tempo (but doable).
+This song has two main (very similar) versions, but they differ for duration, tempo and instruments. Since in one is used the harp and in the other is used the guitar, and I don’t have an harp, I chose the latter, then realizing that its part was quite difficult (but doable) to play at that tempo.
 
 The **violin** part was very difficult for me because **I started practicing that instrument just a few months ago, in April, as a complete beginner**. <br>
-I was fortunate because my fingers were already a bit trained thanks to having played the piano and guitar for some years, but violin is still very different. <br>
+I was fortunate because my fingers were already a bit trained thanks to having played piano and guitar for some years, but violin is still very different. <br>
 If you are a musician too, I’m sure you noticed that I don’t always keep the bow correctly and straight, some notes are out of tune and several other errors in my performance. I’m aware of it and I apologize but I'm still at the beginning of my learning journey with violin.
 
 The next part to learn was the tambourine, but since I don’t have it, I used a djembe (a typical African drum) with my left hand pressed on it as a "mute" to imitate the tambourine sound. <br>
-The technique used to hit it is particular and took me a few days to learn it. Please excuse again any error, I am clearly a novice drum player.
+The technique used to hit it is particular and took me a few days to learn it. Again, excuse any error please, I am clearly a novice drum player.
 
 > <span class="iconify" data-icon="icon-park-outline:thinking-problem"></span> A curiosity: this hitting technique is also used in the "pizzica salentina", a Salento type of tarantella, a dance technique practiced particularly in southern Italy.
 
@@ -88,10 +88,10 @@ In post-production I used:
 - FL Studio to make the cello parts
 - OBS Studio to record the screen
 - OpenShot to cut, mix and synchronize all the video clips together
-- Subtitle Edit (to add subtitles in rythm)
+- Subtitle Edit (to add subtitles in rhythm)
 
 ![openshot clips](/sm_blog/assets/images/experience-cover-images/openshot-clips.jpg)
-<span class="caption">This is just the violin part in the OpenShot project timeline.</span>
+<span class="caption">This is the violin part in the OpenShot project timeline.</span>
 
 It was very difficult to synch every single clip, indeed I encountered many problems, but in the end I managed to fix everything and it was (almost) all  parts in the right tempo. <br>
 Merging multiple videos at the same time has both **overloaded my PC** and **created audio clipping**; despite these sufferings, fortunately I was able to complete my job (some audio clipping is still there, but before it was much worse!).
