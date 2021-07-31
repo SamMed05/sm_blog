@@ -284,7 +284,7 @@ a {
 
   // Caption and inline small text.
   small, .caption {
-    @include fontsize(eta, all); // theta
+    @include fontsize(theta, all); // theta
 
     font-family: unquote(map-get($headingtype, font-family));
     font-style: normal;

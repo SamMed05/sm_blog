@@ -6,6 +6,8 @@ body {
   display: flex;
   @include flex-direction(column);
   overflow-x: hidden;
+  //-webkit-filter: grayscale(100%);
+  //filter: grayscale(100%);
 }
 
 .container {
@@ -43,6 +45,8 @@ body::-webkit-scrollbar-thumb {
   //border-bottom: 1px dotted black;
   font-weight: bold;
   color: #e33b24;
+  cursor: pointer;
+  user-select: none;
 }
 
 .tooltip code {
@@ -55,21 +59,23 @@ body::-webkit-scrollbar-thumb {
 
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 290px;
+  width: 300px;
   background-color: $footerColour; //$focusColour
   color: #fff;
   text-align: center;
   border-radius: 5px;
-  padding: 5px 1rem 5px 1rem;
+  padding: 7px 1rem 7px 1rem;
   position: absolute;
   z-index: 1;
   bottom: 110%;
   left: 50%;
-  margin-left: -145px;
+  margin-left: -151px;
   opacity: 0;
-  transition: opacity 0.3s;
+  transition: opacity 0.4s;
   @include fontsize(eta, all);
   font-weight: 400;
+  line-height: 1.3rem;
+  box-shadow: 0px 0px 30px white;
 }
 
 .tooltip .tooltiptext::after {
@@ -86,6 +92,29 @@ body::-webkit-scrollbar-thumb {
 .tooltip:hover .tooltiptext {
   visibility: visible;
   opacity: 1;
+}
+.tooltip:not(:hover) .tooltiptext {
+  transition: 0.4s;
+}
+
+// Video (from https://stackoverflow.com/questions/15844500/shrink-a-youtube-video-to-responsive-width)
+.videowrapper {
+    float: none;
+    clear: both;
+    width: 100%;
+    position: relative;
+    padding-bottom: 56.25%;
+    //padding-top: 25px;
+    height: 0;
+    margin-bottom: 1.3rem;
+}
+.videowrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
 }
 
 // Accordion
@@ -119,28 +148,64 @@ ol li:before {
   content: counters(counterVariable, '.') ' ';
   color: $linkColour;
   font-weight: bold;
-  text-shadow: 1px 1px 3px $focusColour;
+  //text-shadow: 1px 1px 3px $focusColour;
 }
 ol {
   list-style: none;
   counter-reset: counterVariable;
+}
+// From https://www.w3schools.com/howto/howto_css_bullet_color.asp
+ul {
+  list-style: none; /* Remove default bullets */
+}
+
+ul li::before {
+  content: url('../assets/images/svg-list-arrow.svg');  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  //color: $linkColour; /* Change the color */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1.8rem; /* Also needed for space (tweak if needed) */
+  margin-left: -1.8rem; /* Also needed for space (tweak if needed) */
+  text-shadow: 1px 1px 3px $focusColour;
 }
 
 // From https://www.cyanilux.com/ (.node {...})
 .highlight-box {
 	display: inline-block;
 	line-height: 100%;
-	color: $white;
-	background-color: $linkColour;
-	padding-top : 3px;
-	padding-bottom : 3px;
-	padding-left : 7px;
-	padding-right : 7px;
+	//color: $white;
+	background-color: $focusColour; //$focusColour or $linkColour
+	padding-top : 2px;
+	padding-bottom : 2px;
+	padding-left : 5px;
+	padding-right : 5px;
 	margin : 0px;
-	border: 2px solid $hoverColour;
-	border-radius : 10px;
-  box-shadow: 0 0 4px $footerColour;
+	border: 2px solid $linkColour; //$headingColour or $hoverColour
+	border-radius : 5px;
+  //box-shadow: 0 0 4px $footerColour;
+  font-weight: normal !important;
 }
+
+// Hit counter
+.hitCounter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  user-select: none;
+  pointer-events: none;
+  border: none !important;
+  background-image: none !important;
+  font-weight: bold;
+  img {
+    background-color: $captionColour;
+  }
+}
+
+
+
+
+
+
 
 // Header, feature and footer
 .header,
@@ -373,21 +438,33 @@ ol {
   .item--category {
     margin-left: 0;
     margin-bottom: 1.5em;
+    //margin-top: 1rem;
     padding-left: 1em;
     padding-right: 1em;
-    padding-bottom: 0.1em;
+    padding-bottom: 0.01em;
     border-radius: 5px;
-    background-color: #f7f9fa;
+    background-color: #edf2f5;
     box-shadow: 0px 3px $hoverColour, 0px 6px $linkColour, 0px 9px $focusColour;
     //box-shadow: 5px 10px #a8adac inset;
   }
   .item--post:hover {
-    box-shadow: 0px 0px 18px #99a3a8;
+    box-shadow: 0px 5px 15px #a0a9ad;
     transition: .4s ease;
+    transform: translateY(-4px);
   }
   .item--post:not(:hover) {
     box-shadow: 0px 3px $hoverColour, 0px 6px $linkColour, 0px 9px $focusColour;
     transition: .3s ease;
+  }
+  h4 {
+    padding-top: 1.5rem;
+  }
+  ul {
+    list-style: none; /* Remove default bullets */
+  }
+
+  li::before {
+    content: none; //remove arrow
   }
 }
 
@@ -430,6 +507,16 @@ a .icon {
 img {
   max-width: 100%;
   height: auto;
+  image-rendering: auto; //pixelated
+}
+img:hover {
+  transform: scale(1.4);
+  transition: .3s ease;
+  transition-delay: .8s;
+  //box-shadow: 0px 0px 20px #a0a9ad;
+}
+img:not(:hover) {
+  transition: .3s ease;
 }
 
 .figure {
