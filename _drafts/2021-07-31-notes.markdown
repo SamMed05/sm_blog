@@ -1,0 +1,93 @@
+---
+title:  "Notes"
+date:   2021-07-31
+---
+
+Description.
+
+*Text with reference*[^1]
+
+## Link
+
+[link](https://twitter.com/MedianiSamuel)
+
+### <span class="iconify" data-icon="bx:bxs-video"></span> Video
+
+## Ordered list
+
+1.	a
+2.	b
+3.	c
+
+## Unordered list
+
+- a
+- b
+- c
+
+## Checklists
+
+<input type="checkbox" checked disabled="disabled">
+<label>First item</label>
+<br>
+<input type="checkbox" checked disabled="disabled">
+<label>Second item</label>
+<br>
+<input type="checkbox" disabled="disabled">
+<label>Third item</label>
+<br>
+
+### With Markdown (not working properly):
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+
+
+## Citation
+
+> This is a citation.
+
+## Notifications boxes
+
+{: .box-note}
+**Note:** This is a notification box.
+
+{: .box-warning}
+**Warning:** This is a warning box.
+
+{: .box-error}
+**Error:** This is an error box.
+
+{: .box-success}
+**Error:** This is an success box.
+
+## Code
+
+```js
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+```
+### With line numbers:
+
+{% highlight javascript linenos %}
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+{% endhighlight %}
+
+## Tooltip
+
+Some text<span class="tooltip">`*`<span class="tooltiptext">some tooltip text</span></span>
+
+## Image and captions
+
+![openshot clips](/sm_blog/assets/images/hello-world-images/hello-world.webp)
+<span class="caption">*This is the caption.*</span>
+
+## <span class="iconify" data-icon="bx-bx-bookmark-alt" data-inline="true"></span> Footnotes:
+
+[^1]: Reference 1.

@@ -59,7 +59,7 @@ body::-webkit-scrollbar-thumb {
 
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 300px;
+  width: 25vw; //300px
   background-color: $footerColour; //$focusColour
   color: #fff;
   text-align: center;
@@ -69,7 +69,8 @@ body::-webkit-scrollbar-thumb {
   z-index: 1;
   bottom: 110%;
   left: 50%;
-  margin-left: -151px;
+  //margin-left: -151px;
+  margin-left: -12.6vw;
   opacity: 0;
   transition: opacity 0.4s;
   @include fontsize(eta, all);
@@ -168,6 +169,69 @@ ul li::before {
   text-shadow: 1px 1px 3px $focusColour;
 }
 
+
+// .task-list {
+//
+// }
+// .task-list * ul li::before {
+//
+// }
+// .checkbox input {
+//
+// }
+// .task-list-item-checkbox {
+//
+// }
+
+// From https://stackoverflow.com/questions/1120879/css-checkbox-input-styling/21440551
+input[type=checkbox] {
+      position: relative;
+      margin-right: 1.2rem;
+      //cursor: pointer;
+      //vertical-align: middle;
+
+      @include breakpoint(break-1) {
+        margin-left: -2rem;
+      }
+    }
+    input[type=checkbox]:before {
+         content: "";
+         border-radius: 5px;
+         display: inline-block;
+         position: absolute;
+         width: 20px;
+         height: 20px;
+         top: -3px;
+         left: 0px;
+         background-color:#e9e9e9;
+}
+input[type=checkbox]:checked:before {
+         content: "";
+         // display: block;
+         // position: absolute;
+         // width: 20px;
+         // height: 20px;
+         // top: 0;
+         // left: 0;
+         background-color: $linkColour;
+}
+    input[type=checkbox]:checked:after {
+         content: "";
+         display: block;
+         width: 5px;
+         height: 10px;
+         border: solid white;
+         border-width: 0 2px 2px 0;
+         -webkit-transform: rotate(45deg);
+         -ms-transform: rotate(45deg);
+         transform: rotate(45deg);
+         position: absolute;
+         // top: 2px;
+         top: 0;
+         left: 6px;
+}
+
+
 // From https://www.cyanilux.com/ (.node {...})
 .highlight-box {
 	display: inline-block;
@@ -201,8 +265,69 @@ ul li::before {
   }
 }
 
+// Notification boxes (from https://github.com/daattali/beautiful-jekyll/blob/master/assets/css/beautifuljekyll.css)
+.box-note,
+.box-warning,
+.box-error,
+.box-success {
+  padding: 0.9375rem 0.9375rem 0.7rem; //0.9375rem 0.9375rem 0.9375rem 0.625rem
+  margin: 1.25rem 0 1.20rem; //1.25rem 1.25rem 1.25rem 0.3125rem
+  border: 1px solid #eee;
+  border-left-width: 0.3125rem;
+  border-radius: 5px;
+  p {
+    border-left: 0.20rem solid $linkColour;
+    font-style: map-get($bodytype, italic);
+    padding-left: 1rem;
 
+    // Add spacing below blockquote paragraphs to align to baseline grid.
+    $get-scale: map-get($modular-scale, scale-0);
+    $get-size: map-get($get-scale, zeta);
+    $rootsize: nth($sizes, 1);
+    $baseline-shift: #{($get-size / 2 * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001};
+    $baseline-push: #{3 - (($get-size * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001)};
 
+    margin-bottom: #{$baseline-push}rem;
+    padding-bottom: #{$baseline-shift}rem;
+
+    @for $i from 2 through $breakpoints-limit {
+      $get-scale: map-get($modular-scale, scale-#{$i - 1});
+      $get-size: map-get($get-scale, zeta);
+      $rootsize: nth($sizes, $i);
+      $baseline-shift: #{($get-size / 2 * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001};
+      $baseline-push: #{3 - (($get-size * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001)};
+
+      @media screen and (min-width: nth($points, $i) / 16 * 1em ) {
+        margin-bottom: #{$baseline-push}rem;
+        padding-bottom: #{$baseline-shift}rem;
+      }
+    }
+  }
+
+  @include breakpoint(break-1) {
+    margin-left: -1rem;
+  }
+}
+
+.box-note {
+  background-color: #eee;
+  border-left-color: $hoverColour; //#2980b9
+}
+
+.box-warning {
+  background-color: #fdf5d4;
+  border-left-color: #f1c40f;
+}
+
+.box-error {
+  background-color: #f4dddb;
+  border-left-color: #c0392b;
+}
+
+.box-success {
+  background-color: #c4ffc4;
+  border-left-color: #3CB371;
+}
 
 
 
@@ -517,6 +642,16 @@ img:hover {
 }
 img:not(:hover) {
   transition: .3s ease;
+}
+
+.small-img {
+  display: inline;
+  vertical-align: middle;
+  width: 1rem;
+  height: auto;
+  user-select: none;
+  pointer-events: none;
+  image-rendering: auto;
 }
 
 .figure {

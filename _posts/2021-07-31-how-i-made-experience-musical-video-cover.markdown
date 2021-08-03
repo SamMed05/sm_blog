@@ -3,7 +3,6 @@ title:  "How I made Experience musical video cover"
 date:   2021-07-31
 feature_image: "/sm_blog/assets/images/experience-cover-images/experience-youtube-thumbnail.jpg"
 categories: Music Projects
-site-aside: true
 ---
 
 In this post I'm going to explain the process behind the cover video I posted on July 18<sup>th</sup> of the song Experience by Ludovico Einaudi.
@@ -55,7 +54,8 @@ So, three month ago I decided to start making this project.
 - Various softwares (more afterwards)
 
 So, as you can see, I adapted to what I had and I gave my best to get the best results possible… Of course the **sound quality**, the **technique** and the **playing of the instruments is not even remotely comparable** to the original registration. <br>
-As can be seen in the list above I don't have a professional equipment, unfortunately so the sound may be somewhat poor quality. I’m just me and the instruments, I can’t do better in a reasonable amount of time…
+As can be seen in the list above I don't have a professional equipment, unfortunately, so the sound quality is quite poor. <br>
+I’m just me and the instruments, I can’t do better in a reasonable amount of time…
 
 ### The process:
 I started by listening carefully and doing a breakdown of all the instruments. <br>
@@ -68,10 +68,11 @@ The **violin** part was very difficult for me because **I started practicing tha
 I was fortunate because my fingers were already a bit trained thanks to having played piano and guitar for some years, but violin is still very different. <br>
 If you are a musician too, I’m sure you noticed that I don’t always keep the bow correctly and straight, some notes are out of tune and several other errors in my performance. I’m aware of it and I apologize but I'm still at the beginning of my learning journey with violin.
 
-The next part to learn was the tambourine, but since I don’t have it, I used a djembe (a typical African drum) with my left hand pressed on it as a "mute" to imitate the tambourine sound. <br>
+The next part to learn was the tambourine, but since I don’t have it, I used a djembe (a typical African drum) with my left hand pressed on it as a "mute" to imitate the *real* tambourine sound. <br>
 The technique used to hit it is particular and took me a few days to learn it. Again, excuse any error please, I am clearly a novice drum player.
 
-> <span class="iconify" data-icon="icon-park-outline:thinking-problem"></span> A curiosity: this hitting technique is also used in the "pizzica salentina", a Salento type of tarantella, a dance technique practiced particularly in southern Italy.
+{: .box-note}
+<span class="iconify" data-icon="icon-park-outline:thinking-problem"></span> A curiosity: this hitting technique is also used in the "pizzica salentina", a Salento type of tarantella, a dance technique practiced particularly in southern Italy.
 
 Finally, I used the free Sonatina Cello sample library and FL Studio to add digitally the sound of the cello because I don’t have it too. To do this, I listened to the song and tried to guess by ear the right notes. <br>
 I think I they are exactly like the original, but I could be wrong. Furthermore, sometimes I intentionally changed a bit the notes for some instruments for practical reasons.
@@ -79,16 +80,16 @@ I think I they are exactly like the original, but I could be wrong. Furthermore,
 The overall time it took to make my cover was about 3 months, even if the planning had already started a bit before.
 
 ![openshot clips](/sm_blog/assets/images/experience-cover-images/time-taken.png)
-<span class="caption">An approximate value of the time spent on each part of the develompment process. As you can see, both editing the video and learning/practincing took the longest time.</span>
+<span class="caption">An approximate value of the time spent on each part of the develompment process. As you can see, both editing the video and learning/practincing took the greater amount of time.</span>
 
 ### The softwares:
 
 In post-production I used:
-- Audacity (for cutting/editing the audio recordings)
-- FL Studio to make the cello parts
-- OBS Studio to record the screen
-- OpenShot to cut, mix and synchronize all the video clips together
-- Subtitle Edit (to add subtitles in rhythm)
+- Audacity <img class="small-img" src="/sm_blog/assets/images/experience-cover-images/audacity-logo.png" alt="FL Studio logo" /> to cut/edit the audio recordings,
+- FL Studio <img class="small-img" src="/sm_blog/assets/images/experience-cover-images/fl-studio-logo.png" alt="FL Studio logo" /> to make the cello parts,
+- OBS Studio <img class="small-img" src="/sm_blog/assets/images/experience-cover-images/obs-studio-logo.png" alt="OBS Studio logo" /> to record the screen,
+- OpenShot <img class="small-img" src="/sm_blog/assets/images/experience-cover-images/openshot-logo.png" alt="OBS Studio logo" /> to cut, mix and synchronize all the video clips together,
+- Subtitle Edit <img class="small-img" src="/sm_blog/assets/images/experience-cover-images/subtitle-edit-logo.png" alt="OBS Studio logo" /> to add subtitles in rhythm.
 
 ![openshot clips](/sm_blog/assets/images/experience-cover-images/openshot-clips.jpg)
 <span class="caption">This is the violin part in the OpenShot project timeline.</span>
@@ -106,7 +107,7 @@ Also sizes changed drastically (I would never have thought so much), after cutti
 I need to thank a lot Bigcat Instruments for its free digital musical instruments, including the cello sound that I used. You can download it and other instruments in the links below[^1].
 
 I think that this video would be very useful for practicing, and I would be really happy if my video would help with that! <br>
-For that reason I added subtitles with Subtitle Edit in order to display which instruments and when they join with the others in the song. I don't know how useful it can be, but it doesn't hurt. 🙂 <br>
+For that reason I added subtitles <span class="iconify" data-icon="ic:baseline-subtitles"></span> with Subtitle Edit in order to display which instruments and when they join with the others in the song. I don't know if it can be useful, but certainly doesn't hurt. 🙂 <br>
 Moreover, I started to learn and practice violin especially to play this song!
 
 I need to say it: it was an incredible Experience! Thanks for reading.
