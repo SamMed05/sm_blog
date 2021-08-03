@@ -360,6 +360,9 @@ a {
     padding-top: 2rem;
   }
 
+
+
+
   // Code block.
   code, pre {
     background-color: $codeBackgroundColour;
@@ -380,7 +383,7 @@ a {
     @include fontsize(eta, all); //theta
 
     line-height: 1rem;
-  }
+}
 
   // Letter space those capitals people, Jan Tschichold would be proud.
   .upper {
@@ -388,6 +391,80 @@ a {
     letter-spacing: 0.1rem;
     text-transform: uppercase;
   }
+
+// From https://github.com/daattali/beautiful-jekyll/blob/master/assets/css/beautifuljekyll.css
+  pre code {
+    padding: 0;
+    background-color: transparent;
+    border-radius: 0;
+  }
+
+  pre {
+    font-size: 0.875rem;
+    line-height: 1.5em;
+    border-radius: 5px; //0.25rem
+    padding: 0.59375rem 0.59375rem 0.59375rem 1rem;
+  }
+  .highlight pre {
+    border: none;
+    background: none;
+    margin: 0;
+    overflow: auto;
+  }
+  .highlight > pre {
+    background-image: linear-gradient(
+      rgba(0,0,0,0.03), rgba(0,0,0,0.03) 1.5em, rgba(0,0,0,0.02) 1.5em, rgba(0,0,0,0.02) 3em);
+    background-size: auto 3em;
+    background-position-y: 0.625rem;
+    border: 1px solid rgba(0,0,0,0.1);
+    //border-left: 0.4375rem solid #444;
+    border-left: 0.3125rem solid $captionColour; //border-left-width
+
+    @include breakpoint(break-1) {
+      margin-left: -1rem;
+    }
+  }
+  .highlight > pre:not([class~="highlight"]) { /* code block with line number */
+    padding: 0;
+    overflow: auto;
+  }
+
+  .highlight table,
+  .highlight tr,
+  .highlight td { /* to be removed after fixing table styles */
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+  }
+  .highlight pre.lineno {
+    color: rgba(0,0,0,0.3);
+    border-radius: 0;
+    border-right: 2px solid #444;
+
+  }
+  /* Make line numbers unselectable: excludes line numbers from copy-paste user ops */
+  .lineno {
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+  }
+  .lineno::selection, .lineno::-moz-selection {
+    background: none;
+  }
+
+  /* Fix table border github gist snippets */
+
+  .gist, .gist-file table tr {
+    border: unset;
+  }
+
+  .gist, .gist-file table tr td {
+    border: unset;
+  }
+
+
 
   // Real small caps.
   .small-caps {
@@ -405,4 +482,17 @@ a {
   .oldstyle-numerals {
     font-feature-settings: 'onum', 'kern';
   }
+}
+
+.footnotes .reversefootnote {
+  display: inline-block;
+  position: absolute;
+  background-color: $focusColour;
+  color: $headingColour;
+  border: none;
+  border-radius: 10px;
+  width: 2.2rem;
+  text-align: center;
+  box-sizing: content-box;
+  //font-weight: bold;
 }
