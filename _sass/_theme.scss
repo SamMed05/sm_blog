@@ -55,6 +55,7 @@ body::-webkit-scrollbar-thumb {
   font-family: unquote(map-get($monospacetype, font-family)); // or $headingtype
   color: #e33b24;
   padding-left: 1px;
+  border: none;
 }
 
 .tooltip .tooltiptext {
@@ -294,7 +295,7 @@ input[type=checkbox]:checked:before {
 .box-success {
   padding: 0.9375rem 0.9375rem 0.7rem; //0.9375rem 0.9375rem 0.9375rem 0.625rem
   margin: 1.25rem 0 1.20rem; //1.25rem 1.25rem 1.25rem 0.3125rem
-  border: 1px solid #eee;
+  border: 0px solid transparent; //1px solid #eee;
   border-left-width: 0.3125rem;
   border-radius: 5px;
   p {
@@ -332,7 +333,7 @@ input[type=checkbox]:checked:before {
 }
 
 .box-note {
-  background-color: #eee;
+  background-color: #edf2f5;
   border-left-color: $hoverColour; //#2980b9
 }
 
@@ -347,7 +348,7 @@ input[type=checkbox]:checked:before {
 }
 
 .box-success {
-  background-color: #c4ffc4;
+  background-color: #c9ffc9;
   border-left-color: #3CB371;
 }
 
@@ -838,8 +839,9 @@ label {
 
 code {
   padding: .12rem .2rem;
-  color: $headingColour;
+  color: #333333; //$headingColour
   border-radius: 5px;
+  border: 1px solid #cccccc;
 }
 
 pre code {
