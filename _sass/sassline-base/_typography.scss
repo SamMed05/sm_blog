@@ -484,15 +484,31 @@ a {
   }
 }
 
+// .footnote {
+//   background-color: $focusColour;
+//   border-radius: 10px;
+// }
 .footnotes .reversefootnote {
   display: inline-block;
-  position: absolute;
-  background-color: $focusColour;
+  position: relative;
   color: $headingColour;
   border: none;
+}
+.reversefootnote::before {
+  content: "";
+  position: absolute;
+  width: 25px;
+  height: 20px;
+  top: 8px;
+  left: -3px;
+  background-color: $focusColour;
   border-radius: 10px;
-  width: 2.2rem;
-  text-align: center;
-  box-sizing: content-box;
-  //font-weight: bold;
+  z-index: -1;
+}
+.reversefootnote:hover {
+    width: 25px;
+    height: 20px;
+    border-radius: 10px;
+    border-bottom: none !important;
+    background: none !important;
 }

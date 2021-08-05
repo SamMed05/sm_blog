@@ -98,6 +98,23 @@ body::-webkit-scrollbar-thumb {
   transition: 0.4s;
 }
 
+@media screen and (max-width: 640px) {
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 150px;
+    text-align: center;
+    //bottom: 110%;
+    left: 0;
+    //margin-left: -151px;
+    margin-left: -20vw;
+  }
+
+  .tooltip .tooltiptext::after {
+    display: none;
+  }
+}
+
+
 // Video (from https://stackoverflow.com/questions/15844500/shrink-a-youtube-video-to-responsive-width)
 .videowrapper {
     float: none;
@@ -229,6 +246,11 @@ input[type=checkbox]:checked:before {
          // top: 2px;
          top: 0;
          left: 6px;
+}
+.site-nav {
+  input[type=checkbox] {
+    display: none;
+  }
 }
 
 
