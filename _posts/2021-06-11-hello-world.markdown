@@ -70,10 +70,10 @@ I made this blog in about a week's time, first post included. It seems like a sh
 It's not perfect yet, there are a lot of errors, but I will continue to improve it. I keep doing it very often and I'm slowly starting to be truly satisfied by the aspect. <br>
 Actually I added and then removed the reading time feature, for example, and other futile functionalities after reading these two lovely posts[^2] (see footnotes) and changing idea on what matters in a website and what doesn't in conveying a message (because in the end that's my purpose). <br>
 Now that I finished making the coding part I can finally just write and publish posts! <br>
-You can find the source code of this blog (and not only) in <a href="https://github.com/SamMed05" target="_blank">my GitHub account page</a><box-icon name='link-external' size='xs'></box-icon>. <br>
+You can find the source code of this blog (and not only) in <a href="https://github.com/SamMed05" target="_blank">my GitHub account page</a>. <br>
 You can read the question also in another way. In that case it's made with care and ❤, just like the next posts will be, of course!
 
-## <span class="iconify" data-icon="bx-bx-bookmark-alt" data-inline="true"></span> Footnotes:
+## <span class="material-icons">speaker_notes</span> Footnotes:
 
 [^1]: A little curiosity: probably it's a bit different abroad, but here in Italy school is attended in the morning for 5/6 hours and it lasts roughly 200 days, usually starting around 15<sup>th</sup> September and ending on 6<sup>th</sup> June.
 [^2]: The words are the things that matter regardless of design and features. <br> Post by Justin Jackson: [Words](https://justinjackson.ca/words.html). <br> Post by James Clear: [The Power of Less](https://jamesclear.com/eliminate).

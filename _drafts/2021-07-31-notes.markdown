@@ -11,7 +11,7 @@ Description.
 
 [link](https://twitter.com/MedianiSamuel)
 
-### <span class="iconify" data-icon="bx:bxs-video"></span> Video
+### <span class="iconify" data-icon="bx:bxs-video"></span> or <span class="material-icons">videocam</span> (Material icon) Video
 
 ## Ordered list
 
@@ -88,6 +88,6 @@ Some text<span class="tooltip">`*`<span class="tooltiptext">some tooltip text</s
 ![openshot clips](/sm_blog/assets/images/hello-world-images/hello-world.webp)
 <span class="caption">*This is the caption.*</span>
 
-## <span class="iconify" data-icon="bx-bx-bookmark-alt" data-inline="true"></span> Footnotes:
+## <span class="iconify" data-icon="bx-bx-bookmark-alt" data-inline="true"></span> Footnotes or <span class="material-icons">speaker_notes</span> Footnotes (Material icon):
 
 [^1]: Reference 1.

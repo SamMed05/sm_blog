@@ -14,10 +14,10 @@ Now, over time my musical tastes have evolved to the point of abandoning that qu
 I'm not saying they should not be there, I just wasn’t ready to listen to them yet. <br>
 But now I have completely understood why every instrument is there and the perfect harmony it creates with the others. I am finally ready to fully and correctly respect, value, appreciate and admire this song.
 
-### <span class="iconify" data-icon="bx:bxs-video"></span> Original video:
+### <span class="material-icons">videocam</span> Original video:
 <div class="videowrapper"><iframe src="https://www.youtube.com/embed/2MHsDNV9lgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-### <span class="iconify" data-icon="bx:bxs-video"></span> Live video:
+### <span class="material-icons">videocam</span> Live video:
 <div class="videowrapper"><iframe src="https://www.youtube.com/embed/hN_q-_nGv4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 #### The inspiration:
@@ -30,7 +30,7 @@ Listening to it made the desire to feel the emotions of playing every instrument
 
 So, three month ago I decided to start making this project.
 
-### <span class="iconify" data-icon="bx:bxs-video"></span> My video:
+### <span class="material-icons">videocam</span> My video:
 <div class="videowrapper"><iframe src="https://www.youtube.com/embed/o_0z_PiUxOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 *Before proceeding, while you are watching the video if you haven't already seen it, I would like to do some clarifications:*
@@ -112,6 +112,6 @@ Moreover, I started to learn and practice violin especially to play this song!
 
 I need to say it: it was an incredible Experience! Thanks for reading.
 
-## <span class="iconify" data-icon="bx-bx-bookmark-alt" data-inline="true"></span> Footnotes:
+## <span class="material-icons">speaker_notes</span> Footnotes:
 
 [^1]: Bigcat Instruments and other free plugins: <br> [Plugins4Free Bigcat plugins (and other)](https://plugins4free.com/dev/514/) <br> [Sonatina Cello](https://plugins4free.com/plugin/2299/) by [Mattias Westlund](https://mattiaswestlund.net/) <br> [Bigcat Intruments' blog](http://bigcatinstruments.blogspot.com/) <br> [New website](https://freedigitalinstruments.wordpress.com/)
