@@ -25,13 +25,11 @@ body {
 
 // Custom scrollbar
 body::-webkit-scrollbar {
-  width: 12px;               /* width of the entire scrollbar */
+  width: 13px;               /* width of the entire scrollbar */
 }
-
 body::-webkit-scrollbar-track {
   background: #ebedf0;        /* color of the tracking area */
 }
-
 body::-webkit-scrollbar-thumb {
   background-color: #99a3a8;    /* color of the scroll thumb */ //#7b848c
   border-radius: 5px;       /* roundness of the scroll thumb */
@@ -257,19 +255,21 @@ input[type=checkbox]:checked:before {
 
 // From https://www.cyanilux.com/ (.node {...})
 .highlight-box {
+  color: $backgroundColour;
 	display: inline-block;
 	line-height: 100%;
 	//color: $white;
-	background-color: $focusColour; //$focusColour or $linkColour
+	background-color: $headingColour; //$focusColour or $linkColour
 	padding-top : 2px;
 	padding-bottom : 2px;
 	padding-left : 5px;
 	padding-right : 5px;
 	margin : 0px;
-	border: 2px solid $linkColour; //$headingColour or $hoverColour
+	//border: 2px $linkColour; //$headingColour or $hoverColour
 	border-radius : 5px;
   //box-shadow: 0 0 4px $footerColour;
   font-weight: normal !important;
+  box-shadow: 0 0 6px #888888;
 }
 
 // Hit counter
@@ -504,7 +504,7 @@ input[type=checkbox]:checked:before {
 }
 
 .footer {
-  background: $headingColour;
+  background: $captionColour; //$headingColour
   color: $footerColour; // $captionColour
   a {
     color: $footerColour; // $captionColour

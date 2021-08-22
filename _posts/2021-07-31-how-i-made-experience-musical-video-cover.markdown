@@ -24,7 +24,7 @@ But now I have completely understood why every instrument is there and the perfe
 
 There are many reasons that made me want to do this:
 1.	Firstly, I love this song so much, it’s probably my favourite ever (even if it’s difficult to express absolute preferences when it comes to music).
-2.	Secondly, sounds like I’m crazy but I’m not 😂, when I was listening to it I was imagining how nice it would have been to see **multiple copies of myself playing every part of every instrument together in synch** in a kind of split-screen video, like I saw in the past in other similar videos and some moments in the Einaudi's live video. This song was perfect for it because instruments join one after the other (sometimes more than one) in progression.
+2.	Secondly, when I was listening to it I was imagining how nice it would have been to see **multiple copies of myself playing every part of every instrument together in synch** in a kind of split-screen video, like I saw in the past in other similar videos and some moments in the Einaudi's live video. This song was perfect for it because instruments join one after the other (sometimes more than one) in progression.
 3.	Lastly, the more I was listening to Experience, the more I was realizing that it wasn't impossible to make, considering also that I already knew how to play the piano and guitar part and so the idea started to seem more and more viable.
 Listening to it made the desire to feel the emotions of playing every instrument to grow in me even more.
 
@@ -94,8 +94,7 @@ In post-production I used:
 ![openshot clips](/sm_blog/assets/images/experience-cover-images/openshot-clips.jpg)
 <span class="caption">This is the violin part in the OpenShot project timeline.</span>
 
-It was very difficult to synch every single clip, indeed I encountered many problems, but in the end I managed to fix everything and it was (almost) all  parts in the right tempo. <br>
-Merging multiple videos at the same time has both **overloaded my PC** and **created audio clipping**; despite these sufferings, fortunately I was able to complete my job (some audio clipping is still there, but before it was much worse!).
+Trying to synch every single clip all together with the right tempo made me clash with many problems: merging multiple videos at the same time has both **overloaded my PC** and **created audio clipping**; despite these sufferings, fortunately in the end I was able to complete my job and fix (almost) everything (some audio clipping and bad synchronization is still there in some parts, but before it was much worse!).
 
 Also sizes changed drastically (I would never have thought so much), after cutting and deleting the wrong/bad  recordings:
 
