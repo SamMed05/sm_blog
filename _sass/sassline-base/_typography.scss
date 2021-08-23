@@ -75,13 +75,13 @@ a {
     @include baseline($fontsize: zeta, $font: $bodytype, $lineheight: 1.9, $below: 2, $breakpoint: all);
     // Justify paragraphs content
     // text-align: justify;
-    line-height: 1.8rem;
+    line-height: 1.7rem;
     text-align: left;
     text-justify: inter-word; //inter-character
     font-feature-settings: 'kern', 'onum', 'liga';
   }
   li {
-    line-height: 1.8rem;
+    line-height: 1.7rem;
   }
   @media screen and (max-width: 640px) {
     p, li {
@@ -151,6 +151,8 @@ a {
       font-feature-settings: 'kern', 'onum', 'liga';
       margin-left: 2rem;
 
+      margin-bottom: .4rem;
+
       @include breakpoint(break-1) {
         margin-left: 0;
       }
@@ -173,10 +175,14 @@ a {
       &:before {
         content: counter(top-level) '.';
         font-feature-settings: 'lnum', 'tnum';
-        margin-left: -3rem;
+        //margin-left: -3rem;
+        margin-left: -3.5rem;
         position: absolute;
         text-align: right;
         width: 2em;
+        @include breakpoint(break-1) {
+          margin-left: -3rem;
+        }
       }
 
       ul {
@@ -316,10 +322,11 @@ a {
   // Quotes.
   blockquote {
     // background-color: $blockquoteColour;
-    background-image: linear-gradient(to right, $blockquoteColour , white);
+    background-image: linear-gradient(to right, #edf2f5, white); //$blockquoteColour
     p {
-      border-left: 0.20rem solid $linkColour;
-      font-style: map-get($bodytype, italic);
+      color: $captionColour;
+      border-left: 0.25rem solid $captionColour; //$linkColour //0.20rem
+      //font-style: map-get($bodytype, italic);
       padding-left: 1rem;
 
       // Add spacing below blockquote paragraphs to align to baseline grid.
@@ -400,6 +407,7 @@ a {
     padding: 0;
     background-color: transparent;
     border-radius: 0;
+    border: none;
   }
 
   pre {
@@ -421,7 +429,7 @@ a {
     background-position-y: 0.625rem;
     border: 1px solid rgba(0,0,0,0.1);
     //border-left: 0.4375rem solid #444;
-    border-left: 0.3125rem solid $captionColour; //border-left-width
+    border-left: 0.25rem solid $captionColour; //border-left-width //0.3125rem
 
     @include breakpoint(break-1) {
       margin-left: -1rem;

@@ -10,7 +10,7 @@ In this post I'm going to explain the process behind the cover video I posted on
 I don’t remember exactly when I discovered Experience. <br>
 I do remember, though, that I didn’t liked it particularly when I listened to it for the first times. <br>
 Sure, it was beautiful, but initially it didn’t give me the sensations I was used to with other Ludovico Einaudi songs. And that’s probably the reason why I wasn’t so interested on this song for the first few listenings: until then I preferred to hear only the pure and calm sound of the piano without any other instrument "interfering"<span class="tooltip">`*`<span class="tooltiptext">Well, actually other instruments don't *interfere* with piano, but before I still didn't like hearing the sounds of other instruments on top of it.</span></span>. <br>
-Now, over time my musical tastes have evolved to the point of abandoning that quite limiting idea for my musical choices; however, at that time the **guitar**, the solo **violin**, the **cellos** and (especially) the **tambourine** were still difficult for my ear to *digest*. <br>
+Now, over time my musical tastes have evolved to the point of abandoning that quite limiting idea for my musical choices; however, at that time the **guitar**, the solo **violin**, the **cellos** and (especially) the **tambourine** were still difficult for my ear to *digest* (pun intended 😁). <br>
 I'm not saying they should not be there, I just wasn’t ready to listen to them yet. <br>
 But now I have completely understood why every instrument is there and the perfect harmony it creates with the others. I am finally ready to fully and correctly respect, value, appreciate and admire this song.
 
@@ -72,7 +72,7 @@ The next part to learn was the tambourine, but since I don’t have it, I used a
 The technique used to hit it is particular and took me a few days to learn it. Again, excuse any error please, I am clearly a novice drum player.
 
 {: .box-note}
-<span class="iconify" data-icon="icon-park-outline:thinking-problem"></span> A curiosity: this hitting technique is also used in the "pizzica salentina", a Salento type of tarantella, a dance technique practiced particularly in southern Italy.
+<span class="material-icons-outlined">quiz</span> A curiosity: this hitting technique is also used in the "pizzica salentina", a Salento type of tarantella, a dance technique practiced particularly in southern Italy.
 
 Finally, I used the free Sonatina Cello sample library and FL Studio to add digitally the sound of the cello because I don’t have it too. To do this, I listened to the song and tried to guess by ear the right notes. <br>
 I think I they are exactly like the original, but I could be wrong. Furthermore, sometimes I intentionally changed a bit the notes for some instruments for practical reasons.
@@ -106,7 +106,7 @@ Also sizes changed drastically (I would never have thought so much), after cutti
 I need to thank a lot Bigcat Instruments for its free digital musical instruments, including the cello sound that I used. You can download it and other instruments in the links below[^1].
 
 I think that this video would be very useful for practicing, and I would be really happy if my video would help with that! <br>
-For that reason I added subtitles <span class="iconify" data-icon="ic:baseline-subtitles"></span> with Subtitle Edit in order to display which instruments and when they join with the others in the song. I don't know if it can be useful, but certainly doesn't hurt. 🙂 <br>
+For that reason I added subtitles <span class="iconify" data-icon="ic:baseline-subtitles"></span> with Subtitle Edit in order to display which instruments and when they join with the others in the song. I don't know if it can be useful, but certainly it doesn't hurt. 🙂 <br>
 Moreover, I started to learn and practice violin especially to play this song!
 
 I need to say it: it was an incredible Experience! Thanks for reading.

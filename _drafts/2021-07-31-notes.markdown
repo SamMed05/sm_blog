@@ -51,16 +51,16 @@ Description.
 ## Notifications boxes
 
 {: .box-note}
-**Note:** This is a notification box.
+<span class="material-icons-outlined">info</span> **Note:** This is a notification box.
 
 {: .box-warning}
-**Warning:** This is a warning box.
+<span class="material-icons-outlined">report_problem</span> **Warning:** This is a warning box.
 
 {: .box-error}
-**Error:** This is an error box.
+<span class="material-icons-outlined">dangerous</span> **Error:** This is an error box.
 
 {: .box-success}
-**Error:** This is an success box.
+<span class="material-icons-outlined">check_circle</span> **Success:** This is an success box.
 
 ## Code
 
