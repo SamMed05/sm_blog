@@ -41,7 +41,7 @@ I insist a lot on this point not because I want to brag about it, I don't care a
 
 I decided that being a programmer was what I wanted for my future, and I immediately started to learn how to become it.
 
-YouTube was my main source of knowledge and I'm still using it a lot, especially because it's very rich in Computer science/ICT related educational content. It's a really (I mean, really!) good place for learning, and even if it's not the best tool for that, at least it's completely free and you can absorb new knowledge anytime/anywhere you want.
+YouTube was my main source of knowledge and I'm still using it a lot, especially because it turned out to be very rich in Computer science/ICT related educational content. It's a really (I mean, *really*!) great place for learning, and even if it's not the best tool for that, at least it's completely free and you can absorb new knowledge anytime/anywhere you want.
 
 Navigating on the Internet turned out to be another very useful way to collect knowledge, too.
 
@@ -71,7 +71,7 @@ That how every teacher feels when he teaches students, but everything is overtur
 
 ### The debate
 
-Just today an interesting discussion arose in the classroom among my classmates about ***what to do in our future***.
+Just today an interesting and very constructive discussion arose in the classroom among my classmates about ***what to do in our future***.
 
 Among us, young programmers, there were those who had confused ideas, those who fantasized about becoming inexplicably millionaires, those who wanted to be freelancers and those who aimed to create websites, programs, apps or videogames.
 
@@ -88,7 +88,7 @@ And equally interesting questions arose, such as:
 
 That's why I wrote this post. Those questions got me thinking: they represent what unexperienced students want to know while they are learning something of which they do not really know the usefulness.
 
-They also demonstrate that, even if they know how to make a little program in C++, they actually know absolutely **nothing** about how life as a normal developer works outside of the school setting. No idea, because simply they have never been.
+They also demonstrate that, even if they know how to make a little program in C++, they actually know absolutely **nothing** about how life as a normal developer/programmer works outside of the school setting. No idea, simply because **they have never been**.
 
 But I think that at school it's not important just to *learn* a thing, but also the **context** around it, *how* it's used, *where* it's used and the general application of that knowledge in the life of a developer, who uses creativity to give birth to his works and not only simple rules.
 
@@ -97,3 +97,11 @@ Instead of perpetually jumping between theory and simple exercises only, it's pr
 If the ultimate goal of school, talking about my field of study (Information Technology), is to "*churn out*" good, well formed programmers, then this is not the best way to educate us.
 
 Luckily it is still early to draw conclusions: there are still two years to go!
+
+### Final thoughts
+
+Before leaving, there's something important I missed to mention: after doing that discussion with my classmates, we compared ourselves to each other and this brought out a great desire to act and to do something, more than I've ever seen before, I think. It convinced many people to ***stop doing nothing*** and ***start making something***.
+
+For me this is a really big achievement: changing people's mindset and attitude to act for the future, instead of just doing nothing every afternoon (or whenever we have useful free time to use) makes me really pleased.
+
+Most likely this little "revolution" led to just ephemeral (yet strong and decisive) intentions for having active attitudes. Intentions that will probably remain in their heads for just a day or two and then fly away. But at least my story has been able to change someone's mind in the right way, hopefully not just for a while but for all of their future! 😄
