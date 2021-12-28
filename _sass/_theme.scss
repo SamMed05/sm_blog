@@ -709,7 +709,10 @@ a .icon {
 img {
   max-width: 100%;
   height: auto;
-  image-rendering: auto; //pixelated
+  image-rendering: auto; // pixelated
+  display: block;
+  margin-left: auto; // center
+  margin-right: auto; // center
 }
 img:hover {
   transform: scale(1.4);

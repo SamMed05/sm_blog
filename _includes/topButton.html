@@ -1,4 +1,8 @@
-<button  class="no-print" onclick="topFunction()" id="topBtn" title="Go to top"><span class="material-icons-outlined">keyboard_double_arrow_up</span></button>
+<button  class="no-print" onclick="topFunction()" id="topBtn" title="Go to top">
+  <span class="material-icons-outlined">
+    north
+  </span>
+</button>
 
 <style media="screen">
   #topBtn {
@@ -11,10 +15,11 @@
   outline: none; /* Remove outline */
   color: white; /* Text color */
   cursor: pointer; /* Add a mouse pointer on hover */
-  padding: 8px; /* Some padding */
+  padding: 7px; /* Some padding */
   border-radius: 50%; /* Rounded corners */
-  font-size: 1.8rem; /* Increase font size */
+  font-size: 1.7rem; /* Increase font size */
   font-weight: bold;
+  will-change: transform; /* https://www.joshwcomeau.com/animation/css-transitions/#hardware-acceleration */
 }
 
 #topBtn:hover {
