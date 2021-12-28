@@ -40,9 +40,30 @@ github_username:  SamMed05
 # theme: minima
 # theme: jekyll-theme-clean-blog
 theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic@main
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
+
+#paginate: 2
+#paginate_path: "/sm_blog/page:num/"
+
+# Site navigation https://github.com/daviddarnes/alembic/blob/main/_config.yml
+#navigation_header:
+#- title: Home
+#  url: /
+#- title: Elements
+#  url: /elements/
+#- title: Blog
+#  url: /blog/
+#- title: Categories
+#  url: /categories/
+#- title: Search
+#  url: /search/
+#- title: Fork Alembic
+#  url: https://github.com/daviddarnes/alembic
 
 defaults:
   -

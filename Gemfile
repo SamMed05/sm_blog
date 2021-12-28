@@ -13,6 +13,9 @@ gem "jekyll", "~> 4.2.0"
 #  gem 'jekyll-theme-clean-blog', '~> 4.0', '>= 4.0.12'
 
 gem "alembic-jekyll-theme"
+gem "jekyll-remote-theme"
+
+#gem "jekyll-paginate"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
