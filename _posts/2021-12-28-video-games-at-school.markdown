@@ -117,7 +117,7 @@ See the [official website](https://www.flightsimulator.com/) for more info.
 Kerbal Space Program is a famous rocket simulator. On this perspective, it seems not to be applicable to ordinary lessons, but actually the physic modelled in this game is so useful that both NASA and the European Space Agency officially endorse it[^1], and some schools even use this game in order to help teach [math and physics](https://youtu.be/GC1jZ3qIVdQ) and even [rocket science](https://youtu.be/ogC6ds81gek).
 
 ![xkcd - Orbital Mechanics](/sm_blog/assets/images/video-games-at-school-images/orbital-mechanics-xkcd.jpg)
-<span class="caption">Orbital Mechanics - xkcd. Source: <a href="https://xkcd.com/1356/">xkcd.com/1356/</a></span>
+<span class="caption">Orbital Mechanics - xkcd. Source: xkcd.com/1356/</span>
 
 The developers at Teachergaming LLC also launched *KerbalEdu*, an educationally-enhanced standalone version of this space agency game (developed by Squad) which integrates features that are exclusive to the classroom. Read [this article](https://www.pcgamer.com/kerbaledu-launches-to-bring-kerbal-space-program-to-more-classrooms/) by PC Gamer for more info. Unfortunately the project is now dead and I cannot ensure that KerbalEdu can still be downloaded and used.
 
@@ -272,7 +272,7 @@ It's also difficult to keep under control the students and their unpredictable b
 This table illustrates well some of the controversies about game-based learning:
 
 ![Pros and cons of game based learning](/sm_blog/assets/images/video-games-at-school-images/debating-game-based-learning.svg)
-<span class="caption">Debating Game-Based Learning, Pros 🆚 Cons. Source: <a href="https://www.weareteachers.com/debating-game-based-learning-2/">WeAreTeachers</a></span>
+<span class="caption">Debating Game-Based Learning, Pros 🆚 Cons. Source: WeAreTeachers</span>
 
 
 <hr>
