@@ -40,12 +40,12 @@ github_username:  SamMed05
 # theme: minima
 # theme: jekyll-theme-clean-blog
 theme: alembic-jekyll-theme
-remote_theme: daviddarnes/alembic@main
+#remote_theme: daviddarnes/alembic@main
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
 
 #paginate: 2
 #paginate_path: "/sm_blog/page:num/"
