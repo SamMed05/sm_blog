@@ -5,7 +5,7 @@ feature_image: "/sm_blog/assets/images/how-does-it-feels-like-to-be-ahead-images
 categories: School Life-lessons
 ---
 
-In this blog I'll discuss about my thoughts about a situation I recently found myself in.
+In this post I'll discuss about my thoughts about a situation I recently found myself in.
 
 *Three months has passed since my last post. Lately I've been busy with school and other projects so that's the reason for such a long period of inactivity. I can't promise a regular publication frequency for my new posts, so come back here often to check in order not to miss anything! 😊*
 
