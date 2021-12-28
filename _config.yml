@@ -39,7 +39,9 @@ github_username:  SamMed05
 # Build settings
 # theme: minima
 # theme: jekyll-theme-clean-blog
-theme: alembic-jekyll-theme
+
+#theme: alembic-jekyll-theme
+
 #remote_theme: daviddarnes/alembic@main
 
 plugins:
