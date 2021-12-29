@@ -175,7 +175,7 @@ I have to say, though, that this game feels a bit incomplete and in an early sta
 - [Quantum Moves 2](https://www.scienceathome.org/games/quantum-moves-2/) and [A Slower Speed of Light](http://gamelab.mit.edu/games/a-slower-speed-of-light/) are also a good way to learn physics (respectively **quantum physics** and **special relativity**).
 - Serious Games Interactive is a company that makes, well… serious games! The most interesting is probably [Newt & Byte – Climate Adventures](https://www.seriousgames.net/en/portfolio/climatescience/), "a climate science educational programme that teaches children the science behind climate change". To use it, though, we still need to wait: the games is currently being tested in schools in Denmark, Austria and Australia and it's not publicly available.
 - The great people at Common Sense Education made also a top-40 list of educational games (some of the already mentioned here) that you can check [here](https://www.commonsense.org/education/top-picks/best-summer-learning-games).
-- On GitHub there's a curated list of online educational games and interactive experiences called [Awesome Educational Games](https://github.com/yrgo/awesome-educational-games) where people all over the world can always contribute adding new links.
+- On GitHub there's a curated list of online educational games and interactive experiences called [Awesome Educational Games](https://github.com/yrgo/awesome-educational-games) where people all over the world can always contribute adding new links. On GitHub there's also another science-based games public list at this [link](https://github.com/stared/science-based-games-list).
 - If you have other suggestions of educational video games you can reach out to me on [Twitter](https://twitter.com/MedianiSamuel)! 🤗
 
 ##### Games and STEM disciplines:
@@ -214,7 +214,7 @@ Also, teachers and the whole school system are not prepared for video games, so 
 
 *WeAreTeachers* conducted a survey of 309 K–12 classroom teachers from public, private and religious schools across the country (USA) and published an [article](https://www.weareteachers.com/what-do-teachers-think-of-game-based-learning-2/) about it.
 
-As commented by a Classroom Aid in a [post](https://classroomaid.wordpress.com/2012/12/09/what-k-12-teachers-think-about-game-based-learning/):
+As commented by Classroom Aid in a [post](https://classroomaid.wordpress.com/2012/12/09/what-k-12-teachers-think-about-game-based-learning/):
 
 > "[the survey] shows more technologies and helps are needed for game-based learning to be broadly implemented into classrooms. […] There are still gaps waiting to be bridged, for examples, building learning games more closely tied to education goals, or helping teachers to design learning activities with game-like mechanism for their lesson goals."
 
@@ -263,9 +263,9 @@ I think that a bit of fun is present even in the most boring game, and furthermo
 
 ### Pros and Cons
 
-Learning games, like everything, have **pros** and **cons**.
+Learning games, like everything, have **pros** but also **cons**.
 
-Perhaps one of the biggest is the inability for teachers to have a clear cut way of including video games into the rigid school curriculum. They could stumble upon difficulties when trying to merge traditional learning with game-based one, and also in finding topics connected both to games and theory lessons.
+Perhaps one of the biggest cons is the inability for teachers to have a clear cut way of including video games into the rigid school curriculum. They could stumble upon difficulties when trying to merge traditional learning with game-based one, and also in finding topics connected both to games and theory lessons.
 
 It's also difficult to keep under control the students and their unpredictable behaviour when games are involved. Since teachers and students have different visions of video games, in the end it can happen that they don't become educational at all. "Simply referencing or bringing games into a classroom does not a relevant lesson make"[^10].
 
