@@ -1,0 +1,113 @@
+---
+title:  "Plans for 2022"
+date:   2021-12-31
+feature_image: "/sm_blog/assets/images/plans-for-2022-images/feature-image.jpg"
+categories: School Gaming
+---
+
+A post about my achievements of this year, 2021, and the goals to achieve in the next one.
+
+2021 has been a great year for Italy. Aside the aftermath of the pandemic and forthcoming waves of COVID-19 infections, we were able to taste a bit of *normality* again and achieved great goals, especially in sport. To cite the most important, we won the Football World Cup against England and reached a new record in the number of Olympic medals: 40 in total, while before the Italian historical record had been obtained with 36 medals in Los Angeles in 1932 and in Rome in 1960. Really a long time!
+
+Besides sports, the Måneskin band won the Eurovision Song Contest monopolizing the global rankings, Italy was crowned as the "country of the year" by the English newspaper [The Economist](https://www.economist.com/leaders/2021/12/18/which-is-the-economists-country-of-the-year-for-2021), "*not for the prowess of its footballers, who won Europe's big trophy, nor its pop star, who won the Eurovision song contest, but for its politics*" and the italian physicist Giorgio Parisi won the noble prize for physics together with Syukuro Manabe and Klaus Hasselmann "*for groundbreaking contributions to our understanding of complex physical systems*".
+
+Anyway, forgive me this burst of nationalism 😅. From a personal perspective, I've also achieved some goals this year, so now I want to talk about what I have and what I haven't done to keep track of my life progress, as well as making a review of 2021.
+
+## This year
+
+Last year, for the first time, I decided to make a **list of goals, purposes and intentions for the following year**, promising to do this again to the recurrence of each new year.
+
+I published the last list on Twitter as a thread:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">2020 was certainly a bad year, but I have done some things that I&#39;d like to recap in the image below ⬇️.<br>Unfortunately it&#39;s not a lot because I have been busy for the most time with homework and study for school (I&#39;m 15...). <br>This year, though, I&#39;d like to DO and LEARN even more! <a href="https://t.co/XIm4LE3hF0">pic.twitter.com/XIm4LE3hF0</a></p>&mdash; Samuel Mediani (@MedianiSamuel) <a href="https://twitter.com/MedianiSamuel/status/1345285918844968960?ref_src=twsrc%5Etfw">January 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+To see what I actually achieved, I've checked the list like below with <span style="color: #52d631; font-weight: bold;" >green</span> tick marks and <span style="color: red; font-weight: bold;" >red</span> lines:
+
+![2021 plans](/sm_blog/assets/images/plans-for-2022-images/2021-plans.png)
+<span class="caption">The complete 2021 list. Success rate: 8/18 (44.4%)</span>
+
+As you can see, I haven't achieved the majority of points, but I want to explain to myself the  reason why I've done so and how much this is relevant/affects my overall progress.
+
+### <span class="material-icons-outlined">cancel</span> What I haven't done
+
+#### Python projects:
+I listed this goal because in 2019 I attended a very nice course on Python and coding (in presence, not online) to put myself ahead and because I was interested in this language. I already knew some basics of programming but this course really gave me strong foundations, from *variables* and *constructs* to even *file management*, *GUI applications* and *OOP*.
+
+After the course I started little (some not so little) projects but I ended up leaving them unfinished because I started making this blog and other projects. I hope to take up again Python in the future, but for now I don't need to.
+
+#### Unity:
+I still want to make video games and learn properly how to use Unity, but I know that they require many (many!) time and focus. When there's school I can't do them and when there isn't (all summer) I tend to distract me with other projects and activities. It's fine, but if I want to make games I also need to make some sacrifices. I already started a big project (I know that as a beginner I should never do that) and I'd like to keep it small and simple but also make it a decent game. It's still to early to talk about that, though. We'll see next summer what happens…
+
+#### Fractals:
+Since I first saw the Mandelbrot set, I've been fascinated by fractals. I explored them with some programs (Mandelburber 2, Vision of Chaos, Mandelbulb 3D, XaoS…) or [online](http://hirnsohle.de/test/fractalLab/) and saw many videos of 3d renderings by [Julius Horsthuis](https://youtu.be/F8bPw-OU3hI) and explanatory videos by [CodeParade](https://youtu.be/svLzmFuSBhk) and others.
+
+Then I discovered that video games can be made with fractals, allowing the player to explore these incredible virtual worlds. It was the case of [Fractal Collector](https://youtu.be/0jwkZKDOzfc), [Marble Marcher](https://youtu.be/9U0XVdvQwAI) and [Yedoma Globula](https://bananaft.itch.io/yedomaglobula), my favourite. Playing them made me want to create my own fractal game. The problem is that making this unique type of game is very difficult and requires many years of experience in programming and 3D graphics, which (of course) I don't have. I don't want to spend time in something I can't even understand yet. This doesn't mean that I will give up this intention forever, but I will probably postpone it to a future moment when I will be more ready and intellectually prepared.
+
+#### Blender:
+I occasionally use blender but I've never relevantly improved my knowledge with it this year. The reason is probably that I never need to use it and therefore I don't, using my time for something else more important or urgent. If I will start to work on 3D games I'm sure that I'll use it more often and improve my skills with it, not only for sculpting and modelling, but also with nodes and materials.
+
+#### Android development:
+Actually this year I worked on developing a mobile app. The reason why I put a red line on this point is because I feel like I'm not really learning from that project and I don't understand Java enough yet. I've made some prototype but I'm looking to improve my understanding of Android Studio and app development next year.
+
+#### Codewars:
+I don't have the urgency to use [Codewars](https://www.codewars.com/) to train myself in coding anymore. I already code at school and probably additional exercises will be useful/required if I'll do a job interview. For now, though, it's not needed.
+
+#### Card game:
+When I was little I created a card game with a friend of mine and I never finished it, but it doesn't matter. It's wasn't very fun and by now I think it's not important to finish it.
+
+#### Piano website:
+With this interactive piano website I was referring to [Elements website](https://einaudielements.com/) I accidentally discovered in which there's an interactive version of Night and Elegy for the Artic by Ludovico Einaudi. It's based on [Touch Pianist](http://touchpianist.com/) created by Batuhan Bozkurt. I then read his [post](http://earslap.com/article/the-browser-sound-engine-behind-touch-pianist.html) about the tech used to make it and it was very interesting. I wanted to make a version of it with [Nuvole Bianche](https://youtu.be/sR2W2scFS4Y), but unfortunately it's hard to make something similar to it's work, both for knowledge and for resources required (other that a lot of time, of course). Therefore, I abandoned this project indefinitely (nothing prevents me from going back to work on it in the future, but for now I won't spend time on it).
+
+### <span class="material-icons">check_circle_outline</span> What I have done (but is not listed)
+
+Even if apparently I haven't made much this year, there are actually many **unforeseen projects** that I have completed.
+
+At the end of the school I immediately started working hard on three new things:
+
+1. I created this blog, learning how to use Jekyll, Git and GitHub and wrote the [first post](https://sammed05.github.io/sm_blog/2021/06/11/hello-world).
+2. I published my first YouTube video, a [cover of Experience](https://youtu.be/o_0z_PiUxOA) by Einaudi, with all the instruments. This was very challenging since I had just got a violin and was a complete beginner with it, but the result has been quite good. If you are curious of the process behind it I wrote a [post](https://sammed05.github.io/sm_blog/2021/07/31/how-i-made-experience-musical-video-cover) for that.
+3. In late 2021, while learning C and C++ at school, I decided to make a website with Docusaurus in which to put all my knowledge on these programming languages in an elegant and functional way, not just for me but also for my classmates and other people willing to learn. It's called [C/C++ Notes](https://c-cpp-notes.vercel.app/).
+
+![Some of the projects made in 2021](/sm_blog/assets/images/plans-for-2022-images/2021-projects.jpg)
+<span class="caption">Some of the things I've done in 2021 (GitHub, video-cover, blog and C/C++ website).</span>
+
+Regarding what *is* listed, instead, I have to say some additional things.
+
+#### Music:
+This year I wrote other **music** with my piano but no song was published. The reason is that they aren't ready yet: I would like to add new instruments both digital and acoustic (for example guitar, violin and kalimba) but it requires time to find the way where they fit the best and good quality microphones to record them. Also for piano only music, I'm still searching for a better sound and a way to make the melody more emotionally effective. With some patience, next year some of the songs will be ready.
+
+#### Programming:
+Talking about programming/coding, as I put a green pair of parenthesis in the point about interactive educational stuff. That's because, like I previously said, I made a website where I explain the C/C++ programming languages, but I haven't put any interactive content. Will be for another time! :)
+
+Thanks to school and my ICT teachers, I've done a lot of practice in C++ and I'm now quite confident about both the logic and the syntax of the language. I'm learning how to think like a programmer and to solve problems breaking them in small chunks to find a solution, and I already see some improvements in my skills.
+
+Creating a Jekyll blog required also the use of Git and GitHub, so this year I learned them.
+
+#### Sport & health:
+I can't say that I have a very sporty life, but I'm not a sedentary person either. I always try to find the right balance between time to spend on school, homework, projects and social life and time dedicated to sport activities. Currently I don't participate in any sports courses or team sports, but I do individual sports like walks, running and biking. Unfortunately, this makes me much more inactive during late autumn and winter because I'm unable to go out. Anyway, I feel that overall this year was quite healthy for my body.
+
+<hr>
+
+## Plans for 2022 📝:
+
+Now that I've made a review of 2021, it's time to make a **new list** for the year to come:
+
+-	further improve my coding skills
+-	finish C/C++ Notes website (all sections with notes, insights and exercises)
+-	work with my Unity video game and actually make some level prototypes and music for it that works
+-	keep writing music (now I also have violin and kalimba, other that guitar and piano)
+-	publish other videos on YouTube (perhaps video adaptations of some of my blog posts and other things)
+-	write more blog posts (just 5 in 2021)
+-	stay more time together with friends and family
+-	properly learn Android app development and possibly make some projects
+-	keep having good marks at school and, most importantly, find the beauty and the reasons to study the other school subjects outside of Information Technology (Literature, Math, History etc.)
+- BTW, have a better vision of school
+-	come back to use Blender
+-	maybe learn more about animation and video editing
+-	learn Manim
+-	have a healthy diet and keep the body trained (probably no gym or similar activities, but lots of walks, short runs, free body exercises etc. as frequently as I can)
+-	give the right importance to sleep and psychological stress levels to be happier in general
+
+This is the list. ✍️
+
+Of course my hope is to do everything, but as always, only time will tell… See you next year!
