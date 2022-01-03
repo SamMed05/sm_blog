@@ -21,7 +21,7 @@ I published the last list on Twitter as a thread:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">2020 was certainly a bad year, but I have done some things that I&#39;d like to recap in the image below ⬇️.<br>Unfortunately it&#39;s not a lot because I have been busy for the most time with homework and study for school (I&#39;m 15...). <br>This year, though, I&#39;d like to DO and LEARN even more! <a href="https://t.co/XIm4LE3hF0">pic.twitter.com/XIm4LE3hF0</a></p>&mdash; Samuel Mediani (@MedianiSamuel) <a href="https://twitter.com/MedianiSamuel/status/1345285918844968960?ref_src=twsrc%5Etfw">January 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-To see what I actually achieved, I've checked the list like below with <span style="color: #52d631; font-weight: bold;" >green</span> tick marks and <span style="color: red; font-weight: bold;" >red</span> lines:
+To see what I actually achieved, I've the list like below with <span style="color: #52d631; font-weight: bold;" >green</span> tick marks and <span style="color: red; font-weight: bold;" >red</span> lines:
 
 ![2021 plans](/sm_blog/assets/images/plans-for-2022-images/2021-plans.png)
 <span class="caption">The complete 2021 list. Success rate: 8/18 (44.4%)</span>
@@ -92,21 +92,21 @@ I can't say that I have a very sporty life, but I'm not a sedentary person eithe
 
 Now that I've made a review of 2021, it's time to make a **new list** for the year to come:
 
--	further improve my coding skills
--	finish C/C++ Notes website (all sections with notes, insights and exercises)
--	work with my Unity video game and actually make some level prototypes and music for it that works
--	keep writing music (now I also have violin and kalimba, other that guitar and piano)
--	publish other videos on YouTube (perhaps video adaptations of some of my blog posts and other things)
--	write more blog posts (just 5 in 2021)
--	properly learn Android app development and possibly make some projects
--	keep having good marks at school and, most importantly, find the beauty and the reasons to study the other school subjects outside of Information Technology (Literature, Math, History etc.)
-- BTW, have a better vision of school
--	come back to use Blender
--	maybe learn more about animation and video editing
--	learn Manim
--	stay more time together with friends and family
--	have a healthy diet and keep the body trained (probably no gym or similar activities, but lots of walks, short runs, free body exercises etc. as frequently as I can)
--	give the right importance to sleep and psychological stress levels to be happier in general
+-	<input type="checkbox">further improve my coding skills
+-	<input type="checkbox">finish C/C++ Notes website (all sections with notes, insights and exercises)
+-	<input type="checkbox">work with my Unity video game and actually make some level prototypes and music for it that works
+-	<input type="checkbox">keep writing music (now I also have violin and kalimba, other that guitar and piano)
+-	<input type="checkbox">publish other videos on YouTube (perhaps video adaptations of some of my blog posts and other things)
+-	<input type="checkbox">write more blog posts (just 5 in 2021)
+-	<input type="checkbox">properly learn Android app development and possibly make some projects
+-	<input type="checkbox">keep having good marks at school and, most importantly, find the beauty and the reasons to study the other school subjects outside of Information Technology (Literature, Math, History etc.)
+- <input type="checkbox">BTW, have a better vision of school
+-	<input type="checkbox">come back to use Blender
+-	<input type="checkbox">maybe learn more about animation and video editing
+-	<input type="checkbox">learn Manim
+-	<input type="checkbox">stay more time together with friends and family
+-	<input type="checkbox">have a healthy diet and keep the body trained (probably no gym or similar activities, but lots of walks, short runs, free body exercises etc. as frequently as I can)
+-	<input type="checkbox">give the right importance to sleep and psychological stress levels to be happier in general
 
 This is the list. ✍️
 
