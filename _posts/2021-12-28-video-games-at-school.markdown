@@ -5,11 +5,17 @@ feature_image: "/sm_blog/assets/images/video-games-at-school-images/feature-imag
 categories: School Gaming
 ---
 
-This special post contains a list of educational games and my reflections about the benefits of gaming at school.
+This special post contains a list of educational games, tons of links about this topic and my reflections on the benefits of gaming at school.
+
+{: .box-note}
+<span class="material-icons-outlined">info</span> This post talks about video games, but don't worry if you are not an expert! You don't need prior knowledge or experience in them. Just knowing a general definition of video games and some examples is enough.
 
 With the rising popularity of video games, playing them has become a normal activity for millions of us all over the world. They are popular at every age but especially people of younger generations love them, me included.
 
 I'm not inventing that: today, according to ESA (Entertainment Software Association), nearly 227 million Americans (69% of all USA population) play video games and three quarters of kids under 18 play them weekly! I encourage you to read the [source](https://www.theesa.com/resource/2021-essential-facts-about-the-video-game-industry/) for more interesting stats. Furthermore, in 2018, the Pew Research Center reported in an article ([Teens, Social Media and Technology 2018](https://www.pewresearch.org/internet/2018/05/31/teens-social-media-technology-2018/)) that 83% of teen girls and 97% of teen boys played video games (whether on a computer, game console or smartphone).
+
+{: .box-warning}
+<span class="material-icons-outlined">report_problem</span> Wanting to keep this post as truthful as possible, I must warn you not to take this statistics as absolute truths in the representation of the society. Other articles, such as [this one](https://www.pewresearch.org/internet/2015/08/06/chapter-3-video-games-are-key-elements-in-friendships-for-many-boys/), and others can present variable results and there isn't a universal conclusion. I talk about the gender difference later, if you are interested.
 
 As I said in the previous post, video games are one of my passions since I was younger, and with time I learned that they are not only a way to have fun or to ward off the boredom, but also a precious tool that can be used in many useful ways.
 
@@ -48,7 +54,7 @@ Therefore, being more attractive to learning attention of students, compared to 
 
 But of course you can’t just take a random video game and expect it to be educational. Unfortunately, just a **small percentage** of video games currently on the market is suitable for that purpose and has some educational value. Usually game developers aim at entertainment and don’t create much educational content.
 
-However, there are some exceptions. In my experience with gaming I discovered that educational games *exist* and they are not just the boring ones: even some of the most **famous games** in the gaming industry include educational features.
+However, there are some exceptions. In my experience with gaming I discovered that **educational games** (sometimes also called *serious games* or *epistemic games*, with some nuances of meaning negligible here) *exist* and they are not just the boring ones: even some of the most **famous games** in the gaming industry include educational features (see the examples below).
 
 While discovering those hidden games and features, I started making a **list** of the best ones, and now I want to share it with all the reasons why they can perfectly be used for many subjects in schools.
 
@@ -72,7 +78,7 @@ You can learn more in the [official website](https://www.ubisoft.com/en-us/game/
 
 ### Minecraft Education Edition
 
-This is a special version of Minecraft game that includes specials tools and virtual worlds that can be used by the teacher to create fun and formative learning environments.
+This is a special version of Minecraft game that includes special tools and virtual worlds that can be used by the teacher to create fun and formative learning environments.
 
 With this game, while the students play with Minecraft following the instructions given (teachers have pre-made [lessons](https://education.minecraft.net/en-us/resources/explore-lessons), STEM curriculums and project-based challenges at their disposal), they also work together in an immersive 3D world where they have the possibility to strengthen creativity, spatial visualization ability, problem-solving skills, leadership traits, teamwork, collaboration and social interactions.
 
@@ -185,7 +191,7 @@ I have to say, though, that this game feels a bit incomplete and in an early sta
 - [The STEM Discovery Campaign Blog - Triseum Variant Limits Game for learning mathematics](http://sdw-blog.eun.org/2018/04/27/triseum-variant-limits-game-for-learning-mathematics/)
 - [Classroom Aid - STEM Educational Games: How it Will Impact Today’s Youth](https://classroomaid.wordpress.com/2012/08/12/stem-educational-games-how-it-will-impact-todays-youth/)
 
-##### Other sources, references and further readings:
+##### Other sources, references and some further readings:
 - [Mark Griffiths - The educational benefits of videogames](http://irep.ntu.ac.uk/id/eprint/15272/1/187769_5405%20Griffiths%20Publisher.pdf)
 - [Texas A&M Today - 5 Reasons Video Games Should Be More Widely Used In School](https://today.tamu.edu/2021/09/06/5-reasons-video-games-should-be-more-widely-used-in-school/)
 - [Triseum Blog](https://triseum.com/blog/)
@@ -200,6 +206,7 @@ I have to say, though, that this game feels a bit incomplete and in an early sta
 - [NYU News - Educational Video Games Can Boost Motivation to Learn, NYU, CUNY Study Shows](https://www.nyu.edu/about/news-publications/news/2013/november/educational-video-games-can-boost-motivation-to-learn-nyu-cuny-study-shows-.html)
 - [Classroom Aid Blog - Game-Based Learning (scroll down)](https://classroomaid.wordpress.com/category/game-based-learning/)
 - [Classroom Aid - Game-Based vs Traditional Learning – What’s the Difference?](https://classroomaid.wordpress.com/2012/08/16/game-based-vs-traditional-learning-whats-the-difference/)
+- [Video Games and The Future of Learning](https://journals.sagepub.com/doi/pdf/10.1177/003172170508700205)
 
 
 ### Feasibility: is it possible?
@@ -278,34 +285,40 @@ This table illustrates well some of the controversies about game-based learning:
 <hr>
 
 
-## Society
+## Society & sociality
 
 Ok, I think I talked enough about educational video games. Now, since this is a personal blog, I want to talk about another thing that I experienced in first person that correlates with video games at school too. But instead of talking about educational games, I want also to talk about them in general in this part. I hope it can give you a better understanding on how this set of benefits applies to reality also with regular video games.
 
+{: .box-note}
+<span class="material-icons-outlined">error_outline</span>
 As a premise, in this context for *society* I don't mean the whole global society of human beings, but just the little group of people inside a school and the social interaction with classmates and teachers in a class. This, though, doesn't exclude that what I say can be applicable also outside of the school environment.
 
 In my years of education, in all of them, I've noticed the manifestation of a common behaviour among my classmates/friends.
 Every school year there’s at least one short period, but often even more, where my classmates and I find a video game to play together with our smartphones<span class="tooltip">`*`<span class="tooltiptext">I understand that playing video games at school (regular ones) sounds like a very childish activity to do, but keep reading because I think it's a wrong way of seeing them.</span></span>.
 
-Usually what happens is the following: <br>
-when one of us finds and shares it, many of us in a few days have already installed the same game, so that during the free time (like the 15 minutes break we have) we can play in online co-op (multiplayer) mode.
+Usually what happens is the following: when one of us finds and shares it, many of us in a few days have already installed the same game, so that during the free time (like the 15 minutes break we have) we can play in online co-op (multiplayer) mode.
 
 To cite some famous examples, that game can be *Call of Duty Mobile*, *Among Us* or *Clash Royale*. Indeed, these three games were the most popular games played during my last three years of upper secondary school, 2019 (first), 2020 (second) and 2021 (third) respectively. The selection of which (free) game to play often depended on which game was the most in vogue in that moment all over the world, but sometimes we would rediscover old games and play them again (for example recently we are playing *Rento*, a 2016 online multiplayer monopoly board game).
 
 ![A collage of four mobile multiplayer games](/sm_blog/assets/images/video-games-at-school-images/mobile-multiplayer-games.jpg)
 <span class="caption">Some games we played together.</span>
 
-Playing with my friends these games is a very fun activity, and I think that it's something important to us even if no one notice it.
+Those are not even remotely educational in terms of cultural or scientific formation, but playing with my friends these games is a very fun activity, and I think that it's something important to us even if no one notice it.
 
-When we play together, we spontaneously strengthen the bonds of friendship, we entertain our mind, we take a break from the real world for a moment and we simply have *fun*.
+When we play together, **we spontaneously strengthen the bonds of friendship**, **we socialize**, we entertain our mind, we take a break from the real world for a moment and we simply have *fun*.
 
 > "Gaming for both children and adults alike serves as a common interest and point of conversation which can create bonds and enhance social skills. Multi-player and online games allow for constant communication between players which results in the development of both meaningful and casual relationships.[^11]"
 
 > "Face-to-face relationships and those formed within online gaming communities both provide what we call social capital, which is an all-encompassing term for the social resources that make a friendship a friendship. […] Online, game-rooted friendships are as real as any offline friendships, and they shouldn’t be discredited just because they’re mediated through technology.[^12]"
 
-That's why I think that using games at school can be helpful for our mind and for the individuals of society to be more connected with each other. It's something that school tries to do, too, but for us students there's often too little time to really stay together, to have fun and smile instead of just studying and working hard. With this I don't want to portray the school as a place of sadness and suffering. I just want to say that in addition to the moment in which the lesson is given it is also important to have a moment in which to talk, discuss and have fun with others, and video games help us to do so.
+That's why I think that using games at school can be helpful for our mind and for the individuals of society to be more connected with each other. It's something that school tries to do, too, but for us students there's often too little time to really stay together, to have fun and smile instead of just studying and working hard. With this I don't want to portray the school as a place of sadness and suffering. I just want to say that in addition to the moment in which the lesson is given, it's also important to have a moment in which to talk, discuss and have fun with others, and video games help us to do so.
 
-It's true that sometimes games (and the technology in general) becomes the students' addiction and precludes us to relate with the outside world. All can be dangerous if abused and taken to extreme.
+There are many articles and researches that demonstrate the power of video games in reinforcing relationships among young people. I encourage you to read some of them:
+- [Psychology Today (Andrew Fishman) - Video games are social spaces: how video games help people connect](https://www.psychologytoday.com/us/blog/video-game-health/201901/video-games-are-social-spaces) (really good analysis of social relations and conversations when using video games)
+- [Pew Research - Video Games Are Key Elements in Friendships for Many Boys](https://www.pewresearch.org/internet/2015/08/06/chapter-3-video-games-are-key-elements-in-friendships-for-many-boys/) (scientific-statistical proofs)
+- [BBC The Life Project - How online gaming has become a social lifeline](https://www.bbc.com/worklife/article/20201215-how-online-gaming-has-become-a-social-lifeline) (boom of alternative socialization through video games during the COVID-19 pandemic)
+
+It's true that sometimes games, and the technology in general, become the students' addiction and precludes them to relate with the outside world. All can be dangerous if abused and taken to extreme.
 
 If used correctly, though, multiplayer games (unlike social medias, for example) can be helpful to stay together having fun and for that reason I think they have an important role in the school environment. In moments of pause, they should not be banned or stigmatized as a violent or isolating tool, because they actually promote conversations and confrontations among people while they are entertained.
 
@@ -314,7 +327,7 @@ If used correctly, though, multiplayer games (unlike social medias, for example)
 
 Curiously, before writing this article I was planning just to make a little list of games and write down some of my thoughts. Eventually it turned out to be probably the longest post in my blog. Not only for the word count, but also for the time taken (16 December – 28 December). The reason for that probably lies into the fact that I'm discovering that I'm really interested in education, and mixing this interest with video games, another great passion of mine, is a really effective combo! "*Video games at school*" turned out to be a far more interesting topic to discuss than I initially thought.
 
-Anyway, as demonstrated, video games can be helpful in many *many* ways, not just for entertainment needs. If you were initially against what was I said, I hope that now this post changed your vision and I wish that this can be a stimulus for all people to slowly make these ideas a reality.
+Anyway, as demonstrated, video games can be helpful in many *many* ways, not just for entertainment needs. As well summed up in a paper, they "engage and challenge players, present complex representations and experiences, foster collaborative learning, and promote deep learning[^13]". If you were initially against what was I said, I hope that now this post changed your vision and I wish that this can be a stimulus for all people to slowly make these ideas a reality. Video games have the potential to change the landscape of education as we know it, so it's a shame not to insert them in the students' formation.
 
 
 ## <span class="material-icons">speaker_notes</span> Footnotes:
@@ -331,3 +344,4 @@ Anyway, as demonstrated, video games can be helpful in many *many* ways, not jus
 [^10]: [Edutopia - Video Games in the STEM Classroom](https://www.edutopia.org/blog/video-games-in-STEM-classroom-shawn-cornally#:~:text=Simply%20referencing%20or%20bringing%20games%20into%20your%20classroom%20does%20not%20a%20relevant%20lesson%20make.)
 [^11]: [Ghost games broadband - Social benefits of video games](https://www.ghostgb.co.uk/social-benefits-of-video-games/)
 [^12]: [Built In Beta - The Real Social Benefits of Video Games](https://builtin.com/media-gaming/online-gaming-social-benefits)
+[^13]: [‘Computer games can get your brain working’: student experience and perceptions of digital games in the classroom](https://www.tandfonline.com/doi/abs/10.1080/17439884.2014.904339) or [alternative link to Google Scholar](https://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=_P-2WlMAAAAJ&alert_preview_top_rm=2&citation_for_view=_P-2WlMAAAAJ:UebtZRa9Y70C)
