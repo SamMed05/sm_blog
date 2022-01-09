@@ -94,7 +94,7 @@ Now that I've made a review of 2021, it's time to make a **new list** for the ye
 
 -	<input type="checkbox">further improve my coding skills
 -	<input type="checkbox">finish C/C++ Notes website (all sections with notes, insights and exercises)
--	<input type="checkbox">work with my Unity video game and actually make some level prototypes and music for it that works
+-	<input type="checkbox">work with Unity on my video game and make some level prototypes and music for it that actually work
 -	<input type="checkbox">keep writing music (now I also have violin and kalimba, other that guitar and piano)
 -	<input type="checkbox">publish other videos on YouTube (perhaps video adaptations of some of my blog posts and other things)
 -	<input type="checkbox">write more blog posts (just 5 in 2021)
