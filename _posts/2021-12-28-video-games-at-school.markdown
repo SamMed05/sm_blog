@@ -58,6 +58,9 @@ However, there are some exceptions. In my experience with gaming I discovered th
 
 While discovering those hidden games and features, I started making a **list** of the best ones, and now I want to share it with all the reasons why they can perfectly be used for many subjects in schools.
 
+{: .box-note}
+<span class="material-icons-outlined">info</span> **Note:** At the end of each video game description I've put a section "Helps with" where you can quickly see in what curricular topics that game can be used.
+
 ### Assassin’s Creed Discovery Tours
 
 Even if not designed to be educational, some games of the Assassin's Creed series include exactly for that a special separate mode called “Discovery Tour”, like **Assassin's Creed Odyssey** where players can explore the **Ancient Greece** with its general culture, art, religion and everyday life. That’s why this game fits perfectly for an history lesson where students can learn about Greek history themselves through the exploration of a virtual world made specifically for that purpose.
@@ -118,6 +121,20 @@ See the [official website](https://www.flightsimulator.com/) for more info.
 
 **Helps with**: <b class="highlight-box">Geography</b>.
 
+### Beyond Blue
+
+![Beyond Blue](/sm_blog/assets/images/video-games-at-school-images/beyond-blue.jpg)
+
+Beyond Blue is a single-player narrative adventure that takes players into the near future, where they have the opportunity to explore the mysteries of our ocean through the eyes of Mirai, a deep-sea explorer and scientist. She and her newly-formed research team use innovative technologies to see, hear, and interact with the ocean and it's wildlife. The game features an evocative narrative and exploration of an untouched world.
+
+To make this game, the developers of E-Line Media "partnered with **BBC Studios** (developers of the acclaimed nature documentary *Blue Planet II*), OceanX Media, world-class game makers, and some of science’s leading ocean experts to craft an experience that reflects the awesome wonder and unbounded mystery that infuses our planet’s beating blue heart." — [Beyond Blue official website](https://www.beyondbluegame.com/).
+
+As you are gathering information during gameplay, you'll learn about fast-changing, human-made threats to the sea like climate change, plastic waste and overfishing, and many insights about sea creatures.
+
+Zack Hartzman from Hey Listen Games prepared a [lesson](https://www.heylistengames.org/science/beyond-blue) entirely based on this game and also written a post on [Why You Should Teach With Beyond Blue](https://www.heylistengames.org/post/why-you-should-teach-with-beyond-blue), if you are curious. I also recommend you to read this interesting article on this video game by Engadget: ['Beyond Blue' is an educational game about saving the ocean](https://www.engadget.com/2018-06-14-beyond-blue-planet-ocean-game.html?guccounter=1).
+
+**Helps with**: <b class="highlight-box">Biology</b>, <b class="highlight-box">Oceanography</b>.
+
 ### Kerbal Space Program
 
 Kerbal Space Program is a famous rocket simulator. On this perspective, it seems not to be applicable to ordinary lessons, but actually the physic modelled in this game is so useful that both NASA and the European Space Agency officially endorse it[^1], and some schools even use this game in order to help teach [math and physics](https://youtu.be/GC1jZ3qIVdQ) and even [rocket science](https://youtu.be/ogC6ds81gek).
@@ -174,14 +191,35 @@ I have to say, though, that this game feels a bit incomplete and in an early sta
 **Helps with**: <b class="highlight-box">Math</b>.
 
 
+### Valiant Hearts: The Great War
+
+![Valiant Hearts: The Great War](/sm_blog/assets/images/video-games-at-school-images/valiant-hearts-the-great-war.jpg)
+
+This game is a comic book brought to life that portrays the horrors of The Great War, while still remaining accessible to kids. You play as four strangers, accompanied by one dog, whose lives intertwine as they make their way through the trenches of war. The story may be fiction, but the locations and events are all based on fact.
+
+Unlike many games set in war, this is a game about war. Instead of combat, it is about exploration, adventure, and puzzles. As you play, you will come across artifacts, facts, and diary entries that all add to a greater portrait of the World War I. These were included with the help of Mission Centenaire, a commemorative organization of the war, and Apocalypse World War I, a documentary mini series about the war.
+
+The game is made by Ubisoft Montpellier and is recommended to use it in secondary education during history lessons.
+
+Reviews about the educational value of this game ⬇️:
+- [Hey Listen Games - I Taught With Valiant Hearts: The Great War](https://www.heylistengames.org/post/i-taught-with-valiant-hearts-the-great-war) and [lessons](https://www.heylistengames.org/socialstudies/valiant-hearts-the-great-war)
+- [Common Sense Education - Valiant Hearts: The Great War educational review](https://www.commonsense.org/education/game/valiant-hearts-the-great-war)
+- [EuroClio - Video Game Review: Valiant Hearts, The Great War](https://www.euroclio.eu/2020/05/28/video-game-review-valiant-hearts-the-great-war/)
+- [Fighter-Bomber's Blog - Valiant Hearts: An Interactive First World War Education Tool](https://alexfitzblack.wordpress.com/2014/08/04/valiant-hearts-an-interactive-first-world-war-education-tool/)
+
+**Helps with**: <b class="highlight-box">History</b>.
+
+
 ### Other games
 
 - To teach **coding** at younger people, several educational video games has been made in the last years, including [Scratch](https://scratch.mit.edu/) (online) and [Rabbids coding](https://register.ubisoft.com/rabbids-coding/), and [Oh my Git!](https://ohmygit.org/) and [while True: learn()](https://luden.io/wtl/) can be really useful for more advanced programmers.
 - [TestTubeGames](https://testtubegames.com/games.html) is an online collection of little science education games about many topics about **chemistry**, **physics** and more.
 - [Quantum Moves 2](https://www.scienceathome.org/games/quantum-moves-2/) and [A Slower Speed of Light](http://gamelab.mit.edu/games/a-slower-speed-of-light/) are also a good way to learn physics (respectively **quantum physics** and **special relativity**).
 - Serious Games Interactive is a company that makes, well… serious games! The most interesting is probably [Newt & Byte – Climate Adventures](https://www.seriousgames.net/en/portfolio/climatescience/), "a climate science educational programme that teaches children the science behind climate change". To use it, though, we still need to wait: the games is currently being tested in schools in Denmark, Austria and Australia and it's not publicly available.
-- The great people at Common Sense Education made also a top-40 list of educational games (some of the already mentioned here) that you can check [here](https://www.commonsense.org/education/top-picks/best-summer-learning-games).
+- To recognize and fight **fake news**, researchers at Cambridge University and DROG created [Bad News](https://www.getbadnews.com/), a website that put players in the position of the people who create and spread them online. The game takes approximately 20 minutes to complete and it's suitable for use in class, for example during media literacy training. [Blog post](https://www.heylistengames.org/post/i-taught-with-the-bad-news-game), [educational review](https://www.commonsense.org/education/website/bad-news) and [more info](https://www.getbadnews.com/wp-content/uploads/2019/03/Bad-News-Game-info-sheet-for-educators-English.pdf) at respective links.
+- The great people at Common Sense Education made a top-40 list of educational games (some of the already mentioned here) that you can check [here](https://www.commonsense.org/education/top-picks/best-summer-learning-games).
 - On GitHub there's a curated list of online educational games and interactive experiences called [Awesome Educational Games](https://github.com/yrgo/awesome-educational-games) where people all over the world can always contribute adding new links. There's also another public list of science-based games on GitHub at this [link](https://github.com/stared/science-based-games-list).
+- Speaking about lists, another one is from Zack Hartzman in the awesome website [Hey Listen Games](https://www.heylistengames.org/), with also ready-to-use game-based lessons on almost every topic. You can also read the [student reactions](https://www.heylistengames.org/classroom/categories/student-reactions) and how the game has been used in classroom or at distance during the COVID-19 pandemic.
 - If you have other suggestions of educational video games you can reach out to me on [Twitter](https://twitter.com/MedianiSamuel)! 🤗
 
 ##### Games and STEM disciplines:
@@ -207,6 +245,9 @@ I have to say, though, that this game feels a bit incomplete and in an early sta
 - [Classroom Aid Blog - Game-Based Learning (scroll down)](https://classroomaid.wordpress.com/category/game-based-learning/)
 - [Classroom Aid - Game-Based vs Traditional Learning – What’s the Difference?](https://classroomaid.wordpress.com/2012/08/16/game-based-vs-traditional-learning-whats-the-difference/)
 - [Video Games and The Future of Learning](https://journals.sagepub.com/doi/pdf/10.1177/003172170508700205)
+- [Albert van Zyl - Effective Educational Methods In Educational Video Games](https://www.theseus.fi/handle/10024/77327) or [pdf link](https://www.theseus.fi/bitstream/handle/10024/77327/van%20Zyl_Albert.pdf?sequence=1)
+- [Games in Schools - Using educational games in the classroom: guidelines for successful learning outcomes](https://www.isfe.eu/wp-content/uploads/2020/10/2020-GiS-handbook-for-teachers-FINAL.pdf)
+- [Teaching With Video Games: A Strategy Guide](https://www.amazon.com/dp/B09J3FZ8HC/ref=mp_s_a_1_2?dchild=1&keywords=teaching+with+video+games&qid=1633869734&refinements=p_n_publication_date%3A1250226011&rnid=1250225011&s=books&sr=1-2) and [Teaching with Video Games: An English Language Arts Unit](https://www.amazon.com/dp/B09J3F4NHD/ref=mp_s_a_1_1?dchild=1&keywords=teaching+with+video+games&qid=1633869734&refinements=p_n_publication_date%3A1250226011&rnid=1250225011&s=books&sr=1-1) books by Zachary Hartzman.
 
 
 ### Feasibility: is it possible?
@@ -245,6 +286,7 @@ I'll put other sources of information about this topic here:
 - [Wikipedia - Women and video games](https://en.wikipedia.org/wiki/Women_and_video_games/)
 - [Frontiers in Psychology - Measuring Female Gaming: Gamer Profile, Predictors, Prevalence, and Characteristics From Psychological and Gender Perspectives](https://doi.org/10.3389/fpsyg.2019.00898)
 - [Classroom Aid - What Do Students Think about Video Games?](https://classroomaid.wordpress.com/2012/11/02/what-do-students-think-about-video-games/)
+- [TeachThought - How To Teach With Video Games In The Classroom](https://www.teachthought.com/technology/video-games-classroom/)
 
 ##### 4. Lack of educational games and interest of developers
 One more thing: as I said before, educational video games take only a very small slice of the market among video games in circulation today. That being said, if this type of video games were used more and more often, **an increasing number of developers and companies around the world would aim to create educational video games**. Their interest would increase with insured buyers<span class="tooltip">`*`<span class="tooltiptext">Game creators and publishers would be sure that some people who would buy their games exist.</span></span> and they would more willingly approach this new type of market than before. They could also make special sales offers designed for schools (like a decreased price for a mass purchase of the same product) and the Government could promote their work with economic bonuses (after all, they create something educational and financing them means contributing to the progress of society, I think). Lately, I see that companies are starting to take this opportunity seriously and I am really happy about it!
@@ -327,7 +369,11 @@ If used correctly, though, multiplayer games (unlike social medias, for example)
 
 Curiously, before writing this article I was planning just to make a little list of games and write down some of my thoughts. Eventually it turned out to be probably the longest post in my blog. Not only for the word count, but also for the time taken (16 December – 28 December). The reason for that probably lies into the fact that I'm discovering that I'm really interested in education, and mixing this interest with video games, another great passion of mine, is a really effective combo! "*Video games at school*" turned out to be a far more interesting topic to discuss than I initially thought.
 
-Anyway, as demonstrated, video games can be helpful in many *many* ways, not just for entertainment needs. As well summed up in a paper, they "engage and challenge players, present complex representations and experiences, foster collaborative learning, and promote deep learning[^13]". If you were initially against what was I said, I hope that now this post changed your vision and I wish that this can be a stimulus for all people to slowly make these ideas a reality. Video games have the potential to change the landscape of education as we know it, so it's a shame not to insert them in the students' formation.
+Anyway, as demonstrated, video games can be helpful in many *many* ways, not just for entertainment needs. As well summed up in a paper, they "engage and challenge players, present complex representations and experiences, foster collaborative learning, and promote deep learning[^13]". They can enhance the school lessons in a wide range of topics, from STEM to history, from nature to storytelling, from art to [relationships](https://www.heylistengames.org/post/i-taught-with-florence-1).
+
+If you were initially against what was I said, I hope that now this post changed your vision and I wish that this can be a stimulus for all people to slowly make these ideas a reality. Video games have the potential to change the landscape of education as we know it, so it's a shame not to insert them in the students' formation.
+
+***Edit**: this post will be updated with new video games and content as I discover more things. The first update, for example, includes the addition of Beyond Blue, Valiant Hearts: The Great War, Bad News and new links. Enjoy the reading!*
 
 
 ## <span class="material-icons">speaker_notes</span> Footnotes:
