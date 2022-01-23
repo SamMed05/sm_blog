@@ -268,6 +268,15 @@ input[type=checkbox]:checked:before {
   //box-shadow: 0 0 4px $footerColour;
   font-weight: normal !important;
   box-shadow: 0 0 6px #888888;
+  a {
+    color: white;
+    background-image: none;
+    border-bottom: none;
+  }
+  a:hover {
+    background-size: 0;
+    border-bottom: none;
+  }
 }
 
 // Hit counter
@@ -449,7 +458,7 @@ input[type=checkbox]:checked:before {
   //-webkit-mask-image:-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)));
   //mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
   .container {
-    min-height: 35vh;
+    min-height: 40vh;
     max-width: 60%;
     @include flex-direction(column);
     @include justify-content(center);
