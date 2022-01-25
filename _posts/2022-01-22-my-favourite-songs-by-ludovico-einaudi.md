@@ -138,7 +138,7 @@ Path Of The Fossils is also present in [Day 2](https://youtu.be/_wSln1rzecI), [D
 
 <div class="videowrapper"><iframe width="894" height="723" src="https://www.youtube.com/embed/04rnIete90I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Ascent is perhaps the purest song of *Seven Days Walking*, containing moments of melancholy and others of happiness and hope, that make you both tearful and glad to be alive. Like other songs of *Seven Days Walking*, when you listen to Ascent it really seems that it belongs to another dimension, a distant dimension, to which you cannot access or reach, but which you can perceive within yourself.
+Ascent is perhaps the purest song of *Seven Days Walking*, containing moments of melancholy and others of happiness and hope, that make you both tearful and glad to be alive. Like other songs of *Seven Days Walking*, when you listen to Ascent it really seems that it belongs to another dimension, a distant, untouchable, ethereal dimension, to which you cannot access or reach but which you can perceive within yourself.
 
 This beautifully charming piece comes with all the seven versions, one for each day:
 [Day 1](https://youtu.be/04rnIete90I),
