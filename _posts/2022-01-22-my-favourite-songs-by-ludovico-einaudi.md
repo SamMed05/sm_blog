@@ -7,7 +7,7 @@ categories: Music
 
 A list of my personal favourite Ludovico Einaudi's songs of all time.
 
-Ludovico Einaudi is by far my favourite composer, and the more I listen to his songs, the more I struggle to find the best one. It's hard to choose just one, but among all those he created the list above represents what I personally consider the bests. For each song, I also analyse it explaining why they are special and what aspects I like the most.
+Ludovico Einaudi is by far my favourite composer, and the more I listen to his songs, the more I struggle to find the best one. It's hard to choose just one, but among all those he created the list above represents what I personally consider the bests. For each song, I also analyse it explaining why it is special and what aspects I like the most.
 
 ### <span class="material-icons">music_note</span> 1. Experience
 
@@ -168,4 +168,4 @@ There are many other songs that I excluded from the list. These are some honoura
 - Waterways
 - Choros
 
-Before closing, there's another thing: just yesterday Einaudi published his new album **Underwater**, so go check it out at this [link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2hvQlh6aEZDTTlVaFh0YTBDQ1JySkNrWDd4Z3xBQ3Jtc0tsbmxWdm9zNFpfbHVTVjFXc1RDRkZPV1N3SFVLZTZvN0NGWDczb1o0ZUNsazg5Vnp1OFNvSzVJTzdDTEtzLTZzdllTX2hhSWpRSURQWDBIaE5GandLcXc1LXNBR1Z1azlJaG9USEZ5djhwQXUzUE9NRQ&q=https%3A%2F%2Feinaudi.lnk.to%2FUnderwater)!
+Before closing, there's another thing: just yesterday, Einaudi has published his new album titled "**Underwater**", composed of 12 minimalist compositions. It is the first album of just piano solos of the last decade (I think the absolute first was *Le Onde* in 1996). Go check it out at this [link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2hvQlh6aEZDTTlVaFh0YTBDQ1JySkNrWDd4Z3xBQ3Jtc0tsbmxWdm9zNFpfbHVTVjFXc1RDRkZPV1N3SFVLZTZvN0NGWDczb1o0ZUNsazg5Vnp1OFNvSzVJTzdDTEtzLTZzdllTX2hhSWpRSURQWDBIaE5GandLcXc1LXNBR1Z1azlJaG9USEZ5djhwQXUzUE9NRQ&q=https%3A%2F%2Feinaudi.lnk.to%2FUnderwater)!
