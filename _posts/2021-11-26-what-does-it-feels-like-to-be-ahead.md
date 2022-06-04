@@ -1,7 +1,7 @@
 ---
-title:  "How does it feel like to be ahead?"
+title:  "What does it feel like to be ahead?"
 date:   2021-11-26
-feature_image: "/sm_blog/assets/images/how-does-it-feels-like-to-be-ahead-images/mindset.jpg"
+feature_image: "/sm_blog/assets/images/what-does-it-feels-like-to-be-ahead-images/mindset.jpg"
 categories: School Life-lessons
 ---
 
@@ -9,7 +9,7 @@ In this post I'll share my thoughts about a situation I recently found myself in
 
 *Three months have passed since my last post. Lately, I've been busy with school and other projects so that's the reason for such a long period of inactivity. I can't promise a regular publication frequency for my new posts, so come back here often to check in order not to miss anything! 😊*
 
-Anyway, the title of this post is referred to me. It's intentionally general and yes, it can sound a bit like I'm bragging at random, but trust me if I say that it has nothing to do with it and I intend it in another way. Put that aside for now.
+Anyway, the title of this post is referred to me. It's intentionally general and yes, it can sound a bit like I'm bragging at random about unclear things, but trust me if I say that it has nothing to do with it and I intend it in another way. Put that aside for now.
 
 ### Some context first
 
@@ -27,17 +27,17 @@ Once learned English I was finally able to expand my range of possible content t
 
 Looking back over the years, I feel very lucky for having such a big place to satisfy my curiosity.
 
-### But what did I wantd to learn?
+### But what did I wanted to learn?
 
-Since I was a child I loved using computers. The possibility of doing what you want (playing a game, saving images, writing text, creating files…) without worrying about physical things was like magic for me.
+Since I was a child I loved using computers. The possibility of doing what you want (playing a game, saving images, writing text, creating files…) without worrying about the physical aspect of those things was like magic for me.
 
-As I grew up, I became interested in simple (like MS Office) and then more and more advanced software (like Blender for 3D stuff) and, in parallel, I cultivated a passion for videogames.
+As I grew up, I became interested in simple (like MS Office) and then more and more advanced software (like Blender for 3D stuff) and, in parallel, I cultivated a passion for video games.
 
 Spending every day a bit of time on the computer, I slowly and almost accidentally unveiled what was behind the things I was using that made them work, and so I glimpsed the beauty of programming.
 
 This process was guided by my tendency **to go beyond appearances and to look closer and more accurately at the things I don't know**.
 
-I insist a lot on this point not because I want to brag about it, I don't care at all about that, but because I think it's the attitude to always have in life and that everyone should apply for himself.
+I insist a lot on this point not because I want to brag about it (I don't care at all) but because I think it's the attitude to always have in life and that everyone should apply for himself.
 
 I decided that being a programmer was what I wanted for my future, and I immediately started to learn how to become it.
 
@@ -45,9 +45,9 @@ YouTube was my main source of knowledge and I'm still using it a lot, especially
 
 Navigating the Internet turned out to be another very useful way to collect knowledge, too.
 
-Year after year I first learned HTML and CSS (for making websites), then the basics of some programming languages like JavaScript, Python and C++. I created many little projects, get used to the programmer's mindset and also worked with some programs like Android Studio, Blender and Unity.
+Year after year I first learned HTML and CSS (for making websites), then the basics of some programming languages like JavaScript, Python and C++. I created many little projects, get used to the programmer's mindset and also worked with some programs like Android Studio, Blender and Unity (with C# language).
 
-I decided to learn how to use Unity because of my passion for videogames. Again, I had noticed that when I was playing a video game I was always super curious to know exactly how a certain mechanic was made, how the characters and objects were animated, how the special effects were recreated and many other things. Unity seemed the right program for me, so I slowly started using it, with the help of many tutorials on YouTube and forums on the Internet.
+I decided to learn how to use Unity because of my passion for video games. Again, I had noticed that when I was playing a video game I was always super curious to know exactly how a certain mechanic was made, how the characters and objects were animated, how the special effects were recreated and many other things. Unity seemed the right program for me, so I slowly started using it, with the help of many tutorials on YouTube and forums on the Internet.
 
 ### Ok, but what's the point?
 
@@ -55,11 +55,11 @@ I started learning early and for myself because I had (and I still have) an impo
 
 Now I am attending the upper secondary school (high school) and that's oriented to Computer science.
 
-Particularly I'm in the third year, so after the common two-year period my classmates and I have now started to really get into ICT and programming.
+Particularly I'm in the third year, so after the common two-year period<span class="tooltip">`*`<span class="tooltiptext">I should explain how the italian school system works but that's not the topic of this post.</span></span> my classmates and I have now started to really get into ICT and programming.
 
-I'm really happy about that: we are learning C++ and C language and I'm finally learning things that I know will be useful for my future life as a developer.
+I'm really happy about that: we are learning C++ and C programming languages and I'm finally learning things that I know will be useful for my future life as a developer.
 
-But the fact that I went ahead over the past few years put me in the situation of already knowing the basics in-depth, and it is much easier for me to understand what is being explained compared to my classmates.
+But the fact that **I went ahead** over the past few years put me in the situation of already knowing the basics in-depth, and it is much easier for me to understand what is being explained compared to my classmates.
 
 ### A matter of perspective
 
@@ -86,15 +86,17 @@ And equally interesting questions arose, such as:
 *"Where did you start from?"* <br/>
  etc.
 
-That's why I wrote this post. Those questions got me thinking: they represent what inexperienced students want to know while they are learning something of which they do not really know the usefulness.
+That's why I wrote this post. Those questions got me thinking: «they represent what inexperienced students want to know while they are learning something new of which they do not really know the usefulness».
 
-They also demonstrate that, even if they know how to make a little program in C++, they actually know absolutely **nothing** about how life as a normal developer/programmer works outside of the school setting. No idea, simply because **they have never been**.
+They also demonstrate that, even if my classmates know how to make a little program in C++, they actually know **nothing** about how life as a normal developer/programmer works outside of the school setting. No idea, simply because **they have never been**. But this is not a criticism or judgment against them: it's completely rightful and normal.
 
-But I think that at school it's not important just to *learn* a thing, but also the **context** around it, *how* it's used, *where* it's used and the general application of that knowledge in the life of a developer, who uses creativity to give birth to his works and not only simple rules.
+How does this relate to the topic of the post? Well, I personally wasn't in that situation of disorientation because of the knowledge I've gained in  previous years thanks to the attitude I described earlier, but school should never expect students to already know (even if only partially) the information around what is going to be taught.
 
-Instead of perpetually jumping between theory and simple exercises only, it's probably better to teach also the mindset and the attitude to have while learning, and also occasionally make a bigger, more meaningful project that teaches not only how to behave in the single case but how to do it in a larger set of situations and in a more programmer-like way.
+I think that at school it's important not just to *mnemonically learn* a thing, but also to understand the **context** around it, *how* it's used, *where* it's used and the general application of that knowledge in the life of a developer (in our case), from the ground up.
 
-If the ultimate goal of school, talking about my field of study (Information Technology), is to "*churn out*" good, well-formed programmers, then this is not the best way to educate us.
+Instead of perpetually jumping between theory and trivial, repetitive exercises only, it's probably better to teach also the mindset and the attitude to have while learning, while working and also occasionally make a bigger, more meaningful project that teaches not only how to behave in the restrict, narrow set of circumstances but how to do it in a larger set of situations and in a more programmer-like way, using logic as well as memory.
+
+If the ultimate goal of school, talking about my field of study (Information Technology), is to "*churn out*" good, well-formed programmers, then this is not the best way to educate us (even if it apparently seems efficient).
 
 Luckily it is still early to draw conclusions: there are still two years to go!
 
@@ -102,6 +104,6 @@ Luckily it is still early to draw conclusions: there are still two years to go!
 
 Before leaving, there's something important I missed to mention: after doing that discussion with my classmates, we compared ourselves to each other and this brought out a great desire to act and to do something, more than I've ever seen before, I think. It convinced many people to ***stop doing nothing*** and ***start making something***.
 
-For me this is a really big achievement: changing people's mindset and attitude to act for the future, instead of just doing nothing every afternoon (or whenever we have useful free time to use) makes me extremely pleased.
+For me, this is a really big achievement: changing people's mindset and attitude to act for the future instead of just doing nothing every afternoon (or whenever we have useful free time and we don't know how to use it) makes me extremely pleased.
 
-Most likely this little "revolution" led to just ephemeral (yet strong and decisive) intentions for having active attitudes. Intentions that will probably remain in their heads for just a day or two and then fly away. But at least my story has been able to change someone's mind in the right way, hopefully not just for a while but for all of their future! 😄
+Most likely this little "revolution" led to just ephemeral (yet strong and decisive) intentions for having active attitudes. Intentions that will probably remain in their heads for just a day or two and then fly away. But at least my story, in its small way, has been able to positively change some mentalities, hopefully not just for a while but for the rest of the future! 😄
