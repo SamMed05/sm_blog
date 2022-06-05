@@ -107,3 +107,79 @@ Before leaving, there's something important I missed to mention: after doing tha
 For me, this is a really big achievement: changing people's mindset and attitude to act for the future instead of just doing nothing every afternoon (or whenever we have useful free time and we don't know how to use it) makes me extremely pleased.
 
 Most likely this little "revolution" led to just ephemeral (yet strong and decisive) intentions for having active attitudes. Intentions that will probably remain in their heads for just a day or two and then fly away. But at least my story, in its small way, has been able to positively change some mentalities, hopefully not just for a while but for the rest of the future! 😄
+
+
+## ⌚ Update!
+
+*05/06/2022*
+
+Yesterday, for some reason, I was re-reading an old Twitter thread from Alexander Bruce, the creator of the video game Antichamber. This activity instantly remembered me of the post you have just read (this one!).
+
+I highly encourage you to read all the thread before going further:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When I was younger, I was obsessed with getting ahead in life. Looking at my years projected ahead of me, working out how I could get through them faster.</p>&mdash; Alexander Bruce (@Demruth) <a href="https://twitter.com/Demruth/status/1307507284113633280?ref_src=twsrc%5Etfw">September 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<details>
+<summary><i>See the full text</i></summary>
+<blockquote>
+<p>
+When I was younger, I was obsessed with getting ahead in life. Looking at my years projected ahead of me, working out how I could get through them faster.
+<br><br>
+Any time I seriously gave myself a 5 year plan, I’d immediately start figuring out how to compress it into 3 years, or 1 year instead, so that rest of the time could be used for an even better plan, which I would immediately start trying to make redundant.
+<br><br>
+A lot of high achievement / success was the result of sprinting like this constantly, and for most of the time while doing this, I struggled to understand why people were “wasting time” doing things other than setting themselves up for the future.
+<br><br>
+This process wore me down while making Antichamber, and though I was tired and burnt out afterwards, I kept trying to work out my next plan. Take a break, recharge some energy, then jump back in and do the next thing.
+<br><br>
+Later on, there were a few very specific moments and interactions with incredibly “successful” people that made me look at my projected future and actively reject the idea of chasing where I was going any further. The cost of where I was headed had become extremely clear.
+<br><br>
+The reward for spending a life consumed by work was more of a life consumed by work. Social groups entirely defined by work. Interests that only revolve around work. Physical and mental wellbeing tied entirely to work. Anxiety during any moment that isn’t spent doing work.
+<br><br>
+Spend long enough doing this and work feels like a completely inescapable thing, to the point that trying to envision a life without work becomes scary, because it feels like letting go of everything you’ve built.
+<br><br>
+Until those moments, having a disregard for life outside of work felt justified, because it was all working towards something. Everything else was an inconvenience that would get in the way of what I was working to achieve. This thought process was fine…. until it wasn’t.
+<br><br>
+Once I started rejecting this idea of “success”, it became more and more apparent how much I’d left behind in order to get to where I was. When people would say “I wish I had what you had”, my response was “along which axis?”.
+<br><br>
+People wanted my success in work, while I wanted their success in everything I hadn’t prioritised. I was still at square one along some avenues of life that other people had developed naturally while “wasting time” earlier on in life.
+<br><br>
+Taking a break from work to gain back all of what I’d missed took years. People often said it was good that I had the time / resources to prioritise those things now because of Antichamber, but the irony is that I could have been doing them my entire life.
+<br><br>
+Developing more empathy didn’t require money or resources or education. It required having lived experience, and engaging more closely with people around me.
+<br><br>
+Having other interests and hobbies required actually taking the time to do the things I was interested in, rather than pushing them aside constantly or not starting things because I wouldn’t be as good at them as what I already knew how to do.
+<br><br>
+Good physical / mental health requires putting in time and effort every day to maintain my wellbeing, rather than letting it slip as a problem to fix tomorrow.
+<br><br>
+People always say that they don’t have time for things, but everything ultimately gets paid for somewhere. When I became chronically sick for a few years, I spent far more time, energy and resources fixing my health than I would have if I prioritised it more in the first place.
+<br><br>
+I no longer think anything is “wasting time”, it’s all just spending time differently. Everything I do is building up some life experience somewhere. Whatever I’m doing, that’s how I’m spending my time, until I decide to spend it doing something else.
+<br><br>
+I love the work that I’m now doing, because I’m not wishing I was further along or doing something else. When I’m with friends, I’m not thinking I should be at my computer. Instead of lying in bed awake, thinking about what I haven’t done, I’m sleeping so I can recover energy.
+<br><br>
+This requires constantly checking in on myself and being honest with what I’m feeling and what my priorities are, adjusting course when necessary, with the hindsight of knowing where life leads if I don’t do this.
+<br><br>
+To bring this full circle, I now struggle to think in terms of “getting ahead” in life, because my question becomes “getting ahead at what?” Adult life is too much of a sprawl to know what being ahead even means, so my focus is only on making life worth living.
+</p>
+</blockquote>
+</details>
+
+<br>
+While reading Bruce's story, I found several points particularly relatable in that many times in the past I had similar ideas, just like him. Sometimes I couldn't understand how so many of my friends never wanted (or never even thought) to prepare for the future, start to work *seriously* on a thing or use their time more usefully/with a more precise and determined purpose.
+
+Fortunately, though, I never (or almost never) exaggerated trying to “*be ahead*” and consequently prevent myself from enjoying life to the fullest. When I'm with friends, when I listen to music, when I do sport or when I just relax I don't think (or at least no longer do) that I'd rather spend my time better working on something else.
+
+That's simply the way I decide to spend my time and doing it in a differently than usual doesn't mean it's a bad thing. On the contrary, it's an opportunity to live new experiences and improve the heterogeneity of my life.
+
+Still, there are some moments where this mental condition (if you can call it that) comes out again. An example? In April I turned 17 and now that my third year of upper secondary school is finished I'm starting to feel the pressure and urge to find a way to earn some money and become more independent from family<span class="tooltip">`*`<span class="tooltiptext">If you are of similar age or older you probably understand what I mean and what kind of feeling is that…</span></span>. For this reason, every time I'm not doing something that is aimed to build my future I feel like I'm wasting time.
+
+Being aware of this potentially dangerous mindset and knowing related experiences and consequences from other people makes me more cautious: when I set myself a goal to achieve I make sure I don't over-sacrifice all those activities that make me enjoy life. I live the present without regrets on how I spend my time if it's a thing that happens just occasionally.
+
+Obviously, that doesn't mean putting my responsibilities aside in favour of fun, but it means being careful not to make my life stressful. And when I decide it's the moment to work, **I make an effort not to let it become an obsession**.
+
+Most of the time, it's hard. But not impossible.
+
+Remember that if taken to extreme levels, **desperately trying to succeed in something can be as harmful as living life in sloth**.
+
+In conclusion, what I wanted to say in this post is that we have to find a **balance** between enjoying our life and finding a reason to live looking forward. Neither of these two weights has to be too heavy or  too light, otherwise the psychological equilibrium is lost and you neither enjoy living nor have a reason to do so.
+
+In short: be curious, find a meaning and stay happy!
