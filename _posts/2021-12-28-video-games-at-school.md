@@ -60,6 +60,7 @@ While discovering those hidden games and features, I started making a **list** o
 {: .box-note}
 <span class="material-icons-outlined">info</span> **Note:** At the end of each video game description I've put a section "Helps with" where you can quickly see in what curricular topics that game can be used.
 
+
 ### Assassin’s Creed Discovery Tours
 
 Even if not designed to be educational, some games of the Assassin's Creed series include exactly for that a special separate mode called “Discovery Tour”, like **Assassin's Creed Odyssey** where players can explore the **Ancient Greece** with its general culture, art, religion and everyday life. That’s why this game fits perfectly for a history lesson where students can learn about Greek history themselves through the exploration of a virtual world made specifically for that purpose.
@@ -78,6 +79,7 @@ You can learn more on the [official website](https://www.ubisoft.com/en-us/game/
 
 **Helps with**: <b class="highlight-box">History</b>.
 
+
 ### Minecraft Education Edition
 
 Minecraft Education Edition is a special version of the original Minecraft game that includes special tools and virtual worlds that can be used by the teacher to create fun and formative learning environments.
@@ -90,11 +92,16 @@ This is the [official website](https://education.minecraft.net/), and at this li
 
 This game works better for younger people, but also students of my age (16/17) and older can benefit from Minecraft and the expressive freedom that it gives to the player.
 
-To provide a real example, my telecommunication professor in this period is teaching me and my classmates the *logic gates*. The interesting thing is that you can make [logic gates in Minecraft](https://youtu.be/9EY_XoEImjM) too, and even with no effort. If just for one day he showed us how they work at school using this game, I can very confidently predict that the level of attention would skyrocket and the same would happen with the understanding of that argument, in comparison with
-just chalk and blackboard.
+To provide a real example, my telecommunication professor in this period is teaching me and my classmates the *logic gates*. The interesting thing is that you can make [logic gates in Minecraft](https://youtu.be/9EY_XoEImjM) too, and even with no effort. If just for one day he showed us how they work at school using this game, I can very confidently predict that the level of attention would skyrocket and the same would happen with the understanding of that argument, in comparison with just chalk and blackboard.
 
 ![Logic gates in Minecraft Reddit](https://i.redd.it/g05ar4oaspt61.png)
 <span class="caption">Logic gates in Minecraft. Source: <a href="https://www.reddit.com/r/Minecraft/comments/msom4m/compact_and_flat_logic_gates/" target="_blank">Reddit</a></span>
+
+Aside from the STEM subjects, even artistic creations can be made in Minecraft. I had the opportunity to make one firsthand just a few months ago, in my third year of upper secondary school (the equivalent of high school) in Italy, when our teacher asked us to use our creativity to create a project focused on Dante Alighieri, a very famous Italian poet of the fourteenth century. My group and I decided to make a short film about the first 3 cantos of *The Divine Comedy* in (modded) Minecraft (🇮🇹 language).
+
+<div class="videowrapper"><iframe src="https://www.youtube.com/embed/9MR6MDJzrss" title="Dante all'Inferno - Minecraft Film (canti I-III)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+This is not just a little example of what you can do with Minecraft, but also a practical demonstration that video games ***can*** be integrated in education, it's not just a theory.
 
 **Helps with**:
 <b class="highlight-box">STEM disciplines</b>,
@@ -105,6 +112,7 @@ just chalk and blackboard.
 <b class="highlight-box">Social Emotional</b>,
 <b class="highlight-box">Equity & Inclusion</b>,
 <b class="highlight-box">Climate & Sustainability.
+
 
 ### Microsoft Flight Simulator (2020)
 
@@ -120,6 +128,7 @@ See the [official website](https://www.flightsimulator.com/) for more info.
 
 **Helps with**: <b class="highlight-box">Geography</b>.
 
+
 ### Beyond Blue
 
 ![Beyond Blue](/sm_blog/assets/images/video-games-at-school-images/beyond-blue.jpg)
@@ -133,6 +142,7 @@ As you are gathering information during gameplay, you'll learn about fast-changi
 Zack Hartzman from Hey Listen Games prepared a [lesson](https://www.heylistengames.org/science/beyond-blue) entirely based on this game and also wrote a post on [Why You Should Teach With Beyond Blue](https://www.heylistengames.org/post/why-you-should-teach-with-beyond-blue) if you are curious. I also recommend you to read this interesting article on this video game by Engadget: ['Beyond Blue' is an educational game about saving the ocean](https://www.engadget.com/2018-06-14-beyond-blue-planet-ocean-game.html?guccounter=1).
 
 **Helps with**: <b class="highlight-box">Biology</b>, <b class="highlight-box">Oceanography</b>.
+
 
 ### Kerbal Space Program
 
@@ -150,6 +160,7 @@ Dan Fullerton, a physics teacher at Irondequoit High School in Rochester, New Yo
 I'll leave the link to the [official website](https://www.kerbalspaceprogram.com/) and an educational [review](https://www.commonsense.org/education/game/kerbal-space-program) of this game by Common Sense Education.
 
 **Helps with**: <b class="highlight-box">STEM disciplines</b>.
+
 
 ###  Portal and Portal 2
 
@@ -170,6 +181,7 @@ I provide a link also to these resources:
 Sadly, the Steam for School initiative launched in 2012 is **now discontinued**. I decided to put this game anyway on the list because it is still a great example of how video games can be integrated with the classroom.
 
 **Helps with**: <b class="highlight-box">STEM disciplines</b>.
+
 
 ### Triseum Games
 
@@ -215,7 +227,7 @@ Reviews about the educational value of this game ⬇️:
 
 This is more of an **interactive textbook** than a game, but it's still fun to experiment with. It's about Earth in all of its geological aspects. You can explore the 5 chapters (Earth's Interior, Surface, Water Cycle, Biomes, and Sandbox) each organized into content areas or mini-lessons, that focus on a particular concept. You are encouraged to interact with the graphics to learn about our planet, exploring features such as volcanoes, dunes, mountains, weather and much more.
 
-The game was created by the developer Chaim Gingold and published on iOS in 2015. Since then the game has remained exclusive to Apple platforms and hasn't made it to Windows and Android, although Chaim said on the [official website](https://www.earthprimer.com/) that he plans to do a Windows version as well. I also recently contacted him for more information about the ports and he kindly replied to me saying that he is "still hoping to get it out the door one day" and hopes "that at some point it will rise in the heap of priorities again". I think it's important for this game to be supported on Windows simply because on desktop and laptop computers, Windows is the most used at 75% market share ([Wikipedia](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#cite_note-3:~:text=For%20desktop%20and%20laptop%20computers%2C%20Windows%20is%20the%20most%20used%20at%2075%25)). The more schools and students can access it, the better!
+The game was created by the developer Chaim Gingold and published on iOS in 2015. Since then the game has remained exclusive to Apple platforms and hasn't made it to Windows and Android, although Chaim said on the [official website](https://www.earthprimer.com/) that he plans to do a Windows version as well. I also recently contacted him for more information about the ports and he kindly replied to me saying that he is "still hoping to get it out the door one day" and hopes "that at some point it will rise in the heap of priorities again". I think it's important for this game to be supported on Windows simply because on desktop and laptop computers, Windows is the most used OS at 75% market share ([Wikipedia](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#cite_note-3:~:text=For%20desktop%20and%20laptop%20computers%2C%20Windows%20is%20the%20most%20used%20at%2075%25)). The more schools and students can access it, the better!
 
 Reviews: [Common sense education review](https://www.commonsense.org/education/app/earth-primer) and [Common sense media review](https://www.commonsensemedia.org/app-reviews/earth-primer)
 
@@ -231,6 +243,21 @@ If you are searching for a game about cryptography, Cypher by Mattew Brown is pr
 The game, released in 2018, is available on PC and can be purchased on [Steam](https://store.steampowered.com/app/746710/Cypher/) at a moderate price.
 
 **Helps with**: <b class="highlight-box">Cryptography</b>.
+
+
+### Little Mouse's Encyclopedia
+
+![Little Mouse's Encyclopedia](/sm_blog/assets/images/video-games-at-school-images/little-mouses-encyclopedia-1.jpg)
+
+This charmingly illustrated game by Circus Atos sends you, an animated mouse, to a journey of discovery through nature, its laws and the primary species of flora and fauna in 4 different illustrated environments.
+
+![Little Mouse's Encyclopedia gameplay example](/sm_blog/assets/images/video-games-at-school-images/little-mouses-encyclopedia-2.jpg)
+<span class="caption">Each animal or plant has an information card (called a "table" in the tutorial) that you can open to learn more. It might label the parts of a plant, talk about where an animal lives and what food eats, or share habits that make a creature unique.</span>
+
+The game is available on almost any platform you can think of (Nintendo Switch, Xbox, Android, iOS, Windows, Mac and Linux) and it's most recommended for children aged between 7 and 12. Don't be biased by the childlike appearance, though: with some guidance and external insights from an adult, this game can teach quite a lot and even inspire young people to appreciate nature and become passionate about its biodiversity.
+[Official website](https://littlemousesencyclopedia.circusatos.com/)
+
+**Helps with**: <b class="highlight-box">Botany</b>, <b class="highlight-box">Zoology</b>, <b class="highlight-box">Ecology</b>.
 
 
 ### Other games
@@ -429,7 +456,7 @@ Anyway, as demonstrated, video games can be helpful in many *many* ways, not jus
 
 If you were initially against my words, hopefully what I've written has changed your vision about video games. I  hope this post will spread my considerations to many other people and will be taken as a stimulus for everyone to slowly make those ideas a reality.
 
-***Edit**: this post will be updated with new video games and other content as I discover more things. The first update includes the addition of Beyond Blue, Valiant Hearts: The Great War, Bad News and new links. The second update adds Earth Primer, Cypher, the section "The perfect educational video game" and corrects some grammar errors.
+***Edit**: this post will be updated with new video games and other content as I discover more things. The first update includes the addition of Beyond Blue, Valiant Hearts: The Great War, Bad News and new links. The second update adds Earth Primer, Cypher, the section "The perfect educational video game" and corrects some grammar errors. The third update adds the Little Mouse’s Encyclopedia game and my short film on The Divine Comedy made in Minecraft.
 <br>
 Enjoy the reading!*
 
