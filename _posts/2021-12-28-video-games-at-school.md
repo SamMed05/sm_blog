@@ -92,7 +92,7 @@ This is the [official website](https://education.minecraft.net/), and at this li
 
 This game works better for younger people, but also students of my age (16/17) and older can benefit from Minecraft and the expressive freedom that it gives to the player.
 
-To provide a real example, my telecommunication professor in this period is teaching me and my classmates the *logic gates*. The interesting thing is that you can make [logic gates in Minecraft](https://youtu.be/9EY_XoEImjM) too, and even with no effort. If just for one day he showed us how they work at school using this game, I can very confidently predict that the level of attention would skyrocket and the same would happen with the understanding of that argument, in comparison with just chalk and blackboard.
+To provide a real example, in this period my electronics and telecommunications engineering teacher is teaching me and my classmates the *logic gates*. Incidentally, you can make working [logic gates in Minecraft](https://youtu.be/9EY_XoEImjM) too (and not only that, but even entire [computers](https://youtu.be/IOoy_eG8efI)!) A clever move could be to take advantage of that and show us, during a lesson, how each gate work using Minecraft instead of chalk and blackboard. Aside from digital benefits like immediate feedback and unlimited, encouraged experimentation thanks to the interactivity that comes with video games, I'm confident to say that the level of attention would skyrocket and, consequently, chances are that the same would happen with the understanding of that topic.
 
 ![Logic gates in Minecraft Reddit](https://i.redd.it/g05ar4oaspt61.png)
 <span class="caption">Logic gates in Minecraft. Source: <a href="https://www.reddit.com/r/Minecraft/comments/msom4m/compact_and_flat_logic_gates/" target="_blank">Reddit</a></span>
@@ -301,6 +301,7 @@ The game is available on almost any platform you can think of (Nintendo Switch, 
 - [Teaching With Video Games: A Strategy Guide](https://www.amazon.com/dp/B09J3FZ8HC/ref=mp_s_a_1_2?dchild=1&keywords=teaching+with+video+games&qid=1633869734&refinements=p_n_publication_date%3A1250226011&rnid=1250225011&s=books&sr=1-2) and [Teaching with Video Games: An English Language Arts Unit](https://www.amazon.com/dp/B09J3F4NHD/ref=mp_s_a_1_1?dchild=1&keywords=teaching+with+video+games&qid=1633869734&refinements=p_n_publication_date%3A1250226011&rnid=1250225011&s=books&sr=1-1) books by Zachary Hartzman.
 - [Production of Creative Game-Based Learning Scenarios - A Handbook for Teachers](https://openlibra.com/en/book/download/production-of-creative-game-based-learning-scenarios)
 - [Teachers as designers of GBL scenarios: fostering creativity in the educational settings](http://www.mifav.uniroma2.it/inevent/events/idea2010/doc/29_1.pdf)
+- [MIT Media Lab - Better Learning in Games: A Balanced Design Lens for a New Generation of Learning Games](https://www.media.mit.edu/publications/better-learning-in-games-a-balanced-design-lens-for-a-new-generation-of-learning-games/)
 
 The topic of educational video games, as you can see, is a giant rabbit hole and going through all of the resources currently available is simply impossible. In this post, I've tried my best to sum up everything so that you don't get lost and can more easily access and navigate towards the information you need. However, if you are interested and eager to go deeper I would be more than happy and I highly encourage you to do so! All links you see are exactly for that purpose 😁.
 
@@ -360,17 +361,26 @@ Putting aside the feasibility, another aspect of educational video games (and [e
 
 Some time ago, I read a post by Nabeel Qureshi titled "[Video Games are the Future of Education](https://nabeelqu.co/education)". In addition to providing me with some food for thought and insights, it also linked an [Hacker News thread](https://news.ycombinator.com/item?id=23593872) with interesting discussions about the presence (or absence) of this fundamental part, the fun part, in educational games.
 
-The main problem to face with this type of game is the prejudices of people. Imagine a teacher that enters a class of young students and said: "*Today we are going to play video games, but not the regular ones: we'll play educational games!*".
+The main problem to face with this type of game is the prejudices of people. Imagine a teacher that enters a class of kids and say something like: "*Today we are going to play video games, but not the regular ones: we'll play educational games!*".
 
-Although I have never had the opportunity to live this (rather particular 😅) experience, I think I can realistically imagine the students' reaction to those words: an initial hype and excitement that suddenly dies out in hearing the word "*educational*".
+Although I have never lived this experience, I think I can realistically imagine the students' reaction to those words: an initial excitement that suddenly dies out in hearing the word "*educational*".
 
 Tying me in with this little peculiar example, I would like to address this point: in practice, **educational games are not as fun as regular ones**. This can be detectable in all kinds of educational video games and especially the younger ages consider these games boring. After all, if children want to have fun they just play fun games, not educational ones, right?
 
-Of course, this impacts the effectiveness of video games at school. **Students usually don't trust teachers when they say that something educational is fun** (like a lesson on a particular topic, not only a digital game), but I think that it wouldn't create as much damage as it seems.
+Of course, this impacts the effectiveness of video games at school. **Students often don't trust teachers when they say that something educational is fun**, but I think that it wouldn't create as much damage as it seems.
 
 You can't expect to have everything. A game can't be very fun and very educational all at the same time (maybe something like that could exist in the future, but achieving it would be very difficult, as I'll explain later), so some adaptations and compromises need to be made.
 
 On the other hand, I think that a bit of fun is present even in the most boring game, and furthermore, I'm sure that gaming is always more engaging and fun than studying alone on books.
+
+Finally, it's very important to avoid ***Chocolate-Covered Broccoli***. What's that? Basically, it's a metaphor for games that aim to be educational but try also to become entertaining by adding trivial, insignificant, pointless and distracting extra features. This *chocolate coating* not only doesn't cover the *smell of broccoli* but also takes away the attention of the students from the educational meaning that we are trying to convey.
+
+Recognizing these games is not always easy and some of them may be abusing more than others of distracting features. In general, a way to avoid them is to choose not video games entirely built for education, but those where learning valuable things is a positive side effect.
+
+Some posts about this issue:
+- [ncase.me - Curse of the Chocolate-Covered Broccoli (or: Emotion in Learning)](https://blog.ncase.me/curse-of-the-chocolate-covered-broccoli-or-emotion-in-learning/)
+- [Edutopia - Why Serious Games Are Not Chocolate-Covered Broccoli](https://www.edutopia.org/blog/serious-games-not-chocolate-broccoli-matthew-farber)
+- [Balcom's Blog - The Myth of Chocolate-Covered Broccoli](http://balcomsblog.blogspot.com/2017/07/the-myth-of-chocolate-covered-broccoli.html)
 
 ### Pros and Cons
 
