@@ -151,7 +151,7 @@ For a real example, this was the **schedule of my third year of *scuola media***
 | Grammar        | French       | Geography     | English       | Religion     | Art             |
 
 {: .box-note}
-<span class="material-icons-outlined">psychology_alt</span> **But what is Italian?** In Italy we study Italian in all its facets: we analyze its grammar, we write essays to train our expression and argumentative skills, we read excerpts from Italian books and we study the Italian works and authors of the past (*Dante Alighieri*, *Petrarca*, *Boccaccio*, *Leopardi*, *Manzoni*, etc). The enormous variety of what we study is the reason why we divide Italian into smaller categories, i.e. Anthology (excerpts from Italian literary works), Grammar and Literature.
+<span class="material-icons-outlined">psychology_alt</span> **But what is Italian?** In Italy we study Italian in all its facets: we analyze its grammar, we write essays to train our expression and argumentative skills, we read excerpts from Italian books and we study the Italian works and authors of the past (*Dante Alighieri*, *Petrarca*, *Boccaccio*, *Leopardi*, *Manzoni*, etc.). The enormous variety of what we study is the reason why we divide Italian into smaller categories, i.e. Anthology (excerpts from Italian literary works), Grammar and Literature.
 
 At the end of the three years, students must take the *esame di terza media* (middle school exam), composed by:
 - written Italian test (write an essay)
@@ -309,8 +309,8 @@ Check this table:
 | Chemistry                                 | 3 (1*) | 3 (1*) | -      | -      | -      |
 | Technology and graphic representation     | 3 (1*) | 3 (1*) | -      | -      | -      |
 | **Information technology**                | 3 (2*) | 3      | 6 (3*) | 6 (3*) | 6 (4*) |
-| **Telecommunications**                    | -      | -      | 3 (2*) | (2*)   | -      |
-| **Systems and networks**                  | -      | -      | 4 (2*) | (2*)   | 4 (2*) |
+| **Telecommunications**                    | -      | -      | 3 (2*) | 3 (2*) | -      |
+| **Systems and networks**                  | -      | -      | 4 (2*) | 4 (2*) | 4 (2*) |
 | **ICT systems design**                    | -      | -      | 3 (1*) | 3 (2*) | 4 (1*) |
 | Project management, business organization | -      | -      | -      | -      | 3 (2*) |
 | Physical Education                        | 2      | 2      | 2      | 2      | 2      |
@@ -414,7 +414,7 @@ const chart3 = new Chart(ctx3, {
   type: 'doughnut',
   data: {
     labels: [
-      'Technoogical sector',
+      'Technogical sector',
       'Economic sector'
     ],
     datasets: [{
@@ -497,7 +497,10 @@ Such participation must be authorized by the institute council.
 
 Since primary school, every student receives at the end of the year or the end of a certain period an evaluation of his "performance" at school. This periodic evaluation is expressed in the *pagella* (or *scheda di valutazione*, evaluation form), a document which summarizes the academic results of students, for single subjects and overall, with or without numbers.
 
-School is usually divided in two sections: two quarters (4 + 4 months), a quarter/five months (3 + 5 months) or two months/semester (2 + 6 months).
+School is usually divided in two sections:
+- two four-month periods (each one called *quadrimestre*)
+- a four-month period + a five-month period (*pentamestre*)
+- a two-month period + a six-month period/semester (*bimestre* + *semestre*).
 
 At the end of the first section, all students receive an evaluation limited to that first period. At the end of the year, they receive a *pagella* with evaluations that consider the second section but also the entire school year.
 
@@ -507,11 +510,25 @@ For primary school, grades are all non-numeric and are 4:
 - *Intermedio* (intermediate): the pupil completes tasks in known situations autonomously and continuously; solves tasks in unknown situations, using the resources provided by the teacher or found elsewhere, even if in a discontinuous and not completely autonomous way.
 - *Avanzato* (advanced): the pupil completes tasks in known and unknown situations, mobilizing a variety of resources both provided by the teacher and found elsewhere, independently and continuously.
 
-For *superiori*, grades can be non-numeric values for subjects like religion and to express a very low value ("not classifiable", NC for short, equivalent to a very serious insufficiency) or, for all the other cases, **numbers ranging from 2 to 10**. 6 is the threshold of sufficiency, meaning that you must stay above that mark on average to be sufficient on a subject and ultimately pass the school.
+For *superiori*, grades can be non-numeric values for subjects like religion and to express a very low value ("not classifiable", NC for short, equivalent to a very serious insufficiency<span class="tooltip">`*`<span class="tooltiptext">Practically 0</span></span>) or, for all the other cases, **numbers ranging from 2 to 10**<span class="tooltip">`*`<span class="tooltiptext">Even if technically they are from 1 to 10, numbers lower than 2 are very, very rarely used for grades</span></span>. 6 is the threshold of sufficiency, meaning that you must stay above that mark on average to be sufficient on a subject and ultimately pass the school.
+
+| Grade                 |Value|
+|-----------------------|-----|
+| Excellent             | 10  |
+| Very good             | 9   |
+| Good                  | 8   |
+| Discreet/fair         | 7   |
+| Sufficient            | 6   |
+| Insufficient          | 5   |
+| Severely insufficient | 3-4 |
+| Totally negative      | 1-2 |
+| Not classifiable      | 0   |
+
+<span class="caption">Grades in non-numeric form and their equivalents.</span>
 
 Students with many insufficient grades/marks on one or more subjects have to do a thing called *recupero* (recovery), meaning that they have to study again some topics and take a new test to attempt to improve and recover their previous low results. *Recupero* can happen individually or with the help of the teacher and during the school year or during the holiday.
 
-Very important in the pagella is also the evaluation of the conduct of a student. Everything is established in the 'Statute of students of secondary school', by the 'Educational Co-responsibility Agreement', signed by students and families at the time of enrollment, and by the regulations of each school[^6].
+Very important in the pagella is also the evaluation of the conduct of a student. Everything is established in the "*Statute of students of secondary school*", by the "*Educational Co-responsibility Agreement*", signed by students and families at the time of enrollment, and in the regulations of each school[^6].
 
 <details>
     <summary>Insights</summary>
@@ -530,7 +547,7 @@ Very important in the pagella is also the evaluation of the conduct of a student
 
     <p>The family is committed to:</p>
     <ul>
-    <li>share the school&#39;s training plan also by talking about it with your child</li>
+    <li>share the school's training plan also by talking about it with their child</li>
     <li>share the educational guidelines of the school</li>
     <li>keep informed about the educational path of their child</li>
     <li>empower the child to behave respectfully and to pay attention to communications from the school (inviting the child to reflect and change his attitudes in the event of disciplinary measures)</li>
@@ -546,7 +563,6 @@ Very important in the pagella is also the evaluation of the conduct of a student
 
 </details>
 
-
 [MIUR guidelines (🇮🇹)](https://www.miur.gov.it/web/guest/scuola-secondaria-di-secondo-grado)
 
 [Wikipedia (🇮🇹)](https://it.wikipedia.org/wiki/Scuola_secondaria_di_secondo_grado_in_Italia)
@@ -556,6 +572,21 @@ Very important in the pagella is also the evaluation of the conduct of a student
 [Spazio Consulte - La Rappresentanza a Scuola (🇮🇹)](http://www.spazioconsulte.it/webi/it/rappresentanza-a-scuola/)
 
 [Evaluation - MIUR (🇮🇹)](https://www.miur.gov.it/valutazione)
+
+
+#### Tests
+
+Tests have the purpose of evaluating students' knowledge and understanding. Every teacher of every subject has to do a certain number of tests per period based on how many hours they have per week and the nature of their subject.
+
+Tests can be of 3 types, all equally important:
+1. written (when it requires the student to use the pen)
+2. oral (when the test requires the student to speak to the teacher or to the class)
+3. practical (when it evaluates the execution of experiments at the laboratory, programming at the computer, technical design, drawings, etc.)
+
+
+### Vacations
+
+Every year, all students of every age and school have two weeks of vacation from December 24 to January 7 for the Christmas holidays, about a week during Easter and three months from min-June to mid-September for the Summer holidays. There are also other free days during the year for special events such as Halloween, Carnival, Italian Republic Day and a few others.
 
 
 ### <span class="material-icons">speaker_notes</span> Footnotes:

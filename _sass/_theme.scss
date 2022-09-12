@@ -14,6 +14,7 @@ body {
   width: 90%;
   max-width: 1050px;
   margin: 0 auto;
+  overflow-x: hidden;
 }
 
 // Hide this element when printing the page
@@ -178,11 +179,14 @@ details[open] summary {
   border-radius: 7px 7px 0 0;
 }
 
-details ul {
+details ul, details ol {
+  //margin-left: 3vw;
   margin-left: 2rem;
 }
-details ol {
-  margin-left: 2rem;
+@media only screen and (max-width: 639px) {
+  details ul, details ol {
+    margin-left: .2rem;
+  }
 }
 
 // From https://www.joshwcomeau.com/css/styling-ordered-lists-with-css-counters/
@@ -500,6 +504,7 @@ input[type=checkbox]:checked:before {
   //background: $featureBackgroundColour;
   background-size: cover;
   background-position: center;
+  max-height: 60vw;
   //-webkit-mask-image:-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)));
   //mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
   .container {
