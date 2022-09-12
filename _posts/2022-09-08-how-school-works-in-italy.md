@@ -433,6 +433,65 @@ const chart3 = new Chart(ctx3, {
 
 <br>
 
+#### Credits and final exam
+
+During the last three years of *scuola superiore*, students can receive a limited number of bonus points called *crediti* (credits) for extracurricular activities they have participated in or for having good grades.
+
+At the end of *superiori*, student must take a final exam, the exam of maturity (or graduation exam, called *Esame di Stato* or *Esame di maturità* in Italian), which is composed by 3 written tests and 1 oral examination. The credits they have collected over the years add up to the final score.
+
+The maximum grade is 100, the minimum to pass the exam is 60. As of 2022, the two written tests and the oral interview are evaluated up to a maximum of 50 points in total (15 for the first written test + 10 for the second + 15 for the oral test = 50), while the maximum score deriving from the credits is 50 (50 + 50 = 100).
+
+| Grade average | Year 3 credit range | Year 4 credit range | Year 5 credit range |
+|---------------|---------------------|---------------------|---------------------|
+| A < 6         | -                   | -                   | 7-8                 |
+| A = 6         | 7-8                 | 8-9                 | 9-10                |
+| 6 < A ≤ 7     | 8-9                 | 9-10                | 10-11               |
+| 7 < A ≤ 8     | 9-10                | 10-11               | 11-12               |
+| 8 < A ≤ 9     | 10-11               | 11-12               | 13-14               |
+| 9 < A ≤ 10    | 11-12               | 13-14               | 14-15               |
+
+This table above is the traditional credit table for a maximum of 40 credits. Since in 2022 total credits are 50, you have do the total and then use this conversion table to convert the value obtained to the current maximum of 50 credits:
+
+| Credits in base 40 | Credits in base 50 |
+|--------------------|--------------------|
+| 21                 | 26                 |
+| 22                 | 28                 |
+| 23                 | 29                 |
+| 24                 | 30                 |
+| 25                 | 31                 |
+| 26                 | 33                 |
+| 27                 | 34                 |
+| 28                 | 35                 |
+| 29                 | 36                 |
+| 30                 | 38                 |
+| 31                 | 39                 |
+| 32                 | 40                 |
+| 33                 | 41                 |
+| 34                 | 43                 |
+| 35                 | 44                 |
+| 36                 | 45                 |
+| 37                 | 46                 |
+| 38                 | 48                 |
+| 39                 | 49                 |
+| 40                 | 50                 |
+
+{: .box-warning}
+<span class="material-icons-outlined">report_problem</span> **Warning:** The credit system is very dynamic and often changes from year to year. That's why you may be confused by the 40-50 base conversion. Take these credit tables as just examples for how the credit system works, but not as official and working content.
+
+
+
+#### Tests
+
+Tests have the purpose of evaluating students' knowledge and understanding. They are usually very frequent and every teacher of every subject has to do a certain number of tests per period based on how many hours they have per week and the nature of their subject.
+
+Tests can be of 3 types, all equally important:
+1. written (when it requires the student to use the pen)
+2. oral (when the test requires the student to speak to the teacher or to the class)
+3. practical (when it evaluates the execution of experiments at the laboratory, programming at the computer, technical design, drawings, etc.)
+
+
+
+
 #### Institute governance organization and representation
 
 *Scuola superiore* has a very articulated internal organization, regulated by an important law promulgated on 16 April 1994: the legislative decree 297/94, in Italian "***Decreto Legislativo 297/94*** *- Testo Unico delle disposizioni legislative in materia di istruzione, relative alle scuole di ogni ordine e grado*".
@@ -574,20 +633,30 @@ Very important in the pagella is also the evaluation of the conduct of a student
 [Evaluation - MIUR (🇮🇹)](https://www.miur.gov.it/valutazione)
 
 
-#### Tests
-
-Tests have the purpose of evaluating students' knowledge and understanding. Every teacher of every subject has to do a certain number of tests per period based on how many hours they have per week and the nature of their subject.
-
-Tests can be of 3 types, all equally important:
-1. written (when it requires the student to use the pen)
-2. oral (when the test requires the student to speak to the teacher or to the class)
-3. practical (when it evaluates the execution of experiments at the laboratory, programming at the computer, technical design, drawings, etc.)
-
-
 ### Vacations
 
 Every year, all students of every age and school have two weeks of vacation from December 24 to January 7 for the Christmas holidays, about a week during Easter and three months from min-June to mid-September for the Summer holidays. There are also other free days during the year for special events such as Halloween, Carnival, Italian Republic Day and a few others.
 
+
+### University (higher education)
+
+If students they pass the final exam, they'll receive a degree of maturity (*diploma di maturità*) that will allow you to have access to university.
+
+University is divided into three cycles:
+1. **First cycle**: is made up of first level degree courses and leads to the "*laurea triennale*". As its name suggest, it lasts 3 years. There’s a wide and diverse selection of Italian universities like:
+    1. scientific departments (Mathematics, Physics, Astrophysics, Chemistry…)
+    2. humanities faculty (Literatures, Philosophy, Foreign Languages, Cultural Heritage…)
+    3. technical faculties (Architecture, Engineering, Economy…)
+2. **Second cycle**: includes master's degree courses that leads to the "*laurea magistrale*" or "*specialistica*" (second level degree). It usually lasts 2 years and it's the continuation of the first cycle to ensure the students a higher level of specialization. However, there are some courses (Faculty of law, Faculty of Pharmacy, Construction Engineering, Architecture etc) that last 5 years (6 years as regards Med School) and take the name of "*Corsi di Laurea a ciclo unico*" (Single Cycle Degree Course)
+3. **Third cycle**: it includes:
+    1. master: they're usually short courses of study that offer the opportunity (to those who are interested) to deepen some specific aspects of the subject studied during the first two cycles.
+    2. specialization schools: they provide knowledge and skills to carry out highly qualified professional activities, particularly in the field of medical, clinical and surgical specialties. The duration of the studies varies from 2 to 6 years.
+    3. doctoral degrees (Ph.D. or PhD): they're theoretical courses, that are perfect for those who desire a career in the academic field or in the field of research. The PhD student must prepare an original research thesis and discuss it during a final exam.
+
+Almost all universities are State-owned and jointly funded by the State and, to a lesser extent, by students through university fees. Some scholarships are available for particularly deserving students and/or from low-income families.
+
+[Wikipedia - Higher education in Italy](https://en.wikipedia.org/wiki/Education_in_Italy)
+[Wikipedia - Education in Italy (Summary table)](https://en.wikipedia.org/wiki/Education_in_Italy#Summary)
 
 ### <span class="material-icons">speaker_notes</span> Footnotes:
 
