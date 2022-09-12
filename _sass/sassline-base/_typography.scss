@@ -270,18 +270,41 @@ a {
 
   // Tables.
   table {
-    @include sassline(eta, $headingtype, 2, 0, all);
+    @include sassline(eta, $headingtype, 1.5, 0, all);
 
     font-family: unquote(map-get($headingtype, font-family));
     font-feature-settings: 'liga', 'lnum', 'tnum', 'kern';
     font-style: normal;
     font-weight: map-get($headingtype, regular);
     width: 100%;
+    //border: 1px solid;
+    border-collapse: collapse;
+    margin-bottom: 1rem !important;
+    display: block;
+    overflow-x: auto;
+
+    th, td {
+      padding:.25em .5em;
+      text-align:left;
+      border: 3px solid white;
+      font-size: 1rem;
+    }
+    tbody tr {
+      background-color: #f7f7f7;
+    }
+    tbody tr:nth-child(odd) {
+      background-color: #e6e6e6;
+    }
+    th {
+      background-color: $hoverColour;
+      color: #fff;
+      font-weight: bold;
+    }
 
     thead {
 
       th {
-        @include sassline(zeta, $headingtype, 2, 0, all);
+        @include sassline(zeta, $headingtype, 1.5, 0, all);
         padding-bottom: 1px;
       }
     }

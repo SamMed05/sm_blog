@@ -132,24 +132,57 @@ body::-webkit-scrollbar-thumb {
 
 // Accordion
 details {
-    //border: 0px solid #000000;
-    border-radius: 4px;
-    //padding: .5em .5em 0;
+  border: 0px solid $linkColour;
+  border-radius: 9px;
+  padding: .5em .5em 0;
+  margin-bottom: 1rem;
 }
 
 summary {
-    //margin: -.5em -.5em 0;
-    //padding: .5em;
-    cursor: pointer;
+  color: white;
+  font-weight: bold;
+  margin: -.5em -.5em 0;
+  padding: .5em;
+  cursor: pointer;
+  border-radius: 7px;
+  background: linear-gradient(-45deg, $headingColour, $linkColour, #23a6d5, #23d5ab);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+  margin-bottom: 1rem;
+}
+summary::before {
+  content: "☇";
+  margin-right: 6px;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
 }
 
 details[open] {
-    //padding: .5em;
+  padding: .5em;
+  border: 2px solid $linkColour;
 }
 
 details[open] summary {
-    //border: 0px solid #000000;
-    //margin-bottom: .5em;
+  border-bottom: 2px solid $linkColour;
+  margin-bottom: .5em;
+  border-radius: 7px 7px 0 0;
+}
+
+details ul {
+  margin-left: 2rem;
+}
+details ol {
+  margin-left: 2rem;
 }
 
 // From https://www.joshwcomeau.com/css/styling-ordered-lists-with-css-counters/
@@ -398,6 +431,18 @@ input[type=checkbox]:checked:before {
   display: inline;
 }
 .material-sharp {
+  vertical-align: -20%;
+  font-size: 1.2em;
+  display: inline;
+}
+
+// Material symbols (new name)
+.material-symbols {
+  vertical-align: -20%;
+  font-size: 1.2em;
+  display: inline;
+}
+.material-symbols-outlined {
   vertical-align: -20%;
   font-size: 1.2em;
   display: inline;
