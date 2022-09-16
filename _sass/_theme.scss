@@ -5,18 +5,23 @@ body {
   height: 100%;
   display: flex;
   @include flex-direction(column);
-  overflow-x: hidden;
   //-webkit-filter: grayscale(100%);
   //filter: grayscale(100%);
+}
+
+// disable horizontal scroll on mobile
+html, body {
+  overflow-x: hidden;
+}
+body {
+  position: relative;
 }
 
 .container {
   width: 90%;
   max-width: 1050px;
   margin: 0 auto;
-  overflow-x: hidden;
 }
-
 // Hide this element when printing the page
 @media print {
     .no-print, .no-print * {
@@ -24,17 +29,19 @@ body {
     }
 }
 
-// Custom scrollbar
-body::-webkit-scrollbar {
-  width: 13px;               /* width of the entire scrollbar */
-}
-body::-webkit-scrollbar-track {
-  background: #ebedf0;        /* color of the tracking area */
-}
-body::-webkit-scrollbar-thumb {
-  background-color: #99a3a8;    /* color of the scroll thumb */ //#7b848c
-  border-radius: 5px;       /* roundness of the scroll thumb */
-  border: 2px solid #ebedf0;  /* creates padding around scroll thumb */
+@media screen and (min-width: 640px) {
+  // Custom scrollbar
+  body::-webkit-scrollbar {
+    width: 13px;               /* width of the entire scrollbar */
+  }
+  body::-webkit-scrollbar-track {
+    background: #ebedf0;        /* color of the tracking area */
+  }
+  body::-webkit-scrollbar-thumb {
+    background-color: #99a3a8;    /* color of the scroll thumb */ //#7b848c
+    border-radius: 5px;       /* roundness of the scroll thumb */
+    border: 2px solid #ebedf0;  /* creates padding around scroll thumb */
+  }
 }
 
 // Tooltip
