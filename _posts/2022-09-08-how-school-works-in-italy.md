@@ -274,7 +274,7 @@ In this type of school, laboratory is the prevalent activity and practical educa
 {: .box-note}
 <span class="material-icons-outlined">info</span> **Note:** At the moment of writing, I'm going to start my fourth year of education in an *istituto tecnico* with a specialization in ICT/Computer Science. Having quite a lot of experience with this type of school, that's the one I can give you more information.
 
-*Istituto tecnico* (technical institute) is a compromise between the *liceo* and the professional school: it offers both a wide theoretical education and a practical specialization in a specific field of study. It also integrates three to six months of internship (called "*alternanza scuola-lavoro*" in Italian) in a company, association or university from the third to the fifth and last year of study.
+*Istituto tecnico* (technical institute) is a compromise between the *liceo* and the professional school: it offers both a wide theoretical education and a practical specialization in a specific field of study.
 
 *Indirizzi* of technical institutes are divided into 2 sectors, economic and technologic, further divided into the following specializations:
 
@@ -285,7 +285,7 @@ In this type of school, laboratory is the prevalent activity and practical educa
     1. *Meccanica, Meccatronica ed Energia* (Mechanics, Mechatronics and Energy): it aims to train professionals able to design and build mechanical and electromechanical systems. All in compliance with industry regulations.
     2. *Trasporti e Logistica* (Transportation and Logistics): it allows you to deepen the construction and management of naval, land and air transport systems, in compliance with national, EU and international standards.
     3. *Elettronica ed Elettrotecnica* (Electronics and Electrical Engineering): it teaches to understand the fields of electronics, robotics applied to production processes and industrial automation.
-    4. ***Informatica e Telecomunicazioni*** (ICT): to enter the world of communications and information technology, understand the rules that govern it and the technologies used.
+    4. *Informatica e Telecomunicazioni* (ICT)<span class="tooltip">`*`<span class="tooltiptext">I attend this indirizzo</span></span>: to enter the world of communications and information technology, understand the rules that govern it and the technologies used.
     5. *Grafica e Comunicazione* (Graphics and Communication): to enter the world of personal and mass communication and understand how it develops through graphics, multimedia languages ​​and new technologies.
     6. *Chimica, Materiali e Biotecnologie* (Chemistry, Materials and Biotechnology): to learn how to manage the chemical-biological processes to be adopted in the research, pharmaceutical, food, environmental, dyeing and leather treatment sectors. With a focus on environmental protection and health.
     7. *Sistema Moda* (Fashion system): it trains professionals in the fashion industry to conceive, design, manufacture and promote textile, clothing and footwear products.
@@ -552,11 +552,29 @@ Two (but sometimes three or more) times a year the two class representatives hav
 *Assemblea di classe* is one of the two student assemblies. The other one is called *assemblea d'istituto*, which can last a whole school day and is a moment when all the students come together to discuss the school situation according to a defined program. It's also possible to request the participation of experts in social, cultural, artistic and scientific problems, indicated by the students together with the topics to be included in the agenda.
 Such participation must be authorized by the institute council.
 
+#### PCTO
+
+Since 2003, to facilitate the acquisition of professional work/job experience while still in school, all types of upper secondary school (*licei*, *istituti tecnici* and *istituti professionali*) have introduced a new teaching methodology called PCTO.
+
+PCTO is an acronym for "*Percorsi per le Competenze Trasversali e l'Orientamento*" (previously called "*alternanza scuola-lavoro*") and it consists in one or multiple short-term internships in a company, association or another body (whether public or private) that can happen from the third to the fifth and last year of study. Also some extra-curricular activities different from internships count as PCTO (like afternoon courses).
+
+An equivalent of PCTO would be known as *[cooperative education](https://en.wikipedia.org/wiki/Cooperative_education)*, *work-integrated learning* or *experiential learning* in other countries.
+
+It is mandatory to reach a certain minimum number of total hours of PCTO (in all 3 years combined) which varies for each school type:
+
+- 90 hours for *licei*
+- 150 hours for *istituti tecnici*
+- 210 hours for *istituti professionali*
+
+Generally there is no form of remuneration or reimbursement of expenses. PCTO projects can be carried out both during the school year, during class hours or in the afternoon, and during vacation periods.
+
+More detailed information about PCTO can be found [here](https://www.studenti.it/alternanza-scuola-lavoro.html).
+
 ### Evaluation and grading system
 
 Since primary school, every student receives at the end of the year or the end of a certain period an evaluation of his "performance" at school. This periodic evaluation is expressed in the *pagella* (or *scheda di valutazione*, evaluation form), a document which summarizes the academic results of students, for single subjects and overall, with or without numbers.
 
-School is usually divided in two sections:
+School is usually divided in two sections, or **semesters**:
 - two four-month periods (each one called *quadrimestre*)
 - a four-month period + a five-month period (*pentamestre*)
 - a two-month period + a six-month period/semester (*bimestre* + *semestre*).
