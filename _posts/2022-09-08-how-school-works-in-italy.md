@@ -549,8 +549,14 @@ After being elected, class representatives should do, usually two times a year (
 
 Two (but sometimes three or more) times a year the two class representatives have to participate in the *consiglio di classe* (class or student council) together with all teachers and two parent representatives, where they report the problems that came out during the class assembly. The teachers, instead, inform class representatives about the overall class trend, warn about insufficiencies, organize and if requested modify the planning of the lessons, of the tests and of the study load and talk about projects and school trips.
 
-*Assemblea di classe* is one of the two student assemblies. The other one is called *assemblea d'istituto*, which can last a whole school day and is a moment when all the students come together to discuss the school situation according to a defined program. It's also possible to request the participation of experts in social, cultural, artistic and scientific problems, indicated by the students together with the topics to be included in the agenda.
-Such participation must be authorized by the institute council.
+*Assemblea di classe* is one of the two student assemblies. The other one is called *assemblea d'istituto*, which can last a whole school day and is a moment when all the students come together to discuss the school situation according to a defined program. It's chaired by the "*rappresentanti d'istituto*" or "*rappresentanti degli studenti*" (literally translated as "student representatives" and quite equivalent to the [student government president](https://en.wikipedia.org/wiki/Student_government_president) for other countries).
+
+{: .box-note}
+<span class="material-icons-outlined">info</span> **Note:** If you are confused by all these similar but different names, I get it. Me and my classmates were initially confused, too.
+
+In the *assemblea d'istituto* is also possible to request the participation of experts in social, cultural, artistic and scientific problems, indicated by the students together with the topics to be included in the agenda. Such participation must be authorized by the institute council.
+
+Every student from the third year onwards can run for student representative and there are 3 (for schools with less than 500 total students) or 4 (500 or more) candidates to elect. Student representative form different groups and then each one during the *consiglio d'istituto* makes a speech in front of all the students where they set out their objectives, intentions and proposals for the school year in question. This usually happens in October in conjunction with the election of class candidates.
 
 #### PCTO
 
