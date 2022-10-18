@@ -511,11 +511,11 @@ input[type=checkbox]:checked:before {
   //background: $featureBackgroundColour;
   background-size: cover;
   background-position: center;
-  max-height: 60vw;
+  max-height: 35vw;
   //-webkit-mask-image:-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)));
   //mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
   .container {
-    min-height: 40vh;
+    min-height: 50vh;
     max-width: 60%;
     @include flex-direction(column);
     @include justify-content(center);
