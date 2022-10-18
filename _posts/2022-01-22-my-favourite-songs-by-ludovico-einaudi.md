@@ -7,6 +7,16 @@ categories: Music
 
 A list of my personal favourite Ludovico Einaudi's songs of all time.
 
+#### <span class="material-symbols-outlined">toc</span> Table of contents
+{% unless page.notoc %}
+<div id="inline_toc" markdown="1">
+
+* TOC
+{:toc}
+
+</div>
+{% endunless %}
+
 Ludovico Einaudi is by far my favourite composer, and the more I listen to his songs, the more I struggle to find the best one. It's hard to choose just one, but among all those he created the list above represents what I personally consider the bests. For each song, I also analyse it explaining why it is special and what aspects I like the most.
 
 ### <span class="material-icons">music_note</span> 1. Experience
@@ -155,7 +165,7 @@ The song is still the same, but they all have a different character, with variat
 
 *Album: Seven Days Walking. Year: 2019.*
 
-### Other songs:
+### Other songs
 
 There are many other songs that I excluded from the list. These are some honourable mentions:
 

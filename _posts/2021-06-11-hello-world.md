@@ -7,6 +7,16 @@ categories: Life-lessons Habits Motivation
 
 In the following post I'm going to introduce this blog and talk a bit about myself and plans for the future.
 
+#### <span class="material-symbols-outlined">toc</span> Table of contents
+{% unless page.notoc %}
+<div id="inline_toc" markdown="1">
+
+* TOC
+{:toc}
+
+</div>
+{% endunless %}
+
 The intention of writing a blog has been in my head for a long time: sometimes I need to pause and meditate, and I thought writing was a good way to do it. <br>
 Usually I'm not a procrastinator, but between uncertainties about *when* to write, *what* to write and *what* technologies to use, I always postponed this idea. <br>
 Anyway, my name is Samuel Mediani, I'm currently a 16-year-old student from Italy and I'm mainly passionate about music, programming (as you have probably guessed from the image at the top), game development and a bunch of other things.

@@ -10,6 +10,16 @@ The Italian school system and how school works in Italy in general as of 2022, a
 {: .box-note}
 <span class="material-icons-outlined">info</span> **Note:** In Italy, schools can be public (the state finances the economic needs of the structure) and private (you have to pay to attend those schools). Since I have no experience with private schools and they are not very common compared to public education, I won't talk about them. The same goes for night school (*scuola serale*).
 
+#### <span class="material-symbols-outlined">toc</span> Table of contents
+{% unless page.notoc %}
+<div id="inline_toc" markdown="1">
+
+* TOC
+{:toc}
+
+</div>
+{% endunless %}
+
 School in Italy is regulated by the MIUR, the *Ministry of Education, University and Research*. An overview of the school system in Italy is present in Eurydice ([link](https://eurydice.eacea.ec.europa.eu/national-education-systems/italy/italy)), a network whose task is to explain how education systems are organized in Europe and how they work. In this post you'll find a similar but more detailed explanation.
 
 Compulsory school starts at **age 6** and ends at **age 16**, but normally students attend school for more than 10 years (we'll see how in a moment).
@@ -667,7 +677,8 @@ Very important in the pagella is also the evaluation of the conduct of a student
 Every year, all students of every age and school have two weeks of vacation from December 24 to January 7 for the Christmas holidays, about a week during Easter and three months from min-June to mid-September for the Summer holidays. There are also other free days during the year for special events such as Halloween, Carnival, Italian Republic Day and a few others.
 
 
-### University (higher education)
+## <span class="material-icons-outlined">school</span> Higher education
+### 5. University (higher education)
 
 If students they pass the final exam, they'll receive a degree of maturity (*diploma di maturità*) that will allow you to have access to university.
 

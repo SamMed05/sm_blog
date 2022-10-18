@@ -10,6 +10,16 @@ This special post contains a list of educational games (also called serious game
 {: .box-note}
 <span class="material-icons-outlined">info</span> This post talks about video games, but don't worry if you are not an expert! You don't need prior knowledge or experience in them. Just knowing a general definition of video games and some examples is enough.
 
+#### <span class="material-symbols-outlined">toc</span> Table of contents
+{% unless page.notoc %}
+<div id="inline_toc" markdown="1">
+
+* TOC
+{:toc}
+
+</div>
+{% endunless %}
+
 With the rising popularity of video games, playing them has become a normal activity for millions of us all over the world. They are popular at every age but especially people of younger generations love them, me included.
 
 I'm not inventing that: today, according to ESA (Entertainment Software Association), nearly 227 million Americans (69% of all USA population) play video games and three-quarters of kids under 18 play them weekly! I encourage you to read the [source](https://www.theesa.com/resource/2021-essential-facts-about-the-video-game-industry/) for more interesting stats. Furthermore, in 2018, the Pew Research Center reported in an article ([Teens, Social Media and Technology 2018](https://www.pewresearch.org/internet/2018/05/31/teens-social-media-technology-2018/)) that 83% of teen girls and 97% of teen boys played video games (whether on a computer, game console or smartphone).
@@ -471,7 +481,7 @@ If you were initially against my words, hopefully what I've written has changed 
 Enjoy the reading!*
 
 
-## <span class="material-icons">speaker_notes</span> Footnotes:
+### <span class="material-icons">speaker_notes</span> Footnotes:
 
 [^1]: [Studiosity - Surprisingly Educational Games: Kerbal Space Program](https://www.studiosity.com/blog/surprisingly-educational-games-kerbal-space-program)
 [^2]: [PC Gamer - Kerbal Space Program blasts into physics classroom as an end-of-year project](https://www.pcgamer.com/kerbal-space-program-blasts-into-physics-classroom-as-an-end-of-year-project/)

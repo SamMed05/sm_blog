@@ -1032,3 +1032,25 @@ pre code {
     overflow-x: scroll;
   }
 }
+
+#inline_toc {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+#inline_toc li {
+  font-size: .98rem;
+  margin-bottom: 1.5;
+  line-height: 1.5;
+}
+#inline_toc li::before {
+  content: ''; // or url('../assets/images/svg-list-arrow.svg'); or '•'
+  display: inline-block;
+  //width: 1.8rem;
+  //height: 1rem;
+  //margin-left: -1.8rem;
+  color: $linkColour;
+}
+// remove first TOC link
+/*#inline_toc > li:first-child {
+  display: none;
+}*/

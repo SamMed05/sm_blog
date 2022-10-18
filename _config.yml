@@ -47,6 +47,7 @@ github_username:  SamMed05
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-toc
 #  - jekyll-remote-theme
 
 #paginate: 2
