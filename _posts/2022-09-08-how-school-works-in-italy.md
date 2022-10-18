@@ -678,9 +678,9 @@ Every year, all students of every age and school have two weeks of vacation from
 
 
 ## <span class="material-icons-outlined">school</span> Higher education
-### 5. University (higher education)
+### 5. Università
 
-If students they pass the final exam, they'll receive a degree of maturity (*diploma di maturità*) that will allow you to have access to university.
+If students they pass the final exam, they'll receive a degree of maturity (*diploma di maturità*) that will allow you to have access to university (*università* in Italian).
 
 University is divided into three cycles:
 1. **First cycle**: is made up of first level degree courses and leads to the "*laurea triennale*". As its name suggest, it lasts 3 years. There’s a wide and diverse selection of Italian universities like:
