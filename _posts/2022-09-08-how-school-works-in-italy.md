@@ -224,6 +224,9 @@ I said that for students there is the possibility to choose which type of school
 
 There are 3 types of institutes, each united by a general area, with common disciplines such as Italian, History, English, Mathematics and Science but deferred by the specific set of skills that the student acquires in the five years. In short, every school is specialized in a certain topic, but the main disciplines are common to every type of school.
 
+{: .box-note}
+<span class="material-icons-outlined">info</span> **Note:** For translation reasons, I will use the word "institute" and "school" interchangeably. Remember that when I write "institute" I mean the same thing as with "school".
+
 The 3 types of schools are the following:
 1. *Liceo* (lyceum)
 2. *Istituto tecnico* (technical institute)
@@ -489,7 +492,6 @@ This table above is the traditional credit table for a maximum of 40 credits. Si
 <span class="material-icons-outlined">report_problem</span> **Warning:** The credit system is very dynamic and often changes from year to year. That's why you may be confused by the 40-50 base conversion. Take these credit tables as just examples for how the credit system works, but not as official and working content.
 
 
-
 #### Tests
 
 Tests have the purpose of evaluating students' knowledge and understanding. They are usually very frequent and every teacher of every subject has to do a certain number of tests per period based on how many hours they have per week and the nature of their subject.
@@ -500,9 +502,7 @@ Tests can be of 3 types, all equally important:
 3. practical (when it evaluates the execution of experiments at the laboratory, programming at the computer, technical design, drawings, etc.)
 
 
-
-
-#### Institute governance organization and representation
+#### School governance organization and representation
 
 *Scuola superiore* has a very articulated internal organization, regulated by an important law promulgated on 16 April 1994: the legislative decree 297/94, in Italian "***Decreto Legislativo 297/94*** *- Testo Unico delle disposizioni legislative in materia di istruzione, relative alle scuole di ogni ordine e grado*".
 
@@ -548,6 +548,12 @@ For *superiori* (upper secondary schools) these are the collegial bodies, their 
     </tr>
 </table>
 
+It's not all: there are many other councils, commissions and groups in the Italian school system. For example, if we go beyond of the scope of the individual school, two students for each school of every province<span class="tooltip">`*`<span class="tooltiptext">An area in which each region of Italy is subdivided</span></span> can take part with a two-year mandate (after being elected by the other students) to the so called *consulta provinciale degli studenti* (provincial student council) where they can represent students, coordinate projects and formulate proposals in collaboration with other schools at a provincial and regional level but eventually even nationwide[^6].
+
+Since it can get complicated very quickly and it's not particularly relevant for this post, I'm not going into much detail. For those who are interested, a more comprehensive explanation of the levels of student representation and the hierarchy of these bodies can be found on [spazioconsulte.it](https://www.spazioconsulte.it/webi/it/la-rappresentanza/) website.
+
+Let's focus on the local scope of upper secondary schools/*superiori*.
+
 #### Class organization
 Students of *superiori* have much more representation and influence on the system, if we take into comparison middle and primary school. As you have seen, there are **class representatives** to make that happen, but what do they do exactly? Having been a class representative for the last 3 years, I can explain their election and duties in detail.
 
@@ -569,9 +575,23 @@ In the *assemblea d'istituto* (which can take place a maximum of 4 times a year)
 
 Every student (alone or in a group) from the third year onwards<span class="tooltip">`*`<span class="tooltiptext">Technically there isn't a age limit, but usually no one applies for school/student representation in the first two years</span></span> can run for student representative. There are 3 (for schools with less than 500 total students) or 4 (500 or more) candidates to elect.
 
-Future student representatives usually form different groups (forming an electoral roll) or run individually and then each of them during the *consiglio d'istituto* makes a speech in front of all the students where they set out their objectives, intentions and proposals for the school year in question.
+Future student representatives usually form different groups (forming an electoral roll/list) or run individually and then each of them during the *assemblea d'istituto* makes a speech in front of all the students setting out objectives, intentions and proposals for the school year in question.
 
-Before the elections, it is allowed to hang bill and posters but also to distribute leaflets, brochures and use other means of electoral propaganda in the school to spread the ideas of each list among the students. All this usually happens in October in conjunction with the election of class candidates.
+Before the elections, it is allowed to hang bill and posters but also to distribute leaflets, brochures and use other means of electoral propaganda in the school to spread the ideas of each roll among the students. All this usually happens in October in conjunction with the election of class candidates.
+
+<details>
+    <summary>Election details</summary>
+
+    <p>The ways student representatives are elected can vary from school to school. In my case (>500 total students) the rules are the following (skipping overly technical details):</p>
+    <ul>
+    <li>Every electoral roll can contain up to 8 candidates and minimum of 20 presenters; it must be marked by a short motto and a Roman numeral is assigned to the roll following the chronological order of enrollment</li>
+    <li>All students, when voting candidates, can express only one vote for electoral roll (or individual candidate) and a maximum of 2 preferences for that roll</li>
+    <li>The vote is expressed (personally and secretly) by placing a cross on the Roman number of the chosen list; preferences must be indicated by placing a cross in the box next to the name of the candidate</li>
+    <li>At the end of the ballot, the members of the constituency proceed with the counting and report the results to the Electoral Commission (<em>Commessione Elettorale</em>) at the school office (<em>segreteria didattica</em>)</li>
+    <li>The results obtained by the various lists and by the various candidates are added together and the 4 most favored candidates (even if they come from different lists) are appointed as student representatives on the <em>consiglio d'istituto</em></li>
+    </ul>
+
+</details>
 
 #### PCTO
 
@@ -626,7 +646,7 @@ For *superiori*, grades can be non-numeric values for subjects like religion and
 
 Students with many insufficient grades/marks on one or more subjects have to do a thing called *recupero* (recovery), meaning that they have to study again some topics and take a new test to attempt to improve and recover their previous low results. *Recupero* can happen individually or with the help of the teacher and during the school year or during the holiday.
 
-Very important in the pagella is also the evaluation of the conduct of a student. Everything is established in the "*Statute of students of secondary school*", by the "*Educational Co-responsibility Agreement*", signed by students and families at the time of enrollment, and in the regulations of each school[^6].
+Very important in the pagella is also the evaluation of the conduct of a student. Everything is established in the "*Statute of students of secondary school*", by the "*Educational Co-responsibility Agreement*", signed by students and families at the time of enrollment, and in the regulations of each school[^7].
 
 <details>
     <summary>Insights</summary>
@@ -705,4 +725,5 @@ Almost all universities are State-owned and jointly funded by the State and, to 
 [^3]: According to a [statistic](https://www.openpolis.it/lestensione-del-tempo-pieno-nelle-scuole-primarie/#:~:text=Da%20alcuni%20anni%2C%20il%20tempo%20pieno%20%C3%A8%20l%E2%80%99opzione%20preferita%20dalle%20famiglie%20italiane%20nelle%20iscrizioni%20dei%20propri%20figli%20al%20primo%20anno%20di%20scuola%20elementare.%20Una%20tendenza%20testimoniata%20dai%20dati%20pubblicati%20periodicamente%20dal%20ministero%20dell%E2%80%99istruzione.) by Openpolis using MIUR data, full time is the prevailing option in primary school enrollments.
 [^4]: A final exam was required before the [Moratti reform](https://it.wikipedia.org/wiki/Riforma_Moratti#Scuola_dell'infanzia:~:text=l%27esame%20di%205%C2%AA%20elementare%20viene%20abolito), but is now absent.
 [^5]: you can find the article [here](https://www.miur.gov.it/web/guest/-/iscrizioni-all-anno-scolastico-2022-2023-i-primi-dati-crescono-i-tecnici-e-i-professionali-il-56-6-degli-studenti-sceglie-i-licei), and data from previous years is also available ([2021](https://www.miur.gov.it/-/iscrizioni-i-primi-dati-il-57-8-degli-studenti-sceglie-i-licei-il-30-3-gli-istituti-tecnici-l-11-9-i-professionali#:~:text=9%25%20i%20Professionali-,Iscrizioni%2C%20i%20primi%20dati%3A%20il%2057%2C8%25%20degli,'11%2C9%25%20i%20Professionali) and [2019](https://www.miur.gov.it/-/iscrizioni-on-line-ecco-i-primi-dati-il-55-4-degli-studenti-sceglie-i-licei-il-31-i-tecnici-il-13-6-i-professionali))
-[^6]: [Statute of students of secondary school](https://it.wikipedia.org/wiki/Statuto_delle_studentesse_e_degli_studenti) and [Educational Co-responsibility Agreement](https://it.wikipedia.org/wiki/Patto_educativo_di_corresponsabilit%C3%A0)
+[^6]:more info at [MIUR - Consulte provinciali degli studenti](https://www.miur.gov.it/consulte-provinciali-degli-studenti) and [spazioconsulte.it - Che cosa sono le Consulte?](http://www.spazioconsulte.it/webi/it/cosa-sono-le-consulte/)
+[^7]: [Statute of students of secondary school](https://it.wikipedia.org/wiki/Statuto_delle_studentesse_e_degli_studenti) and [Educational Co-responsibility Agreement](https://it.wikipedia.org/wiki/Patto_educativo_di_corresponsabilit%C3%A0)
