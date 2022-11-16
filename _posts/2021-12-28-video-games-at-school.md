@@ -163,7 +163,7 @@ Kerbal Space Program is a famous rocket simulator. From this perspective, it see
 
 The developers at Teachergaming LLC also launched *KerbalEdu*, an educationally-enhanced standalone version of this space agency game (developed by Squad) which integrates features that are exclusive to the classroom. Read [this article](https://www.pcgamer.com/kerbaledu-launches-to-bring-kerbal-space-program-to-more-classrooms/) by PC Gamer for more info. Unfortunately, the project is now dead and I cannot ensure that KerbalEdu can still be downloaded and used.
 
-Dan Fullerton, a physics teacher at Irondequoit High School in Rochester, New York, has tried to use this game and others at school to create interest in its students, and these are his words:
+Dan Fullerton, a physics teacher at Irondequoit High School in Rochester, New York, has tried to use this game and others at school to create interest in his students, and these are his words:
 
 > “I think any time you can capture the enthusiasm of a student, you have an opportunity. The trick as an educator is realizing our kids have varied interests, so we need to find ways to tie in what we do to each of their interests.[^2]” — Dan Fullerton
 
@@ -183,12 +183,12 @@ This [blog post](https://classroomaid.wordpress.com/2012/11/02/stories-of-learni
 
 > "Since its launch in June 2012, Valve’s free initiative Teach With Portals has brought Puzzle Maker to over 2,500 teachers nationwide, it aims to help teachers use the game Portal 2 to engage students in learning STEM. […] By converting its level-building software, Hammer Editor, into a much easier to use interface called Puzzle Maker, Valve has made it possible for anyone to design challenging Portal rooms".
 
-I provide a link also to these resources:
+I provide a link to these resources, too:
 - [SingularityHub - Learn Science While Playing Video Games? Video Game Maker Valve Makes Dreams Comes True](https://singularityhub.com/2012/07/22/learn-science-while-playing-video-games-video-game-maker-valve-makes-dreams-comes-true/)
 - [Physics with Portals (Cameron Pittman) - Why teach with Portals?](https://physicswithportals.com/why-teach-with-portals/)
-- [Physics with Portals (Cameron Pittman) - Demonstration videos](https://physicswithportals.com/demonstration-videos/).
+- [Physics with Portals (Cameron Pittman) - Demonstration videos](https://physicswithportals.com/demonstration-videos/)
 
-Sadly, the Steam for School initiative launched in 2012 is **now discontinued**. I decided to put this game anyway on the list because it is still a great example of how video games can be integrated with the classroom.
+Sadly, the Steam for School initiative launched in 2012 is **now discontinued**. I decided to put this game anyway on the list because it is still a great example of how video games can be integrated within the classroom.
 
 **Helps with**: <b class="highlight-box">STEM disciplines</b>.
 
