@@ -501,6 +501,23 @@ Tests can be of 3 types, all equally important:
 2. oral (when the test requires the student to speak to the teacher or to the class)
 3. practical (when it evaluates the execution of experiments at the laboratory, programming at the computer, technical design, drawings, etc.)
 
+After the tests are evaluated, students get a grade usually ranging from 2 to 10 (more on that later).
+
+<details>
+    <summary>Where do students see their grades?</summary>
+    <p>
+        Since <em>scuola media</em>, an online school register, called <em>registro elettronico</em>, is used to write down and organize grades for each a subject. This way, parents can see whenever they want their children's academic performance.
+    </p>
+    <p>
+        Starting from <em>superiori</em>, students gain access to the register, too, and it starts to be more and more important: it not only contains grades, but also information on homework, tests, important communications, number of absences at school, meetings with teachers and much more. It becomes essential for the students.
+    </p>
+    <p>
+        The most common online register used in upper secondary schools in Italy is called ClasseViva by Spaggiari. It's available both on the web and by installing a dedicated app on the smartphone. It the one that my school uses, too, and it looks something like this:
+    </p>
+    <img src="/sm_blog/assets/images/how-school-works-in-italy-images/register.png" alt="School register">
+    <span class="caption">The ClasseViva school register with its UI and features (with translation).</span>
+</details>
+
 
 #### School governance organization and representation
 
@@ -621,6 +638,8 @@ School is usually divided in two sections, or **semesters**:
 - a two-month period + a six-month period/semester (*bimestre* + *semestre*).
 
 At the end of the first section, all students receive an evaluation limited to that first period. At the end of the year, they receive a *pagella* with evaluations that consider the second section but also the entire school year.
+
+Another less common approach is to divide the school year into three trimesters (three-month periods, each called a *trimestre*).
 
 For primary school, grades are all non-numeric and are 4:
 - *In via di prima acquisizione* (in the process of first acquisition): the pupil completes tasks only in known situations and only with the support of the teacher and resources provided specifically.
