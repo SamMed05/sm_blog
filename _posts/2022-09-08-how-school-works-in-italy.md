@@ -448,9 +448,12 @@ const chart3 = new Chart(ctx3, {
 
 #### Credits and final exam
 
-During the last three years of *scuola superiore*, students can receive a limited number of bonus points called *crediti* (credits) for extracurricular activities they have participated in or for having good grades.
+During the last three years of *scuola superiore*, students can receive a limited number of bonus points called *crediti scolastici* (school credits) based on grades and behavior. The better is their performance, the more credits they get.
 
-At the end of *superiori*, student must take a final exam, the exam of maturity (or graduation exam, called *Esame di Stato* or *Esame di maturità* in Italian), which is composed by 3 written tests and 1 oral examination. The credits they have collected over the years add up to the final score.
+{: .box-warning}
+<span class="material-icons-outlined">report_problem</span> **Warning:** There were actually two types of credits: school credits (*crediti scolastici*) and formative credits (*crediti formativi*), but after 2017 (art. 15 and 26 comma 6 d.lgs. 62/2017, [permalink](https://www.gazzettaufficiale.it/eli/id/2017/05/16/17G00070/sg)) the latter have been repealed and do not exist anymore in upper secondary school. The difference between school credits and formative credits was that the first were (and still are) based on student's performance while the latter were assigned according to extracurricular activities attended by the student outside regular school lessons.
+
+At the end of *superiori*, student must take a final exam, the exam of maturity (or graduation exam, called *Esame di Stato* or *Esame di maturità* in Italian), which is composed by 2 written tests (one on Italian and one on the subject of the *indirizzo*/specialization) and 1 oral examination[^6]. The credits they have collected over the years add up to the final score.
 
 The maximum grade is 100, the minimum to pass the exam is 60. As of 2022, the two written tests and the oral interview are evaluated up to a maximum of 50 points in total (15 for the first written test + 10 for the second + 15 for the oral test = 50), while the maximum score deriving from the credits is 50 (50 + 50 = 100).
 
@@ -462,6 +465,8 @@ The maximum grade is 100, the minimum to pass the exam is 60. As of 2022, the tw
 | 7 < A ≤ 8     | 9-10                | 10-11               | 11-12               |
 | 8 < A ≤ 9     | 10-11               | 11-12               | 13-14               |
 | 9 < A ≤ 10    | 11-12               | 13-14               | 14-15               |
+
+<span class="caption">From <a href="https://www.miur.gov.it/credito-scolastico-e-credito-formativo" target="_blank">MIUR</a>.</span>
 
 This table above is the traditional credit table for a maximum of 40 credits. Since in 2022 total credits are 50, you have do the total and then use this conversion table to convert the value obtained to the current maximum of 50 credits:
 
@@ -565,7 +570,7 @@ For *superiori* (upper secondary schools) these are the collegial bodies, their 
     </tr>
 </table>
 
-It's not all: there are many other councils, commissions and groups in the Italian school system. For example, if we go beyond of the scope of the individual school, two students for each school of every province<span class="tooltip">`*`<span class="tooltiptext">An area in which each region of Italy is subdivided</span></span> can take part with a two-year mandate (after being elected by the other students) to the so called *consulta provinciale degli studenti* (provincial student council) where they can represent students, coordinate projects and formulate proposals in collaboration with other schools at a provincial and regional level but eventually even nationwide[^6].
+It's not all: there are many other councils, commissions and groups in the Italian school system. For example, if we go beyond of the scope of the individual school, two students for each school of every province<span class="tooltip">`*`<span class="tooltiptext">An area in which each region of Italy is subdivided</span></span> can take part with a two-year mandate (after being elected by the other students) to the so called *consulta provinciale degli studenti* (provincial student council) where they can represent students, coordinate projects and formulate proposals in collaboration with other schools at a provincial and regional level but eventually even nationwide[^7].
 
 Since it can get complicated very quickly and it's not particularly relevant for this post, I'm not going into much detail. For those who are interested, a more comprehensive explanation of the levels of student representation and the hierarchy of these bodies can be found on [spazioconsulte.it](https://www.spazioconsulte.it/webi/it/la-rappresentanza/) website.
 
@@ -605,9 +610,79 @@ Before the elections, it is allowed to hang bill and posters but also to distrib
     <li>All students, when voting candidates, can express only one vote for electoral roll (or individual candidate) and a maximum of 2 preferences for that roll</li>
     <li>The vote is expressed (personally and secretly) by placing a cross on the Roman number of the chosen list; preferences must be indicated by placing a cross in the box next to the name of the candidate</li>
     <li>At the end of the ballot, the members of the constituency proceed with the counting and report the results to the Electoral Commission (<em>Commessione Elettorale</em>) at the school office (<em>segreteria didattica</em>)</li>
-    <li>The results obtained by the various lists and by the various candidates are added together and the 4 most favored candidates (even if they come from different lists) are appointed as student representatives on the <em>consiglio d'istituto</em></li>
+    <li>The results obtained by the various lists and by the various candidates are added together and the 4 most favored candidates (eventually from different lists) are appointed as student representatives on the <em>consiglio d'istituto</em></li>
     </ul>
 
+    <h5>How exactly are the winners of each roll chosen?</h5>
+    <p>
+      The procedure requires a bit of math in order to choose the winners of the election. Let's try to see how it works in detail.
+    </p>
+    <p>
+      As provided by paragraphs 1, 5, 6 and 7 of the art. 44 of ministerial circular 215 of 15 July 1991, for the assignment of the number of winners for each roll, the total number of votes received by every roll is divided successively by 1, 2, 3, 4… up to the number of representatives to be elected and then they are chosen, among the quotients thus obtained, the highest, in a number equal to that of the representatives to be elected, arranging them in a decreasing ranking.
+    </p>
+    <p>
+      Being quite complicated to explain, it's better to analyze an example: suppose that in a school, three student rolls with 8 candidates per list present themselves in the elections for the renewal of the School Council. Remember that a total of 4 students can be elected (in the vast majority of upper secondary schools in Italy) as representatives. Let's see how these 4 places are attributed.
+    </p>
+    <p>
+      If we have 3 rolls with this amount of votes each…
+    </p>
+      <table>
+        <tr>
+            <th>Roll</th>
+            <th>Total votes</th>
+        </tr>
+        <tr>
+            <td>I</td>
+            <td>912</td>
+        </tr>
+        <tr>
+            <td>II</td>
+            <td>600</td>
+        </tr>
+        <tr>
+            <td>III</td>
+            <td>180</td>
+        </tr>
+      </table>
+      <p>
+        …then it will be necessary to progressively divide the votes of the roll by 1, 2, 3 and 4, in such a way as to obtain…
+      </p>
+      <table>
+        <tr>
+            <th>Roll</th>
+            <th>Votes/1</th>
+            <th>Votes/2</th>
+            <th>Votes/3</th>
+            <th>Votes/4</th>
+        </tr>
+        <tr>
+            <td>I</td>
+            <td style="background-color: #89f58b;">912</td>
+            <td style="background-color: #89f58b;">456</td>
+            <td style="background-color: #89f58b;">304</td>
+            <td>228</td>
+        </tr>
+        <tr>
+            <td>II</td>
+            <td style="background-color: #89f58b;">600</td>
+            <td>300</td>
+            <td>200</td>
+            <td>150</td>
+        </tr>
+        <tr>
+            <td>III</td>
+            <td>180</td>
+            <td>90</td>
+            <td>60</td>
+            <td>45</td>
+        </tr>
+      </table>
+      <p>
+        At this point, the first 4 calculated quotients are taken in decreasing: 912, 600, 456, 304 (highlighted in green in the table). Since three quotients belong to roll I, only one to roll II and nobody to roll III, three places will go to roll I and only one place will go to roll II. Inside the rolls, the first three students with the highest number of preferences of roll I and the first for the number of preferences of roll II will rise to the representation of the school.
+      </p>
+      <p>
+        Example taken from <a href="https://www.tecnicadellascuola.it/elezioni-consiglio-di-istituto-ecco-come-si-attribuiscono-i-posti" target="_blank">Tecnica della Scuola</a>.
+      </p>
 </details>
 
 #### PCTO
@@ -665,7 +740,7 @@ For *superiori*, grades can be non-numeric values for subjects like religion and
 
 Students with many insufficient grades/marks on one or more subjects have to do a thing called *recupero* (recovery), meaning that they have to study again some topics and take a new test to attempt to improve and recover their previous low results. *Recupero* can happen individually or with the help of the teacher and during the school year or during the holiday.
 
-Very important in the pagella is also the evaluation of the conduct of a student. Everything is established in the "*Statute of students of secondary school*", by the "*Educational Co-responsibility Agreement*", signed by students and families at the time of enrollment, and in the regulations of each school[^7].
+Very important in the pagella is also the evaluation of the conduct of a student. Everything is established in the "*Statute of students of secondary school*", by the "*Educational Co-responsibility Agreement*", signed by students and families at the time of enrollment, and in the regulations of each school[^8].
 
 <details>
     <summary>Insights</summary>
@@ -744,5 +819,6 @@ Almost all universities are State-owned and jointly funded by the State and, to 
 [^3]: According to a [statistic](https://www.openpolis.it/lestensione-del-tempo-pieno-nelle-scuole-primarie/#:~:text=Da%20alcuni%20anni%2C%20il%20tempo%20pieno%20%C3%A8%20l%E2%80%99opzione%20preferita%20dalle%20famiglie%20italiane%20nelle%20iscrizioni%20dei%20propri%20figli%20al%20primo%20anno%20di%20scuola%20elementare.%20Una%20tendenza%20testimoniata%20dai%20dati%20pubblicati%20periodicamente%20dal%20ministero%20dell%E2%80%99istruzione.) by Openpolis using MIUR data, full time is the prevailing option in primary school enrollments.
 [^4]: A final exam was required before the [Moratti reform](https://it.wikipedia.org/wiki/Riforma_Moratti#Scuola_dell'infanzia:~:text=l%27esame%20di%205%C2%AA%20elementare%20viene%20abolito), but is now absent.
 [^5]: you can find the article [here](https://www.miur.gov.it/web/guest/-/iscrizioni-all-anno-scolastico-2022-2023-i-primi-dati-crescono-i-tecnici-e-i-professionali-il-56-6-degli-studenti-sceglie-i-licei), and data from previous years is also available ([2021](https://www.miur.gov.it/-/iscrizioni-i-primi-dati-il-57-8-degli-studenti-sceglie-i-licei-il-30-3-gli-istituti-tecnici-l-11-9-i-professionali#:~:text=9%25%20i%20Professionali-,Iscrizioni%2C%20i%20primi%20dati%3A%20il%2057%2C8%25%20degli,'11%2C9%25%20i%20Professionali) and [2019](https://www.miur.gov.it/-/iscrizioni-on-line-ecco-i-primi-dati-il-55-4-degli-studenti-sceglie-i-licei-il-31-i-tecnici-il-13-6-i-professionali))
-[^6]:more info at [MIUR - Consulte provinciali degli studenti](https://www.miur.gov.it/consulte-provinciali-degli-studenti) and [spazioconsulte.it - Che cosa sono le Consulte?](http://www.spazioconsulte.it/webi/it/cosa-sono-le-consulte/)
-[^7]: [Statute of students of secondary school](https://it.wikipedia.org/wiki/Statuto_delle_studentesse_e_degli_studenti) and [Educational Co-responsibility Agreement](https://it.wikipedia.org/wiki/Patto_educativo_di_corresponsabilit%C3%A0)
+[^6]: details on the MIUR website: [MIUR - Esame di Stato secondo ciclo](https://www.miur.gov.it/esame-di-stato-secondo-ciclo-esame-di-maturita-ammissione-abbreviazione-per-merito-candidati-esterni-modalita-di-svolgimento-attribuzione-del-punteggio-prove)
+[^7]: more info at [MIUR - Consulte provinciali degli studenti](https://www.miur.gov.it/consulte-provinciali-degli-studenti) and [spazioconsulte.it - Che cosa sono le Consulte?](http://www.spazioconsulte.it/webi/it/cosa-sono-le-consulte/)
+[^8]: [Statute of students of secondary school](https://it.wikipedia.org/wiki/Statuto_delle_studentesse_e_degli_studenti) and [Educational Co-responsibility Agreement](https://it.wikipedia.org/wiki/Patto_educativo_di_corresponsabilit%C3%A0)
