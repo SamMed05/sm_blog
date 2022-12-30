@@ -23,13 +23,14 @@
 {% endunless %} -->
   <link rel="stylesheet" href="{{ "./assets/styles.css" | relative_url }}">
   <link rel="shortcut icon" type="image/x-icon" href="/sm_blog/assets/favicon.ico">
-  <script src="https://unpkg.com/boxicons@latest/dist/boxicons.js"></script>
+  <!--<script src="https://unpkg.com/boxicons@latest/dist/boxicons.js"></script>-->
   <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <link href="https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp" rel="stylesheet">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
   <script src="/sm_blog/assets/scripts/app.js"></script>
   <meta name="keywords" content="samuel, mediani, blog, sammed05">
+  <meta name="twitter:dnt" content="on">
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics and readCookie('cookie-notice-dismissed')=='true'-%}
     {%- include google-analytics.html -%}
