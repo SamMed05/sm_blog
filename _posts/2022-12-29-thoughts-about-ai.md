@@ -71,7 +71,9 @@ The next AI generator I tried was the much more powerful DALL·E 2 by OpenAI, an
 
 Being a programmer and not an artist, though, that kind of AI generator is impressive for sure, but  doesn't directly concern me: my interests and future job hopes are oriented elsewhere, in a different field, therefore discovering what DALL·E 2 was capable of wasn't a "nervous" experience.
 
-The same applies for Midjourney and Stability AI’s DreamStudio (powered by Stable Diffusion), which I tried soon after DALL·E 2.
+The same applies for Midjourney and Stability AI’s DreamStudio (powered by Stable Diffusion), which I tried soon after DALL·E 2. You can get awesome results from these models, too, and even create videos by interpolating between many images. I love this example:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Voyage through Time&quot;<br>is my first artpiece using <a href="https://twitter.com/hashtag/stablediffusion?src=hash&amp;ref_src=twsrc%5Etfw">#stablediffusion</a> and I am blown away with the possibilities...<br><br>We&#39;re crossing a threshold where generative AI is no longer just about novel aesthetics, but evolving into an amazing tool to build powerful, human-centered narratives <a href="https://t.co/9suZeDyY8Q">pic.twitter.com/9suZeDyY8Q</a></p>&mdash; Xander Steenbrugge (@xsteenbrugge) <a href="https://twitter.com/xsteenbrugge/status/1558508866463219712?ref_src=twsrc%5Etfw">August 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ChatGPT is different.
 
@@ -146,9 +148,9 @@ Before talking about the obvious problems that artists and other workers may hav
 
 As a programmer, what has impressed me the most about ChatGPT is its ability to code by itself.
 
-It shouldn’t surprise me, since this bot was trained not only to be good at conversations but has also seen millions of lines of code during training, specifically to become good at programming.
+It shouldn’t surprise me, since this bot was trained not only to be good at conversations but has also seen millions of lines of code during training, specifically to become good at programming. Also, a popular AI bot, called GitHub Copilot, already exists since last year, but it's paid and I've never tried it.
 
-I’m making many experiments to better understand its limits, but the results always surprise me: a handful of instructions in the prompt, with little to no guidance, are enough to generate (sometimes) hundreds of lines of working code, in any language, every single time (or at least, the vast majority of the time).
+I’m making many experiments to better understand ChatGPT's limits, but the results always surprise me: a handful of instructions in the prompt, with little to no guidance, are enough to generate (sometimes) hundreds of lines of working code, in any language, every single time (or at least, the vast majority of the time).
 
 While reaching this skill level is an important goal for OpenAI and scientific progress, I don't believe this bot will benefit everyone.
 
@@ -206,22 +208,25 @@ However, generative AIs are also harming people who are already experts in the f
 
 If you have been following this topic lately and you use Twitter/read news, I'm sure you have found some artists’ complaints about these new bots.
 
-In the last few weeks, many creators have protested against AI-art generation tools, considering them unethical as they’re frequently trained using datasets that contain artwork scraped from the internet without the creator’s consent.
+Over the last few weeks, many creators have protested against AI-art generation tools, considering them unethical as they’re frequently trained using datasets that contain artwork scraped from the internet without the creator’s consent.
 
 ![No to AI images posted on ArtStation](/sm_blog/assets/images/thoughts-about-ai-images/no-ai-artstation.jpg)
 <span class="caption">Members of the ArtStation online community began publicly denouncing AI-generated art by including "No AI Art" images in their portfolios. The protest images (above some creative examples) dominated ArtStation's trending page for days. From <a href="https://twitter.com/joysilvart/status/1603138150028775424" target="_blank">Twitter</a>.</span>
 
 Sometimes the act of copying other artists’ artwork by AI generators is more obvious, e.g., when you type in the text prompt “in the style of [artist name]” you’ll get very similar results to the artistic style of the creator in question. In other circumstances, you can see traces of a watermark or signature in the corner of an AI-generated image, indicating that a kind of “stealing” process is happening behind the scenes, in the model black box.
 
-In this context, though, differentiating what is copyright violation from what is simply taking inspiration is very hard, as there is no law for this yet (kind of like the "Monkey Selfie" copyright case[^3]). Actually, AI changes the nature of the whole content on the Internet (who decides if something published online is "scrapable" or not, and how?) and nothing in the international laws has updated to respond to that.
+In this context, though, differentiating what is copyright violation from what is simply taking inspiration is very hard, as there is no law for this yet (kind of like the "Monkey Selfie" copyright case[^3]).
+AI changes the nature of the whole content on the Internet (who decides if something published online is "scrapable" or not, and how?) and nothing in the international laws has updated to respond to that.
 
-Also, when an image is generated by an AI bot, who owns the copyright to that new image (which, by the way, was very likely created using copyrighted material)? The ownership of the image is and remains unclear: is it the creator of the software? The curator of the training data? Or the user who inserted the prompt?
+Also, when an image is generated by an AI bot, who owns the copyright to that new image (which, by the way, was very likely created using copyrighted material)? The ownership of the image is and remains unclear: is it of the creator of the software? The curator of the training data? Or the user who inserted the prompt?
 
-I’m not a lawyer nor an artist, but it’s important to critically and ethically ponder this situation. I’ll link to some example-thoughts from both sides of the debate.
+But isn't art inherently human anyway? How could you possibly possess something you didn't created directly <span class="tooltip">`*`<span class="tooltiptext">not to confuse with generative art, which requires the artist to write the code to make the computer create an artwork, and therefore an human input is still required</span></span>?
 
-##### Against AI
+I’m not a lawyer nor an artist, but it’s important to critically and ethically ponder this situation. I’ll link to some food for thought from both sides of the debate.
 
-Senior concept artist at Blizzard Entertainment Andrew Menjivar (ArtStation pretests):
+##### Against AI (or pro "human" art)
+
+Senior concept artist at Blizzard Entertainment Andrew Menjivar (ArtStation protests):
 
 > "AI generated images have no place on a website dedicated to hosting portfolios of artwork created by HUMANS. Artstation needs to implement clear policies and guidelines AGAINST AI generated works. The technology works on theft, plain and simple. Artists do not need to compete with automated slopes built off the backs of their hard work. Protect the artists who help your site thrive." —Source: [ArtStation](https://www.artstation.com/artwork/d0YlVx)
 
@@ -235,12 +240,12 @@ Many have compared image generators to human artists seeking out inspiration. Th
 <br>
 Until there is an ethically sourced database that compensates artists for the use of their images, I am against AI art. I also think platforms should do everything they can to prevent scraping of their content for these databases." —Source: [Twitter](https://twitter.com/loishh/status/1603434379665104896)
 
-Also, I cannot fail to mention the many complaining threads by Logan Preshaw on the ethical problems of AI (number 2 also in the embedded tweet above): [1](https://twitter.com/wickedinsignia/status/1570219319103225856), [2](https://twitter.com/wickedinsignia/status/1603221617156706305), [3](https://twitter.com/wickedinsignia/status/1569185240593367040), [4](https://twitter.com/wickedinsignia/status/1571705843279867906) and [5](https://twitter.com/wickedinsignia/status/1602906190119284736), in order of relevance.
+I cannot fail to mention the many complaining threads by Logan Preshaw on the ethical problems of AI (number 2 also in the embedded tweet above): <b class="highlight-box">[1](https://twitter.com/wickedinsignia/status/1570219319103225856)</b>, <b class="highlight-box">[2](https://twitter.com/wickedinsignia/status/1603221617156706305)</b>, <b class="highlight-box">[3](https://twitter.com/wickedinsignia/status/1569185240593367040)</b>, <b class="highlight-box">[4](https://twitter.com/wickedinsignia/status/1571705843279867906)</b> and <b class="highlight-box">[5](https://twitter.com/wickedinsignia/status/1602906190119284736)</b>, in order of relevance.
 
-I encourage you to take some time to read them, too. Here are the main points:
+I encourage you to take some time to read them, too. In case you have slow connection or Twitter doesn't work, you can read the main points of the threads here:
 
 <details>
-<summary><i>Expand to read the full threads</i></summary>
+<summary><i>Expand</i></summary>
 <blockquote>
 <p>
 No one uploaded their work to the internet with the expectation that it would be used to train AI.
@@ -315,6 +320,17 @@ Artists feel used right now. Our art is being taken to create a service built to
 </blockquote>
 </details>
 
+Also, the same Kotaku article I cited earlier ends with an interesting reflection on the essence of "art" and the radical difference that exists between human and AI art:
+
+> At the heart of this entire conundrum looms the false equivalency of even calling what an AI generates “art”. Art is inherently human. Its ability to draw upon and inspire our emotions is perhaps the most defining thing that separates us from other animals. (Sorry, opposable thumbs.) It is defined specifically as “a diverse range of human activity, and resulting product, that involves creative or imaginative talent expressive of technical proficiency, beauty, emotional power, or conceptual ideas”.
+<br><br>
+A machine is not creating art. A machine, even ones as advanced as the AI we’re talking about here, is crunching data. There is no perspective to AI art, no inspiration, nothing it is trying to communicate. It’s a compilation playlist built by an algorithm, spinning an endless number of remixes and cover songs. The fact so many people are getting bogged down comparing AI art to the creations of human beings, as though the former is doing anything but adhering to an algorithm, is playing right into the hands of those championing this mimicry, because it sets AI creations on a level playing field that they don’t deserve. —Source: [Kotaku](https://kotaku.com/ai-art-dall-e-midjourney-stable-diffusion-copyright-1849388060#:~:text=At%20the%20heart%20of%20this%20entire,playing%20field%20that%20they%20don%E2%80%99t%20deserve.)
+
+One last additional point from me: until now, copyright forced creators to either make new things for themselves or pay to use other people's creations and eventually hire people to make them (e.g. artists). This has favored the creation and demand of new content.
+
+With AI rapidly taking over, I think we'll come very close to a stalemate of human creation (with AI databases inevitably stopping growing, consequentially). If human creation is no longer incentivized, this absence of “novelty” might lead to the stagnation of content variety and originality.
+
+
 ##### Pro AI
 
 On the other hand, Prisma, the company behind Lensa AI (a photo-editing app with the ability to transform images into works of art using AI), addressed concerns of AI art replacing *human* art in a Twitter thread, defending their use of AI for image generation:
@@ -329,11 +345,64 @@ AI produces unique images based on the principles derived from data, but it can'
 <br>
 We also believe that the growing accessibility of AI-powered tools would only make man-made art in its creative excellence more valued and appreciated, since any industrialization brings more value to handcrafted works." —Source: [Twitter](https://twitter.com/PrismaAI/status/1600136437759807489?s=20&t=Tm6PySJzWIJCDYrOhw9Bvw)
 
+##### School
+
+As I said before, ChatGPT has the potential to have a significant impact on my life as a student because it is capable of programming almost every coding exercise we normally do. I'm not using it to avoid doing the exercises myself because I like doing them and I need practice to learn how to program properly anyway (typing the prompt and doing copy-paste wouldn't be as educationally effective, right?).
+
+At the moment of writing, here in Italy, generative AI is still not well known by many people. It’s a very recent innovation, and it takes time for it to become popular (even if it is so powerful).
+
+My classmates probably haven’t even heard of ChatGPT, and neither have our teachers, so I still haven't directly experienced its impact on the school system. However, in many other places, several news stories are being spread about students who are cheating with their homework by using the chatbot to write essays and summaries or answer questions and do the exercises for them.
+
+For example, as the New Your Post reports on this [news](https://nypost.com/2022/12/26/students-using-chatgpt-to-cheat-professor-warns/) just a few days ago, a college professor in South Carolina caught a student using ChatGPT using this [GPT detector](https://huggingface.co/openai-detector/) tool.
+
+On the other hand, "some educators see the chatbot as an opportunity and a supplemental resource to incorporate in classrooms. The chatbot could be used as a starting point for students when they face a writer’s block, or it can be used to get examples of what an answer should look like. It could also make information available at students’ fingertips, encouraging them to conduct research and double-check their facts[^4]".
+
+However, I'm worried that the use of AI will be much more often detrimental than beneficial for learning. In a TechCrunch interview, economist Paul Kedrosky expressed the following opinion on the use of AI in education:
+
+> "The purpose of writing an essay is to prove that you can think, so this short circuits the process and defeats the purpose. Again, in terms of consequences and externalities, if we can’t let people have homework assignments because we no longer know whether they’re cheating or not, that means that everything has to happen in the classroom and must be supervised. There can’t be anything we take home. More stuff must be done orally, and what does that mean? It means school just became much more expensive, much more artisanal, much smaller and at the exact time that we’re trying to do the opposite. The consequences for higher education are devastating in terms of actually delivering a service anymore." —Source: [TechCrunch](https://techcrunch.com/2022/12/09/is-chatgpt-a-virus-that-has-been-released-into-the-wild/#:~:text=The%20purpose%20of,a%20service%20anymore.)
+
+These AI bots are shedding light on the several problems schools have in teaching students important skills[^5], making us rethink which tasks we want to leave to humans and which we'd rather leave to machines to figure out.
+
+I didn't grow up with AI, unlike future generations, and if they'll start using such powerful facilitators from an early age, I wonder if they'll lose the ability to think critically and properly understand the world.
+
+Additionally, those people who won't strive to improve their intelligence, capability, and skills in the near future or who won't learn multiple jobs to withstand automation, will inevitably be replaced by AIs, undergoing the effects of technological unemployment.
+
+Yes, automation generally creates brand-new jobs while destroying others, but we are dealing with *intelligence* now. We are competing with pseudo-intelligent entities we intentionally created to help us, but at the same time, it seems like they're ending up replacing and overtaking many of us. We may not all be able to keep up.
+
+Again, AI poses problems that don't have any clear answer. The approach we take with human-AI interaction will determine the solutions for each of those issues.
+
+
+### Suggested resources
+
+#### Articles
+
+- [Kotaku - AI Creating 'Art' Is An Ethical And Copyright Nightmare](https://kotaku.com/ai-art-dall-e-midjourney-stable-diffusion-copyright-1849388060)
+- [The Verge - Anyone can use this AI art generator — that’s the risk](https://www.theverge.com/2022/9/15/23340673/ai-image-generation-stable-diffusion-explained-ethics-copyright-data)
+- [TechCrunch - Is ChatGPT a ‘virus that has been released into the wild’?](https://techcrunch.com/2022/12/09/is-chatgpt-a-virus-that-has-been-released-into-the-wild/)
+- [The Verge - The scary truth about AI copyright is nobody knows what will happen next](https://www.theverge.com/23444685/generative-ai-copyright-infringement-legal-fair-use-training-data)
+- [The Verge - ArtStation is hiding images protesting AI art on the platform](https://www.theverge.com/2022/12/23/23523864/artstation-removing-anti-ai-protest-artwork-censorship)
+- [AI: Markets for Lemons, and the Great Logging Off](https://www.fortressofdoors.com/ai-markets-for-lemons-and-the-great-logging-off/)
+- [NintendoLife - How Do Game Developers And Artists Feel About The Rise Of AI Art?](https://www.nintendolife.com/features/how-do-game-developers-and-artists-feel-about-the-rise-of-ai-art)
+- [Vox - AI experts are increasingly afraid of what they’re creating](https://www.vox.com/the-highlight/23447596/artificial-intelligence-agi-openai-gpt3-existential-risk-human-extinction)
+- [CNBC - Google vs. ChatGPT: Here’s what happened when I swapped services for a day](https://www.cnbc.com/2022/12/15/google-vs-chatgpt-what-happened-when-i-swapped-services-for-a-day.html)
+- [The Atlantic - The End of High-School English](https://www.theatlantic.com/technology/archive/2022/12/openai-chatgpt-writing-high-school-english-essay/672412/) and [Forbes - No, ChatGPT Is Not The End Of High School English. But Here’s The Useful Tool It Offers Teachers.](https://www.forbes.com/sites/petergreene/2022/12/11/no-chatgpt-is-not-the-end-of-high-school-english-but-heres-the-useful-tool-it-offers-teachers/?sh=550d15dd1437)
+- [Vox - AI is finally good at stuff, and that’s a problem](https://www.vox.com/recode/2022/12/7/23498694/ai-artificial-intelligence-chat-gpt-openai)
+
+#### Videos
+
+- [Humans Need Not Apply](https://youtu.be/7Pq-S557XQU)
+- [How Machines Learn](https://youtu.be/R9OHn5ZF4Uo)
+- [OpenAI CEO Sam Altman \| AI for the Next Era](https://youtu.be/WHoWGNQRXb0)
+- [It’s Time to Pay Attention to A.I. (ChatGPT and Beyond)](https://youtu.be/0uQqMxXoNVs)
+- [The Truth About AI Getting "Creative"](https://youtu.be/0gNauGdOkro)
+- [What will AI Programming look like in 5 Years?](https://youtu.be/eaedq1Jl2fc)
 
 ### <span class="material-icons">speaker_notes</span> Footnotes:
+
+<span class="caption">Image generated by Midjourney with the prompt "artificial intelligence wallpaper, abstract, 4k".</span>
 
 [^1]: [TechCrunch - The emerging types of language models and why they matter](https://techcrunch.com/2022/04/28/the-emerging-types-of-language-models-and-why-they-matter/)
 [^2]: Check this [example by Nicky Case](https://twitter.com/ncasenmare/status/1605615504244326400?s=20&t=57o8PMFUPZE-qqKqvFVPeQ)
 [^3]: [Wikipedia - Monkey selfie copyright dispute](https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute) and [Murgitroyd Blog - Who owns the copyright in AI-generated art?](Who owns the copyright in AI-generated art?)
-
-<span class="caption">Image generated by Midjourney with the prompt "artificial intelligence wallpaper, abstract, 4k".</span>
+[^4]: as Forbes writes in this [article](https://www.forbes.com/sites/rashishrivastava/2022/12/12/teachers-fear-chatgpt-will-make-cheating-easier-than-ever)
+[^5]: one example is bad writing. John Warner explain the problem further in [this](https://twitter.com/biblioracle/status/1599101797557489664) Twitter thread
