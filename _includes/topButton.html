@@ -1,57 +1,34 @@
 <button  class="no-print" onclick="topFunction()" id="topBtn" title="Go to top">
-  <span class="material-icons-outlined">
-    north
-  </span>
+  <span class="material-icons-outlined">north</span>
 </button>
 
 <style media="screen">
   #topBtn {
-  display: none; /* Hidden by default */
-  position: fixed; /* Fixed/sticky position */
-  bottom: 2rem; /* Place the button at the bottom of the page */
-  right: 3rem; /* Place the button 30px from the right */
-  z-index: 99; /* Make sure it does not overlap */
-  border: none; /* Remove borders */
-  outline: none; /* Remove outline */
-  color: white; /* Text color */
-  cursor: pointer; /* Add a mouse pointer on hover */
-  padding: 7px; /* Some padding */
-  border-radius: 50%; /* Rounded corners */
-  font-size: 1.7rem; /* Increase font size */
-  font-weight: bold;
-  will-change: transform; /* https://www.joshwcomeau.com/animation/css-transitions/#hardware-acceleration */
-}
-
-#topBtn:hover {
-  background-color: #309eff; /* Add a dark-grey background on hover */
-  transform: scale(1.1);
-  transition: .3s ease;
-}
-
-#topBtn:not(:hover){
-  background-color: #99a3a8;
-  transform: scale(1);
-  transition: .2s ease;
-</style>
-
-<script type="text/javascript">
-  //Get the button:
-topbutton = document.getElementById("topBtn");
-
-// When the user scrolls down 20px from the top of the document, show the button
-window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-    topbutton.style.display = "block";
-  } else {
-    button.style.display = "none";
+    /*display: none;*/ /* Hidden by default */
+    
+    position: fixed; /* Fixed/sticky position */
+    bottom: 2rem; /* Place the button at the bottom of the page */
+    right: 3rem; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 7px; /* Some padding */
+    border-radius: 50%; /* Rounded corners */
+    font-size: 1.7rem; /* Increase font size */
+    font-weight: bold;
+    will-change: transform; /* https://www.joshwcomeau.com/animation/css-transitions/#hardware-acceleration */
   }
-}
 
-// When the user clicks on the button, scroll to the top of the document
-function topFunction() {
-  document.body.scrollTop = 0; // For Safari
-  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
-}
-</script>
+  #topBtn:hover {
+    background-color: #309eff; /* Add a dark-grey background on hover */
+    transform: scale(1.1);
+    transition: .3s ease;
+  }
+
+  #topBtn:not(:hover){
+    background-color: #99a3a8;
+    transform: scale(1);
+    transition: .2s ease;
+</style>

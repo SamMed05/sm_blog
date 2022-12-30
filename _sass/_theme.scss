@@ -12,6 +12,7 @@ body {
 // disable horizontal scroll on mobile
 html, body {
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 body {
   position: relative;
@@ -302,7 +303,7 @@ input[type=checkbox]:checked:before {
   user-select: none;
 	//color: $white;
 	background-color: $captionColour; //$focusColour, $headingColour or $linkColour
-	padding-top : 2px;
+	padding-top : 3px;
 	padding-bottom : 2px;
 	padding-left : 5px;
 	padding-right : 5px;
@@ -511,7 +512,7 @@ input[type=checkbox]:checked:before {
   //background: $featureBackgroundColour;
   background-size: cover;
   background-position: center;
-  max-height: 35vw;
+  max-height: 40vw;
   //-webkit-mask-image:-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)));
   //mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
   .container {
@@ -926,8 +927,9 @@ textarea,
 select {
   &:focus,
   &:hover:focus {
-    outline: solid .12rem $focusColour;
-    outline-offset: -.12rem;
+    outline: solid .2rem $focusColour;
+    //outline-offset: -.2rem;
+    outline-style: dashed;
   }
 }
 
@@ -1036,11 +1038,20 @@ pre code {
 #inline_toc {
   margin-top: 1rem;
   margin-bottom: 1rem;
+  padding: 1.2rem;
+  border-radius: 12px;
+  padding-bottom: 1px;
+  background: #9fafb321; // $focusColour
+  border: 2px dotted $footerColour;
 }
 #inline_toc li {
   font-size: .98rem;
   margin-bottom: 1.5;
   line-height: 1.5;
+  font-family: unquote(map-get($headingtype, font-family));
+}
+#inline_toc a:not(:hover) {
+  border-bottom: none;
 }
 #inline_toc li::before {
   content: ''; // or url('../assets/images/svg-list-arrow.svg'); or '•'
@@ -1050,7 +1061,18 @@ pre code {
   //margin-left: -1.8rem;
   color: $linkColour;
 }
+#inline_toc ul li {
+  margin-left: 0;
+}
+#inline_toc #markdown-toc {
+  padding-bottom: 0;
+}
 // remove first TOC link
 /*#inline_toc > li:first-child {
   display: none;
 }*/
+
+.twitter-tweet {
+  margin-left: auto;
+  margin-right: auto;
+}
