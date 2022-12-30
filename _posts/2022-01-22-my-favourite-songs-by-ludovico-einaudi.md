@@ -21,7 +21,7 @@ Ludovico Einaudi is by far my favourite composer, and the more I listen to his s
 
 ### <span class="material-icons">music_note</span> 1. Experience
 
-<div class="videowrapper"><iframe width="913" height="395" src="https://www.youtube.com/embed/2MHsDNV9lgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videowrapper"><iframe width="913" height="395" src="https://www.youtube-nocookie.com/embed/2MHsDNV9lgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Experience is a very minimalistic piece, in terms of melody, but it slowly develops into the perfect harmony between piano, violins, cellos and all the other instruments. This song is Einaudi's masterpiece par excellence, a plethora of emotions, a concentrate of multiple layers of refreshingly simple, steadily intensifying melodies that fits perfectly with each other. Over time, they all progressively enter to form the backdrop for Daniel Hope's violin, which pushes the emotional involvement of this song to its maximum limits.
 
@@ -31,7 +31,7 @@ Experience is part of the album *In a Time Lapse*, probably the pinnacle of the 
 
 ### <span class="material-icons">music_note</span> 2. Nuvole bianche
 
-<div class="videowrapper"><iframe width="894" height="503" src="https://www.youtube.com/embed/sR2W2scFS4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videowrapper"><iframe width="894" height="503" src="https://www.youtube-nocookie.com/embed/sR2W2scFS4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 This song is very special to me. It's the one that instantly touched my heart and brought me closer to Einaudi's music. Under this point, Nuvole Bianche can be seen as the entry point to Einaudi's music (which is a whole new and unique genre), since it is already enjoyable at the first listen. It's also one of his most popular songs together with Experience, and for good reasons. A big part of the beauty of Nuvole Bianche is its simplicity, which extends throughout the song with just four piano chords and simple but effective melodies, and it's the reason why it is so peaceful, charming and touching. There are no words to properly describe this song. Just listen to it!
 
@@ -39,7 +39,7 @@ This song is very special to me. It's the one that instantly touched my heart an
 
 ### <span class="material-icons">music_note</span> 3. Petricor
 
-<div class="videowrapper"><iframe width="894" height="723" src="https://www.youtube.com/embed/43OxI27c5as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videowrapper"><iframe width="894" height="723" src="https://www.youtube-nocookie.com/embed/43OxI27c5as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Starting from the title, "*Petricor*" (or *petrichor*) is the distinctive earthy scent produced when rain falls on parched earth. The word comes from the Greek words '*petra*', meaning stone, and '*ichor*', which in Greek mythology refers to the ethereal fluid that flows in the veins of the gods.
 
@@ -83,7 +83,7 @@ I find this technique truly clever and the effect on the piece is simply wonderf
 
 ### <span class="material-icons">music_note</span> 4. Night
 
-<div class="videowrapper"><iframe width="894" height="503" src="https://www.youtube.com/embed/k9NM-yK1C2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videowrapper"><iframe width="894" height="503" src="https://www.youtube-nocookie.com/embed/k9NM-yK1C2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Night begins with a couple of distinctive echoing-pulsating digital sounds, soon followed by the soothing sound of the Steinway piano. It introduces the melody and iterates it until the end of the song with just some little variations. As seen in other Einaudi's songs, a crescendo of violins slowly and progressively takes over, but it suddenly vanishes and gives the voice back to the piano. This structure repeats two times and the second one, once the melody has taken a place in the listener's heart, is even more intensive, with the violins giving more space and time to the piano to properly express his mesmerizing, uplifting, soaring rise.
 
@@ -93,7 +93,7 @@ There is an official **interactive version** of this song that you can play on y
 
 ### <span class="material-icons">music_note</span> 5. Divenire
 
-<div class="videowrapper"><iframe width="894" height="503" src="https://www.youtube.com/embed/VAPapYhDSUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videowrapper"><iframe width="894" height="503" src="https://www.youtube-nocookie.com/embed/VAPapYhDSUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Divenire is an orchestral piece that has a classic chord progression, similar to Night. It is quite fast-paced and particularly emotional. The most touching moment, in my opinion, is at <b class="highlight-box">[4:23](https://youtu.be/VAPapYhDSUc?t=263)</b>, where the high notes played on the piano seems to struggle, in some way, to reach the limits of their faculties.
 
@@ -105,7 +105,7 @@ I read an old review on this [website](https://www.sputnikmusic.com/review/33743
 
 ### <span class="material-icons">music_note</span> 6. Logos (Elements Special Edition)
 
-<div class="videowrapper"><iframe width="894" height="503" src="https://www.youtube.com/embed/zrKdeB5uQQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videowrapper"><iframe width="894" height="503" src="https://www.youtube-nocookie.com/embed/zrKdeB5uQQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Logos is a song from the album *Elements* that comes in two versions, but the *Elements Special Edition* (above) is the one I like the most. This song was born from a process of experimentation and innovation, enough that it can be difficult to listen to at first. There are some instruments that are not commonly found in music, like the echoing intermittent bass at <b class="highlight-box">[0:56](https://youtu.be/zrKdeB5uQQg?t=56)</b> that provides the rhythm (recognizable at the start of "*Night*", too), the *[musical saw](https://en.wikipedia.org/wiki/Musical_saw)* at <b class="highlight-box">[3:20](https://youtu.be/zrKdeB5uQQg?t=200)</b> and what I think is the *[calabash](https://en.wikipedia.org/wiki/Calabash_(percussion))* (an African percussive instrument made out of a gourd, the *Lagenaria siceraria*) at <b class="highlight-box">[2:20](https://youtu.be/zrKdeB5uQQg?t=140)</b>. The scale used is also unusual. <br>
 This is what probably creates the distinctive atmosphere of darkness, fear and anxiety. Those emotions are interrupted in the culmination of the song at <b class="highlight-box">[3:48](https://youtu.be/zrKdeB5uQQg?t=228)</b> where they are masterfully converted into a strong sense of light-heartedness and hope. This creates a lot of contrast in the overall piece and it's why I always find it emotionally gorgeous. The powerful and energetic end, then, concludes the work with the atmosphere foretold from the beginning, albeit in an almost unexpected way.
@@ -114,7 +114,7 @@ This is what probably creates the distinctive atmosphere of darkness, fear and a
 
 ### <span class="material-icons">music_note</span> 7. Elements
 
-<div class="videowrapper"><iframe width="894" height="723" src="https://www.youtube.com/embed/YFcjSi0beVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videowrapper"><iframe width="894" height="723" src="https://www.youtube-nocookie.com/embed/YFcjSi0beVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 The innovative instrument of this song is the Fender Rhodes piano, which introduces the melody and hints at the rhythm, which is what I like the most about this song. That thing is like a strong march that has no intention of stopping, but rather, it becomes stronger and stronger with an orchestra of violins tenaciously repeating the same note (or a descending-ascending melody of 8 notes) and after a little pause at <b class="highlight-box">[3:39](https://youtu.be/YFcjSi0beVQ?t=219)</b> it returns even more powerful than before. The beat is simple, with no other drums or secondary accompaniments, yet it is very robust and vigorous.
 
@@ -126,7 +126,7 @@ This [review](https://entertainment-focus.com/2015/10/20/ludovico-einaudi-elemen
 
 ### <span class="material-icons">music_note</span> 8. Cold Wind (Day 6)
 
-<div class="videowrapper"><iframe width="894" height="723" src="https://www.youtube.com/embed/k9j2DMjHc7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videowrapper"><iframe width="894" height="723" src="https://www.youtube-nocookie.com/embed/k9j2DMjHc7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 This song, which is not very famous, may not seem particularly interesting at first, but in the second half it shows off all its expressiveness. Again, it consists of a simple repeating melody, but Einaudi flawlessly takes advantage of this repetitiveness to give a huge emphasis on the change in the chord (for non-musicians, it is the set of notes played simultaneously that accompanies the melody) at <b class="highlight-box">[4:50](https://youtu.be/k9j2DMjHc7U?t=290)</b> and <b class="highlight-box">[5:36](https://youtu.be/k9j2DMjHc7U?t=336)</b>, always keeping the feeling of power, energy and strength very high. This keeps going until <b class="highlight-box">[5:52](https://youtu.be/k9j2DMjHc7U?t=352)</b>, when the calm enters and the instruments slowly muffle, almost taken by sleep, and fall silent.
 
@@ -136,7 +136,7 @@ The title of this work well depicts the sensations and the atmosphere: you are i
 
 ### <span class="material-icons">music_note</span> 9. The Path Of The Fossils (Day 1)
 
-<div class="videowrapper"><iframe width="913" height="395" src="https://www.youtube.com/embed/b058yYqbb_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videowrapper"><iframe width="913" height="395" src="https://www.youtube-nocookie.com/embed/b058yYqbb_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 The longest piece in *Seven Days Walking* is The Path of the Fossils. This song slowly builds into a dramatic segment with all instruments growing louder the further into the journey the traveller wanders, until stopping to admire the view at the summit. The melody is deep, dramatic and resonant. The aggressive, dynamic and unpredictable atmosphere created recalls some primitive period of the wild, like the one from which the fossils originate. In the end, the sound of the cello seems like a suggestion that one of the fossils is coming to life.
 
@@ -148,7 +148,7 @@ Path Of The Fossils is also present in [Day 2](https://youtu.be/_wSln1rzecI), [D
 
 ### <span class="material-icons">music_note</span> 10. Ascent (Day 1)
 
-<div class="videowrapper"><iframe width="894" height="723" src="https://www.youtube.com/embed/04rnIete90I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videowrapper"><iframe width="894" height="723" src="https://www.youtube-nocookie.com/embed/04rnIete90I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Ascent is perhaps the purest song of *Seven Days Walking*, containing moments of melancholy and others of happiness and hope, that make you both tearful and glad to be alive. Like other songs of *Seven Days Walking*, when you listen to Ascent it seems that it belongs to another dimension, a distant, untouchable, ethereal dimension, to which you cannot access or reach but which you can perceive within yourself.
 

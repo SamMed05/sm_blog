@@ -85,7 +85,7 @@ This is not the only Discovery Tour made by Ubisoft: at the moment of writing th
 
 You can learn more on the [official website](https://www.ubisoft.com/en-us/game/assassins-creed/discovery-tour) where you can buy the games and watch all the trailers. Here's one:
 
-<div class="videowrapper"><iframe src="https://www.youtube.com/embed/2A8vES0EwOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videowrapper"><iframe src="https://www.youtube-nocookie.com/embed/2A8vES0EwOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 **Helps with**: <b class="highlight-box">History</b>.
 
@@ -109,7 +109,7 @@ To provide a real example, in this period my electronics and telecommunications 
 
 Aside from STEM subjects, even artistic creations can be made in Minecraft. I had the opportunity to make one firsthand just a few months ago, in my third year of upper secondary school (the equivalent of high school) in Italy, when our teacher asked us to use our creativity to create a project focused on Dante Alighieri, a very famous Italian poet of the fourteenth century. My group and I decided to make a short film in (modded) Minecraft about the first three cantos of *The Divine Comedy* (🇮🇹 language).
 
-<div class="videowrapper"><iframe src="https://www.youtube.com/embed/9MR6MDJzrss" title="Dante all'Inferno - Minecraft Film (canti I-III)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videowrapper"><iframe src="https://www.youtube-nocookie.com/embed/9MR6MDJzrss" title="Dante all'Inferno - Minecraft Film (canti I-III)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 This is not just a little example of what you can do with Minecraft, but also a practical demonstration that video games ***can*** be integrated in education, it's not just a theory.
 
@@ -130,7 +130,7 @@ This game is a whole 3D simulation of the Earth that can be used in geography le
 
 These are some places in Europe, for example:
 
-<div class="videowrapper"><iframe src="https://www.youtube.com/embed/7fG831GaPtw?list=PL0il2l-B_Wwbueyv-OuE1e9JjQ2bl3FFH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videowrapper"><iframe src="https://www.youtube-nocookie.com/embed/7fG831GaPtw?list=PL0il2l-B_Wwbueyv-OuE1e9JjQ2bl3FFH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Being an airplane simulator, it can also be used in particular school courses to teach how to fly these vehicles without actually doing it.
 

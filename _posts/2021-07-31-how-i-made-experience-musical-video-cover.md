@@ -17,10 +17,10 @@ Now, unlike before, my musical tastes have evolved over time to the point of aba
 I have completely understood why every instrument is there and the perfect harmony it creates with the others. I am finally ready to fully and correctly respect, value, appreciate and admire this wonderful song.
 
 ### <span class="material-icons">videocam</span> Original video:
-<div class="videowrapper"><iframe src="https://www.youtube.com/embed/2MHsDNV9lgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videowrapper"><iframe src="https://www.youtube-nocookie.com/embed/2MHsDNV9lgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### <span class="material-icons">videocam</span> Live video:
-<div class="videowrapper"><iframe src="https://www.youtube.com/embed/hN_q-_nGv4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videowrapper"><iframe src="https://www.youtube-nocookie.com/embed/hN_q-_nGv4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 #### The inspiration:
 
@@ -33,7 +33,7 @@ Listening to it made the desire to feel the emotions of playing every instrument
 So, three months ago I decided to start making this project.
 
 ### <span class="material-icons">videocam</span> My video:
-<div class="videowrapper"><iframe src="https://www.youtube.com/embed/o_0z_PiUxOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="videowrapper"><iframe src="https://www.youtube-nocookie.com/embed/o_0z_PiUxOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 *While you are watching the video (if you haven't already seen it), I would like to do some clarifications:*
 
