@@ -31,7 +31,7 @@
   <script src="/sm_blog/assets/scripts/app.js"></script>
   <meta name="keywords" content="samuel, mediani, blog, sammed05">
   {%- feed_meta -%}
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+  {%- if jekyll.environment == 'production' and site.google_analytics and readCookie('cookie-notice-dismissed')=='true'-%}
     {%- include google-analytics.html -%}
   {%- endif -%}
   <!-- Add AnchorJS -->
