@@ -4,6 +4,8 @@
 {% include head.html %}
 
   <head>
+    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="7d6ba952-7991-41c3-9b2e-131e960e1e38" data-blockingmode="auto" type="text/javascript"></script>
+
     <!-- General meta -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -41,7 +43,7 @@
   </head>
 
   <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
-
+    <script id="CookieDeclaration" src="https://consent.cookiebot.com/7d6ba952-7991-41c3-9b2e-131e960e1e38/cd.js" type="text/javascript" async></script>
     {% include site-logo.html %}
 
     {{ content }}
