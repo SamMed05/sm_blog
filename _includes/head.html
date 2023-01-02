@@ -32,6 +32,8 @@
   <meta name="keywords" content="samuel, mediani, blog, sammed05">
   <meta name="twitter:dnt" content="on">
 
+  {% include social-media-tags.html %}
+
   <script type="text/javascript" src="{{ "./assets/scripts/main.js" | relative_url }}"></script>
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics and readCookie('cookie-notice-dismissed')=='true'-%}
