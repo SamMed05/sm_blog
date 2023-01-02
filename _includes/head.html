@@ -3,6 +3,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Welcome to my blog, feel free to explore the website. I'm Samuel Mediani and here you'll find posts about my life, my thoughts and my hobbies.">
+
+  {% include social-media-tags.html %}
+  
   {%- seo title=false -%}
   <title>
   {% if page.tag or page.title %}
@@ -31,8 +34,6 @@
   <script src="/sm_blog/assets/scripts/app.js"></script>
   <meta name="keywords" content="samuel, mediani, blog, sammed05">
   <meta name="twitter:dnt" content="on">
-
-  {% include social-media-tags.html %}
 
   <script type="text/javascript" src="{{ "./assets/scripts/main.js" | relative_url }}"></script>
   {%- feed_meta -%}
