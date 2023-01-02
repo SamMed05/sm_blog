@@ -79,6 +79,7 @@ defaults:
       # categories: post
       # permalink: "/:categories/:year/:month/:day/:title"
       permalink: "/:year/:month/:day/:title"
+      is_post: true
 
 # Google Analytics
 google_analytics: G-26MQZ1PWBZ
