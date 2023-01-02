@@ -12,19 +12,19 @@
       <meta name="robots" content="noindex">
     {% endif %}
 
-    <!--{% if page.collectionpage %}
+    {% if page.collectionpage %}
       {% seo title=false %}
 
       {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
       <title>{{ collectiondata.title }} - {{ site.title }}</title>
-      <meta property="og:title" content="{{ collectiondata.title }}">
+      <!--<meta property="og:title" content="{{ collectiondata.title }}">
       <meta name="description" content="{{ collectiondata.description }}">
-      <meta property="og:description" content="{{ collectiondata.description }}">
+      <meta property="og:description" content="{{ collectiondata.description }}">-->
+
+      {% include social-media-tags.html %}
     {% else %}
       {% seo %}
-    {% endif %}-->
-
-    {% include social-media-tags.html %}
+    {% endif %}
 
     <link rel="manifest" href="{{ "/manifest.json" | relative_url }}">
     <meta name="theme-color" content="{{ site.manifest.theme_color | default: '#032040' }}"/>
