@@ -56,6 +56,9 @@ This year, we’ve seen a dramatic improvement in AI capabilities, and, for the 
 
 Unlike the complex interfaces of previous years—with some AI models being public yet requiring proficiency in programming to be used—the easy, accessible and extremely user-friendly way these new models were presented made more and more people willing to try them out. All you are asked to do is give a prompt and click the "Submit" button or press ENTER on the keyboard.
 
+{: .box-note}
+<span class="material-icons-outlined">info</span> **Note:** Artificial intelligence is a relatively new discipline, but it has also developed swiftly, so many people who now start to encounter these advanced types of AI for the first time truly believe there's magic happening under the hood. Writer Arthur Clarke once said that "*any sufficiently advanced technology is indistinguishable from magic*" (the third and most famous of the [Clarke's three laws](https://en.wikipedia.org/wiki/Clarke%27s_three_laws)) and this applies particularly in this case. It's critical to remember that no sort of magic is involved but rather a clever combination of advanced techniques from mathematics and computer science.
+
 This sudden popularity of AI generators, first with **DALL·E 2** (followed by a free unofficial bot formerly called DALL-E Mini, now known as Craiyon), then with **ChatGPT**, has given the world a first glimpse of the possible effects that artificial intelligences with those capabilities could have on modern society. I’ll soon explain exactly what I’m talking about, but first let me tell you about my experience of this year.
 
 ### My experience with AI
@@ -356,6 +359,11 @@ My classmates probably haven’t even heard of ChatGPT, and neither have our tea
 For example, as the New York Post reports on this [news](https://nypost.com/2022/12/26/students-using-chatgpt-to-cheat-professor-warns/) just a few days ago, a college professor in South Carolina caught a student using ChatGPT using this [GPT detector](https://huggingface.co/openai-detector/) tool.
 
 On the other hand, "some educators see the chatbot as an opportunity and a supplemental resource to incorporate in classrooms. The chatbot could be used as a starting point for students when they face a writer’s block, or it can be used to get examples of what an answer should look like. It could also make information available at students’ fingertips, encouraging them to conduct research and double-check their facts[^4]".
+
+I would also add another point: ChatGPT is potentially capable of helping teachers evaluate student's exercises and outcomes, and eventually, completely automate the task. See the image below:
+
+![ChatGPT evaluating a program](/sm_blog/assets/images/thoughts-about-ai-images/chatgpt-evaluation.png)
+<span class="caption">After submitting ChatGPT some simple C++ code to sort an array using bubble sort along with the request to evaluate it with a grade from 1 to 10 as if it were a teacher, the bot managed to satisfy my request and even write a comment with possible improvements to make to the code I gave it. And by the way, the code was written by ChatGPT so it essentially evaluated itself!</span>
 
 However, I'm worried that the use of AI will be much more often detrimental than beneficial for learning. In a TechCrunch interview, economist Paul Kedrosky expressed the following opinion on the use of AI in education:
 
