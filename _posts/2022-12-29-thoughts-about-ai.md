@@ -43,12 +43,26 @@ Think about the simple things humans do every day: from **language** (reading an
 
 If computers generally work by hard-coded values, expressions and conditions, how do you, say, make a program to create a drawing of a human face without explicitly telling it how to do it? And, if you succeed, how do you make it draw a variation of that drawing, like making it “younger” or “angrier”?
 
-Computers don’t have thoughts, ideas, or even the consciousness required to do a task of that kind!
+Machines don’t have thoughts, ideas, or even the consciousness required to do a task of that kind!
 
 That's why, starting in the last century and even more so in the last decade, we began changing the way we approached these kinds of problems, employing new techniques such as neural networks, machine learning and other algorithms of what is known as "*soft computing*" (opposed to the traditional *hard computing*) to make our already incredible machines even more capable.
 
 ![Biological neuron versus neural network with artificial neurons](/sm_blog/assets/images/thoughts-about-ai-images/neurons-neural-network.png)
 <span class="caption">At the top, a (biological) neuron. At the bottom, a neural network with multiple artificial neurons. Both types of neurons are arranged in intricate and interconnected networks, and by (loosely) taking inspiration from nature (i.e. <em>biomimicry</em>) we can create systems capable of carrying out similar tasks to the ones we, as humans, are capable of.</span>
+
+These new techniques haven't completely solved the problem, since computers still can't be "creative", but AI is providing us with a highly convincing illusion of creative behavior.
+
+<span class="material-icons-outlined">psychology_alt</span> **Can a computer possibly think?** <br>
+The answer, as you can read in this [article](https://www.britannica.com/technology/artificial-intelligence/Is-strong-AI-possible) from Britannica, is not straightforward at all. Visit the link or expand the collapsible element below.
+
+<details>
+<summary><i>Expand</i></summary>
+Noam Chomsky, an American theoretical linguist, suggests that debating this question is pointless, for it is an essentially arbitrary decision whether to extend common usage of the word think to include machines. There is, Chomsky claims, no factual question as to whether any such decision is right or wrong—just as there is no question as to whether our decision to say that airplanes fly is right, or our decision not to say that ships swim is wrong. However, this seems to oversimplify matters. The important question is, Could it ever be appropriate to say that computers think, and, if so, what conditions must a computer satisfy in order to be so described?
+<br><br>
+Some authors offer the Turing test as a definition of intelligence. However, Turing himself pointed out that a computer that ought to be described as intelligent might nevertheless fail his test if it were incapable of successfully imitating a human being. For example, why should an intelligent robot designed to oversee mining on the Moon necessarily be able to pass itself off in conversation as a human being? If an intelligent entity can fail the test, then the test cannot function as a definition of intelligence. It is even questionable whether passing the test would actually show that a computer is intelligent. […] It is possible, in principle, to design a machine containing a complete set of canned responses to all the questions that an interrogator could possibly ask during the fixed time span of the test. Like Parry, this machine would produce answers to the interviewer’s questions by looking up appropriate responses in a giant table. This objection seems to show that in principle a system with no intelligence at all could pass the Turing test.
+<br><br>
+In fact, AI has no real definition of intelligence to offer, not even in the subhuman case. Rats are intelligent, but what exactly must an artificial intelligence achieve before researchers can claim this level of success? In the absence of a reasonably precise criterion for when an artificial system counts as intelligent, there is no objective way of telling whether an AI research program has succeeded or failed. One result of AI’s failure to produce a satisfactory criterion of intelligence is that, whenever researchers achieve one of AI’s goals—for example, a program that can summarize newspaper articles or beat the world chess champion—critics are able to say “That’s not intelligence!” Marvin Minsky’s response to the problem of defining intelligence is to maintain—like Turing before him—that intelligence is simply our name for any problem-solving mental process that we do not yet understand. Minsky likens intelligence to the concept “unexplored regions of Africa”: it disappears as soon as we discover it.
+</details>
 
 ### The current state of AI
 
@@ -329,9 +343,11 @@ Also, the same Kotaku article I cited earlier ends with an interesting reflectio
 <br><br>
 A machine is not creating art. A machine, even ones as advanced as the AI we’re talking about here, is crunching data. There is no perspective to AI art, no inspiration, nothing it is trying to communicate. It’s a compilation playlist built by an algorithm, spinning an endless number of remixes and cover songs. The fact so many people are getting bogged down comparing AI art to the creations of human beings, as though the former is doing anything but adhering to an algorithm, is playing right into the hands of those championing this mimicry, because it sets AI creations on a level playing field that they don’t deserve. —Source: [Kotaku](https://kotaku.com/ai-art-dall-e-midjourney-stable-diffusion-copyright-1849388060#:~:text=At%20the%20heart%20of%20this%20entire,playing%20field%20that%20they%20don%E2%80%99t%20deserve.)
 
-One last additional point from me: until now, copyright forced creators to either make new things for themselves or pay to use other people's creations and eventually hire people to make them (e.g. artists). This has favored the creation and demand of new content.
+One last additional point worth noting: until now, copyright forced creators to either make new things for themselves or pay to use other people's creations and eventually hire people to make them (e.g. artists). This has favored the creation and demand of new content.
 
 With AI rapidly taking over, I think we'll come very close to a stalemate of human creation (with AI databases inevitably stopping growing, consequentially). If human creation is no longer incentivized, this absence of “novelty” might lead to the stagnation of content variety and originality.
+
+This concept also appears in Logan Preshaw's [tweets](https://twitter.com/wickedinsignia/status/1569580990473072641): "AI may represent a sharp decline in the ability to think creatively, simplify, exaggerate, and invent. You can't algorithm your way to new styles and painting methods if it relies solely on what came before".
 
 
 ##### Pro AI
@@ -348,6 +364,10 @@ AI produces unique images based on the principles derived from data, but it can'
 <br>
 We also believe that the growing accessibility of AI-powered tools would only make man-made art in its creative excellence more valued and appreciated, since any industrialization brings more value to handcrafted works." —Source: [Twitter](https://twitter.com/PrismaAI/status/1600136437759807489?s=20&t=Tm6PySJzWIJCDYrOhw9Bvw)
 
+Many people also argue that AI taking inspiration from other artists' work is not that different from what humans do. While artists, neuroscientists and deep learning experts [belie](https://twitter.com/wickedinsignia/status/1570596263720259584) such a similarity, and it is true in many respects, human creativity works by (sometimes heavily) relying on what has been saw before to create a variation or mixture of a set of concepts coming from personal experience of the past.
+
+Also, yes AI "has a capability of scale that no human can possibly reach, as we cannot analyze 5 billion images and output a dozen derivatives in seconds" ([tweet](https://twitter.com/wickedinsignia/status/1570596263720259584)), but we actually don't need that amount of images to create a new artwork and we may underestimate the substantial number of things we see during our lives that the human brain can process, remember and eventually replicate during a creation process.
+
 ##### School
 
 As I said before, ChatGPT has the potential to have a significant impact on my life as a student because it is capable of programming almost every coding exercise we normally do. I'm not using it to avoid doing the exercises myself because I like doing them and I need practice to learn how to program properly anyway (typing the prompt and doing copy-paste wouldn't be as educationally effective, right?).
@@ -356,7 +376,9 @@ At the moment of writing, here in Italy, generative AI is still not well known b
 
 My classmates probably haven’t even heard of ChatGPT, and neither have our teachers, so I still haven't directly experienced its impact on the school system. However, in many other places, several news stories are being spread about students who are cheating with their homework by using the chatbot to write essays and summaries or answer questions and do the exercises for them.
 
-For example, as the New York Post reports on this [news](https://nypost.com/2022/12/26/students-using-chatgpt-to-cheat-professor-warns/) just a few days ago, a college professor in South Carolina caught a student using ChatGPT using this [GPT detector](https://huggingface.co/openai-detector/) tool.
+For example, as the New York Post reports on this [news](https://nypost.com/2022/12/26/students-using-chatgpt-to-cheat-professor-warns/) just a few days ago, a college professor in South Carolina caught a student using ChatGPT using this [GPT detector](https://huggingface.co/openai-detector/) tool (also a more recent and advanced detector, called [GPTZero](https://etedward-gptzero-main-zqgfwb.streamlit.app/), has been released) that analyzes AI fingerprints in the output[^5].
+
+Many schools have started to ban the use of AI chatbots and [returned to "pen and paper"](https://www.theguardian.com/australia-news/2023/jan/10/universities-to-return-to-pen-and-paper-exams-after-students-caught-using-ai-to-write-essays), but putting a brake on the technological evolution of the school system is not the ideal solution.
 
 On the other hand, "some educators see the chatbot as an opportunity and a supplemental resource to incorporate in classrooms. The chatbot could be used as a starting point for students when they face a writer’s block, or it can be used to get examples of what an answer should look like. It could also make information available at students’ fingertips, encouraging them to conduct research and double-check their facts[^4]".
 
@@ -369,7 +391,9 @@ However, I'm worried that the use of AI will be much more often detrimental than
 
 > "The purpose of writing an essay is to prove that you can think, so this short circuits the process and defeats the purpose. Again, in terms of consequences and externalities, if we can’t let people have homework assignments because we no longer know whether they’re cheating or not, that means that everything has to happen in the classroom and must be supervised. There can’t be anything we take home. More stuff must be done orally, and what does that mean? It means school just became much more expensive, much more artisanal, much smaller and at the exact time that we’re trying to do the opposite. The consequences for higher education are devastating in terms of actually delivering a service anymore." —Source: [TechCrunch](https://techcrunch.com/2022/12/09/is-chatgpt-a-virus-that-has-been-released-into-the-wild/#:~:text=The%20purpose%20of,a%20service%20anymore.)
 
-These AI bots are shedding light on the several problems schools have in teaching students important skills[^5], making us rethink which tasks we want to leave to humans and which we'd rather leave to machines to figure out.
+In my expectation, I think we will go through a transition period where AI will be used by students for cheating much more frequently than for actually learning, but then the education system will adapt and intelligent chatbots will find a place to stay and being beneficial for everyone.
+
+Anyway, These AI bots are shedding light on the several problems schools have in teaching students important skills[^6], making us rethink which tasks we want to leave to humans and which we'd rather leave to machines to figure out.
 
 I didn't grow up with AI, unlike future generations, and if they'll start using such powerful facilitators from an early age, I wonder if they'll lose the ability to think critically and properly understand the world.
 
@@ -377,7 +401,9 @@ Additionally, those people who won't strive to improve their intelligence, capab
 
 Yes, automation generally creates brand-new jobs while destroying others, but we are dealing with *intelligence* now. We are competing with pseudo-intelligent entities we intentionally created to help humanity, but at the same time, it seems like they're ending up replacing and overtaking many of us. We may not all be able to keep up.
 
-Again, AI poses problems that don't have any clear answer. The approach we take with human-AI interaction will determine the solutions for each of those issues.
+There are already many examples of jobs that, in the worst circumstances, could be replaced by some AI systems out there, not only artists and programmers, but also less "popular" ones like [proofreaders](https://quillbot.com/), [copyrighters](https://www.copy.ai/), [voice actors](https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/), [designers](https://designer.microsoft.com/), taxi and bus drivers (when the law will allow it) and many more.
+
+Again, AI poses problems that don't have any clear answer. Only the approach we take with human-AI interaction will determine the solutions for each of those issues.
 
 
 ### Suggested resources
@@ -395,6 +421,8 @@ Again, AI poses problems that don't have any clear answer. The approach we take 
 - [CNBC - Google vs. ChatGPT: Here’s what happened when I swapped services for a day](https://www.cnbc.com/2022/12/15/google-vs-chatgpt-what-happened-when-i-swapped-services-for-a-day.html)
 - [The Atlantic - The End of High-School English](https://www.theatlantic.com/technology/archive/2022/12/openai-chatgpt-writing-high-school-english-essay/672412/) and [Forbes - No, ChatGPT Is Not The End Of High School English. But Here’s The Useful Tool It Offers Teachers.](https://www.forbes.com/sites/petergreene/2022/12/11/no-chatgpt-is-not-the-end-of-high-school-english-but-heres-the-useful-tool-it-offers-teachers/?sh=550d15dd1437)
 - [Vox - AI is finally good at stuff, and that’s a problem](https://www.vox.com/recode/2022/12/7/23498694/ai-artificial-intelligence-chat-gpt-openai)
+- [Wired - This Copyright Lawsuit Could Shape the Future of Generative AI](https://www.wired.com/story/this-copyright-lawsuit-could-shape-the-future-of-generative-ai/)
+- [Wired - When AI Makes Art, Humans Supply the Creative Spark](https://www.wired.com/story/when-ai-makes-art/)
 
 #### Videos
 
@@ -413,4 +441,5 @@ Again, AI poses problems that don't have any clear answer. The approach we take 
 [^2]: Check this [example by Nicky Case](https://twitter.com/ncasenmare/status/1605615504244326400?s=20&t=57o8PMFUPZE-qqKqvFVPeQ)
 [^3]: [Wikipedia - Monkey selfie copyright dispute](https://en.wikipedia.org/wiki/Monkey_selfie_copyright_dispute) and [Murgitroyd Blog - Who owns the copyright in AI-generated art?](Who owns the copyright in AI-generated art?)
 [^4]: as Forbes writes in this [article](https://www.forbes.com/sites/rashishrivastava/2022/12/12/teachers-fear-chatgpt-will-make-cheating-easier-than-ever)
-[^5]: John Warner explain the problem of bad writing further in [this](https://twitter.com/biblioracle/status/1599101797557489664) Twitter thread
+[^5]: [The Guardian - AI-assisted plagiarism? ChatGPT bot says it has an answer for that](https://www.theguardian.com/technology/2022/dec/31/ai-assisted-plagiarism-chatgpt-bot-says-it-has-an-answer-for-that)
+[^6]: John Warner explain the problem of bad writing further in [this](https://twitter.com/biblioracle/status/1599101797557489664) Twitter thread
