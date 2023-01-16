@@ -401,7 +401,7 @@ Additionally, those people who won't strive to improve their intelligence, capab
 
 Yes, automation generally creates brand-new jobs while destroying others, but we are dealing with *intelligence* now. We are competing with pseudo-intelligent entities we intentionally created to help humanity, but at the same time, it seems like they're ending up replacing and overtaking many of us. We may not all be able to keep up.
 
-There are already many examples of jobs that, in the worst circumstances, could be replaced by some AI systems out there, not only artists and programmers, but also less "popular" ones like [proofreaders](https://quillbot.com/), [copyrighters](https://www.copy.ai/), [voice actors](https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/), [designers](https://designer.microsoft.com/), taxi and bus drivers (when the law will allow it) and many more.
+There are already many examples of jobs that, in the worst circumstances, could be replaced by some AI systems out there, not only artists and programmers, but also less "popular" ones like [proofreaders](https://quillbot.com/), [copyrighters](https://www.copy.ai/), [voice](https://valle-demo.github.io/) [actors](https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/), [designers](https://designer.microsoft.com/), taxi and bus drivers (when the law will allow it) and many more.
 
 Again, AI poses problems that don't have any clear answer. Only the approach we take with human-AI interaction will determine the solutions for each of those issues.
 
