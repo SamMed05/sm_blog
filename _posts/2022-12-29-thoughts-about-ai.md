@@ -432,6 +432,9 @@ Again, AI poses problems that don't have any clear answer. Only the approach we 
 - [It’s Time to Pay Attention to A.I. (ChatGPT and Beyond)](https://youtu.be/0uQqMxXoNVs)
 - [The Truth About AI Getting "Creative"](https://youtu.be/0gNauGdOkro)
 - [What will AI Programming look like in 5 Years?](https://youtu.be/eaedq1Jl2fc)
+- [I tried using AI. It scared me.](https://youtu.be/jPhJbKBuNnA)
+- [Ch(e)at GPT? - Computerphile](https://youtu.be/XZJc1p6RE78)
+- [Dean's Speaker Series | Jensen Huang Founder, President & CEO, NVIDIA](https://youtu.be/9hzVdV63scU?t=3611)
 
 ### <span class="material-icons">speaker_notes</span> Footnotes:
 
