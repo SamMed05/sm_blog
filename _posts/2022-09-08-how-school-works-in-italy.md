@@ -466,9 +466,9 @@ The maximum grade is 100, the minimum to pass the exam is 60. As of 2022, the tw
 | 8 < A ≤ 9     | 10-11               | 11-12               | 13-14               |
 | 9 < A ≤ 10    | 11-12               | 13-14               | 14-15               |
 
-<span class="caption">From <a href="https://www.miur.gov.it/credito-scolastico-e-credito-formativo" target="_blank">MIUR</a>.</span>
+<span class="caption">From <a href="https://www.miur.gov.it/credito-scolastico-e-credito-formativo" target="_blank">MIUR</a> and <a href="https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=1&art.idGruppo=5&art.flagTipoArticolo=1&art.codiceRedazionale=17G00070&art.idArticolo=1&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2017-05-16&art.progressivo=0#art" target="_blank">Gazzetta Ufficiale</a>.</span>
 
-This table above is the traditional credit table for a maximum of 40 credits. Since in 2022 total credits are 50, you have do the total and then use this conversion table to convert the value obtained to the current maximum of 50 credits:
+This table above is the traditional credit table for a maximum of 40 credits. In some years (like this one), the maximum number of credits can rise up to 50 and in that case a conversion table is used to convert the credits in base 40 to base 50:
 
 | Credits in base 40 | Credits in base 50 |
 |--------------------|--------------------|
