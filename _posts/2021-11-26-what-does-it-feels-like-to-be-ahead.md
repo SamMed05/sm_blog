@@ -5,7 +5,7 @@ feature_image: "/sm_blog/assets/images/what-does-it-feels-like-to-be-ahead-image
 categories: School Life-lessons
 ---
 
-In this post I'll share my thoughts about a situation I recently found myself in.
+In this post I'll share my thoughts about a situation I recently found myself in and digress a bit on some other things.
 
 *Three months have passed since my last post. Lately, I've been busy with school and other projects so that's the reason for such a long period of inactivity. I can't promise a regular publication frequency for my new posts, so come back here often to check in order not to miss anything! 😊*
 
@@ -15,15 +15,15 @@ Anyway, the title of this post is referred to me. It's intentionally general and
 
 I'm a very curious person. I've practically always wondered about how things work and why they are like that, so for me it's almost natural and spontaneous to go in search of answers. It's something I voluntarily do simply because knowing something makes me feel better and more aware of the world around me, even of the little details.
 
-That's one of the reasons why I started learning programming early in middle school (up to the eighth-grade equivalent for USA/UK).
+That's one of the reasons why I started learning programming early in middle school (about the eighth-grade equivalent for USA/UK).
 
 The first thing that I needed was to know English.
 
-One of the main reasons was because I realized that the Internet was the best place to learn something easily and finding good explanations and tutorials on the Internet in Italian is way harder than in English. There's simply more content and it is of *higher quality*.
+One of the main reasons was that I realized the Internet was the best place to learn something easily and finding good explanations and tutorials on the Internet in Italian is way harder than in English. There's simply more content and it is of *higher quality* (rare exceptions aside, of course).
 
 I was fortunate because for some years I had already started watching English videos, so, with the help of subtitles, I rapidly increased my ability to understand English content, both spoken and written. I'm still learning, by the way, but I got the foundations at that time, and they were so important and useful for the following years!
 
-Once learned English I was finally able to expand my range of possible content to use.
+Once learned English, I was finally able to expand my range of possible content to use.
 
 Looking back over the years, I feel very lucky for having such a big place to satisfy my curiosity.
 
@@ -37,7 +37,7 @@ Spending every day a bit of time on the computer, I slowly and almost accidental
 
 This process was guided by my tendency **to go beyond appearances and to look closer and more accurately at the things I don't know**.
 
-I insist a lot on this point not because I want to brag about it (I don't care at all) but because I think it's the attitude to always have in life and that everyone should apply for himself.
+I insist a lot on this point not because I want to brag about it (I don't care at all) but because I think it's the attitude to always have in life and that everyone should apply for themselves.
 
 I decided that being a programmer was what I wanted for my future, and I immediately started to learn how to become it.
 
@@ -47,15 +47,15 @@ Navigating the Internet turned out to be another very useful way to collect know
 
 Year after year I first learned HTML and CSS (for making websites), then the basics of some programming languages like JavaScript, Python and C++. I created many little projects, get used to the programmer's mindset and also worked with some programs like Android Studio, Blender and Unity (with C# language).
 
-I decided to learn how to use Unity because of my passion for video games. Again, I had noticed that when I was playing a video game I was always super curious to know exactly how a certain mechanic was made, how the characters and objects were animated, how the special effects were recreated and many other things. Unity seemed the right program for me, so I slowly started using it, with the help of many tutorials on YouTube and forums on the Internet.
+I decided to learn how to use Unity because of my passion for video games. Again, I had noticed that when I was playing a video game I was always super curious to know exactly how a certain mechanic was made, how the characters and objects were animated, how the special effects were recreated and many other things. Unity seemed the right program for me, so I slowly started using it, with the help of many tutorials on YouTube and forums online.
 
 ### Ok, but what's the point?
 
 I started learning early and for myself because I had (and I still have) an important philosophy of life to follow: "**don't waste time, do it now**". I didn't want to have regrets about *not having started doing something earlier*, and seeing on the Internet people of my same age (I was 13-14, now I'm 16) or even younger making cool and clever things strongly confirmed that philosophy and proved that *I can always do better, no matter what age I am*. It's not too early to act and it's always better to do now before it's too late!
 
-Now I am attending the upper secondary school (high school) and that's oriented to Computer science.
+I am now attending the upper secondary school (high school) and that's oriented to Computer science/ICT.
 
-Particularly I'm in the third year, so after the common two-year period<span class="tooltip">`*`<span class="tooltiptext">I should explain how the italian school system works but that's not the topic of this post.</span></span> my classmates and I have now started to really get into ICT and programming.
+Particularly I'm in the third year, so after the common two-year period<span class="tooltip">`*`<span class="tooltiptext">I should explain how the Italian school system works but that's not the topic of this post.</span></span> my classmates and I have now started to really dive into ICT and programming.
 
 I'm really happy about that: we are learning C++ and C programming languages and I'm finally learning things that I know will be useful for my future life as a developer.
 
@@ -65,17 +65,17 @@ But the fact that **I went ahead** over the past few years put me in the situati
 
 This is a strange and rare situation for me: on one hand I'm happy to learn more easily and quickly the things explained in class and to help my friends, but on the other hand I get the ***perspective*** of someone who already knows that topic and watches someone learn it, with all the obstacles and doubts that arise while doing it. It's like watching yourself of the past through a mirror, it's *weird* but also *interesting*.
 
-At school (during IT lessons, at least), I tried how it feels like to already know things and I had the opportunity to notice how others see things when they do not yet know them, a perspective that a student normally does not have because it's living that situation in first person!
+At school (during IT lessons, at least), I experienced how it feels like to already know things and I had the opportunity to notice how others see things when they do not yet know them, a perspective that a student normally does not have because it's living that situation in first person!
 
-That's how every teacher feels when he teaches students, but everything is overturned from the perspective of a student that already knows what is being taught. Uff!
+That's how every teacher feels when he teaches students, but in my case everything is overturned from the perspective of a student that already knows what is being taught. Not a common scenario, I think.
 
 ### The debate
 
 Just today an interesting and very constructive discussion arose in the classroom among my classmates about ***what to do in our future***.
 
-Among us, young programmers, some had confused ideas, those who fantasized about becoming inexplicably millionaires, those who wanted to be freelancers and those who aimed to create websites, programs, apps or video games.
+Among us aspiring programmers, there were some with confused ideas, those who fantasized about becoming inexplicably millionaires, those who wanted to be freelancers and those who aimed to create websites, programs, apps or video games (but never started a project or tried experimenting).
 
-As for me, I said that I did not have a precise idea of what to do in the future, probably an independent programmer, but I told about the [projects](https://github.com/SamMed05) I have done in the past years, noticing a ***great*** interest in my words.
+As for me, I said that I did not have a precise idea of what to do in the future, probably an independent programmer, but I told about the [projects](https://samdev.netlify.app/#work) I have done in the past years, noticing a *great* interest in my words.
 
 And equally interesting questions arose, such as:
 > "*When did you start your first serious project?"* <br/>
@@ -86,15 +86,15 @@ And equally interesting questions arose, such as:
 *"Where did you start from?"* <br/>
  etc.
 
-That's why I wrote this post. Those questions got me thinking: «they represent what inexperienced students want to know while they are learning something new of which they do not really know the usefulness».
+That's why I wrote this post. Those questions got me thinking: «they represent what inexperienced students want to know while they are learning something new of which they don't really know the usefulness, yet».
 
-They also demonstrate that, even if my classmates know how to make a little program in C++, they actually know **nothing** about how life as a normal developer/programmer works outside of the school setting. No idea, simply because **they have never been**. But this is not a criticism or judgment against them: it's completely rightful and normal.
+They also demonstrate that, even if my classmates know how to make a little program in C++ (thanks to our school teaching it to us), they actually know **nothing** about how life as an average programmer/developer works outside of the school setting. No idea, simply because **they have never been**. But this is not a criticism or judgment against them: it's completely rightful and normal. I've never been a professional programmer, but at least I've seen what it's like in broad terms.
 
 How does this relate to the topic of the post? Well, I personally wasn't in that situation of disorientation because of the knowledge I've gained in  previous years thanks to the attitude I described earlier, but school should never expect students to already know (even if only partially) the information around what is going to be taught.
 
-I think that at school it's important not just to *mnemonically learn* a thing, but also to understand the **context** around it, *how* it's used, *where* it's used and the general application of that knowledge in the life of a developer (in our case), from the ground up.
+I think that at school it's important not just to *mnemonically learn* a thing, but also to understand the **context** around it, *how* it's used, *where* it's used and the general application of that knowledge in the life of a developer (in our case), from the ground up. That applies to both theory and practice.
 
-Instead of perpetually jumping between theory and trivial, repetitive exercises only, it's probably better to teach also the mindset and the attitude to have while learning, while working and also occasionally make a bigger, more meaningful project that teaches not only how to behave in the restrict, narrow set of circumstances but how to do it in a larger set of situations and in a more programmer-like way, using logic as well as memory.
+Instead of perpetually jumping between theory and trivial or repetitive exercises only, it's probably better to teach the mindset and the attitude to have while learning too, while working and occasionally make a bigger, more meaningful project that teaches not only how to behave in the restrict, narrow set of circumstances but how to do it in a larger set of situations and in a more programmer-like way, using logic and collaboration instead of memory alone.
 
 If the ultimate goal of school, talking about my field of study (Information Technology), is to "*churn out*" good, well-formed programmers, then this is not the best way to educate us (even if it apparently seems efficient).
 
@@ -102,7 +102,7 @@ Luckily it is still early to draw conclusions: there are still two years to go!
 
 ### Final thoughts
 
-Before leaving, there's something important I missed to mention: after doing that discussion with my classmates, we compared ourselves to each other and this brought out a great desire to act and to do something, more than I've ever seen before, I think. It convinced many people to ***stop doing nothing*** and ***start making something***.
+Before leaving, there's something important I missed to mention: after doing that discussion with my classmates, we compared ourselves to each other and this brought out a strong desire to act and to do something, more than I've ever seen before, I think. It convinced many people to ***stop doing nothing*** and ***start making something***.
 
 For me, this is a really big achievement: changing people's mindset and attitude to act for the future instead of just doing nothing every afternoon (or whenever we have useful free time and we don't know how to use it) makes me extremely pleased.
 
@@ -168,7 +168,7 @@ While reading Bruce's story, I found several points particularly relatable in th
 
 Fortunately, though, I never (or almost never) exaggerated trying to “*be ahead*” and consequently prevent myself from enjoying life to the fullest. When I'm with friends, when I listen to music, when I do sport or when I just relax I don't think (or at least no longer do) that I'd rather spend my time better working on something else.
 
-That's simply the way I decide to spend my time and doing it in a differently than usual doesn't mean it's a bad thing. On the contrary, it's an opportunity to live new experiences and improve the heterogeneity of my life.
+That's simply the way I decide to spend my time and doing it differently than usual doesn't mean it's a bad thing. On the contrary, it's an opportunity to live new experiences and improve the heterogeneity of my life.
 
 Still, there are some moments where this mental condition (if you can call it that) comes out again. An example? In April I turned 17 and now that my third year of upper secondary school is finished I'm starting to feel the pressure and urge to find a way to earn some money and become more independent from family<span class="tooltip">`*`<span class="tooltiptext">If you are of similar age or older you probably understand what I mean and what kind of feeling is that…</span></span>. For this reason, every time I'm not doing something that is aimed to build my future I feel like I'm wasting time.
 
@@ -178,10 +178,10 @@ Obviously, that doesn't mean putting my responsibilities aside in favour of fun,
 
 Most of the time, it's hard. But not impossible.
 
-Remember that if taken to extreme levels, **desperately trying to succeed in something can be as harmful as living life in sloth**.
+Remember that, if taken to extreme levels, **desperately trying to succeed in something can be as harmful as living life in sloth**.
 
 In conclusion, what I wanted to say in this post is that we have to find a **balance** between enjoying our life and finding a reason to live looking forward. Neither of these two weights has to be too heavy or  too light, otherwise the psychological equilibrium is lost and you neither enjoy living nor have a reason to do so.
 
 In short: be curious, find a meaning and stay happy!
 
-<span class="caption"><em><strong>Fun fact</strong>: the feature image of this post was created by merging two images generated by <a href="https://openai.com/dall-e-2/" target="_blank">DALL·E 2</a> AI model giving the prompt "being mentally ahead, abstract drawing". Given the good results, I may use this method again for future post images, but I'll always tell you if and when I do.</em></span>
+<span class="caption"><em><strong>Note</strong>: the feature image of this post was created by merging together two images generated by <a href="https://openai.com/dall-e-2/" target="_blank">DALL·E 2</a> AI model giving the prompt "being mentally ahead, abstract drawing". Given the good results, I may use this method again for future post images, but I'll always tell you if and when I do.</em></span>
