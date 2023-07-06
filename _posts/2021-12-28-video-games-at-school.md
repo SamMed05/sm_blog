@@ -1,7 +1,7 @@
 ---
 title:  "Video games at school"
 date:  2021-12-28
-feature_image: "/sm_blog/assets/images/video-games-at-school-images/feature-image.jpg"
+feature_image: "/sm_blog/assets/images/video-games-at-school-images/feature-image.png"
 categories: School Gaming
 ---
 
