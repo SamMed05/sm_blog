@@ -302,13 +302,16 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Reaction-Diffusion Systems - Syntopia](http://blog.hvidtfeldts.net/index.php/2012/08/reaction-diffusion-systems/)
 - [Ready - GollyGang](https://gollygang.github.io/ready/)
 - [Coding Challenge ##13: Reaction Diffusion Algorithm in p5.js](https://www.youtube.com/watch?v=BV9ny785UNc)
-- [https://jasonwebb.github.io/reaction-diffusion-playground/](https://jasonwebb.github.io/reaction-diffusion-playground/)
+- [Reaction-Diffusion Playground - Introduction](https://jasonwebb.github.io/reaction-diffusion-playground/)
 - [The Nature of Code - Chapter 7. Cellular Automata](https://natureofcode.com/book/chapter-8-fractals/)
 - [Elementary cellular automaton simulator](http://devinacker.github.io/celldemo/)
 - [Nervous System - Reaction](https://n-e-r-v-o-u-s.com/shop/line.php?code=7)
 
 #### Design 🖍
 
+- [Figma: the collaborative interface design tool.](https://www.figma.com/)
+- [Spline - Design tool for 3D web browser experiences](https://spline.design/)
+- [Framer: Ship sites with style](https://www.framer.com/)
 - [Mobbin](https://mobbin.com/browse/)
 - [Awwwards - Website Awards - Best Web Design Trends](https://www.awwwards.com/)
 - [Windows 10 Desktop — GMUNK](https://gmunk.com/Windows-10-Desktop)
@@ -766,9 +769,6 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Frontpage -- Terms of Service; Didn't Read](https://tosdr.org/)
 - [Motionity - The web-based motion graphics editor for everyone](https://www.motionity.app/)
 - [Motion Canvas - Visualize complex ideas programmatically](https://motioncanvas.io/)
-- [Spline - Design tool for 3D web browser experiences](https://spline.design/)
-- [Figma: the collaborative interface design tool.](https://www.figma.com/)
-- [Framer: Ship sites with style](https://www.framer.com/)
 - [Have I Been Pwned: Check if your email has been compromised in a data breach](https://haveibeenpwned.com/)
 - [Playlist Manager (for Spotify)](http://playlist-manager.com/)
 - [Spotify Dedup - Remove duplicate songs from your Spotify library](https://spotify-dedup.com/)
