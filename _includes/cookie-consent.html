@@ -1,46 +1,62 @@
 <style>
-  #cookie-notice {
-    padding: 0.5rem 1rem;
-    display: none;
-    text-align: center;
-    position: fixed;
-    bottom: 0;
-    width: calc(100%);
-    background: rgba(3,32,64, 0.9);
-    backdrop-filter: blur(3px);
-    color: rgba(255,255,255,0.8);
-  }
-  #cookie-notice a {
-    display: inline-block;
-    cursor: pointer;
-    margin-left: 0.5rem;
-  }
-  @media (max-width: 767px) {
-     #cookie-notice span {
-        display: block;
-        padding-top: 3px;
-        margin-bottom: 1rem;
+    #cookie-notice {
+        padding: 0.5rem 1rem;
+        display: none;
+        text-align: center;
+        position: fixed;
+        bottom: 0;
+        width: calc(100%);
+        background: rgba(2, 25, 49, 0.93);
+        backdrop-filter: blur(3px);
+        color: white;
     }
+
     #cookie-notice a {
-        position: relative;
-        bottom: 4px;
+        display: inline-block;
+        cursor: pointer;
+        margin-left: 0.5rem;
+        color: white;
     }
-  }
-  #cookie-notice-accept {
-    text-decoration: none;
-    border: 2px solid white;
-    padding: 2px 8px 2px 8px;
-    background-color: #2d343d;
-    color: white;
-  }
+
+    @media (max-width: 767px) {
+        #cookie-notice span {
+            display: block;
+            padding-top: 3px;
+            margin-bottom: 1rem;
+        }
+
+        #cookie-notice a {
+            position: relative;
+            bottom: 4px;
+        }
+    }
+
+    #cookie-notice-accept {
+        text-decoration: none;
+        border: 2px solid white;
+        padding: 4px 8px 4px 8px;
+        cursor: pointer;
+        background-color: #2d343d;
+        color: white;
+    }
 </style>
-<div id="cookie-notice"><span>We would like to use third party cookies and scripts to improve the functionality of this website.<br></span><a href="{{ site.baseurl }}/privacy" class="btn btn-primary btn-sm">More info</a>&nbsp;<a id="cookie-notice-accept" class="btn btn-primary btn-sm">Approve</a></div> <!-- ../../../../sm_blog/privacy -->
+
+<div id="cookie-notice">
+    <span>We would like to use third party cookies and scripts to improve the functionality of this
+        website.<br>
+    </span>
+    <a href="{{ site.baseurl }}/privacy" class="btn btn-primary btn-sm">Privacy policy</a>&nbsp;
+    <span id="cookie-notice-accept"
+        class="btn btn-primary btn-sm">Approve
+</span>
+</div> <!-- ../../../../sm_blog/privacy -->
+
 <script>
-    function createCookie(name,value,days) {
+    function createCookie(name, value, days) {
         var expires = "";
         if (days) {
             var date = new Date();
-            date.setTime(date.getTime() + (days*24*60*60*1000));
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
             expires = "; expires=" + date.toUTCString();
         }
         document.cookie = name + "=" + value + expires + "; path=/";
@@ -48,24 +64,24 @@
     function readCookie(name) {
         var nameEQ = name + "=";
         var ca = document.cookie.split(';');
-        for(var i=0;i < ca.length;i++) {
+        for (var i = 0; i < ca.length; i++) {
             var c = ca[i];
-            while (c.charAt(0)==' ') c = c.substring(1,c.length);
-            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
         }
         return null;
     }
     function eraseCookie(name) {
-        createCookie(name,"",-1);
+        createCookie(name, "", -1);
     }
 
-    if(readCookie('cookie-notice-dismissed')=='true') {
+    if (readCookie('cookie-notice-dismissed') == 'true') {
         {% include google-analytics.js %}
     } else {
         document.getElementById('cookie-notice').style.display = 'block';
     }
-    document.getElementById('cookie-notice-accept').addEventListener("click",function() {
-        createCookie('cookie-notice-dismissed','true',31);
+    document.getElementById('cookie-notice-accept').addEventListener("click", function () {
+        createCookie('cookie-notice-dismissed', 'true', 31);
         document.getElementById('cookie-notice').style.display = 'none';
         location.reload();
     });
