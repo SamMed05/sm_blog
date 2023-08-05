@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Terms and Privacy
 permalink: /privacy/
 ---
 

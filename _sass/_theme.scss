@@ -1,3 +1,37 @@
+[data-theme='light'] {
+  $backgroundColour: #fff !global; // modify the global variables instead of creating new local ones within the scope of the data-theme rules
+  $codeBackgroundColour: #f3f4f4 !global;
+  $featureBackgroundColour: #f9fafa !global;
+  $accentColour: #309eff !global;
+
+  $headingColour: #032040 !global; // #031b2b
+  $bodyColour: #000000 !global; // #101824
+  $linkColour: #0072d6 !global;
+  $hoverColour: #00528d !global;
+  $focusColour: #b6dffc !global;
+  $blockquoteColour: #cfebff !global;
+  $captionColour: #2d343d !global;
+  $footerColour: #9ea8ad !global;
+  $white: #ffffff !global;
+}
+
+[data-theme='dark'] {
+  $backgroundColour: #212a2e;
+  $codeBackgroundColour: #f3f4f4;
+  $featureBackgroundColour: #f9fafa;
+  $accentColour: #309eff;
+
+  $headingColour: #f0f0f0;
+  $bodyColour: #f0f0f0;
+  $linkColour: #0072d6;
+  $hoverColour: #00528d;
+  $focusColour: #b6dffc;
+  $blockquoteColour: #cfebff;
+  $captionColour: #2d343d;
+  $footerColour: #9ea8ad;
+  $white: #ffffff;
+}
+
 // Structural elements
 body {
   background: $backgroundColour;
@@ -481,8 +515,11 @@ input[type=checkbox]:checked:after {
 .header,
 .footer {
   .nav {
-    text-align: right;
+    text-align: center;
     padding-bottom: 0.3rem;
+  }
+  li:nth-child(3) { // remove unnecessary home link
+    display: none;
   }
   .logo {
     @include flex(0 0 auto);
@@ -490,7 +527,7 @@ input[type=checkbox]:checked:after {
   .container {
     @include flexbox;
     @include flex-direction(row);
-    @include justify-content(space-between);
+    @include justify-content(space-evenly);
     padding: 1rem 0;
     @include breakpoint(break-1) {
       @include align-items(center);
@@ -499,12 +536,50 @@ input[type=checkbox]:checked:after {
 }
 
 .header .nav {
-  display: flex;
-  flex-direction: column-reverse;
-  align-items: flex-end;
-  justify-content: flex-end;
+  text-align: left;
+  padding: 0rem;
   overflow: hidden;
   font-weight: bold;
+  a {
+    padding: 0;
+    //padding-right: 1rem;
+  }
+  /*li {
+    border: 2px solid $linkColour;
+    border-radius: 10px;
+    padding: .3rem;
+    margin: 5px 10px 5px 0;
+  }*/
+  li {
+    //text-decoration: underline;
+    display: inline;
+    margin: 0;
+    margin-right: 2vw;
+    white-space: nowrap;
+    border-bottom: 2px solid $linkColour;
+  }
+  li:nth-child(3) { // remove unnecessary home link
+    display: none;
+  }
+  li:nth-child(4) {
+    white-space: normal;
+  }
+}
+
+.theme-button-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.theme-button {
+  padding: .17em 0 .17em 0;
+  background: $focusColour;
+  display: inline-block;
+  margin: 5px;
+  font-size: 2rem;
+  border: 2px solid $focusColour;
+  border-radius: 100px;
 }
 
 .feature {
@@ -570,10 +645,9 @@ input[type=checkbox]:checked:after {
 }
 
 .blogImage {
-  position: absolute;
-  right: 3.9rem;
-  top: 0.8rem;
-  width: 3rem;
+  position: relative;
+  margin: auto;
+  width: 3.5rem;
   height: auto;
   animation: shake-animation 8s ease-in infinite;
   -webkit-filter: drop-shadow(0px 0px 4px #fff);
@@ -703,6 +777,7 @@ input[type=checkbox]:checked:after {
   list-style: none;
   &--nav {
     overflow: hidden;
+    margin-bottom: var(--listHeight, 0);
   }
   .item--post,
   .item--result,
@@ -914,10 +989,15 @@ button,
   margin-bottom: 0;
   min-height: 4rem;
   min-width: 4rem;
+  padding: 0;
   &:hover,
   &:focus {
     box-shadow: none;
     color: $hoverColour;
+  }
+  span {
+    font-size: 3rem;
+    color: $headingColour;
   }
 }
 

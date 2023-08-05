@@ -14,7 +14,9 @@
             {% assign collectiondata = site.collections | where: "label", item.collectionpage | first %}
             <a href="{{ url }}">{{ collectiondata.title }}</a>
           {% else %}
-            <a href="{{ url }}">{{ item.title }}</a>
+            {% unless item.url == '/' %}
+              <a href="{{ url }}">{{ item.title }}</a>
+            {% endunless %}
           {% endif %}
         </li>
       {% endunless %}

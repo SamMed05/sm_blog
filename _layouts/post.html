@@ -3,7 +3,6 @@ layout: default
 ---
 
 {% include site-header.html %}
-<!-- include applause-button.html -->
 
 <main class="main  container">
 
@@ -19,6 +18,7 @@ layout: default
 
     {% include post-related.html %}
 
+    <applause-button multiclap="true" color="#2696ff" style="line-height:20px; width: 55px; height: 55px; left:2.5rem; bottom:2.5rem; position: fixed; display: block; background-color: rgb(255, 255, 255, 0.9); border-radius: 50%;"/>
   </article>
 
   {% if page.aside == true %}{% include site-aside.html %}{% endif %}
