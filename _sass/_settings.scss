@@ -1,19 +1,53 @@
-// Background colours
-$backgroundColour: #ffffff !default; // #ebfaff
-$codeBackgroundColour: #f3f4f4 !default;
-$featureBackgroundColour: #f9fafa !default;
-$accentColour: #309eff !default;
+$backgroundColour: #ffffff; // #ebfaff
+$codeBackgroundColour: #f3f4f4;
+$featureBackgroundColour: #f9fafa;
+$accentColour: #309eff;
 
 // Text colours
-$headingColour: #032040 !default; // #031b2b
-$bodyColour: #000000 !default; // #101824
-$linkColour: #0072d6 !default;
-$hoverColour: #00528d !default;
-$focusColour: #b6dffc !default;
-$blockquoteColour: #cfebff !default;
-$captionColour: #2d343d !default;
-$footerColour: #9ea8ad !default;
-$white: #ffffff !default;
+$headingColour: #032040; // #031b2b
+$bodyColour: #000000; // #101824
+$linkColour: #0072d6;
+$hoverColour: #00528d;
+$focusColour: #b6dffc;
+$blockquoteColour: #cfebff;
+$captionColour: #2d343d;
+$footerColour: #9ea8ad;
+$white: #ffffff;
+
+:root[data-theme="light"] {
+// Background colours
+$backgroundColour: #ffffff; // #ebfaff
+$codeBackgroundColour: #f3f4f4;
+$featureBackgroundColour: #f9fafa;
+$accentColour: #309eff;
+
+// Text colours
+$headingColour: #032040; // #031b2b
+$bodyColour: #000000; // #101824
+$linkColour: #0072d6;
+$hoverColour: #00528d;
+$focusColour: #b6dffc;
+$blockquoteColour: #cfebff;
+$captionColour: #2d343d;
+$footerColour: #9ea8ad;
+$white: #ffffff;
+}
+:root[data-theme="dark"] {
+  $backgroundColour: #212a2e;
+  $codeBackgroundColour: #f3f4f4;
+  $featureBackgroundColour: #f9fafa;
+  $accentColour: #309eff;
+
+  $headingColour: #f0f0f0;
+  $bodyColour: #f0f0f0;
+  $linkColour: #0072d6;
+  $hoverColour: #00528d;
+  $focusColour: #b6dffc;
+  $blockquoteColour: #cfebff;
+  $captionColour: #2d343d;
+  $footerColour: #9ea8ad;
+  $white: #ffffff;
+}
 
 // Typography
 $bodytype: (

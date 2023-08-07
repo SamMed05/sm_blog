@@ -1,4 +1,4 @@
-[data-theme='light'] {
+/*[data-theme='light'] {
   $backgroundColour: #fff !global; // modify the global variables instead of creating new local ones within the scope of the data-theme rules
   $codeBackgroundColour: #f3f4f4 !global;
   $featureBackgroundColour: #f9fafa !global;
@@ -30,7 +30,7 @@
   $captionColour: #2d343d;
   $footerColour: #9ea8ad;
   $white: #ffffff;
-}
+}*/
 
 // Structural elements
 body {
@@ -955,6 +955,7 @@ select {
   border: none;
   box-shadow: none;
   border-radius: 0;
+  appearance: none;
   -webkit-appearance: none;
   .icon {
     margin: 0 0 .35rem;

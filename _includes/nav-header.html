@@ -22,7 +22,7 @@
   {% include nav-default.html %}
 {% endif %}
 
-<button class="theme-button" data-theme="light">☀️</button>
+<button class="theme-button" data-theme="light" style="display: none"></button>
 
 <div>
   {% include site-logo.html %}
@@ -65,6 +65,13 @@
     collapseNav()
   })
 
+  // Theme
+  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    document.documentElement.setAttribute('data-theme', "dark");
+  } else {
+    document.documentElement.setAttribute('data-theme', "dark");
+  }
+
   const themeButton = document.getElementsByClassName("theme-button")[0];
   let storedTheme = localStorage.getItem('theme') || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
   if (storedTheme)
@@ -73,21 +80,21 @@
   let targetTheme;
 
   if (localStorage.getItem('theme') == "light") {
-    themeButton.innerHTML = "🌑";
+    themeButton.textContent = "🌑";
     document.documentElement.setAttribute('data-theme', "dark");
   } else {
-    themeButton.innerHTML = "☀️";
+    themeButton.textContent = "☀️";
     document.documentElement.setAttribute('data-theme', "light");
   }
 
   // Toggle dark/light theme
   themeButton.onclick = () => {
     if (document.documentElement.getAttribute("data-theme") == "light") {
-      themeButton.innerHTML = "🌑";
+      themeButton.textContent = "🌑";
       document.documentElement.setAttribute('data-theme', "dark");
       targetTheme = "dark";
     } else {
-      themeButton.innerHTML = "☀️";
+      themeButton.textContent = "☀️";
       document.documentElement.setAttribute('data-theme', "light");
       targetTheme = "light";
     }
