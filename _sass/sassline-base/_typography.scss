@@ -351,7 +351,7 @@ a {
   // Quotes.
   blockquote {
     // background-color: $blockquoteColour;
-    background-image: linear-gradient(to right, #edf2f5, white); //$blockquoteColour
+    background-image: linear-gradient(to right, $blockquoteColour, rgba(255, 255, 255, 0)); //$blockquoteColour
     p {
       color: $captionColour;
       border-left: 0.25rem solid $captionColour; //$linkColour //0.20rem

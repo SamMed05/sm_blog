@@ -9,7 +9,7 @@ $bodyColour: #000000; // #101824
 $linkColour: #0072d6;
 $hoverColour: #00528d;
 $focusColour: #b6dffc;
-$blockquoteColour: #cfebff;
+$blockquoteColour: #edf2f5;
 $captionColour: #2d343d;
 $footerColour: #9ea8ad;
 $white: #ffffff;
@@ -27,14 +27,14 @@ $bodyColour: #000000; // #101824
 $linkColour: #0072d6;
 $hoverColour: #00528d;
 $focusColour: #b6dffc;
-$blockquoteColour: #cfebff;
+$blockquoteColour: #edf2f5;
 $captionColour: #2d343d;
 $footerColour: #9ea8ad;
 $white: #ffffff;
 }
 :root[data-theme="dark"] {
-  $backgroundColour: #212a2e;
-  $codeBackgroundColour: #f3f4f4;
+  $backgroundColour: #1a1c1f;
+  $codeBackgroundColour: #303030;
   $featureBackgroundColour: #f9fafa;
   $accentColour: #309eff;
 
@@ -43,8 +43,8 @@ $white: #ffffff;
   $linkColour: #0072d6;
   $hoverColour: #00528d;
   $focusColour: #b6dffc;
-  $blockquoteColour: #cfebff;
-  $captionColour: #2d343d;
+  $blockquoteColour: #30353a;
+  $captionColour: #d9e3f0;
   $footerColour: #9ea8ad;
   $white: #ffffff;
 }
