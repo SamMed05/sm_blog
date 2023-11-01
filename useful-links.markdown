@@ -53,6 +53,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Mathigon – The Mathematical Playground](https://mathigon.org/)
 - [3Blue1Brown](https://www.3blue1brown.com/)
 - [3Blue1Brown - SoME1 results](https://www.3blue1brown.com/blog/some1-results) (and following events)
+- [SoME](https://some.3b1b.co/)
 - [Lockdown math](https://www.youtube.com/watch?v=ppWPuXsnf1Q&list=PLZHQObOWTQDP5CVelJJ1bNDouqrAhVPev&ab_channel=3Blue1Brown)
 - [BetterExplained – Math lessons that click](https://betterexplained.com/)
 - [Exhibitions - Mathematical Art Galleries](http://gallery.bridgesmathart.org/exhibitions)
@@ -77,6 +78,8 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Math, Physics, and Engineering Applets](https://www.falstad.com/mathphysics.html)
 - [Matrix Multiplication](http://matrixmultiplication.xyz/)
 - [Calculus – Intellectual Mathematics](https://intellectualmathematics.com/calculus/)
+- [Calculator Suite - GeoGebra](https://www.geogebra.org/calculator)
+- [Desmos - Graphing Calculator](https://www.desmos.com/calculator)
 
 ## ICT/Software 💻
 
@@ -121,16 +124,17 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [CodesCracker: Learn Online Coding](https://codescracker.com/)
 - [The International Obfuscated C Code Contest](https://www.ioccc.org/)
 - [Tracks – Hyperskill](https://hyperskill.org/tracks)
-- [newline - Learn to build React, Angular, Vue, GraphQL, and Node.js Apps with real-world projects](https://www.newline.co/)
 - [Catalog Home - Codecademy](https://www.codecademy.com/catalog)
 - [Google for Developers - Software Development Guides, Tools & More](https://developers.google.com/)
 - [Online Creative Courses from Top Universities - Kadenze](https://www.kadenze.com/)
+- [Google Cloud Skills Boost](https://www.cloudskillsboost.google/)
 
 ##### Job Interview Preparation 💼
 
 - [Problems - LeetCode](https://leetcode.com/problemset/all/)
 - [Google Tech Dev Guide - Interview Prep](https://techdevguide.withgoogle.com/paths/interview/)
 - [Google Tech Dev Guide - DSA](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
+- [How to Build an Effective Dev Portfolio](https://www.joshwcomeau.com/effective-portfolio/)
 
 #### Web development (front-end) 🌐
 
@@ -166,6 +170,12 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Expert led courses for front-end web developers. - egghead.io](https://egghead.io/)
 - [92 Beautiful CSS buttons examples - CSS Scan](https://getcssscan.com/css-buttons-examples)
 - [Glitch: The friendly community where everyone builds the web](https://glitch.com/)
+- [Stack Sorted.](https://stacksorted.com/)
+- [Realtime Colors](https://realtimecolors.com/)
+- [Type Scale - A Visual Calculator](https://typescale.com/)
+- [newline - Learn to build React, Angular, Vue, GraphQL, and Node.js Apps with real-world projects](https://www.newline.co/)
+- [The Beginner's Guide to React - egghead.io](https://egghead.io/courses/the-beginner-s-guide-to-react)
+- [The Joy of React](https://www.joyofreact.com/)
 - Mini games (web dev and programming)
     - [Codepip - Learn to code by playing games](https://codepip.com/)
     - [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
@@ -175,7 +185,8 @@ Alternatively, you can find the same list on this page (but it might not be in s
     - [Flexbox Defense](http://www.flexboxdefense.com/)
     - [Elevator Saga - the elevator programming game](http://play.elevatorsaga.com/)
     - [Untrusted - a user javascript adventure game](https://alexnisnevich.github.io/untrusted/)
-    - [WarriorJS](https://warriorjs.com/)
+    - [HSL Color Game](https://hslcolourgame.netlify.app/)
+    - [aem1k - JS Hacks & Creativity](https://aem1k.com/)
 
 ##### Frameworks and libraries ⚙️
 
@@ -192,7 +203,6 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [D3.js - Data-Driven Documents](https://d3js.org/)
 - [Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.](https://tailwindcss.com/)
 - [Components — Tailwind CSS Components](https://daisyui.com/components/)
-- [The Joy of React](https://www.joyofreact.com/)
 - [Splide - The lightweight, flexible and accessible slider/carousel](https://splidejs.com/)
 - [Tippy.js - Tooltip, Popover, Dropdown, and Menu Library](https://atomiks.github.io/tippyjs/)
 - [Introduction - Learn Next.js](https://nextjs.org/learn/foundations/)
@@ -201,12 +211,14 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Chart Demos - amCharts](https://www.amcharts.com/demos/)
 - [Apache ECharts](https://echarts.apache.org/en/index.html)
 - [Chart.js - Open source HTML5 Charts for your website](https://www.chartjs.org/)
+- [Popper - Tooltip & Popover Positioning Engine](https://popper.js.org/)
 
 #### Game development 🎮
 
 - [Unity C## and Shader Tutorials](https://catlikecoding.com/unity/tutorials/)
 - [Unity Tutorials - Roystan](https://roystan.net/articles/)
 - [Learn game development w/ Unity - Courses & tutorials in game design, VR, AR, & Real-time 3D - Unity Learn](https://learn.unity.com/)
+- [Godot Engine - Free and open source 2D and 3D game engine](https://godotengine.org/)
 - [Course - CS50's Introduction to Game Development - edX](https://learning.edx.org/course/course-v1:HarvardX+CS50G+Games/home)
 - [Unreal Engine 5 Beginner Tutorial - UE5 Starter Course 2022](https://youtu.be/k-zMkzmduqI)
 - [The Unity Tutorial For Complete Beginners -  Game Maker's Toolkit](https://youtu.be/XtQMytORBmM)
@@ -221,7 +233,6 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Harry Alisavakis – My journey through video game development](https://halisavakis.com/)
 - [https://acegikmo.com/](https://acegikmo.com/)
 - [Bitsy](https://bitsy.org/)
-- [The Book of Shaders](https://thebookofshaders.com/)
 - [Home - GameDev.net](https://www.gamedev.net/)
 - [Platformer Toolkit by Game Maker's Toolkit](https://gmtk.itch.io/platformer-toolkit)
 - [Mixamo](https://www.mixamo.com/)
@@ -229,6 +240,10 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [OpenGameArt.org](https://opengameart.org/)
 - [GDC Vault](https://www.gdcvault.com/)
 - [Home · Kenney](https://kenney.nl/)
+- [FMOD & Unity - Scott Game Sounds](https://scottgamesounds.com/c-scripts/)
+- [Audio Helm for Unity](https://tytel.org/audiohelm/)
+- [Bounding Box Software - Materialize](https://boundingboxsoftware.com/materialize/)
+- [ink - inkle's narrative scripting language](https://www.inklestudios.com/ink/)
     
     ##### Shaders/VFX 🌟
     
@@ -255,6 +270,15 @@ Alternatively, you can find the same list on this page (but it might not be in s
     - [smoothstep.io](https://smoothstep.io/)
     - [Shaderoo](https://shaderoo.org/)
     - [CineShader](https://cineshader.com/gallery)
+    - [Godot Shaders - Make your games beautiful!](https://godotshaders.com/)
+    - [Maxime Heckel's Blog](https://blog.maximeheckel.com/)
+    - [GLSL Gallery](https://patriciogonzalezvivo.github.io/glslGallery/)
+    - [GLSL Editor](https://thebookofshaders.com/edit.php)
+    - [The Book of Shaders](https://thebookofshaders.com/)
+    - [shader Archives - William Chyr](https://williamchyr.com/tag/shader/)
+    - [William Chyr - Unity Shaders - Depth and Normal Textures (Part 1)](https://williamchyr.com/unity-shaders-depth-and-normal-textures/)
+    - [A Journey Into Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
+
     - Videos
         - [Shaders 101 - Intro to Shaders](https://www.youtube.com/watch?v=T-HXmQAMhG0)
         - [Shadertoy for absolute beginners](https://www.youtube.com/watch?v=u5HAYVHsasc)
@@ -415,6 +439,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Magenta](https://magenta.tensorflow.org/)
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Google's latest experiments in Labs](https://labs.google/)
+- [Machine Learning - Google for Developers](https://developers.google.com/machine-learning/)
 - [AI Based Solutions for Developers - Google for Developers](https://developers.google.com/focus/ai-development)
 - [Diffusers.ipynb - Colaboratory](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/diffusers_intro.ipynb)
 - [Stability AI](https://stability.ai/)
@@ -424,6 +449,10 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Home - colah's blog](https://colah.github.io/)
 - [AI Expert Roadmap](https://i.am.ai/roadmap)
 - [AI Based Solutions for Developers - Google for Developers](https://developers.google.com/focus/ai-development) ([Machine Learning  -  Google for Developers](https://developers.google.com/machine-learning/))
+- [Hello, Perceptron: An introduction to artificial neural networks](https://matt.might.net/articles/hello-perceptron/)
+- [How does Stable Diffusion work?](https://stable-diffusion-art.com/how-stable-diffusion-work/)
+- [Mathematics for Machine Learning - Companion webpage to the book “Mathematics for Machine Learning”](https://mml-book.github.io/)
+- [Teaching Machines to Draw – Google Research Blog](https://blog.research.google/2017/04/teaching-machines-to-draw.html)
 - Videos
     - [Neural Networks from Scratch - P.4 Batches, Layers, and Objects](https://www.youtube.com/watch?v=TEWy9vZcxW4&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&index=6)
     - [Introduction - CS50's Introduction to Artificial Intelligence with Python 2020](https://youtu.be/gR8QvFmNuLE?list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv)
@@ -470,6 +499,8 @@ Alternatively, you can find the same list on this page (but it might not be in s
     - [Principal Component Analysis (PCA) - Serrano.Academy](https://youtu.be/g-Hb26agBFg)
     - [Sparks of AGI: early experiments with GPT-4](https://youtu.be/qbIk7-JPB2c)
     - [The Attention Mechanism in Large Language Models - Serrano.Academy](https://youtu.be/OxCpWwDCDFQ)
+    - [DeepMind x UCL RL Lecture Series - Introduction to Reinforcement Learning [1/13]](https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZCRwoyGxvQkqVrZgDQi4m-5&ab_channel=GoogleDeepMind)
+    - [What is Machine Learning? - Google Cloud Tech](https://www.youtube.com/watch?v=HcqpanDadyQ&list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2&ab_channel=GoogleCloudTech)
 - AI platforms/models/experiments
     - [ChatGPT](https://chat.openai.com/)
     - [Bard](https://bard.google.com/)
@@ -496,6 +527,8 @@ Alternatively, you can find the same list on this page (but it might not be in s
     - [Segment Anything - Meta AI](https://segment-anything.com/)
     - [Write With Transformer](https://transformer.huggingface.co/doc/gpt2-large)
     - [Explore Llamav2 With TGI - a Hugging Face Space by ysharma](https://huggingface.co/spaces/ysharma/Explore_llamav2_with_TGI)
+    - [NotebookLM](https://notebooklm.google.com/)
+    - [gsplat](https://gsplat.tech/)
 
 #### Sound/audio/waves 🎶
 
@@ -514,6 +547,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Notes on Waveguide Synthesis](https://www.osar.fr/notes/waveguides/)
 - [Coding a basic reverb algorithm- Part 2: An introduction to audio programming - by Rishikesh Daoo - The Seeker’s Project - Medium](https://medium.com/the-seekers-project/coding-a-basic-reverb-algorithm-part-2-an-introduction-to-audio-programming-4db79dd4e325)
 - [Dan Russell's Acoustics and Vibration Animations](https://www.acs.psu.edu/drussell/demos.html)
+- [Synthesis Basics](http://beausievers.com/synth/synthbasics/)
 
 ## Music 🎵
 
@@ -537,6 +571,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Magical Music Theory Tools to Learn Music Online for Free](https://muted.io/)
 - [Free sheet music - Download PDF or print on Musescore.com](https://musescore.com/sheetmusic)
 - [RaveDJ - Music Mixer](https://rave.dj/)
+- [NSynth: Sound Maker](https://experiments.withgoogle.com/ai/sound-maker/view/)
 - VSTs/Plugins/Effects
     - [PLUGINS 4 FREE - Free Instrument Audio Plugins Archive](https://plugins4free.com/)
     - [Free effects - MeldaProduction](https://www.meldaproduction.com/effects/free)
@@ -548,6 +583,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
     - [Max For Live Curated Collection](https://elphnt.io/max-for-live-curated/)
     - [Audio Plugins for Free • Freeware Audio Plugins Database](https://www.audiopluginsforfree.com/)
     - [Max for Live Community Resource - Device Library](https://maxforlive.com/library/)
+    - [Free Presets For VST Synthesizers](https://presetshare.com/)
 
 ## Science/engineering/data visualization 🔬
 
@@ -579,6 +615,11 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Featured creators / Observable - Observable](https://observablehq.com/collection/@observablehq/featured-creators)
 - [Quantum Country](https://quantum.country/)
 - [Scientific Image and Illustration Software - BioRender](https://www.biorender.com/)
+- [Home - 3DChem.com - Chemistry, Structures & 3D Molecules](https://www.3dchem.com/)
+- [NIH 3D](https://3d.nih.gov/)
+- [RCSB PDB: Homepage](https://www.rcsb.org/#Category-learn)
+- [https://cdn.rcsb.org/pdb101/molecular-machinery/](https://cdn.rcsb.org/pdb101/molecular-machinery/)
+- [Webb Home](https://webbtelescope.org/home)
 
 ## News/articles/comics 🗞
 
@@ -615,6 +656,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [HowStuffWorks - Learn How Everything Works!](https://www.howstuffworks.com/)
 - [Manifesto on the Teaching of Mathematics – Intellectual Mathematics](https://intellectualmathematics.com/manifesto/)
 - [Lea Verou](https://lea.verou.me/) ([An Introduction to Modern Web Technologies](https://projects.verou.me/talks/intro/##slide1))
+- [](https://matt.might.net/articles/)
 
 ## Misc 🎲
 
@@ -695,6 +737,14 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Gumroad – Sell what you know and see what sticks](https://gumroad.com/)
 - [Glassdoor Job Search - You deserve a job that loves you back](https://www.glassdoor.com/)
 - [3D models database - Printables.com](https://www.printables.com/)
+- [SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/)
+- [Material Design Icons - Icon Library - Pictogrammers](https://pictogrammers.com/library/mdi/)
+- [Intro - Putting the "You" in CPU](https://cpu.land/)
+- [emoji kitchen](https://www.google.com/search?q=emoji+kitchen)
+- [Ultimate Tic Tac Toe](https://bejofo.net/ttt)
+- [Vesuvius Challenge](https://scrollprize.org/)
+- [Science - Cutting Edge Technology & Immersive Experiences](https://www.thespherevegas.com/science)
+- [aem1k - JS Hacks & Creativity](https://aem1k.com/)
 
 ## Tools 🛠
 
@@ -800,6 +850,13 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Seamless texture check - pycheung.com](https://www.pycheung.com/checker/)
 - [DOM Visualizer](https://bioub.github.io/dom-visualizer/)
 - [Goodies - Josh W. Comeau](https://www.joshwcomeau.com/goodies/)
+- [jsfxr - 8 bit sound maker and online sfx generator](https://sfxr.me/)
+- [Domainhacks.info](https://domainhacks.info/)
+- [Time Since Launch](https://www.timesincelaunch.com/)
+- [Customize and apply backgrounds fast - SVG Backgrounds](https://www.svgbackgrounds.com/)
+- [Probability Visualizer](http://probability.lindybner.com/)
+- [Rive - Build interactive animations that run anywhere](https://www.rive.app/)
+- [Identify Fonts - The Font Squirrel Matcherator](https://www.fontsquirrel.com/matcherator)
 - AI tools
     - [Futurepedia - The Largest AI Tools Directory - Home](https://www.futurepedia.io/)
     - [There's An AI For That - The Biggest AI Aggregator](https://theresanaiforthat.com/)
@@ -829,6 +886,10 @@ Alternatively, you can find the same list on this page (but it might not be in s
     - [Playground AI](https://playgroundai.com/)
     - [Calligrapher.ai: Realistic computer-generated handwriting](https://www.calligrapher.ai/)
     - [Strofe](https://www.strofe.com/)
+    - [Vocal Remover and Isolation [AI]](https://vocalremover.org/)
+    - [Moises App: The Musician's App - Vocal Remover & much more](https://moises.ai/)
+    - [AI Image/Audio Classification & Authenticity Detection - AI or Not](https://www.aiornot.com/)
+    - [Vizcom - Render your drawings in seconds](https://www.vizcom.ai/)
 
 ## Other link lists 🗒️
 
