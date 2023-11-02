@@ -9,8 +9,8 @@ permalink: /useful-links/
 
 // modified from https://css-tricks.com/favicons-next-to-external-links/
 document.addEventListener("DOMContentLoaded", function() {
-  // select all links (<a> elements) that start with "http" (external links)
-  document.querySelectorAll("a[href^='http']").forEach(function(link) {
+  // select all links (<a> elements) that start with "http" (external links), but only inside main
+  document.querySelectorAll("main a[href^='http']").forEach(function(link) {
     var icon = document.createElement("span");
     icon.style.background = "url(https://www.google.com/s2/favicons?domain=" + link.hostname + ") left center no-repeat";
     icon.style.paddingLeft = "20px";
