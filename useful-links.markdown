@@ -4,6 +4,21 @@ title: Useful links
 permalink: /useful-links/
 ---
 
+<script>
+//document.cookie = "myCookie=myValue; path=/; SameSite=None; Secure"; // https://developer.chrome.com/docs/privacy-sandbox/third-party-cookie-phase-out/?utm_source=devtools
+
+// modified from https://css-tricks.com/favicons-next-to-external-links/
+document.addEventListener("DOMContentLoaded", function() {
+  // select all links (<a> elements) that start with "http" (external links)
+  document.querySelectorAll("a[href^='http']").forEach(function(link) {
+    var icon = document.createElement("span");
+    icon.style.background = "url(https://www.google.com/s2/favicons?domain=" + link.hostname + ") left center no-repeat";
+    icon.style.paddingLeft = "20px";
+    link.insertBefore(icon, link.firstChild);
+  });
+});
+</script>
+
 Over time, I've collected many websites that I found useful, interesting or both, and I've tried to make an organized list of all of them in order to find them more easily in the future.
 
 Click on the button below to go to the Notion page containing the list of links. Please note the following things:
@@ -215,7 +230,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 
 #### Game development 🎮
 
-- [Unity C## and Shader Tutorials](https://catlikecoding.com/unity/tutorials/)
+- [Unity C# and Shader Tutorials](https://catlikecoding.com/unity/tutorials/)
 - [Unity Tutorials - Roystan](https://roystan.net/articles/)
 - [Learn game development w/ Unity - Courses & tutorials in game design, VR, AR, & Real-time 3D - Unity Learn](https://learn.unity.com/)
 - [Godot Engine - Free and open source 2D and 3D game engine](https://godotengine.org/)
@@ -244,54 +259,53 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Audio Helm for Unity](https://tytel.org/audiohelm/)
 - [Bounding Box Software - Materialize](https://boundingboxsoftware.com/materialize/)
 - [ink - inkle's narrative scripting language](https://www.inklestudios.com/ink/)
-    
-    ##### Shaders/VFX 🌟
-    
-    - [Intro to Shaders - Cyanilux](https://www.cyanilux.com/tutorials/intro-to-shaders/)
-    - [Intro to Shader Graph - Cyanilux](https://www.cyanilux.com/tutorials/intro-to-shader-graph/)
-    - [Resources - Cyanilux](https://www.cyanilux.com/resources/)
-    - [ShaderQuest – Harry Alisavakis](https://halisavakis.com/category/shaderquest/)
-    - [Archive – Harry Alisavakis](https://halisavakis.com/archive/)
-    - [A gentle introduction to shaders in Unity - Shader tutorial](https://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d/)
-    - [Screen Space Reflection - 3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/screen-space-reflection.html)
-    - [Cg Programming/Unity - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/Cg_Programming/Unity)
-    - [Ray Tracing in One Weekend Series](https://raytracing.github.io/)
-    - [A Beginner's Guide to Coding Graphics Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313?_ga=2.234496670.1083075034.1533402462-179510587.1530837717)
-    - [Jettelly Learn](https://learn.jettelly.com/course/unity-shader-bible/usb-chapter-1/)
-    - [Daniel Ilett - Games - Shaders - Tutorials](https://danielilett.com/)
-    - [Compute Shaders - Catlike Coding](https://catlikecoding.com/unity/tutorials/basics/compute-shaders/)
-    - [My take on shaders: Compute shaders – Harry Alisavakis](https://halisavakis.com/my-take-on-shaders-compute-shaders/)
-    - [MinionsArt Tutorials](https://minionsart.github.io/tutorials/)
-    - [Ronja's Shader Tutorials](https://www.ronja-tutorials.com/?flipped=true)
-    - [Visual Effects Tutorials - Gabriel Aguiar Prod](https://www.gabrielaguiarprod.com/tutorials)
-    - [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/index.html)
-    - [Shadertoy BETA](https://www.shadertoy.com/)
-    - [twigl.app](https://twigl.app/) ([@zozuar](https://twitter.com/zozuar))
-    - [smoothstep.io](https://smoothstep.io/)
-    - [Shaderoo](https://shaderoo.org/)
-    - [CineShader](https://cineshader.com/gallery)
-    - [Godot Shaders - Make your games beautiful!](https://godotshaders.com/)
-    - [Maxime Heckel's Blog](https://blog.maximeheckel.com/)
-    - [GLSL Gallery](https://patriciogonzalezvivo.github.io/glslGallery/)
-    - [GLSL Editor](https://thebookofshaders.com/edit.php)
-    - [The Book of Shaders](https://thebookofshaders.com/)
-    - [shader Archives - William Chyr](https://williamchyr.com/tag/shader/)
-    - [William Chyr - Unity Shaders - Depth and Normal Textures (Part 1)](https://williamchyr.com/unity-shaders-depth-and-normal-textures/)
-    - [A Journey Into Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
 
-    - Videos
-        - [Shaders 101 - Intro to Shaders](https://www.youtube.com/watch?v=T-HXmQAMhG0)
-        - [Shadertoy for absolute beginners](https://www.youtube.com/watch?v=u5HAYVHsasc)
-        - [Basics of Shader Graph - Unity Tutorial](https://www.youtube.com/watch?v=Ar9eIn4z6XE)
-        - [Coding Adventure: Compute Shaders](https://www.youtube.com/watch?v=9RHGLZLUuwc)
-        - [Shader Fundamentals - Normal Mapping](https://www.youtube.com/watch?v=6_-NNKc4lrk)
-        - [How Shaders Work in OpenGL](https://www.youtube.com/watch?v=5W7JLgFCkwI)
-        - [Writing a Shader in OpenGL](https://youtu.be/71BLZwRGUJE)
-        - [Getting Started with Compute Shaders in Unity](https://www.youtube.com/watch?v=BrZ4pWwkpto)
-        - [Intro to Shader Coding in Unity - An Improvised Live Course](https://www.youtube.com/watch?v=9WW5-0N1DsI)
-        - [Shader Basics, Blending & Textures • Shaders for Game Devs [Part 1]](https://www.youtube.com/watch?v=kfM-yu0iQBk)
-        - [Three.js Tutorial on Shaders (beginners)](https://www.youtube.com/watch?v=C8Cuwq1eqDw)
-        - [An introduction to Shader Art Coding](https://youtu.be/f4s1h2YETNY)
+##### Shaders/VFX 🌟
+    
+- [Intro to Shaders - Cyanilux](https://www.cyanilux.comtutorials/intro-to-shaders/)
+- [Intro to Shader Graph - Cyanilux](https://www.cyaniluxcom/tutorials/intro-to-shader-graph/)
+- [Resources - Cyanilux](https://www.cyanilux.com/resources/)
+- [ShaderQuest – Harry Alisavakis](https://halisavakis.comcategory/shaderquest/)
+- [Archive – Harry Alisavakis](https://halisavakis.comarchive/)
+- [A gentle introduction to shaders in Unity - Shadertutorial](https://www.alanzucconi.com/2015/06/10a-gentle-introduction-to-shaders-in-unity3d/)
+- [Screen Space Reflection - 3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginnersscreen-space-reflection.html)
+- [Cg Programming/Unity - Wikibooks, open books for an openworld](https://en.wikibooks.org/wiki/Cg_Programming/Unity)
+- [Ray Tracing in One Weekend Series](https://raytracinggithub.io/)
+- [A Beginner's Guide to Coding Graphics Shaders](https:/gamedevelopment.tutsplus.com/tutorialsa-beginners-guide-to-coding-graphics-shaders--cms-23313_ga=2.234496670.1083075034.1533402462-179510587.1530837717)
+- [Jettelly Learn](https://learn.jettelly.com/courseunity-shader-bible/usb-chapter-1/)
+- [Daniel Ilett - Games - Shaders - Tutorials](https:/danielilett.com/)
+- [Compute Shaders - Catlike Coding](https://catlikecodingcom/unity/tutorials/basics/compute-shaders/)
+- [My take on shaders: Compute shaders – Harry Alisavakis](https://halisavakis.com/my-take-on-shaders-compute-shaders/)
+- [MinionsArt Tutorials](https://minionsart.github.iotutorials/)
+- [Ronja's Shader Tutorials](https://www.ronja-tutorialscom/?flipped=true)
+- [Visual Effects Tutorials - Gabriel Aguiar Prod](https:/www.gabrielaguiarprod.com/tutorials)
+- [3D Game Shaders For Beginners](https://lettier.github.io3d-game-shaders-for-beginners/index.html)
+- [Shadertoy BETA](https://www.shadertoy.com/)
+- [twigl.app](https://twigl.app/) ([@zozuar](https://twittercom/zozuar))
+- [smoothstep.io](https://smoothstep.io/)
+- [Shaderoo](https://shaderoo.org/)
+- [CineShader](https://cineshader.com/gallery)
+- [Godot Shaders - Make your games beautiful!](https:/godotshaders.com/)
+- [Maxime Heckel's Blog](https://blog.maximeheckel.com/)
+- [GLSL Gallery](https://patriciogonzalezvivo.github.ioglslGallery/)
+- [GLSL Editor](https://thebookofshaders.com/edit.php)
+- [The Book of Shaders](https://thebookofshaders.com/)
+- [shader Archives - William Chyr](https://williamchyr.comtag/shader/)
+- [William Chyr - Unity Shaders - Depth and Normal Textures(Part 1)](https://williamchyr.comunity-shaders-depth-and-normal-textures/)
+- [A Journey Into Shaders](https://www.mayerowitz.io/bloga-journey-into-shaders)
+- Videos
+    - [Shaders 101 - Intro to Shaders](https://www.youtube.com/watch?v=T-HXmQAMhG0)
+    - [Shadertoy for absolute beginners](https://www.youtube.com/watch?v=u5HAYVHsasc)
+    - [Basics of Shader Graph - Unity Tutorial](https://www.youtube.com/watch?v=Ar9eIn4z6XE)
+    - [Coding Adventure: Compute Shaders](https://www.youtube.com/watch?v=9RHGLZLUuwc)
+    - [Shader Fundamentals - Normal Mapping](https://www.youtube.com/watch?v=6_-NNKc4lrk)
+    - [How Shaders Work in OpenGL](https://www.youtube.com/watch?v=5W7JLgFCkwI)
+    - [Writing a Shader in OpenGL](https://youtu.be/71BLZwRGUJE)
+    - [Getting Started with Compute Shaders in Unity](https://www.youtube.com/watch?v=BrZ4pWwkpto)
+    - [Intro to Shader Coding in Unity - An Improvised Live Course](https://www.youtube.com/watch?v=9WW5-0N1DsI)
+    - [Shader Basics, Blending & Textures • Shaders for Game Devs [Part 1]](https://www.youtube.com/watch?v=kfM-yu0iQBk)
+    - [Three.js Tutorial on Shaders (beginners)](https://www.youtube.com/watch?v=C8Cuwq1eqDw)
+    - [An introduction to Shader Art Coding](https://youtu.be/f4s1h2YETNY)
 
 #### Creative coding/generative art 🎨
 
