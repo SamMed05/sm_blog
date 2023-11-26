@@ -44,7 +44,7 @@ There are national indications for the nursery school curriculum to define the l
 
 
 {: .box-note}
-<span class="material-icons-outlined">info</span> **Note:** What is taught in each public Italian school, from infancy to upper secondary school, is expressed in the PTOF (*Piano Triennale dell'Offerta Formativa*, or Triennial Plan of the Educational Offer), which is a document where the school in question reports the strategy with which it aims to pursue educational and training goals based on its own resources, both human, professional, territorial or economic. In other words, in the PTOF are reported all the intentions, ideas and projects that a school proposes over three years, whether they are educational, organizational, curricular or extra-curricular.
+<span class="material-icons-outlined">info</span> **Note:** What is taught in each public Italian school, from infancy to upper secondary school, is expressed in the PTOF (*Piano Triennale dell'Offerta Formativa*, or Triennial Plan of the Educational Offer), which is a document where the school in question reports the strategy with which it aims to pursue educational and training goals based on its own resources, both human, professional, territorial or economic. In other words, the PTOF reports all the intentions, ideas and projects that a school proposes over three years, whether they are educational, organizational, curricular or extra-curricular.
 
 [MIUR guidelines (🇮🇹)](https://www.miur.gov.it/web/guest/scuola-dell-infanzia)
 
@@ -76,7 +76,7 @@ Every week, Italian students attend lessons on the following subjects:
 - Technology/ICT/Computer Science (1-2 hours)
 - Religion (2 hours, not mandatory)
 
-For a *full time* day at school (8 hours a day), which seems to be the most common choice[^3], more hours are dedicated to some subjects, but they usually oscillate between the values I've written above. The number of hours for each subject is also dynamic and can change depending on the year: it can decrease or increase progressively depending on the importance of the subject and the MIUR guidelines. As you can see, the English language is taught since age 6. Also, being Italy a secular state (*sort of*), religion is optional and parents can choose if their child should instead do alternative activities during those hours in another classroom.
+For a *full-time* day at school (8 hours a day), which seems to be the most common choice[^3], more hours are dedicated to some subjects, but they usually oscillate between the values I've written above. The number of hours for each subject is also dynamic and can change depending on the year: it can decrease or increase progressively depending on the importance of the subject and the MIUR guidelines. As you can see, the English language is taught since age 6. Also, being Italy a secular state (*sort of*), religion is optional and parents can choose if their child should instead do alternative activities during those hours in another classroom.
 
 If you are curious to know exactly what is being taught to children in primary school, this is a table describing the (new) educational program of history, geography and science throughout all 5 years of elementary school, taken from [Wikipedia](https://it.wikipedia.org/wiki/Riforma_Moratti#Scuola_primaria)<span class="tooltip">`*`<span class="tooltiptext">Of course, keep in mind that all programs can vary a little depending on the school, the teachers and the students.</span></span>:
 
@@ -181,13 +181,13 @@ Shortly after school is finished (it's in the first days of June for most Italia
 To give you an example, I chose environmental problems as the main topic, then I connected the subjects to the various topics learned during the previous years like so:
 - **Science**: greenhouse effect
 - **Technology**: renewable energies
-- **History**: Second industrial revolution
+- **History**: Second Industrial Revolution
 - **Religion**: a speech by Pope Francis
 - **Geography**: China's pollution
 - **P.E.**: outdoor sports
 - **Music**: I played *Elegy for the Artic* (Greenpeace) by Ludovico Einaudi with my piano
 
-I feel generous so I'll share my complete *tesina* with you. Just keep in mind that I had 14 years in 2019, so don't expect anything too professional and accurate. Also, it's in the Italian language of course 🇮🇹. Click the button to read and download it.
+I don't know if it's interesting, but I'll share my complete *tesina* with you to show what an actual *tesina* would look like. Just keep in mind that I was 14 in 2019, so don't expect anything too professional and accurate. Also, it's in the Italian language of course (🇮🇹). Click the button to read and download it.
 
 <form style="display: flex; justify-content: center;" target="_blank" action="https://mega.nz/file/p0FxSY5D#p5drD4bZtWIh0HYAhDeKelmxWZbK3QQNxInU0R8gZ2E">
   <input type="submit" value="Open the tesina" />
@@ -240,11 +240,11 @@ Firstly, from a more psychological perspective, the transition from *scuola medi
 
 Secondly, the 5 years of *scuola superiore* are actually divided into *two section*: a *biennio* (two-year period) and a *triennio* (three-year period). The difference is both in the total number of school hours per week and in the subjects taught. *Biennio* acts as an introductory phase for the basics of the chosen specialization, while a large amount of hours dedicated to the specialization will arrive only in the *triennio*. During *biennio* common subjects are prevalent, but from the third year onwards students will study more specific subjects and topics. For example, a student who chooses a <span style="color: #34b522; font-weight: bold;" >Chemistry institute</span> will study mostly the same subjects and roughly for the same amount of hours that s student of a <span style="color: #d46f0b; font-weight: bold;" >Linguistic institute</span> might have in the first 2 years, but then the student of <span style="color: #34b522; font-weight: bold;" >chemistry</span> will have a lot more <span style="color: #34b522; font-weight: bold;" >chemistry-related subjects and topics</span> to study as opposed to the <span style="color: #d46f0b; font-weight: bold;" >linguistic</span> student.
 
-Thirdly, being students only 14 when they choose their high school, there's the possibility to change to a different institute or *indirizzo* (which is the specialization) if the right choice hasn't been made. This commonly happens towards the end of the second year (so the end of the *biennio*), but you can switch school a year before or after, too (even if doing it in the third year is more complicated and not recommended).
+Thirdly, being students only 14 when they choose their high school, there's the possibility to change to a different institute or *indirizzo* (which is the specialization) if the right choice hasn't been made. This commonly happens towards the end of the second year (so the end of the *biennio*), but you can change school a year before or after, too (even if doing it in the third year is more complicated and not recommended).
 
 #### Liceo
 
-*Liceo* is, generally speaking, the hardest type of institute/school. It gives you a general and detailed education over a very broad range of topics but doesn't prepare you enough for practical work. For that you have to continue to university. It really makes you study a lot.
+*Liceo* is, generally speaking, the hardest type of institute/school. It gives you a general and detailed education over a very broad range of topics but doesn't prepare you enough for practical work. For that, you have to continue to university. It really makes you study a lot.
 
 From the MIUR website:
 
@@ -280,7 +280,7 @@ The *indirizzi* are the following:
 10. auxiliary arts of the health professions: dental technician
 11. Auxiliary arts of the health professions: optician
 
-In this type of school, laboratory is the prevalent activity and practical education is very frequent.
+In this type of school, laboratory activity is prevalent, and practical education is very frequent.
 
 #### Istituto tecnico
 
@@ -289,12 +289,12 @@ In this type of school, laboratory is the prevalent activity and practical educa
 
 *Istituto tecnico* (technical institute) is a compromise between the *liceo* and the professional school: it offers both a wide theoretical education and a practical specialization in a specific field of study.
 
-*Indirizzi* of technical institutes are divided into 2 sectors, economic and technologic, further divided into the following specializations:
+*Indirizzi* of technical institutes are divided into 2 sectors, economic and technological, further divided into the following specializations:
 
 1. **Economic sector**
     1. *Amministrazione, Finanza e Marketing* (Administration, finance and marketing): to understand the business, insurance and financial world: the activities of companies, how to manage production, how to promote products.
     2. *Turismo* (Tourism): to enter the tourist services sector, learn how to enhance the artistic and landscape heritage, enhance the specificities of the different territories.
-2. **Technologic sector**
+2. **Technological sector**
     1. *Meccanica, Meccatronica ed Energia* (Mechanics, Mechatronics and Energy): it aims to train professionals able to design and build mechanical and electromechanical systems. All in compliance with industry regulations.
     2. *Trasporti e Logistica* (Transportation and Logistics): it allows you to deepen the construction and management of naval, land and air transport systems, in compliance with national, EU and international standards.
     3. *Elettronica ed Elettrotecnica* (Electronics and Electrical Engineering): it teaches to understand the fields of electronics, robotics applied to production processes and industrial automation.
@@ -302,7 +302,7 @@ In this type of school, laboratory is the prevalent activity and practical educa
     5. *Grafica e Comunicazione* (Graphics and Communication): to enter the world of personal and mass communication and understand how it develops through graphics, multimedia languages ​​and new technologies.
     6. *Chimica, Materiali e Biotecnologie* (Chemistry, Materials and Biotechnology): to learn how to manage the chemical-biological processes to be adopted in the research, pharmaceutical, food, environmental, dyeing and leather treatment sectors. With a focus on environmental protection and health.
     7. *Sistema Moda* (Fashion system): it trains professionals in the fashion industry to conceive, design, manufacture and promote textile, clothing and footwear products.
-    8. *Agraria, Agroalimentare e Agroindustria* (Agriculture, Agribusiness and Agroindustry): it teaches how to manage the production and transformation processes of agricultural, agri-food and agro-industrial products, combining tradition and technological innovation.
+    8. *Agraria, Agroalimentare e Agroindustria* (Agriculture, Agribusiness and Agro-industry): it teaches how to manage the production and transformation processes of agricultural, agri-food and agro-industrial products, combining tradition and technological innovation.
     9. *Costruzioni, Ambiente e Territorio* (Construction, Environment and Territory): it prepares those who want to enter the field of building, construction, environmental protection and safety in the workplace.
 
 In the *istituto tecnico* I'm currently attending, specializing in Information and Communication Technologies, the first 2 years barely scratched the surface of that field, giving to ICT the same amount of hours dedicated to chemistry and physics.
@@ -332,7 +332,7 @@ Check this table:
 
 <span class="caption">* Hours of laboratory activity.</span>
 
-These are the weekly hours for all the subjects in each of the 5 years, taken from my *indirizzo*, ICT. This schedule is a good example to confirm the fact that *biennio* is similar in all types of schools and gives students a general knowledge of all subjects, but leaves specialization to the following *triennio*.
+These are the weekly hours for all the subjects in each of the 5 years, taken from my *indirizzo*, ICT. This schedule is a good example to confirm the fact that *biennio* is similar in all types of schools and gives students a **general knowledge** of all subjects, but **leaves specialization to the following *triennio***.
 
 In any case, it's important to note that whether a technical or professional institute or a lyceum is chosen, graduate students of upper secondary schools can access any degree course or university diploma without restrictions.
 
@@ -451,11 +451,17 @@ const chart3 = new Chart(ctx3, {
 During the last three years of *scuola superiore*, students can receive a limited number of bonus points called *crediti scolastici* (school credits) based on grades and behavior. The better is their performance, the more credits they get.
 
 {: .box-warning}
-<span class="material-icons-outlined">report_problem</span> **Warning:** There were actually two types of credits: school credits (*crediti scolastici*) and formative credits (*crediti formativi*), but after 2017 (art. 15 and 26 comma 6 d.lgs. 62/2017, [permalink](https://www.gazzettaufficiale.it/eli/id/2017/05/16/17G00070/sg)) the latter have been repealed and do not exist anymore in upper secondary school. The difference between school credits and formative credits was that the first were (and still are) based on student's performance while the latter were assigned according to extracurricular activities attended by the student outside regular school lessons.
+<span class="material-icons-outlined">report_problem</span> **Warning:** There were actually two types of credits: school credits (*crediti scolastici*) and formative credits (*crediti formativi*), but after 2017 (art. 15 and 26 comma 6 d.lgs. 62/2017, [permalink](https://www.gazzettaufficiale.it/eli/id/2017/05/16/17G00070/sg)) the latter have been repealed and do not exist anymore in upper secondary school. The difference between school credits and formative credits was that the first were (and still are) based on the student's performance while the latter were assigned according to extracurricular activities attended by the student outside regular school lessons.
 
-At the end of *superiori*, student must take a final exam, the exam of maturity (or graduation exam, called *Esame di Stato* or *Esame di maturità* in Italian), which is composed by 2 written tests (one on Italian and one on the subject of the *indirizzo*/specialization) and 1 oral examination[^6]. The credits they have collected over the years add up to the final score.
+At the end of *superiori*, student must take a final exam, the exam of maturity (or graduation exam, called *Esame di Stato* or *Esame di maturità* in Italian), which is composed of 2 written tests (one in Italian and one on the subject of the *indirizzo*/specialization) and 1 oral examination[^6]. The credits they have collected over the years add up to the final score.
 
 The maximum grade is 100, the minimum to pass the exam is 60. As of 2022, the two written tests and the oral interview are evaluated up to a maximum of 50 points in total (15 for the first written test + 10 for the second + 15 for the oral test = 50), while the maximum score deriving from the credits is 50 (50 + 50 = 100).
+
+In other years, the final evaluation is calculated as follows:
+- first test: maximum 20 points
+- second test: maximum 20 points
+- interview: maximum 20 points
+- school credit: maximum 40 points
 
 | Grade average | Year 3 credit range | Year 4 credit range | Year 5 credit range |
 |---------------|---------------------|---------------------|---------------------|
@@ -464,11 +470,11 @@ The maximum grade is 100, the minimum to pass the exam is 60. As of 2022, the tw
 | 6 < A ≤ 7     | 8-9                 | 9-10                | 10-11               |
 | 7 < A ≤ 8     | 9-10                | 10-11               | 11-12               |
 | 8 < A ≤ 9     | 10-11               | 11-12               | 13-14               |
-| 9 < A ≤ 10    | 11-12               | 13-14               | 14-15               |
+| 9 < A ≤ 10    | 11-12               | 12-13               | 14-15               |
 
 <span class="caption">From <a href="https://www.miur.gov.it/credito-scolastico-e-credito-formativo" target="_blank">MIUR</a> and <a href="https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=1&art.idGruppo=5&art.flagTipoArticolo=1&art.codiceRedazionale=17G00070&art.idArticolo=1&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2017-05-16&art.progressivo=0#art" target="_blank">Gazzetta Ufficiale</a>.</span>
 
-This table above is the traditional credit table for a maximum of 40 credits. In some years (like this one), the maximum number of credits can rise up to 50 and in that case a conversion table is used to convert the credits in base 40 to base 50:
+This table above is the traditional credit table for a maximum of 40 credits (12+13+15). In some years (like this one), the maximum number of credits can rise up to 50 and in that case a conversion table is used to convert the credits in base 40 to base 50:
 
 | Credits in base 40 | Credits in base 50 |
 |--------------------|--------------------|
@@ -494,7 +500,7 @@ This table above is the traditional credit table for a maximum of 40 credits. In
 | 40                 | 50                 |
 
 {: .box-warning}
-<span class="material-icons-outlined">report_problem</span> **Warning:** The credit system is very dynamic and often changes from year to year. That's why you may be confused by the 40-50 base conversion. Take these credit tables as just examples for how the credit system works, but not as official and working content.
+<span class="material-icons-outlined">report_problem</span> **Warning:** The credit system is very dynamic and often changes from year to year. That's why you may be confused by the 40-50 base conversion. Take these credit tables as just examples of how the credit system works, but not as official and working content.
 
 
 #### Tests
@@ -511,13 +517,13 @@ After the tests are evaluated, students get a grade usually ranging from 2 to 10
 <details>
     <summary>Where do students see their grades?</summary>
     <p>
-        Since <em>scuola media</em>, an online school register, called <em>registro elettronico</em>, is used to write down and organize grades for each a subject. This way, parents can see whenever they want their children's academic performance.
+        Since <em>scuola media</em>, an online school register, called <em>registro elettronico</em>, is used to write down and organize grades for each subject. This way, parents can see whenever they want their children's academic performance.
     </p>
     <p>
-        Starting from <em>superiori</em>, students gain access to the register, too, and it starts to be more and more important: it not only contains grades, but also information on homework, tests, important communications, number of absences at school, meetings with teachers and much more. It becomes essential for the students.
+        Starting from <em>superiori</em>, students gain access to the register, too, and it starts to be more and more important: it not only contains grades but also information on homework, tests, important communications, number of absences at school, meetings with teachers and much more. It becomes essential for the students.
     </p>
     <p>
-        The most common online register used in upper secondary schools in Italy is called ClasseViva by Spaggiari. It's available both on the web and by installing a dedicated app on the smartphone. It the one that my school uses, too, and it looks something like this:
+        The most common online register used in upper secondary schools in Italy is called ClasseViva by Spaggiari. It's available both on the web and by installing a dedicated app on the smartphone. It's the one that my school uses, too, and it looks something like this:
     </p>
     <img src="/sm_blog/assets/images/how-school-works-in-italy-images/register.png" alt="School register">
     <span class="caption">The ClasseViva school register with its UI and features (with translation).</span>
@@ -530,7 +536,7 @@ After the tests are evaluated, students get a grade usually ranging from 2 to 10
 
 The complete text is available in the Official Gazette (Journal) of the Italian Republic ([permalink](https://www.gazzettaufficiale.it/eli/id/1994/05/19/094G0291/sg)). We are interested in sections 1 and 2, from articles 5 to 15.
 
-This law essentially establishes how the education system works in Italy and defines the **collegial bodies of the school**, in Italian *organi collegiali della scuola*, which are governing and management bodies of schools at the territorial and single school level. They represent the different school components, i.e. teachers, students and parents, and each of them has a specific role.
+This law essentially establishes how the education system works in Italy and defines the **collegial bodies of the school**, in Italian *organi collegiali della scuola*, which are governing and management bodies of schools at the territorial and single school levels. They represent the different school components, i.e. teachers, students and parents, and each of them has a specific role.
 
 The collegial bodies of previous schools are:
 - *Consiglio di intersezione* (intersection council), for *infanzia* school, composed of all the teachers and a representative of the parents for each of the sections concerned, plus the headmaster or a teacher delegated by him presides.
@@ -570,22 +576,22 @@ For *superiori* (upper secondary schools) these are the collegial bodies, their 
     </tr>
 </table>
 
-It's not all: there are many other councils, commissions and groups in the Italian school system. For example, if we go beyond of the scope of the individual school, two students for each school of every province<span class="tooltip">`*`<span class="tooltiptext">An area in which each region of Italy is subdivided</span></span> can take part with a two-year mandate (after being elected by the other students) to the so called *consulta provinciale degli studenti* (provincial student council) where they can represent students, coordinate projects and formulate proposals in collaboration with other schools at a provincial and regional level but eventually even nationwide[^7].
+That's not all: there are many other councils, commissions and groups in the Italian school system. For example, if we go beyond of the scope of the individual school, two students for each school of every province<span class="tooltip">`*`<span class="tooltiptext">An area in which each region of Italy is subdivided</span></span> can take part with a two-year mandate (after being elected by the other students) to the so-called _consulta provinciale_ degli studenti* (provincial student council) where they can represent students, coordinate projects and formulate proposals in collaboration with other schools at a provincial and regional level but eventually even nationwide[^7].
 
-Since it can get complicated very quickly and it's not particularly relevant for this post, I'm not going into much detail. For those who are interested, a more comprehensive explanation of the levels of student representation and the hierarchy of these bodies can be found on [spazioconsulte.it](https://www.spazioconsulte.it/webi/it/la-rappresentanza/) website.
+Since it can get complicated very quickly and it's not particularly relevant to this post, I'm not going into much detail. For those who are interested, a more comprehensive explanation of the levels of student representation and the hierarchy of these bodies can be found on [spazioconsulte.it](https://www.spazioconsulte.it/webi/it/la-rappresentanza/) website.
 
 Let's focus on the local scope of upper secondary schools/*superiori*.
 
 #### Class organization
-Students of *superiori* have much more representation and influence on the system, if we take into comparison middle and primary school. As you have seen, there are **class representatives** to make that happen, but what do they do exactly? Having been a class representative for the last 3 years, I can explain their election and duties in detail.
+Students of *superiori* have much more representation and influence on the system if we take into comparison middle and primary school. As you have seen, there are **class representatives** to make that happen, but what do they do exactly? Having been a class representative for the last 3 years, I can explain their election and duties in detail.
 
 Every year, each class of every upper secondary school has to choose 2 class representatives that will act as spokespersons for the students' voice and will help manage student-teacher communication. They work with their classmates to resolve problems, inform teachers and in rare cases the headmaster of ideas and problems emanating from the class, have the responsibility of leading class meetings called *assemblee di classe* and sometimes even work together with teachers to organize student activities, projects and events.
 
-One day, usually between October and November, an hour is dedicated to the election process. Class representatives are elected by a constituency made up of all students of the class. Each student writes his vote on a special sheet, choosing one of his classmates who he deems most suitable for the role. When all the votes have been collected, they are counted and the two students who have obtained the highest number of votes become class representatives. That day, a vote takes place for the renewal of student representatives in the *consiglio d'istituto* (institute council), too.
+One day, usually between October and November, an hour is dedicated to the election process. Class representatives are elected by a constituency made up of all students of the class. Each student writes his vote on a special sheet, choosing one of his classmates whom he deems most suitable for the role. When all the votes have been collected, they are counted and the two students who have obtained the highest number of votes become class representatives. That day, a vote takes place for the renewal of student representatives in the *consiglio d'istituto* (institute council), too.
 
-After being elected, class representatives should do, usually two times a year (school year), a *class assembly* (in Italian **assemblea di classe**), which is a period of roughly an hour, not more than two, when the teacher exits the classroom and students talk to their class representatives about eventual problems they have, suggestions that have to make or other things that class representatives have to write down (of course those problems must concern the class in general and never a single student). Class assembly is not mandatory to do, but always recommended, especially if the class has some problems to communicate.
+After being elected, class representatives should do, usually two times a year (school year), a *class assembly* (in Italian **assemblea di classe**), which is a period of roughly an hour, not more than two, when the teacher exits the classroom and students talk to their class representatives about eventual problems they have, suggestions that have to make or other things that class representatives have to write down (of course those problems must concern the class in general and never a single student). Class assembly is not mandatory to do, but always recommended, especially if the class has some problems to report.
 
-Two (but sometimes three or more) times a year the two class representatives have to participate in the *consiglio di classe* (class or student council) together with all teachers and two parent representatives, where they report the problems that came out during the class assembly. The teachers, instead, inform class representatives about the overall class trend, warn about insufficiencies, organize and if requested modify the planning of the lessons, of the tests and of the study load and talk about projects and school trips.
+Two (but sometimes three or more) times a year the two class representatives have to participate in the *consiglio di classe* (class or student council) together with all teachers and two parent representatives, where they report the problems that came out during the class assembly. The teachers, instead, inform class representatives about the overall class trend, warn about insufficiencies, organize and if requested modify the planning of the lessons, of the tests and the study load, and talk about projects and school trips.
 
 #### Students organization
 *Assemblea di classe* is one of the two student assemblies (*assemblee studentesche*). The other one is called **assemblea d'istituto**, which can last a whole school day and is a moment when all the students come together to discuss the school situation according to a defined program. It's chaired by the "*rappresentanti d'istituto*" or "*rappresentanti degli studenti*" (literally translated as "student representatives" and quite equivalent to the [student government president](https://en.wikipedia.org/wiki/Student_government_president) for other countries).
@@ -599,14 +605,14 @@ Every student (alone or in a group) from the third year onwards<span class="tool
 
 Future student representatives usually form different groups (forming an electoral roll/list) or run individually and then each of them during the *assemblea d'istituto* makes a speech in front of all the students setting out objectives, intentions and proposals for the school year in question.
 
-Before the elections, it is allowed to hang bill and posters but also to distribute leaflets, brochures and use other means of electoral propaganda in the school to spread the ideas of each roll among the students. All this usually happens in October in conjunction with the election of class candidates.
+Before the elections, it is allowed to hang bills and posters but also to distribute leaflets and brochures and use other means of electoral propaganda in the school to spread the ideas of each roll among the students. All this usually happens in October in conjunction with the election of class candidates.
 
 <details>
     <summary>Election details</summary>
 
     <p>The ways student representatives are elected can vary from school to school. In my case (>500 total students) the rules are the following (skipping overly technical details):</p>
     <ul>
-    <li>Every electoral roll can contain up to 8 candidates and minimum of 20 presenters; it must be marked by a short motto and a Roman numeral is assigned to the roll following the chronological order of enrollment</li>
+    <li>Every electoral roll can contain up to 8 candidates and a minimum of 20 presenters; it must be marked by a short motto and a Roman numeral is assigned to the roll following the chronological order of enrollment</li>
     <li>All students, when voting candidates, can express only one vote for electoral roll (or individual candidate) and a maximum of 2 preferences for that roll</li>
     <li>The vote is expressed (personally and secretly) by placing a cross on the Roman number of the chosen list; preferences must be indicated by placing a cross in the box next to the name of the candidate</li>
     <li>At the end of the ballot, the members of the constituency proceed with the counting and report the results to the Electoral Commission (<em>Commessione Elettorale</em>) at the school office (<em>segreteria didattica</em>)</li>
@@ -699,9 +705,24 @@ It is mandatory to reach a certain minimum number of total hours of PCTO (in all
 - 150 hours for *istituti tecnici*
 - 210 hours for *istituti professionali*
 
-Generally there is no form of remuneration or reimbursement of expenses. PCTO projects can be carried out both during the school year, during class hours or in the afternoon, and during vacation periods.
+Generally, there is no form of remuneration or reimbursement of expenses. PCTO projects can be carried out both during the school year, during class hours or in the afternoon, and during vacation periods.
 
 More detailed information about PCTO can be found [here](https://www.studenti.it/alternanza-scuola-lavoro.html).
+
+
+### Other school differences
+
+- In Italy, starting from elementary school, students are assigned a class that belongs to a fixed classroom in the school and it's given a name to identify it (usually a combination of the number of the school year and a letter, like 1A, 3C, 2B, etc.).
+- This is important because it also highlights an important difference with other school systems around the globe (like in the UK and the US, for example), which is that teachers change classrooms every next hour (or couple of hours), while students (almost) always remain in the same classroom and don't move from one to the other. There's no classroom for specific school subjects (for that there are laboratories), but every classroom is almost identical and used for all subjects.
+- Also, since students choose an *indirizzo* (for example a specialization/ in Chemistry, ICT, Fine Arts, etc.) when they enroll in *scuola superiore*, **the study plan is already established and students can't customize it**, unlike, for example, high school in the US. There are no "core" subjects (mandatory) and "elective" subjects (optional): every hour of every subject established in that school *indirizzo* is mandatory, from the first to the fifth year.
+- As of 2022, classes can be quite numerous in terms of number of students in the classroom. For lower secondary schools, classes can reach a maximum of 26 students. For upper secondary school, classes cannot exceed 27[^8].
+- Unlike in other countries, in Italy schools don't divide students based on their competence level, but mix students of various capabilities. This has the advantage of stimulating those who are not good enough to try harder to compete with others, but at the same time, it often causes discouragement of the less capable students who cannot keep up with the class and often fall behind. This is also part of the reason why grade retention/repetition is so common in Italy.
+- In most Italian schools, unlike in may other countries, textbooks are not free. Every year students have to buy them since they are not provided by the school. There are libraries where you can consult books, donate them and borrow them, but they are not school textbooks and you cannot borrow them for the entire school year.
+
+If you know Italian, the Italian journalist Francesco Costa has made a quite comprehensive video explaining the differences between the Italian and the American school system:
+
+[Come funziona la SCUOLA in America - Costa racconta](https://youtu.be/NwmrIwHJL90)
+
 
 ### Evaluation and grading system
 
@@ -722,7 +743,7 @@ For primary school, grades are all non-numeric and are 4:
 - *Intermedio* (intermediate): the pupil completes tasks in known situations autonomously and continuously; solves tasks in unknown situations, using the resources provided by the teacher or found elsewhere, even if in a discontinuous and not completely autonomous way.
 - *Avanzato* (advanced): the pupil completes tasks in known and unknown situations, mobilizing a variety of resources both provided by the teacher and found elsewhere, independently and continuously.
 
-For *superiori*, grades can be non-numeric values for subjects like religion and to express a very low value ("not classifiable", NC for short, equivalent to a very serious insufficiency<span class="tooltip">`*`<span class="tooltiptext">Practically 0</span></span>) or, for all the other cases, **numbers ranging from 2 to 10**<span class="tooltip">`*`<span class="tooltiptext">Even if technically they are from 1 to 10, numbers lower than 2 are very, very rarely used for grades</span></span>. 6 is the threshold of sufficiency, meaning that you must stay above that mark on average to be sufficient on a subject and ultimately pass the school.
+For *superiori*, grades can be non-numeric values for subjects like religion and to express a very low value ("not classifiable", NC for short, equivalent to a very serious insufficiency<span class="tooltip">`*`<span class="tooltiptext">Practically 0</span></span>) or, for all the other cases, **numbers ranging from 2 to 10**<span class="tooltip">`*`<span class="tooltiptext">Even if technically they are from 1 to 10, numbers lower than 2 are very, very rarely used for grades</span></span>. 6 is the threshold of sufficiency, meaning that you must stay above that mark on average to be sufficient in a subject and ultimately pass the school.
 
 | Grade                 |Value|
 |-----------------------|-----|
@@ -738,9 +759,9 @@ For *superiori*, grades can be non-numeric values for subjects like religion and
 
 <span class="caption">Grades in non-numeric form and their equivalents.</span>
 
-Students with many insufficient grades/marks on one or more subjects have to do a thing called *recupero* (recovery), meaning that they have to study again some topics and take a new test to attempt to improve and recover their previous low results. *Recupero* can happen individually or with the help of the teacher and during the school year or during the holiday.
+Students with many insufficient grades/marks in one or more subjects have to do a thing called *recupero* (recovery), meaning that they have to study again some topics and take a new test to attempt to improve and recover their previous low results. *Recupero* can happen individually or with the help of the teacher during the school year or the holiday.
 
-Very important in the pagella is also the evaluation of the conduct of a student. Everything is established in the "*Statute of students of secondary school*", by the "*Educational Co-responsibility Agreement*", signed by students and families at the time of enrollment, and in the regulations of each school[^8].
+Very important in the pagella is also the evaluation of the conduct of a student. Everything is established in the "*Statute of students of secondary school*", by the "*Educational Co-responsibility Agreement*", signed by students and families at the time of enrollment, and in the regulations of each school[^9].
 
 <details>
     <summary>Insights</summary>
@@ -794,7 +815,10 @@ Every year, all students of every age and school have two weeks of vacation from
 ## <span class="material-icons-outlined">school</span> Higher education
 ### 5. Università
 
-If students they pass the final exam, they'll receive a degree of maturity (*diploma di maturità*) that will allow you to have access to university (*università* in Italian).
+If students pass the final exam, they'll receive a degree of maturity (*diploma di maturità*) that will allow them to have access to university (*università* in Italian).
+
+{: .box-note}
+<span class="material-icons-outlined">info</span> **Note:** This section is incomplete and consists of just a general overview. For more specific details, check the links provided below.
 
 University is divided into three cycles:
 1. **First cycle**: is made up of first level degree courses and leads to the "*laurea triennale*". As its name suggest, it lasts 3 years. There’s a wide and diverse selection of Italian universities like:
@@ -821,4 +845,5 @@ Almost all universities are State-owned and jointly funded by the State and, to 
 [^5]: you can find the article [here](https://www.miur.gov.it/web/guest/-/iscrizioni-all-anno-scolastico-2022-2023-i-primi-dati-crescono-i-tecnici-e-i-professionali-il-56-6-degli-studenti-sceglie-i-licei), and data from previous years is also available ([2021](https://www.miur.gov.it/-/iscrizioni-i-primi-dati-il-57-8-degli-studenti-sceglie-i-licei-il-30-3-gli-istituti-tecnici-l-11-9-i-professionali#:~:text=9%25%20i%20Professionali-,Iscrizioni%2C%20i%20primi%20dati%3A%20il%2057%2C8%25%20degli,'11%2C9%25%20i%20Professionali) and [2019](https://www.miur.gov.it/-/iscrizioni-on-line-ecco-i-primi-dati-il-55-4-degli-studenti-sceglie-i-licei-il-31-i-tecnici-il-13-6-i-professionali))
 [^6]: details on the MIUR website: [MIUR - Esame di Stato secondo ciclo](https://www.miur.gov.it/esame-di-stato-secondo-ciclo-esame-di-maturita-ammissione-abbreviazione-per-merito-candidati-esterni-modalita-di-svolgimento-attribuzione-del-punteggio-prove)
 [^7]: more info at [MIUR - Consulte provinciali degli studenti](https://www.miur.gov.it/consulte-provinciali-degli-studenti) and [spazioconsulte.it - Che cosa sono le Consulte?](http://www.spazioconsulte.it/webi/it/cosa-sono-le-consulte/)
-[^8]: [Statute of students of secondary school](https://it.wikipedia.org/wiki/Statuto_delle_studentesse_e_degli_studenti) and [Educational Co-responsibility Agreement](https://it.wikipedia.org/wiki/Patto_educativo_di_corresponsabilit%C3%A0)
+[^8]: The average for Italy, though, is not very high, 21.8 according to [Wikipedia](https://en.wikipedia.org/wiki/Class_size)
+[^9]: [Statute of students of secondary school](https://it.wikipedia.org/wiki/Statuto_delle_studentesse_e_degli_studenti) and [Educational Co-responsibility Agreement](https://it.wikipedia.org/wiki/Patto_educativo_di_corresponsabilit%C3%A0)
