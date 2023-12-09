@@ -35,7 +35,9 @@
       <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
     {% endif %}
 
-    {% include applause-button.html %}
+    {%- if page.layout == "post" or page.title == "Useful links" -%}
+      {% include applause-button.html %}
+    {% endif %}
 
     <!-- {% if site.favicons or site.avatarurl %}{% include site-favicons.html %}{% endif %} -->
 
@@ -52,8 +54,8 @@
 
     {% if site.service_worker != false %}{% include site-sw.html %}{% endif %}
 
-    {% include site-before-end.html %}
     {% include topButton.html %}
+    {% include site-before-end.html %}
     {% include cookie-consent.html %}
   </body>
 

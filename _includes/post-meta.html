@@ -14,5 +14,11 @@
   {% assign date_format = site.date_format | default: "%d %b %Y" %}
 
   {{ categories | append: "&middot;&nbsp;" }}<time datetime="{{ page.date | date_to_xmlschema }}" class="time">{{ page.date | date: date_format }}</time>
+  
+  <!-- https://jekyllrb.com/docs/variables/ -->
+  <!-- page.title contains "Samuel's blog" -->
+  {%- if page.layout == "post" -%}
+    {% include reading-time.html %}
+  {% endif %}
 
 </small>
