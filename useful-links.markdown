@@ -96,6 +96,8 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Calculus – Intellectual Mathematics](https://intellectualmathematics.com/calculus/)
 - [Calculator Suite - GeoGebra](https://www.geogebra.org/calculator)
 - [Desmos - Graphing Calculator](https://www.desmos.com/calculator)
+- [Symbolab Math Calculator - Step by Step calculator](https://www.symbolab.com/)
+- [The On-Line Encyclopedia of Integer Sequences® (OEIS®)](https://oeis.org/)
 
 ## ICT/Software 💻
 
@@ -148,6 +150,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Harvard CS50 – Full Computer Science University Course - YouTube](https://www.youtube.com/watch?v=8mAITcNt710&list=PLWKjhJtqVAblfum5WiQblKPwIbqYXkDoC&ab_channel=freeCodeCamp.org)
 - [Trail: Learning the Java Language: Table of Contents (The Java™ Tutorials)](https://docs.oracle.com/javase/tutorial/java/TOC.html)
 - [Applied CS Skills - Google For Education](https://appliedcsskills.withgoogle.com/)
+- [The Executable Books Project](https://executablebooks.org/en/latest/)
 
 ##### Job Interview Preparation 💼
 
@@ -200,6 +203,8 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Demos of open web technologies - MDN](https://developer.mozilla.org/en-US/docs/Web/Demos)
 - [CSS Border Radius Generator](https://border-radius.com/)
 - [</> htmx ~ Examples](https://htmx.org/examples/)
+- [Components - Aceternity UI](https://ui.aceternity.com/components)
+- [Explore 3000+ Free UI Elements: CSS & Tailwind](https://uiverse.io/)
 - Mini games (web dev and programming)
     - [Codepip - Learn to code by playing games](https://codepip.com/)
     - [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
@@ -237,6 +242,10 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Chart.js - Open source HTML5 Charts for your website](https://www.chartjs.org/)
 - [Popper - Tooltip & Popover Positioning Engine](https://popper.js.org/)
 - [Framer Motion Documentation - Framer for Developers](https://www.framer.com/motion/)
+- [Three.js Journey — Learn WebGL with Three.js](https://threejs-journey.com/)
+- [Vue.js Fundamentals with the Composition API, a FREE Vue.js Course](https://vueschool.io/courses/vue-js-fundamentals-with-the-composition-api)
+- [Radix UI](https://www.radix-ui.com/)
+- [Create 3D and Dynamic Web Maps with Mapbox GL JS](https://www.mapbox.com/mapbox-gljs)
 
 #### Game development 🎮
 
@@ -269,12 +278,16 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Home · Kenney](https://kenney.nl/)
 - [FMOD & Unity - Scott Game Sounds](https://scottgamesounds.com/c-scripts/)
 - [Audio Helm for Unity](https://tytel.org/audiohelm/)
+- [Elias software - Game audio and Adaptive music](https://eliassoftware.com/)
 - [Bounding Box Software - Materialize](https://boundingboxsoftware.com/materialize/)
 - [ink - inkle's narrative scripting language](https://www.inklestudios.com/ink/)
 - [Yarn Spinner](https://yarnspinner.dev/)
+- [Unity Documentation](https://docs.unity.com/)
+- [Unity Contributed Notes for Unity Docs](https://mvi.sh/notes/)
+- [Home · Kenney](https://www.kenney.nl/)
 
 ##### Shaders/VFX 🌟
-    
+
 - [Intro to Shaders - Cyanilux](https://www.cyanilux.comtutorials/intro-to-shaders/)
 - [Intro to Shader Graph - Cyanilux](https://www.cyaniluxcom/tutorials/intro-to-shader-graph/)
 - [Resources - Cyanilux](https://www.cyanilux.com/resources/)
@@ -351,6 +364,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [OpenProcessing - Creative Coding for the Curious Mind](https://openprocessing.org/) ([Discover - OpenProcessing](https://openprocessing.org/discover/#/trending))
 - [flow - torcado](https://torcado.com/toys/flow.html)
 - [Experiments - Peter Blaskovic - Escape Motions](https://www.escapemotions.com/experiments.php)
+- [Tutorials | Learn how to create generative art](https://www.generativehut.com/tutorials)
 
 ##### Cellular automata & reaction-diffusion 🧪
 
@@ -365,6 +379,8 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Elementary cellular automaton simulator](http://devinacker.github.io/celldemo/)
 - [Nervous System - Reaction](https://n-e-r-v-o-u-s.com/shop/line.php?code=7)
 - [Stephen Wolfram: A New Kind of Science - Online—Table of Contents](https://www.wolframscience.com/nks/)
+- [The Life Engine](https://thelifeengine.net/)
+- [Lenia](https://chakazul.github.io/lenia.html)
 
 #### Design 🖍
 
@@ -409,6 +425,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Fluid Flow Tutorial](https://www.karlsims.com/fluid-flow.html)
 - [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 - [[PDF] Real-Time Fluid Dynamics for Games - Semantic Scholar](https://www.semanticscholar.org/paper/Real-Time-Fluid-Dynamics-for-Games-Stam/5127ac7b58e36ffd13ca4437fc123c6a018dc436?p2df)
+- [The water technology behind Avatar: The Way of Water | Unity Blog](https://blog.unity.com/industry/technology-behind-avatar-the-way-of-water)
 
 #### Perlin noise 🌫
 
@@ -430,6 +447,9 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Beyond3D](https://www.beyond3d.com/)
 - [RasterTek - DirectX 11 and OpenGL 4.0 Tutorials](https://www.rastertek.com/index.html)
 - [GPU Gems - NVIDIA Developer](https://developer.nvidia.com/gpugems/gpugems/contributors)
+- [NVIDIA Nsight Graphics - NVIDIA Developer](https://developer.nvidia.com/nsight-graphics)
+- [Graphics in 5 Minutes](https://g5m.cs.washington.edu/)
+- [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 
 ##### Ray tracing 💡
 
@@ -549,7 +569,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
     - [What are Transformer Models and how do they work? - Serrano.Academy](https://www.youtube.com/watch?v=qaWMOYf4ri8&ab_channel=Serrano.Academy)
 - AI platforms/models/experiments
     - [ChatGPT](https://chat.openai.com/)
-    - [Bard](https://bard.google.com/)
+    - [Gemini](https://gemini.google.com/app)
     - [Poe](https://poe.com/)
     - [Stable Diffusion with 🧨 diffusers - Colaboratory](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb)
     - [DALL·E 2](https://openai.com/dall-e-2/)
@@ -581,6 +601,14 @@ Alternatively, you can find the same list on this page (but it might not be in s
     - [IllusionDiffusion - a Hugging Face Space by AP123](https://huggingface.co/spaces/AP123/IllusionDiffusion)
     - [MusicGen - a Hugging Face Space by facebook](https://huggingface.co/spaces/facebook/MusicGen)
     - [AlphaCode](https://alphacode.deepmind.com/)
+    - [Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)
+    - [Search Labs](https://labs.google.com/search/)
+    - [LABS.GOOGLE - Submit an Experiment](https://labs.google/submit-experiment)
+    - [Sora - OpenAI](https://openai.com/sora)
+    - [meta-llama (Meta Llama 2)](https://huggingface.co/meta-llama)
+    - [LMSys Chatbot Arena Leaderboard - a Hugging Face Space by lmsys](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
+    - [Chat with Open Large Language Models](https://arena.lmsys.org/)
+    - [GPT4All](https://gpt4all.io/index.html)
 
 #### Sound/audio/waves 🎶
 
@@ -606,7 +634,6 @@ Alternatively, you can find the same list on this page (but it might not be in s
 
 - [Chrome Music Lab](https://musiclab.chromeexperiments.com/)
 - [Euphony](http://qiao.github.io/euphony/)
-- [Ludovico Einaudi - Elements - Special Edition](http://einaudielements.com/)
 - [Get started - Learning Music](https://learningmusic.ableton.com/)
 - [Get started - Learning Synths](https://learningsynths.ableton.com/)
 - [Creative Strategies for Electronic Music Producers - Making Music book by Ableton](https://makingmusic.ableton.com/)
@@ -632,7 +659,15 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Music Royalties Explained: The Ultimate Guide](https://www.indiemusicacademy.com/blog/music-royalties-explained)
 - [Live Enhancement Suite](https://enhancementsuite.me/)
 - [Jukeblocks](https://jukeblocks.io/)
-- VSTs Plugins/Effects/Presets/Samples
+- [What is an interval in music theory? – Piano Music Theory](https://piano-music-theory.com/2016/06/04/what-is-an-interval-in-music-theory/)
+- [How to Play, Locate, Memorize and Practice Bar Chords - GUITARHABITS](https://www.guitarhabits.com/how-to-play-locate-memorize-and-practice-bar-chords/)
+- [Guitar Chords Explained: Diagrams, Exercises, Theory, Tips & Tricks](https://www.fachords.com/guitar-chord/)
+- [Major Scale Diatonic Chords – Piano Music Theory](https://piano-music-theory.com/2016/06/15/major-scale-diatonic-chords/)
+- [CAPO: Guitar Transposition Tool — David Mares](https://www.davidmaresmusic.com/capo)
+- [Transposition chart for capo](https://www.guitar-chord.org/transposition-chart-for-capo.html)
+- [ULTIMATE GUITAR](https://www.ultimate-guitar.com/)
+- [Learn EVERY Chord and Chord Symbol - The 7 Systems - YouTube](https://www.youtube.com/watch?v=CyNiY1jzOuQ&ab_channel=MusiciansInspired)
+- VST Plugins/Effects/Presets/Samples
     - [PLUGINS 4 FREE - Free Instrument Audio Plugins Archive](https://plugins4free.com/)
     - [Free effects - MeldaProduction](https://www.meldaproduction.com/effects/free)
     - [ToneBytes - VST audio plug-ins](http://tonebytes.com/)
@@ -647,6 +682,8 @@ Alternatively, you can find the same list on this page (but it might not be in s
     - [Innovative Audio Plugins - Davisynth](https://www.davisynth.com/)
     - [Cymatics.fm - The #1 Site For Serum Presets, Samplepacks & More!](https://cymatics.fm/)
     - [90,000+ Free Sound Effects for Download - Pixabay - Pixabay](https://pixabay.com/sound-effects/)
+    - [Auburn Sounds - Graillon, live voice changer](https://www.auburnsounds.com/products/Graillon.html)
+    - [TAL Software](https://tal-software.com/products/tal-noisemaker)
 
 ## Science/engineering/data visualization 🔬
 
@@ -686,6 +723,9 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Webb Home](https://webbtelescope.org/home)
 - [CountMap](https://countmap.com/)
 - [Compare npm downloads for react, vue and @angular/core - npmcharts](https://npmcharts.com/)
+- [JOS Home Page](https://ccrma.stanford.edu/~jos/)
+- [Take a tour in Google Earth – Google Earth](https://www.google.com/earth/about/gallery/)
+- [OpenWorm](https://openworm.org/)
 
 ## News/articles/comics 🗞
 
@@ -698,7 +738,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Steam Newsletter - ICO](https://icopartners.com/steam-newsletter/)
 - [xkcd](https://xkcd.com/)
 
-## Blogs/essays/documents 📄
+## Blogs/essays/documents/books 📄
 
 - [understanding - nabeelqu](https://nabeelqu.co/understanding) and [Video Games are the Future of Education](https://nabeelqu.co/education)
 - [Essays - Paul Graham](http://paulgraham.com/articles.html) ([What You'll Wish You'd Known](http://paulgraham.com/hs.html), [How to Do Great Work](http://www.paulgraham.com/greatwork.html) and [Write Simply](http://paulgraham.com/simply.html))
@@ -708,7 +748,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Explaining explaining: a quick guide on explanatory writing](https://lucasfcosta.com/2021/09/30/explaining-in-writing.html)
 - [Reinventing explanation - Michael Nielsen](https://michaelnielsen.org/reinventing_explanation/)
 - [Parallelized Decision Making](https://arkwright.github.io/parallelized-decision-making.html)
-- [James Clear](https://jamesclear.com/) ([The Ultimate Productivity Hack is Saying No - James Clear](https://jamesclear.com/saying-no) and [Forget About Setting Goals. Focus on This Instead.](https://jamesclear.com/goals-systems))
+- [James Clear](https://jamesclear.com/) ([The Ultimate Productivity Hack is Saying No - James Clear](https://jamesclear.com/saying-no), [Forget About Setting Goals. Focus on This Instead.](https://jamesclear.com/goals-systems) and [How To Start New Habits That Actually Stick](https://jamesclear.com/three-steps-habit-change))
 - [Atomic Habits Resources - James Clear](https://jamesclear.com/atomic-habits/resources)
 - [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
 - [A Mathematician's Lament: How School Cheats Us Out of Our Most Fascinating and Imaginative Art Form: Paul Lockhart, Keith Devlin](https://www.amazon.com/gp/product/1934137170?ie=UTF8&tag=subversivemath-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1934137170) ([https://www.maa.org/external_archive/devlin/LockhartsLament.pdf](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf))
@@ -724,6 +764,9 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Lea Verou](https://lea.verou.me/) ([An Introduction to Modern Web Technologies](https://projects.verou.me/talks/intro/##slide1))
 - [Matt Might's blog](https://matt.might.net/articles/) ([The illustrated guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/), [What every computer science major should know](https://matt.might.net/articles/what-cs-majors-should-know/) and [Hacking strength: Gaining muscle with least resistance](https://matt.might.net/articles/hacking-strength/))
 - [Naval - Archive](https://nav.al/archive) ([Happiness](https://nav.al/happiness))
+- [How Google perfected the web - The Verge](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization)
+- [Finding The Air Cannon](https://www.twobraids.com/2024/01/air-cannon.html)
+- [The Videogame Industry Does Not ExistWhy We Should Think Beyond Commercial Game Production | Books Gateway | MIT Press](https://direct.mit.edu/books/oa-monograph/5572/The-Videogame-Industry-Does-Not-ExistWhy-We-Should)
 
 ## Misc 🎲
 
@@ -824,6 +867,23 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Open Source Guides - Learn how to launch and grow your project.](https://opensource.guide/)
 - [Esolang, the esoteric programming languages wiki](https://esolangs.org/wiki/Main_Page)
 - [SYMBL (◕‿◕) Symbols, Emojis, Characters, Scripts, Alphabets, Hieroglyphs and the entire Unicode](https://symbl.cc/en/)
+- [The most hilariously awful volume controls ever - TechCrunch](https://techcrunch.com/gallery/worst-volume-controls/)
+- [The Game Awards 2023](https://store.steampowered.com/sale/thegameawards2023) (and following years)
+- [Hollow Clock 4 : 7 Steps (with Pictures) - Instructables](https://www.instructables.com/Hollow-Clock-4/)
+- [Home - IMS Open Badges](https://openbadges.org/)
+- [ASCII Theater](https://ascii.theater/)
+- [Free Icons in SVG and PNG](https://www.visualpharm.com/)
+- [OldVersion.com](http://www.oldversion.com/)
+- [WVFRM Trivia](https://www.wvfrmtrivia.com/)
+- [Moral Machine](https://www.moralmachine.net/)
+- [Ludovico Einaudi - Elements - Special Edition](http://einaudielements.com/)
+- [Clock Clock 24 on a Raspberry Pi using Web Technologies | manu.ninja](https://manu.ninja/clock-clock-24-on-a-raspberry-pi-using-web-technologies/) ([Clock Clock 24](https://cc24.g01l.eu/))
+- [Forgotify | Discover a previously unheard Spotify track](https://forgotify.com/)
+- [Glowing plants by Light Bio](https://light.bio/)
+- [JigSpace: The world’s highest-rated AR demonstration app](https://www.jig.space/)
+- [pouët.net :: your online demoscene resource](https://www.pouet.net/index.php)
+- [Notable people](https://tjukanovt.github.io/notable-people)
+- [Puter](https://puter.com/)
 
 ## Tools 🛠
 
@@ -952,6 +1012,30 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [SculptGL - A WebGL sculpting app](https://stephaneginier.com/sculptgl/) ([Homepage](https://stephaneginier.com/))
 - [Make seamless texture online - IMG online](https://www.imgonline.com.ua/eng/make-seamless-texture.php)
 - [PureRef](https://www.pureref.com/)
+- [WowMouse - Touch SDK](https://docs.doublepoint.com/docs/wowmouse)
+- [Global Brand Database](https://branddb.wipo.int/en/quicksearch)
+- [Exportify](https://watsonbox.github.io/exportify/)
+- [Rainmeter, desktop customization tool](https://www.rainmeter.net/)
+- [ScreenStyler - Windows](https://screenstyler.com/)
+- [TrashOut: Locate and Get rid of Illegal Dumps](https://www.trashout.ngo/)
+- [Game Jam Theme Generator - Let's Make a Game](https://letsmakeagame.net/game-jam-theme-generator/)
+- [Game Idea Generator | BAFTA YGD](https://ygd.bafta.org/resources/game-idea-generator)
+- [Foxified Emulator](https://foxified.org/)
+- [Free Automated Malware Analysis Service - powered by Falcon Sandbox](https://www.hybrid-analysis.com/)
+- [Fritzing - Electronics made easy](https://fritzing.org/)
+- [cleanEdge - torcado](https://torcado.com/cleanEdge/)
+- [Caption+ by JS* | Professional Subtitles for Creators](https://caption.plus/)
+- [Animated PNG (APNG) Maker](https://ezgif.com/apng-maker)
+- [TopoExport](https://topoexport.com/)
+- [Nuj Alarm Clock](https://nuj.app/)
+- [Habitica - Gamify Your Life](https://habitica.com/static/home)
+- [Google Analytics](https://analytics.google.com/analytics/web/)
+- [Plausible Analytics | Simple, privacy-friendly Google Analytics alternative](https://plausible.io/?utm_medium=social&utm_source=Twitter&utm_campaign=profile)
+- [GoatCounter – open source web analytics](https://www.goatcounter.com/)
+- [Tailwind CSS Color Generator - UI Colors](https://uicolors.app/create)
+- [Whisperify - Spotify Quiz and Music Analysis](https://whisperify.net/)
+- [stats.fm (Formerly Spotistats for Spotify)](https://spotistats.app/)
+- [Polycam - LiDAR & 3D Scanner for iPhone & Android](https://poly.cam/)
 - AI tools
     - [Futurepedia - The Largest AI Tools Directory - Home](https://www.futurepedia.io/)
     - [There's An AI For That - The Biggest AI Aggregator](https://theresanaiforthat.com/)
@@ -991,8 +1075,16 @@ Alternatively, you can find the same list on this page (but it might not be in s
     - [make real • tldraw](https://makereal.tldraw.com/)
     - [Discover, Create, and Publish your research paper - SciSpace by Typeset](https://scispace.com/)
     - [TextFX](https://textfx.withgoogle.com/)
+    - [MusicFX](https://aitestkitchen.withgoogle.com/tools/music-fx)
     - [Clipdrop - SDXL Turbo](https://clipdrop.co/stable-diffusion-turbo)
     - [Image Creator from Microsoft Designer](https://www.bing.com/images/create)
+    - [Tome - Make Polished & Professional AI Presentations](https://tome.app/)
+    - [KREA AI - Home](https://www.krea.ai/home)
+    - [Meshy | 3D AI Generator](https://www.meshy.ai/)
+    - [Create Logos in Seconds With Generative A.I | Logo Diffusion](https://logodiffusion.com/)
+    - [Luma AI](https://lumalabs.ai/)
+    - [ACE Studio | Create limitless AI Vocals](https://acestudio.ai/)
+    - [Unity Muse | Ask anything](https://muse.unity.com/en-us)
 
 ## Other link lists 🗒️
 
@@ -1009,3 +1101,6 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Chrome Experiments - Experiments with Google](https://experiments.withgoogle.com/collection/chrome)
 - [Learn Game Engine Programming](https://engine-programming.github.io/)
 - [Pinboard: public bookmarks for amitp](https://pinboard.in/u:amitp)
+- Personal
+    - [Your Stars - GitHub](https://github.com/SamMed05?tab=stars)
+    - [Best Songs - playlist by Samuel | Spotify](https://open.spotify.com/playlist/4iriTYwxqDJ5ncNNBNTZCZ)
