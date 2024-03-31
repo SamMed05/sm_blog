@@ -364,7 +364,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [OpenProcessing - Creative Coding for the Curious Mind](https://openprocessing.org/) ([Discover - OpenProcessing](https://openprocessing.org/discover/#/trending))
 - [flow - torcado](https://torcado.com/toys/flow.html)
 - [Experiments - Peter Blaskovic - Escape Motions](https://www.escapemotions.com/experiments.php)
-- [Tutorials | Learn how to create generative art](https://www.generativehut.com/tutorials)
+- [Tutorials - Learn how to create generative art](https://www.generativehut.com/tutorials)
 
 ##### Cellular automata & reaction-diffusion 🧪
 
@@ -425,7 +425,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Fluid Flow Tutorial](https://www.karlsims.com/fluid-flow.html)
 - [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 - [[PDF] Real-Time Fluid Dynamics for Games - Semantic Scholar](https://www.semanticscholar.org/paper/Real-Time-Fluid-Dynamics-for-Games-Stam/5127ac7b58e36ffd13ca4437fc123c6a018dc436?p2df)
-- [The water technology behind Avatar: The Way of Water | Unity Blog](https://blog.unity.com/industry/technology-behind-avatar-the-way-of-water)
+- [The water technology behind Avatar: The Way of Water - Unity Blog](https://blog.unity.com/industry/technology-behind-avatar-the-way-of-water)
 
 #### Perlin noise 🌫
 
@@ -766,7 +766,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Naval - Archive](https://nav.al/archive) ([Happiness](https://nav.al/happiness))
 - [How Google perfected the web - The Verge](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization)
 - [Finding The Air Cannon](https://www.twobraids.com/2024/01/air-cannon.html)
-- [The Videogame Industry Does Not ExistWhy We Should Think Beyond Commercial Game Production | Books Gateway | MIT Press](https://direct.mit.edu/books/oa-monograph/5572/The-Videogame-Industry-Does-Not-ExistWhy-We-Should)
+- [The Videogame Industry Does Not ExistWhy We Should Think Beyond Commercial Game Production - Books Gateway - MIT Press](https://direct.mit.edu/books/oa-monograph/5572/The-Videogame-Industry-Does-Not-ExistWhy-We-Should)
 
 ## Misc 🎲
 
@@ -877,8 +877,8 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [WVFRM Trivia](https://www.wvfrmtrivia.com/)
 - [Moral Machine](https://www.moralmachine.net/)
 - [Ludovico Einaudi - Elements - Special Edition](http://einaudielements.com/)
-- [Clock Clock 24 on a Raspberry Pi using Web Technologies | manu.ninja](https://manu.ninja/clock-clock-24-on-a-raspberry-pi-using-web-technologies/) ([Clock Clock 24](https://cc24.g01l.eu/))
-- [Forgotify | Discover a previously unheard Spotify track](https://forgotify.com/)
+- [Clock Clock 24 on a Raspberry Pi using Web Technologies - manu.ninja](https://manu.ninja/clock-clock-24-on-a-raspberry-pi-using-web-technologies/) ([Clock Clock 24](https://cc24.g01l.eu/))
+- [Forgotify - Discover a previously unheard Spotify track](https://forgotify.com/)
 - [Glowing plants by Light Bio](https://light.bio/)
 - [JigSpace: The world’s highest-rated AR demonstration app](https://www.jig.space/)
 - [pouët.net :: your online demoscene resource](https://www.pouet.net/index.php)
@@ -1019,18 +1019,18 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [ScreenStyler - Windows](https://screenstyler.com/)
 - [TrashOut: Locate and Get rid of Illegal Dumps](https://www.trashout.ngo/)
 - [Game Jam Theme Generator - Let's Make a Game](https://letsmakeagame.net/game-jam-theme-generator/)
-- [Game Idea Generator | BAFTA YGD](https://ygd.bafta.org/resources/game-idea-generator)
+- [Game Idea Generator - BAFTA YGD](https://ygd.bafta.org/resources/game-idea-generator)
 - [Foxified Emulator](https://foxified.org/)
 - [Free Automated Malware Analysis Service - powered by Falcon Sandbox](https://www.hybrid-analysis.com/)
 - [Fritzing - Electronics made easy](https://fritzing.org/)
 - [cleanEdge - torcado](https://torcado.com/cleanEdge/)
-- [Caption+ by JS* | Professional Subtitles for Creators](https://caption.plus/)
+- [Caption+ by JS* - Professional Subtitles for Creators](https://caption.plus/)
 - [Animated PNG (APNG) Maker](https://ezgif.com/apng-maker)
 - [TopoExport](https://topoexport.com/)
 - [Nuj Alarm Clock](https://nuj.app/)
 - [Habitica - Gamify Your Life](https://habitica.com/static/home)
 - [Google Analytics](https://analytics.google.com/analytics/web/)
-- [Plausible Analytics | Simple, privacy-friendly Google Analytics alternative](https://plausible.io/?utm_medium=social&utm_source=Twitter&utm_campaign=profile)
+- [Plausible Analytics - Simple, privacy-friendly Google Analytics alternative](https://plausible.io/?utm_medium=social&utm_source=Twitter&utm_campaign=profile)
 - [GoatCounter – open source web analytics](https://www.goatcounter.com/)
 - [Tailwind CSS Color Generator - UI Colors](https://uicolors.app/create)
 - [Whisperify - Spotify Quiz and Music Analysis](https://whisperify.net/)
@@ -1080,11 +1080,11 @@ Alternatively, you can find the same list on this page (but it might not be in s
     - [Image Creator from Microsoft Designer](https://www.bing.com/images/create)
     - [Tome - Make Polished & Professional AI Presentations](https://tome.app/)
     - [KREA AI - Home](https://www.krea.ai/home)
-    - [Meshy | 3D AI Generator](https://www.meshy.ai/)
-    - [Create Logos in Seconds With Generative A.I | Logo Diffusion](https://logodiffusion.com/)
+    - [Meshy - 3D AI Generator](https://www.meshy.ai/)
+    - [Create Logos in Seconds With Generative A.I - Logo Diffusion](https://logodiffusion.com/)
     - [Luma AI](https://lumalabs.ai/)
-    - [ACE Studio | Create limitless AI Vocals](https://acestudio.ai/)
-    - [Unity Muse | Ask anything](https://muse.unity.com/en-us)
+    - [ACE Studio - Create limitless AI Vocals](https://acestudio.ai/)
+    - [Unity Muse - Ask anything](https://muse.unity.com/en-us)
 
 ## Other link lists 🗒️
 
@@ -1103,4 +1103,4 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Pinboard: public bookmarks for amitp](https://pinboard.in/u:amitp)
 - Personal
     - [Your Stars - GitHub](https://github.com/SamMed05?tab=stars)
-    - [Best Songs - playlist by Samuel | Spotify](https://open.spotify.com/playlist/4iriTYwxqDJ5ncNNBNTZCZ)
+    - [Best Songs - playlist by Samuel - Spotify](https://open.spotify.com/playlist/4iriTYwxqDJ5ncNNBNTZCZ)
