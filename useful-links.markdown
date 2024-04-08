@@ -151,6 +151,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Trail: Learning the Java Language: Table of Contents (The Java™ Tutorials)](https://docs.oracle.com/javase/tutorial/java/TOC.html)
 - [Applied CS Skills - Google For Education](https://appliedcsskills.withgoogle.com/)
 - [The Executable Books Project](https://executablebooks.org/en/latest/)
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 ##### Job Interview Preparation 💼
 
@@ -169,6 +170,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 - [How I Built my Blog using MDX, Next.js, and React](https://www.joshwcomeau.com/blog/how-i-built-my-blog/)
 - [Modern CSS Reset / Global Styles](https://www.joshwcomeau.com/css/custom-css-reset/)
+- [CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
 - [Normalize.css: Make browsers render all elements more consistently.](https://necolas.github.io/normalize.css/)
 - [CSS for JavaScript Developers - An online course that teaches the fundamentals of CSS for React/Vue devs](https://css-for-js.dev/)
 - [HTML & CSS Is Hard - A friendly web development tutorial](https://internetingishard.netlify.app/html-and-css/index.html)
@@ -180,7 +182,6 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [CodeMyUI](https://codemyui.com/)
 - [CSS Specificity Demo - Manuel Matuzović](https://www.matuzo.at/blog/2022/specificity/)
 - [My current HTML boilerplate - Manuel Matuzović](https://www.matuzo.at/blog/html-boilerplate/)
-- [Modern CSS Reset / Global Styles](https://www.joshwcomeau.com/css/custom-css-reset/)
 - [🤯 HEAD - A simple guide to HTML <head> elements](https://htmlhead.dev/)
 - [Lea Verou – Life at the bleeding edge (of web standards)](https://lea.verou.me/)
 - [https://projects.verou.me/talks/intro/](https://projects.verou.me/talks/intro/)
@@ -419,6 +420,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [The wrong way to use a signed distance function (sdf) – WBlut](https://wblut.com/the-wrong-way-to-use-a-signed-distance-function/)
 - [9bit Science: Raymarching Distance Fields](http://9bitscience.blogspot.com/2013/07/raymarching-distance-fields_14.html)
 - [Log-spherical Mapping in SDF Raymarching](https://www.osar.fr/notes/logspherical/)
+- [Signed distance functions in 46 lines of Python](https://vgel.me/posts/donut/)
 
 #### Fluid simulations 🌪️
 
@@ -518,6 +520,8 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Wolfram Neural Net Repository of Neural Network Models](https://resources.wolframcloud.com/NeuralNetRepository/)
 - [Understanding UMAP](https://pair-code.github.io/understanding-umap/)
 - [The Gradient](https://thegradient.pub/) ([An Introduction to the Problems of AI Consciousness](https://thegradient.pub/an-introduction-to-the-problems-of-ai-consciousness/) and [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/))
+- [Chinese room - Wikipedia](https://en.wikipedia.org/wiki/Chinese_room)
+- [I made a transformer by hand (no training!)](https://vgel.me/posts/handmade-transformer/)
 - Videos
     - [Neural Networks from Scratch - P.4 Batches, Layers, and Objects](https://www.youtube.com/watch?v=TEWy9vZcxW4&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&index=6)
     - [Introduction - CS50's Introduction to Artificial Intelligence with Python 2020](https://youtu.be/gR8QvFmNuLE?list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv)
@@ -629,6 +633,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Dan Russell's Acoustics and Vibration Animations](https://www.acs.psu.edu/drussell/demos.html)
 - [Synthesis Basics](http://beausievers.com/synth/synthbasics/)
 - [Harmonics](https://alexanderchen.github.io/harmonics/)
+- [Everything You Should Know About Sound — Wait But Why](https://waitbutwhy.com/2016/03/sound.html)
 
 ## Music 🎵
 
@@ -667,6 +672,8 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Transposition chart for capo](https://www.guitar-chord.org/transposition-chart-for-capo.html)
 - [ULTIMATE GUITAR](https://www.ultimate-guitar.com/)
 - [Learn EVERY Chord and Chord Symbol - The 7 Systems - YouTube](https://www.youtube.com/watch?v=CyNiY1jzOuQ&ab_channel=MusiciansInspired)
+- [Online Guitar Tuner with Microphone, Free Guitar Tuning](https://tuner-online.com/)
+- [Guitar Chords ♬♬♬](https://tuner-online.com/chords/)
 - VST Plugins/Effects/Presets/Samples
     - [PLUGINS 4 FREE - Free Instrument Audio Plugins Archive](https://plugins4free.com/)
     - [Free effects - MeldaProduction](https://www.meldaproduction.com/effects/free)
@@ -752,7 +759,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Atomic Habits Resources - James Clear](https://jamesclear.com/atomic-habits/resources)
 - [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
 - [A Mathematician's Lament: How School Cheats Us Out of Our Most Fascinating and Imaginative Art Form: Paul Lockhart, Keith Devlin](https://www.amazon.com/gp/product/1934137170?ie=UTF8&tag=subversivemath-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1934137170) ([https://www.maa.org/external_archive/devlin/LockhartsLament.pdf](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf))
-- [Wait But Why](https://waitbutwhy.com/) ([The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html))
+- [Wait But Why](https://waitbutwhy.com/) ([The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html), [Neuralink and the Brain's Magical Future](https://waitbutwhy.com/2017/04/neuralink.html))
 - [Feed – Visualize Value](https://visualizevalue.com/blogs/feed)
 - [Blog - Bill Mei](https://billmei.net/blog/)
 - [Raptitude.com – Getting Better at Being Human](https://www.raptitude.com/)
@@ -762,11 +769,12 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [HowStuffWorks - Learn How Everything Works!](https://www.howstuffworks.com/)
 - [Manifesto on the Teaching of Mathematics – Intellectual Mathematics](https://intellectualmathematics.com/manifesto/)
 - [Lea Verou](https://lea.verou.me/) ([An Introduction to Modern Web Technologies](https://projects.verou.me/talks/intro/##slide1))
-- [Matt Might's blog](https://matt.might.net/articles/) ([The illustrated guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/), [What every computer science major should know](https://matt.might.net/articles/what-cs-majors-should-know/) and [Hacking strength: Gaining muscle with least resistance](https://matt.might.net/articles/hacking-strength/))
+- [Matt Might's blog](https://matt.might.net/articles/) ([The illustrated guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/), [What every computer science major should know](https://matt.might.net/articles/what-cs-majors-should-know/), [Hacking strength: Gaining muscle with least resistance](https://matt.might.net/articles/hacking-strength/) and [HOWTO: Change your behavior](https://matt.might.net/articles/how-to-change-your-behavior/))
 - [Naval - Archive](https://nav.al/archive) ([Happiness](https://nav.al/happiness))
 - [How Google perfected the web - The Verge](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization)
 - [Finding The Air Cannon](https://www.twobraids.com/2024/01/air-cannon.html)
 - [The Videogame Industry Does Not ExistWhy We Should Think Beyond Commercial Game Production - Books Gateway - MIT Press](https://direct.mit.edu/books/oa-monograph/5572/The-Videogame-Industry-Does-Not-ExistWhy-We-Should)
+- [Udara Jay](https://udara.io/) ([Embeddings](https://udara.io/embeddings) and [If and only if](https://udara.io/iff))
 
 ## Misc 🎲
 
@@ -884,6 +892,9 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [pouët.net :: your online demoscene resource](https://www.pouet.net/index.php)
 - [Notable people](https://tjukanovt.github.io/notable-people)
 - [Puter](https://puter.com/)
+- [Iconoir - Free Icons](https://iconoir.com/)
+- [Bootstrap Icons · Official open source SVG icon library for Bootstrap](https://icons.getbootstrap.com/)
+- [Windowkill](https://torcado.com/windowkill/)
 
 ## Tools 🛠
 
@@ -1036,6 +1047,10 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Whisperify - Spotify Quiz and Music Analysis](https://whisperify.net/)
 - [stats.fm (Formerly Spotistats for Spotify)](https://spotistats.app/)
 - [Polycam - LiDAR & 3D Scanner for iPhone & Android](https://poly.cam/)
+- [iTunes Artwork Finder by Ben Dodson](https://bendodson.com/projects/itunes-artwork-finder/)
+- [MRA - Music Identifier - Music Discovery - Jadquir](https://mra.jadquir.com/)
+- [ActivityWatch - Open-source time tracker](https://activitywatch.net/)
+- [Tilt Brush by Google](https://www.tiltbrush.com/)
 - AI tools
     - [Futurepedia - The Largest AI Tools Directory - Home](https://www.futurepedia.io/)
     - [There's An AI For That - The Biggest AI Aggregator](https://theresanaiforthat.com/)
@@ -1085,6 +1100,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
     - [Luma AI](https://lumalabs.ai/)
     - [ACE Studio - Create limitless AI Vocals](https://acestudio.ai/)
     - [Unity Muse - Ask anything](https://muse.unity.com/en-us)
+    - [Elicit - Analyze research papers at superhuman speed](https://elicit.com/)
 
 ## Other link lists 🗒️
 
