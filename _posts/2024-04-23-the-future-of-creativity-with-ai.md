@@ -55,7 +55,7 @@ For example, listening to a lot of music from talented people and trying many ti
 
 Creative ideas within your mind are almost never "the final product", the thing you actually want to achieve. First, you need to make a rough version and then start to improve on it, perhaps even changing your original idea with something radically different.
 
-You might need several iterations of an idea before it finally clicks. As said by the content creator NeatOnTheRocks in this [video]([https://youtu.be/1nHxaqNFpCU?t=1420](https://youtu.be/1nHxaqNFpCU?t=1420)), "*improving at your craft means you're able to make more intentional choices and more accurately express yourself*", and that improvement, even to the smallest extent, is always necessary.
+You might need several iterations of an idea before it finally clicks. As said by the content creator NeatOnTheRocks in this [video](https://youtu.be/1nHxaqNFpCU?t=1420), "*improving at your craft means you're able to make more intentional choices and more accurately express yourself*", and that improvement, even to the smallest extent, is always necessary.
 
 Only through research, making mistakes, overcoming difficulties and comparing your results with those of others, do you shape and refine your idea in what becomes the artist's work that everyone can enjoy.
 
