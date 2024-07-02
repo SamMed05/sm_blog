@@ -17,7 +17,9 @@ Why are things easier, today? Well, I think there are at least three reasons:
 2. The access to information everywhere at any time allows to learn more things with less effort and resources
 3. AI is simplifying and automating many tasks, even some difficult ones, letting humans make "the easy part" (this of course doesn't always apply as it's very task-dependent)
 
-Take an example from the music industry (but this applies to many other fields as well): if you were a beginner musician in the past and wanted to make and release your music, it was, simply speaking, an awful experience:
+This applies to many fields, but let's take an example from the music industry.
+
+If you were a beginner musician in the past and wanted to make and release your music, it was, simply speaking, an awful experience:
 
 * Decent quality recording equipment was expensive, and good free/cheap music software basically didn't exist
 * Just getting music to an audience was expensive and difficult, and promoting it was even more so
@@ -41,7 +43,7 @@ Not only that. Before it was flooded by what I like to call the "generative AI r
 
 When these people at the beginning of their careers found an obstacle on their way, they (quite intuitively) had to learn the skills to overcome it. They mostly had to do it themselves, watch a tutorial, or ask an educator or a friend, but still, they had to dedicate some time to learn the necessary technical skills to express their creativity in the best way.
 
-Sticking to this music industry example, I can tell you an experience of mine related to that.
+Before talking about AI, though, I want to a bit more context by telling you about a related experience of mine.
 
 ## The importance of mistakes for reaching creativity
 
@@ -69,13 +71,13 @@ But why did I reference a time before the generative AI revolution?
 
 Keeping in mind the context of what I've said in the previous examples, I'm slightly worried about something. I fear that from now on, in the face of the seemingly infinite possibilities that the generative AI models are going to offer (from text to image generation), humans will start to encounter fewer limits and obstacles due to imprudent automation. This will cause a decline in the number of people with experience and proficiency in creative skills, which are necessary and fundamental to express their ideas to their full potential, and consequently, creative freedom and variety will diminish.
 
-As AI becomes increasingly proficient at generating content, there's a risk that humans will rely on it too heavily, given our overall laziness, eroding our own creative abilities and technical proficiency in the content we enjoy the most.
+As AI becomes increasingly proficient at generating content, there's a risk that humans will rely on it too heavily, given our natural lazy tendency, eroding our own creative abilities and technical experience.
 
 Indeed, while AI can simplify some aspects of the creative process, it is important to recognize that true creativity arises from a balanced combination of knowledge, experience, innovation, and an extensive understanding of the fundamental principles of human emotions.
 
-Although AI will reduce the skill barriers to self-expression (meaning, it becomes easier to make creative work that tries to reflect what someone wants to express), there will be nothing substantial to express about oneself without first having acquired relevant experience with traditional means (the "old" way).
+Although AI will reduce the skill barriers to self-expression (meaning, it becomes easier to make creative work that attempts to reflect what someone wants to express), there will be nothing substantial to express about oneself without first having acquired relevant experience in the "hard" (traditional) way.
 
-Picture an independent, beginner filmmaker who relies on AI to make a movie. Let me give him a name, like John, for the sake of clarity. In the hypothetical situation that John lacks the technical (and non-technical) expertise and experience of professionals, the AI would handle the various aspects of filmmaking for him, while John would feel empowered to focus more on creative storytelling and his artistic vision. However, being so inexperienced, John would not be able to make an interesting, non-trivial or even decent movie, because lacking knowledge leads to a barely decent creation at best.
+Picture an independent, beginner filmmaker, let's call it _John_, who relies on AI to make a movie. In the hypothetical situation that John lacks the technical (and non-technical) expertise and experience of professionals, the AI would handle the various aspects of filmmaking for him, while John would feel empowered to focus more on creative storytelling and his artistic vision. However, being so inexperienced, John would not be able to make an interesting, non-trivial or even decent movie, because lacking knowledge leads to a barely decent creation at best.
 
 You could argue that a **_filmmaker doesn't need to know all the tools and technical details in order to make great movies_**. After all, a team of other people or AI tools would handle the technical part for him.
 
@@ -86,20 +88,33 @@ Without a solid grasp of the fundamental principles of filmmaking (just like any
 Also, I think **considering technical proficiency secondary to creativity is simply wrong**:
 
 * a photographer who understands and masters the principles of exposure, composition, and lighting can capture photographs that more effectively convey mood, emotion, and narrative depth, compared to the "*point and shoot*" approach of a beginner.
-* a music producer (like me) who understands well their DAW and the various concepts of music theory (melody, harmony, rhythm…), can create polished and interesting songs that convey emotion with more clarity and depth.
-* a graphic designer who knows how to use layers, filters, typography and so on effectively allows them to produce visually beautiful and clean designs.
+* a music producer (like me, but I'm not an expert yet) who understands well their DAW and the various concepts of music theory (melody, harmony, rhythm…), can create polished and interesting songs that convey emotion with more clarity and depth.
+* a graphic designer who knows how to use layers, filters, typography and so on can effectively produce visually beautiful and clean designs.
 
 You get the idea.
 
-All this to say that, at least from what I'm currently seeing, beginners will try to skip to the top by empowering themselves with AI. In reality, they'll have to _work their way up the ladder_ if they want to achieve success through their creative work, like everyone has done so far.
+All this to say that, at least from what I'm currently seeing, beginners will try to skip to the top by empowering themselves with AI. In reality, though, they'll have to _work their way up the ladder_ if they want to achieve success through their creative work, like everyone has done so far.
 
 **_P.S.: I know this is a long and not very cohesive post, so here's a little AI-generated TLDR that sums it all up well, being accurate to what my thoughts are_**:
 
 ### TLDR;
 
-* Before the generative AI revolution, beginners faced obstacles that forced them to develop specific skills, enhancing their creative abilities over time
-* This has led to more meaningful artistic expressions
+* Before the generative AI revolution, beginners faced obstacles that forced them to develop specific skills, enhancing their creative abilities over time. This has led to more meaningful artistic expressions
 * AI presents a potential threat to human creativity, as reliance on it might lead to a decline in creative freedom and technical proficiency
 * Without prior experience and skill development, reliance on AI may result in superficial expressions devoid of substance.
 
-<span class="caption">Post thumbnail generated with Microsoft Designer Image Creator.</span>
+## Update <span class="caption">(02/07/2024)</span>
+
+After writing this post, musician, YouTuber and educator Rick Beato released a video that addresses arguments and concerns quite similar to mine, particularly regarding the world of music. Here's the video if you are curious:
+
+<div class="videowrapper"><iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/1bZ0OSEViyo?t=296" title="The Real Reason Why Music Is Getting Worse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+He mainly discusses these key points:
+
+* Creative dependency and over-reliance on technology limit the ability of people to learn and innovate, causing the homogenization of music (or creative works in general).
+* With easier production of music, people will tend more and more to put quantity over quality, leading to an over-saturated environment that makes it difficult to find really good music.
+* Today, music (or content in general terms) is too easy to consume, compared to the past, therefore it is much less valued and impactful on people.
+
+As you can see from the first point, it seems like I'm not the only artist who is becoming worried about this "creativity decline" problem, and I hope with this post to let more people know about what we should expect and what to avoid in the future, preserving the meaningful, human part in our works.
+
+<span class="caption">Post thumbnail previously generated with Microsoft Designer Image Creator, then altered and retraced by hand.</span>
