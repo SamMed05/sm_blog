@@ -103,11 +103,12 @@ Alternatively, you can find the same list on this page (but it might not be in s
 
 #### Programming 👨‍💻
 
+- [Scratch - Imagine, Program, Share](https://scratch.mit.edu/)
 - [Paul Ford: What Is Code? - Bloomberg](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 - [Computer programming - Computing - Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 - [Don’t run your coding club alone – Hack Club](https://hackclub.com/)
 - [Algorithm Archive](https://www.algorithm-archive.org/)
-- [LeetCode](https://leetcode.com/)
+- [LeetCode](https://leetcode.com/) ([Array - LeetCode](https://leetcode.com/tag/array/))
 - [CodeWars](https://www.codewars.com/)
 - [NeetCode.io](https://neetcode.io/)
 - [Developer Roadmaps - roadmap.sh](https://roadmap.sh/)
@@ -156,6 +157,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [The TCP/IP Guide - The TCP/IP Guide](http://www.tcpipguide.com/free/index.htm)
 - [Olimpiadi Italiane di Informatica](https://olinfo.it/) ([Wiki delle Olimpiadi di Informatica](https://wiki.olinfo.it/), [Allenamenti Olimpiadi Italiane di Informatica](https://training.olinfo.it/#/overview))
 - [Georgi Gerganov's Home Page](https://ggerganov.com/) ([Keytap: acoustic keyboard eavesdropping - C++ and stuff](https://keytap.ggerganov.com/), [Keytap: description and some random thoughts - C++ and stuff](https://ggerganov.github.io/jekyll/update/2018/11/30/keytap-description-and-thoughts.html))
+- [Writing An Interpreter In Go - Thorsten Ball](https://interpreterbook.com/)
 
 ##### Job Interview Preparation 💼
 
@@ -265,6 +267,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Godot Engine - Free and open source 2D and 3D game engine](https://godotengine.org/)
 - [Godot Engine - Free and open source 2D and 3D game engine](https://godotengine.org/)
 - [Godot Engine (stable) documentation](https://docs.godotengine.org/en/stable/getting_started/introduction/index.html)
+- [GODOT Community Poll 2024](https://docs.google.com/forms/d/1eicOppRQG2RFZ8CjIGFf5Kha5yklO854fV8-YFtlWxk/viewanalytics)
 - [Course - CS50's Introduction to Game Development - edX](https://learning.edx.org/course/course-v1:HarvardX+CS50G+Games/home)
 - [Unreal Engine 5 Beginner Tutorial - UE5 Starter Course 2022](https://youtu.be/k-zMkzmduqI)
 - [The Unity Tutorial For Complete Beginners -  Game Maker's Toolkit](https://youtu.be/XtQMytORBmM)
@@ -298,6 +301,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [2024 Unity Gaming Report - Trends, data & expert tips - Unity](https://unity.com/resources/gaming-report?isGated=false)
 - [Game UI Database - Welcome](https://www.gameuidatabase.com/)
 - [How I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan/)
+- [What is an Entity Component System architecture for game development?](https://www.richardlord.net/blog/ecs/what-is-an-entity-framework)
 
 ##### Shaders/VFX 🌟
 
@@ -432,7 +436,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [The Perlin noise math FAQ](https://mzucker.github.io/html/perlin-noise-math-faq.html)
 - [I.5: Perlin Noise - The Nature of Code](https://www.youtube.com/watch?v=8ZEMLCnn8v0)
 
-#### Graphics 🎞️
+#### Computer Graphics 🎞️
 
 - [Ray Tracing in One Weekend](https://raytracing.github.io/)
 - [Introduction to Computer Graphics -- Title Page](https://math.hws.edu/graphicsbook/)
@@ -450,6 +454,8 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [NVIDIA Nsight Graphics - NVIDIA Developer](https://developer.nvidia.com/nsight-graphics)
 - [Graphics in 5 Minutes](https://g5m.cs.washington.edu/)
 - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
+- [OpenGL Step by Step - OpenGL Development](https://ogldev.org/index.html)
+- [Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/) ([Raycasting](https://lodev.org/cgtutor/raycasting.html))
 
 ##### Ray tracing 💡
 
@@ -537,6 +543,8 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [I made a transformer by hand (no training!)](https://vgel.me/posts/handmade-transformer/)
 - [Glaze - Protecting Artists from Generative AI](https://glaze.cs.uchicago.edu/)
 - [Nightshade: Protecting Copyright](https://nightshade.cs.uchicago.edu/whatis.html)
+- [Attention Is All You Need - 1706.03762](https://arxiv.org/pdf/1706.03762)
+- [Artificial intelligence and copyright - Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence_and_copyright)
 - Videos
     - [Neural Networks from Scratch - P.4 Batches, Layers, and Objects](https://www.youtube.com/watch?v=TEWy9vZcxW4&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&index=6)
     - [Introduction - CS50's Introduction to Artificial Intelligence with Python 2020](https://youtu.be/gR8QvFmNuLE?list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv)
@@ -586,7 +594,6 @@ Alternatively, you can find the same list on this page (but it might not be in s
     - [DeepMind x UCL RL Lecture Series - Introduction to Reinforcement Learning [1/13]](https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZCRwoyGxvQkqVrZgDQi4m-5&ab_channel=GoogleDeepMind)
     - [What is Machine Learning? - Google Cloud Tech](https://www.youtube.com/watch?v=HcqpanDadyQ&list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2&ab_channel=GoogleCloudTech)
     - [What are Transformer Models and how do they work? - Serrano.Academy](https://www.youtube.com/watch?v=qaWMOYf4ri8&ab_channel=Serrano.Academy)
-    - [Attention Is All You Need - 1706.03762](https://arxiv.org/pdf/1706.03762)
 - AI platforms/models/experiments/papers
     - [ChatGPT](https://chat.openai.com/)
     - [Gemini](https://gemini.google.com/app)
@@ -656,6 +663,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Synthesis Basics](http://beausievers.com/synth/synthbasics/)
 - [Harmonics](https://alexanderchen.github.io/harmonics/)
 - [Everything You Should Know About Sound — Wait But Why](https://waitbutwhy.com/2016/03/sound.html)
+- [Sound Studio and Audio Calculations - Eberhard Sengpiel](https://sengpielaudio.com/Calculations03.htm)
 
 ## Music 🎵
 
@@ -700,6 +708,8 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Music Scales: Learn, play and find any musical scale](https://www.tonegym.co/tool/item?id=scale-analyser)
 - [basicmusictheory.com: A music theory reference site](https://www.basicmusictheory.com/)
 - [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
+- [How Chords are Named: Easy Music Theory - YouTube](https://www.youtube.com/watch?v=ioCzkvRXPPw&ab_channel=SeanDaniel)
+- [Understanding Chorus, Flangers, and Phasers in Audio Production](https://www.izotope.com/en/learn/understanding-chorus-flangers-and-phasers-in-audio-production.html)
 - VST plugins/effects/presets/samples/wavetables
     - [PLUGINS 4 FREE - Free Instrument Audio Plugins Archive](https://plugins4free.com/)
     - [Free effects - MeldaProduction](https://www.meldaproduction.com/effects/free)
@@ -718,9 +728,18 @@ Alternatively, you can find the same list on this page (but it might not be in s
     - [Auburn Sounds - Graillon, live voice changer](https://www.auburnsounds.com/products/Graillon.html)
     - [TAL Software](https://tal-software.com/products/tal-noisemaker)
     - [Splash Sound - Percussion Elements 2](https://en.splashsound.org/products/percussion-elements/)
-    - [Voxengo SPAN - Free Spectrum Analyzer Plugin VST, AU, AAX](https://www.voxengo.com/product/span/)
+    - [FREE VST Plugins, AAX, VST3 Plugin Download - Voxengo](https://www.voxengo.com/group/free-vst-plugin-download/) ([Voxengo SPAN - Free Spectrum Analyzer Plugin VST, AU, AAX](https://www.voxengo.com/product/span/))
     - [WaveEdit Online](https://waveeditonline.com/)
     - [Edirol Orchestral - Paul Cecchetti Music](https://www.paulcecchettimusic.com/edirol-orchestral-free-download/)
+    - [Surge](https://surge-synthesizer.github.io/)
+    - [The 11 Best Free Piano VST Plugins That Actually Sound Good](https://richardpryn.com/the-11-best-free-piano-vst-plugins-that-actually-sound-good/)
+    - [Inventive Instruments](https://www.inventive-instruments.com/)
+    - [ORCHESTRAL TOOLS](https://www.orchestraltools.com/sinefactory)
+    - [41 Best Free String VST Plugins That Actually Sound Good](https://richardpryn.com/   41-best-free-string-vst-plugins-that-actually-sound-good/)
+    - [NanoHost freeware - minimalist VST host](https://www.tone2.com/nanohost.html)
+    - [99Sounds](https://99sounds.gumroad.com/)
+    - [Soundpaint](https://soundpaint.com/) ([Free Instruments – Soundpaint](https://soundpaint.com/collections/free-instruments))
+    - [Freebies – Abletunes Blog | Music Production in Ableton Live](https://abletunes.com/blog/category/freebie/) ([Free Ableton Packs Foundation | Abletunes](https://abletunes.com/free-ableton-packs-instruments-foundation))
 
 ## Science/engineering/data visualization 🔬
 
@@ -766,6 +785,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Bartosz Ciechanowski](https://ciechanow.ski/) ([GPS](https://ciechanow.ski/gps/), [Sound](https://ciechanow.ski/sound/), [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/), [Earth and Sun](https://ciechanow.ski/earth-and-sun/)…)
 - [Information is Beautiful](https://informationisbeautiful.net/)
 - [Heavens-Above](https://www.heavens-above.com/) ([Interactive sky chart](https://www.heavens-above.com/skychart2.aspx))
+- [Next-Generation Molecular Workbench](http://mw.concord.org/nextgen/#interactives/)
 
 ## News/articles/comics 🗞
 
@@ -814,6 +834,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 ## Misc 🎲
 
 - [Neal.fun](https://neal.fun/)
+- [games - eieio.games](https://eieio.games/)
 - [It's Nicky Case!](https://ncase.me/)
 - [Sketchfab - Publish & find 3D models online](https://sketchfab.com/)
 - [Textures for 3D, graphic design and Photoshop!](https://www.textures.com/)
@@ -948,6 +969,14 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [The Wiki Game - Wikipedia Game - Explore Wikipedia!](https://www.thewikigame.com/)
 - [Adobe Photoshop - Download exclusive brushes from Kyle T. Webster](https://www.adobe.com/products/photoshop/brushes.html)
 - [Most Visited Websites in Worldwide 2024 - Open .Trends](https://www.semrush.com/trending-websites/global/all)
+- [Home - SteamGridDB](https://www.steamgriddb.com/)
+- [Screeps - MMO strategy sandbox game for programmers](https://screeps.com/)
+- [WikiLeaks](https://wikileaks.org/)
+- [Breaking News Headlines and Media Bias - Ground News](https://ground.news/)
+- [visualVFX - Transitions for Davinci Resolve](https://visualvfx.com/)
+- [Neocities - Browse](https://neocities.org/browse)
+- [Writing an MP4 Muxer for Fun and Profit - OBS](https://obsproject.com/blog/obs-studio-hybrid-mp4)
+- [PlayStation's ultimate list of gaming terms](https://www.playstation.com/en-us/editorial/playstation-ultimate-gaming-glossary/)
 
 ## Tools 🛠
 
@@ -1125,7 +1154,10 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Shields.io](https://shields.io/)
 - [Blockbench](https://www.blockbench.net/) ([Blockbench Web](https://web.blockbench.net/))
 - [Roots - Scroll less, Live more](https://www.getroots.app/)
-
+- [Google Trends](https://trends.google.it/trends/)
+- [Google Colab](https://colab.research.google.com/)
+- [Datawrapper: Create charts, maps, and tables](https://www.datawrapper.de/)
+- [Music Video Maker - Vizzy](https://vizzy.io/)
 - AI tools
     - [Futurepedia - The Largest AI Tools Directory - Home](https://www.futurepedia.io/)
     - [There's An AI For That - The Biggest AI Aggregator](https://theresanaiforthat.com/)
@@ -1179,13 +1211,17 @@ Alternatively, you can find the same list on this page (but it might not be in s
     - [Image Creator](https://designer.microsoft.com/image-creator)
     - [Project IDX](https://idx.google.com/)
     - [Suno](https://suno.com/)
+    - [Udio - AI Music Generator](https://www.udio.com/)
     - [Cursor](https://www.cursor.com/)
     - [Tactiq - Meeting notes powered by transcription](https://app.tactiq.io/)
     - [Figma AI: Your Creativity, unblocked with Figma AI](https://www.figma.com/ai/)
+    - [Adobe Podcast - AI audio recording and editing, all on the web](https://podcast.adobe.com/)
+    - [Interior Design Software with AI-Powered Architectural Visualization Tools](https://www.spacely.ai/tools)
 
 ## Other link lists 🗒️
 
 - [sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
+- [Curated list of awesome lists - Project-Awesome.org](https://project-awesome.org/)
 - [Explorable Explanations](https://explorabl.es/)
 - [The Science Playground](https://thescienceplayground.com/)
 - [Labs - MinuteLabs.io](https://minutelabs.io/)
@@ -1198,6 +1234,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Chrome Experiments - Experiments with Google](https://experiments.withgoogle.com/collection/chrome)
 - [Learn Game Engine Programming](https://engine-programming.github.io/)
 - [Pinboard: public bookmarks for amitp](https://pinboard.in/u:amitp)
+- [Favorite Wikipedia pages about science - Austin Z. Henley](https://austinhenley.com/blog/favwikiarticles.html)
 - Personal
     - [Your Stars - GitHub](https://github.com/SamMed05?tab=stars)
     - [Best Songs - playlist by Samuel - Spotify](https://open.spotify.com/playlist/4iriTYwxqDJ5ncNNBNTZCZ)
