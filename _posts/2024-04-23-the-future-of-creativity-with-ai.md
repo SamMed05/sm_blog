@@ -113,8 +113,20 @@ He mainly discusses these key points:
 
 * Creative dependency and over-reliance on technology limit the ability of people to learn and innovate, causing the homogenization of music (or creative works in general).
 * With easier production of music, people will tend more and more to put quantity over quality, leading to an over-saturated environment that makes it difficult to find really good music.
-* Today, music (or content in general terms) is too easy to consume, compared to the past, therefore it is much less valued and impactful on people.
+* Today, music (and all content in general) is too easy to consume, compared to the past, therefore it is much less valued and impactful on people.
 
 As you can see from the first point, it seems like I'm not the only artist who is becoming worried about this "creativity decline" problem, and I hope with this post to let more people know about what we should expect and what to avoid in the future, preserving the meaningful, human part in our works.
+
+## Highly recommended videos
+
+I recently saw two new videos, one from Drew Gooden and one from Andrew Huang, both containing very interesting and valid points making them particularly useful to think critically about this whole AI situation. I encourage you to watch them too if this problem interests you!
+
+<span class="caption">In this video, focusing on the section about AI music and the ending part, Drew Gooden clearly explains the problems we are encountering through the rising conflict (and competition) between AI and human artists, but also the fact that increased accessibility is great as long as you exploit it to further improve your skills, and don't use AI to make it do everything for you (because at that point the human would be an "operator", not an "artist"). The strenuous process of figuring out how to make a work is the irreplaceable essence of human creativity:</span>
+<div class="videowrapper"><iframe src="https://www.youtube-nocookie.com/embed/UShsgCOzER4?t=1072" title="AI is ruining the internet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<span class="caption">Here, the musician Andrew Huang responds to the backlash he received from his community after making a product using AI-generated art, and in doing so he wisely acknowledges that AI has not only convenient benefits but also represents a threat to artists and creative work in general (including job displacement and ethical concerns). His "ambivalent" feelings on AI are very helpful to reflect on this topic from all perspectives. AI is now pervasive in our daily lives, and this doesn't necessarily have to be strictly good or bad. However, in the end, human creativity and art always perseveres:</span>
+<div class="videowrapper"><iframe src="https://www.youtube.com/embed/FHOAeFkoVLw" title="The AI art situation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<hr>
 
 <span class="caption">Post thumbnail previously generated with Microsoft Designer Image Creator, then altered and retraced by hand.</span>
