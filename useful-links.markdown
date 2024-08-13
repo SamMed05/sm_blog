@@ -478,7 +478,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Dribbble - Discover the World’s Top Designers & Creative Professionals](https://dribbble.com/shots)
 - [FlutterFlow - Build beautiful, modern apps incredibly fast!](https://flutterflow.io/)
 - [Build with - - Remote design systems](https://buildwith-.com/)
-- [Material 3 Design Kit | Figma](https://www.figma.com/community/file/1035203688168086460)
+- [Material 3 Design Kit - Figma](https://www.figma.com/community/file/1035203688168086460)
 - [Penpot: The Design Tool for Design & Code Collaboration](https://penpot.app/)
 
 #### Artificial Intelligence 🤖
