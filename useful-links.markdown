@@ -158,7 +158,8 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [The TCP/IP Guide - The TCP/IP Guide](http://www.tcpipguide.com/free/index.htm)
 - [Olimpiadi Italiane di Informatica](https://olinfo.it/) ([Wiki delle Olimpiadi di Informatica](https://wiki.olinfo.it/), [Allenamenti Olimpiadi Italiane di Informatica](https://training.olinfo.it/#/overview))
 - [Georgi Gerganov's Home Page](https://ggerganov.com/) ([Keytap: acoustic keyboard eavesdropping - C++ and stuff](https://keytap.ggerganov.com/), [Keytap: description and some random thoughts - C++ and stuff](https://ggerganov.github.io/jekyll/update/2018/11/30/keytap-description-and-thoughts.html))
-- [Writing An Interpreter In Go - Thorsten Ball](https://interpreterbook.com/)
+- [-terpreter In Go - Thorsten Ball](https://interpreterbook.com/)
+- [Semantic Versioning 2.0.0 - Semantic Versioning](https://semver.org/)
 
 ##### Job Interview Preparation 💼
 
@@ -259,6 +260,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Subframe – The best way to build UI, fast.](https://www.subframe.com/templates)
 - [Alpine.js](https://alpinejs.dev/)
 - [Underscore.js](https://underscorejs.org/)
+- [Homepage - GSAP](https://gsap.com/)
 
 #### Game development 🎮
 
@@ -387,6 +389,8 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Displacement X](https://displacementx.pages.dev/) ([JSplacement Web](https://jsplacementweb.pages.dev/))
 - [SVG Pattern Builder - Create and Customize Patterns Online (made with Claude AI)](https://svg.designcode.io/)
 - [The Perlin noise math FAQ](https://mzucker.github.io/html/perlin-noise-math-faq.html)
+- [Mario Carrillo — Home](https://marioecg.com/)
+- [cables](https://cables.gl/)
 
 ##### Cellular automata & reaction-diffusion 🧪
 
@@ -456,9 +460,6 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [OpenGL Step by Step - OpenGL Development](https://ogldev.org/index.html)
 - [Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/) ([Raycasting](https://lodev.org/cgtutor/raycasting.html))
 - [How do Video Game Graphics Work? -  Branch Education](https://www.youtube.com/watch?v=C8YtdC8mxTU&ab_channel=BranchEducation) (video)
-
-##### Ray tracing 💡
-
 - [How Ray Tracing (Modern CGI) Works And How To Do It 600x Faster](https://youtu.be/gsZiJeaMO48)
 - [Coding Adventure: Ray Tracing](https://youtu.be/Qz0KTGYJtUk)
 
@@ -476,7 +477,9 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Search Projects - Photos, videos, logos, illustrations and branding on Behance](https://www.behance.net/)
 - [Dribbble - Discover the World’s Top Designers & Creative Professionals](https://dribbble.com/shots)
 - [FlutterFlow - Build beautiful, modern apps incredibly fast!](https://flutterflow.io/)
-- [Build with Theta - Remote design systems](https://buildwiththeta.com/)
+- [Build with - - Remote design systems](https://buildwith-.com/)
+- [Material 3 Design Kit | Figma](https://www.figma.com/community/file/1035203688168086460)
+- [Penpot: The Design Tool for Design & Code Collaboration](https://penpot.app/)
 
 #### Artificial Intelligence 🤖
 
@@ -537,7 +540,10 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Nightshade: Protecting Copyright](https://nightshade.cs.uchicago.edu/whatis.html)
 - [Attention Is All You Need - 1706.03762](https://arxiv.org/pdf/1706.03762)
 - [Artificial intelligence and copyright - Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence_and_copyright)
-- [NN SVG - Publication-ready Neural Network architecture schematics](https://alexlenail.me/NN-SVG/) (tool)
+- [-VG - Publication-ready Neural Network architecture schematics](https://alexlenail.me/NN-SVG/) (tool)
+- [A Guide to Convolutional Neural Networks — the ELI5 way - Saturn Cloud Blog](https://saturncloud.io/blog/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way/)
+- [What the RIAA lawsuits against Udio and Suno mean for AI and copyright - The Verge](https://www.theverge.com/24186085/riaa-lawsuits-udio-suno-copyright-fair-use-music)
+- [LAION](https://laion.ai/)
 - Videos
     - [Neural Networks from Scratch - P.4 Batches, Layers, and Objects](https://www.youtube.com/watch?v=TEWy9vZcxW4&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&index=6)
     - [Introduction - CS50's Introduction to Artificial Intelligence with Python 2020](https://youtu.be/gR8QvFmNuLE?list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv)
@@ -635,6 +641,9 @@ Alternatively, you can find the same list on this page (but it might not be in s
     - [VASA-1 - Microsoft Research](https://www.microsoft.com/en-us/research/project/vasa-1/)
     - [Ollama](https://www.ollama.com/)
     - [Pi, your personal AI](https://pi.ai/talk)
+    - [FLUX.1](https://www.basedlabs.ai/tools/flux1)
+    - [Magnific AI — The magic image Upscaler & Enhancer](https://magnific.ai/)
+    - [Meta Segment Anything Model 2](https://ai.meta.com/SAM2/)
 
 #### Sound/audio/waves 🔊
 
@@ -703,7 +712,8 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
 - [How Chords are Named: Easy Music Theory - YouTube](https://www.youtube.com/watch?v=ioCzkvRXPPw&ab_channel=SeanDaniel)
 - [Understanding Chorus, Flangers, and Phasers in Audio Production](https://www.izotope.com/en/learn/understanding-chorus-flangers-and-phasers-in-audio-production.html)
-- [Name That Key - Find a Song's Key by It's Chords - Music Theory Site](https://musictheorysite.com/namethatkey/)
+- [-at Key - Find a Song's Key by It's Chords - Music Theory Site](https://musictheorysite.com/namethatkey/)
+- [I watched 300 hours of music production streams, here are my 17 FAVORITE tips (wish I knew sooner) - YouTube](https://www.youtube.com/watch?v=JQHvtinwQQ8&ab_channel=SolState)
 - VST plugins/effects/presets/samples/wavetables
     - [PLUGINS 4 FREE - Free Instrument Audio Plugins Archive](https://plugins4free.com/)
     - [Free effects - MeldaProduction](https://www.meldaproduction.com/effects/free)
@@ -738,6 +748,8 @@ Alternatively, you can find the same list on this page (but it might not be in s
     - [Remo De Vico - Gumroad](https://remodevico.gumroad.com/)
     - [a200xeaf - Gumroad](https://a200xeaf.gumroad.com/)
     - [Open-Source Audio Plugins & Apps - OpenAudio](https://openaudio.webprofusion.com/)
+    - [Free Suite - Venn Audio](https://www.vennaudio.com/free-suite/)
+    - [Spectral Suite](https://www.andrewreeman.com/spectralsuite/)
 
 ## Science/engineering/data visualization 🔬
 
@@ -980,6 +992,11 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [My Abandonware - Download Old Video Games](https://www.myabandonware.com/)
 - [Lucide - Beautiful & consistent icon toolkit made by the community](https://lucide.dev/)
 - [Gandalf - Lakera – Test your prompting skills to make Gandalf reveal secret information.](https://gandalf.lakera.ai/intro)
+- [Project — Texturing Ideation Demo](https://s-keiyu.com/texturingideationdemo/)
+- [Free Sound Effects Download - Quick Sounds](https://quicksounds.com/)
+- [Layoffs Tracker - All Tech and Startup Layoffs - by TrueUp](https://www.trueup.io/layoffs)
+- [TLDRLegal - Software Licenses Explained in Plain English](https://www.tldrlegal.com/)
+- [Video Game Industry Statistics and Facts. Games-Stats.com](https://games-stats.com/)
 
 ## Tools 🛠
 
@@ -1167,6 +1184,14 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Fluidmotion](https://fluidmotion.app/)
 - [Overlord](https://battleaxe.co/overlord)
 - [Caesar Cipher (Shift) - Online Decoder, Encoder, Solver, Translator](https://www.dcode.fr/caesar-cipher)
+- [Eraser – Docs and Diagrams for Engineering Teams](https://www.eraser.io/)
+- [DevToys - A Swiss Army knife for developers](https://devtoys.app/)
+- [BeepBox 2.3](https://www.beepbox.co/2_3/)
+- [PlayCanvas WebGL Game Engine](https://playcanvas.com/)
+- [SuperSplat](https://playcanvas.com/supersplat/editor?load=https://raw.githubusercontent.com/willeastcott/assets/main/dragon.compressed.ply)
+- [AppFlowy.IO](https://www.appflowy.io/)
+- [Browse Your Life in Pictures – PhotoPrism](https://www.photoprism.app/)
+
 - AI tools
     - [Futurepedia - The Largest AI Tools Directory - Home](https://www.futurepedia.io/)
     - [There's An AI For That - The Biggest AI Aggregator](https://theresanaiforthat.com/)
@@ -1226,6 +1251,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
     - [Figma AI: Your Creativity, unblocked with Figma AI](https://www.figma.com/ai/)
     - [Adobe Podcast - AI audio recording and editing, all on the web](https://podcast.adobe.com/)
     - [Interior Design Software with AI-Powered Architectural Visualization Tools](https://www.spacely.ai/tools)
+    - [Tabby](https://tabby.tabbyml.com/)
 
 ## Useful YouTube playlists/courses 📽️
 
