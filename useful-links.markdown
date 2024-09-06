@@ -305,6 +305,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Game UI Database - Welcome](https://www.gameuidatabase.com/)
 - [How I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan/)
 - [What is an Entity Component System architecture for game development?](https://www.richardlord.net/blog/ecs/what-is-an-entity-framework)
+- [Godot 4.3, a shared effort](https://godotengine.org/releases/4.3/)
 
 ##### Shaders/VFX 🌟
 
@@ -341,6 +342,8 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [A Journey Into Shaders](https://www.mayerowitz.io/bloga-journey-into-shaders)
 - [GM Shaders](https://gmshaders.com/)
 - [Material Maker](https://www.materialmaker.org/) ([Material Maker User Manual — Material Maker documentation](https://rodzill4.github.io/material-maker/doc/index.html), [All materials](https://www.materialmaker.org/materials))
+- [Tutorials — Late's Blender Stuff](https://lateasusual.com/b/tutorials/)
+- [Nodevember - Home](https://nodevember.io/)
 - Videos
     - [Shaders 101 - Intro to Shaders](https://www.youtube.com/watch?v=T-HXmQAMhG0)
     - [Shadertoy for absolute beginners](https://www.youtube.com/watch?v=u5HAYVHsasc)
@@ -391,6 +394,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [The Perlin noise math FAQ](https://mzucker.github.io/html/perlin-noise-math-faq.html)
 - [Mario Carrillo — Home](https://marioecg.com/)
 - [cables](https://cables.gl/)
+- [Home - Winterbloed](https://winterbloed.be/)
 
 ##### Cellular automata & reaction-diffusion 🧪
 
@@ -444,7 +448,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Ray Tracing in One Weekend](https://raytracing.github.io/)
 - [Introduction to Computer Graphics -- Title Page](https://math.hws.edu/graphicsbook/)
 - [Journal of Computer Graphics Techniques](http://jcgt.org/)
-- [Scratchapixel](https://www.scratchapixel.com/)
+- [Scratchapixel](https://www.scratchapixel.com/) ([Rasterization](https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/overview-rasterization-algorithm.html))
 - [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/)
 - [Humus - Articles](http://www.humus.name/index.php?page=Articles)
 - [Advances in Real-Time Rendering in 3D Graphics and Games](http://advances.realtimerendering.com/)
@@ -544,6 +548,9 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [A Guide to Convolutional Neural Networks — the ELI5 way - Saturn Cloud Blog](https://saturncloud.io/blog/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way/)
 - [What the RIAA lawsuits against Udio and Suno mean for AI and copyright - The Verge](https://www.theverge.com/24186085/riaa-lawsuits-udio-suno-copyright-fair-use-music)
 - [LAION](https://laion.ai/)
+- [Apple, Nvidia, Anthropic Used Thousands of Swiped YouTube Videos to Train AI](https://www.proofnews.org/apple-nvidia-anthropic-used-thousands-of-swiped-youtube-videos-to-train-ai/) and [Search the YouTube Videos Secretly Powering Generative AI](https://www.proofnews.org/youtube-ai-search/)
+- [No one’s ready for this - The Verge](https://www.theverge.com/2024/8/22/24225972/ai-photo-era-what-is-reality-google-pixel-9)
+- [Is Google Training AI on YouTube Videos? - YouTube](https://www.youtube.com/watch?v=JiMXb2NkAxQ)
 - Videos
     - [Neural Networks from Scratch - P.4 Batches, Layers, and Objects](https://www.youtube.com/watch?v=TEWy9vZcxW4&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&index=6)
     - [Introduction - CS50's Introduction to Artificial Intelligence with Python 2020](https://youtu.be/gR8QvFmNuLE?list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv)
@@ -596,6 +603,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - AI platforms/models/experiments/papers
     - [ChatGPT](https://chat.openai.com/)
     - [Gemini](https://gemini.google.com/app)
+    - [Claude](https://claude.ai/)
     - [Poe](https://poe.com/)
     - [Stable Diffusion with 🧨 diffusers - Colaboratory](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb)
     - [DALL·E 2](https://openai.com/dall-e-2/)
@@ -644,6 +652,11 @@ Alternatively, you can find the same list on this page (but it might not be in s
     - [FLUX.1](https://www.basedlabs.ai/tools/flux1)
     - [Magnific AI — The magic image Upscaler & Enhancer](https://magnific.ai/)
     - [Meta Segment Anything Model 2](https://ai.meta.com/SAM2/)
+    - [Golden Gate Claude \ Anthropic](https://www.anthropic.com/news/golden-gate-claude) and [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
+    - [SAE viewer](https://openaipublic.blob.core.windows.net/sparse-autoencoder/sae-viewer/index.html)
+    - [Imagen 3 - Google DeepMind](https://deepmind.google/technologies/imagen-3/)
+    - [Luma Dream Machine](https://lumalabs.ai/dream-machine)
+    - [FLUX AI: Image Generator - Free, Fast & High-Quality](https://flux1.org/)
 
 #### Sound/audio/waves 🔊
 
@@ -666,6 +679,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Harmonics](https://alexanderchen.github.io/harmonics/)
 - [Everything You Should Know About Sound — Wait But Why](https://waitbutwhy.com/2016/03/sound.html)
 - [Sound Studio and Audio Calculations - Eberhard Sengpiel](https://sengpielaudio.com/Calculations03.htm)
+- [Converting wavetables to Ableton Operator AMS waves - Bart Wronski](https://bartwronski.com/2021/01/05/converting-wavetables-to-ableton-operator-ams-waves/)
 
 ## Music 🎵
 
@@ -709,7 +723,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [ToneGym](https://www.tonegym.co/welcome/index)
 - [Music Scales: Learn, play and find any musical scale](https://www.tonegym.co/tool/item?id=scale-analyser)
 - [basicmusictheory.com: A music theory reference site](https://www.basicmusictheory.com/)
-- [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
+- [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html) ([Simple "Sus" Chords](https://musictheory.pugetsound.edu/mt21c/SimpleSusChords.html))
 - [How Chords are Named: Easy Music Theory - YouTube](https://www.youtube.com/watch?v=ioCzkvRXPPw&ab_channel=SeanDaniel)
 - [Understanding Chorus, Flangers, and Phasers in Audio Production](https://www.izotope.com/en/learn/understanding-chorus-flangers-and-phasers-in-audio-production.html)
 - [-at Key - Find a Song's Key by It's Chords - Music Theory Site](https://musictheorysite.com/namethatkey/)
@@ -750,6 +764,10 @@ Alternatively, you can find the same list on this page (but it might not be in s
     - [Open-Source Audio Plugins & Apps - OpenAudio](https://openaudio.webprofusion.com/)
     - [Free Suite - Venn Audio](https://www.vennaudio.com/free-suite/)
     - [Spectral Suite](https://www.andrewreeman.com/spectralsuite/)
+    - [Vital - Store](https://account.vital.audio/store)
+    - [Neutone Inc.](https://neutone.ai/) ([Neutone by Neutone Inc.](https://neutone.ai/fx) AI audio plugin)
+    - [Free Sound Packs - SoundPacks.com](https://soundpacks.com/category/free-sound-packs/)
+    - [home - glitch.cool](https://www.glitch.cool/) ([glitch with friends: samples vol. 3 - glitch.cool](https://www.glitch.cool/projects/glitch-with-friends-samples-vol-3))
 
 ## Science/engineering/data visualization 🔬
 
@@ -840,6 +858,8 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [The Videogame Industry Does Not ExistWhy We Should Think Beyond Commercial Game Production - Books Gateway - MIT Press](https://direct.mit.edu/books/oa-monograph/5572/The-Videogame-Industry-Does-Not-ExistWhy-We-Should)
 - [Udara Jay](https://udara.io/) ([Embeddings](https://udara.io/embeddings) and [If and only if](https://udara.io/iff))
 - [Introduction - SITUATIONAL AWARENESS: The Decade Ahead](https://situational-awareness.ai/) ([Shtetl-Optimized » Blog Archive » Situational Awareness](https://scottaaronson.blog/?p=8047))
+- [So You Want Continuous Time Zones @ Things Of Interest](https://qntm.org/continuous)
+- [Steph Ango](https://stephango.com/) ([File over app](https://stephango.com/file-over-app), [What can we remove?](https://stephango.com/remove), [Don't specialize, hybridize](https://stephango.com/hybridize))
 
 ## Misc 🎲
 
@@ -899,7 +919,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [3D Models Free Download - Open3dModel.com](https://open3dmodel.com/)
 - [explain xkcd](https://www.explainxkcd.com/wiki/index.php/Main_Page)
 - [Discover Quickly](https://discoverquickly.com/)
-- [Every Noise at Once](https://everynoise.com/)
+- [Every Noise at Once](https://everynoise.com/) (and [The Sound of Everything](https://everynoise.com/thesoundofeverything.html))
 - [Example Domain](https://example.com/)
 - [Project Sunroof](https://sunroof.withgoogle.com/)
 - [dCode - Online Ciphers, Solvers, Decoders, Calculators](https://www.dcode.fr/en)
@@ -929,7 +949,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [aem1k - JS Hacks & Creativity](https://aem1k.com/)
 - [Evidence-based Analysis on Supplements & Nutrition - Examine](https://examine.com/)
 - [Blender Conference](https://conference.blender.org/)
-- [Blender Market - A Unique Market for Creators that love Blender](https://blendermarket.com/)
+- [Blender Market - A Unique Market for Creators that love Blender](https://blendermarket.com/) ([MACHIN3tools - Blender Market](https://blendermarket.com/products/machin3tools), [Procedural Crowds - Blender Market](https://blendermarket.com/products/procedural-crowds))
 - [Extensions — Blender Extensions](https://extensions.blender.org/)
 - [Internet Encyclopedia of Philosophy - An encyclopedia of philosophy articles written by professional philosophers.](https://iep.utm.edu/) ([Integrated Information Theory of Consciousness](https://iep.utm.edu/integrated-information-theory-of-consciousness/))
 - [Guide to North American Birds - Audubon](https://www.audubon.org/bird-guide)
@@ -997,6 +1017,13 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Layoffs Tracker - All Tech and Startup Layoffs - by TrueUp](https://www.trueup.io/layoffs)
 - [TLDRLegal - Software Licenses Explained in Plain English](https://www.tldrlegal.com/)
 - [Video Game Industry Statistics and Facts. Games-Stats.com](https://games-stats.com/)
+- [BeamNG.drive](https://www.beamng.com/game/)
+- [What are the 12 Principles of Animation — Ultimate Guide](https://www.studiobinder.com/blog/what-are-the-12-principles-of-animation/)
+- [Lostgamer](https://lostgamer.io/)
+- [WikiTree: The Free Family Tree](https://www.wikitree.com/)
+- [RootsMagic - Software to Unite Families](https://www.rootsmagic.com/)
+- [What is PeerTube? - JoinPeerTube](https://joinpeertube.org/)
+- [Electricity Maps - Live 24/7 CO₂ emissions of electricity consumption](https://app.electricitymaps.com/map)
 
 ## Tools 🛠
 
@@ -1191,6 +1218,19 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [SuperSplat](https://playcanvas.com/supersplat/editor?load=https://raw.githubusercontent.com/willeastcott/assets/main/dragon.compressed.ply)
 - [AppFlowy.IO](https://www.appflowy.io/)
 - [Browse Your Life in Pictures – PhotoPrism](https://www.photoprism.app/)
+- [Openthesia](https://openthesia.pages.dev/)
+- [contrib.rocks](https://contrib.rocks/preview?repo=angular%2Fangular-ja)
+- [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
+- [&udm=14 - the disenshittification Konami code](https://udm14.com/)
+- [JS Paint](https://jspaint.app/)
+- [Wide Gamut - Home Page](https://www.wide-gamut.com/)
+- [Color Gamut Test](https://www.colorgamuts.com/)
+- [Flightradar24: Live Flight Tracker - Real-Time Flight Tracker Map](https://www.flightradar24.com/)
+- [Periodic Table - Periodic Table](https://periodic-table.io/)
+- [Steam Charts - Tracking What's Played](https://steamcharts.com/)
+- [2025-01-01 00:00:00 UTC To Local Time - Wolfram-Alpha](https://www.wolframalpha.com/input?i=2025-01-01+00%3A00%3A00+UTC+To+Local+Time) (time converter)
+- [CPI Inflation Calculator](https://data.bls.gov/cgi-bin/cpicalc.pl)
+- [IP WHOIS Lookup - Lookup IP WHOIS Information - WhatIsMyIP.com®](https://www.whatismyip.com/ip-whois-lookup/)
 
 - AI tools
     - [Futurepedia - The Largest AI Tools Directory - Home](https://www.futurepedia.io/)
@@ -1377,6 +1417,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [How Supergiant Secretly Launched Hades - Developing Hell #01](https://www.youtube.com/watch?v=JzyE9hi912c&list=PL-THgg8QnvU4JEVov1tMlFThNYS92F8uC)
 - [BBC Magic Numbers Mysterious World of Maths 1of3 720p HDTV x264 AAC MVGroup org](https://www.youtube.com/watch?v=cyvDG8qjt-M&list=PLVk3tArtG-kju2RYzpvh99RiL8hHA9ORV)
 - [Our Planet - One Planet - FULL EPISODE - Netflix](https://www.youtube.com/watch?v=GfO-3Oir-qM&list=PLe2nGhEGXFVuwS0G15adnT3vQfNBCqjbJ)
+[- Ultimate Guide to Camera Shots: Every Shot Size Explained [The Shot List, Ep 1] - YouTube](https://www.youtube.com/watch?v=AyML8xuKfoc&list=PLEzQZpmbzckV0_a2QCO2qF9Yfe-LKSDha)
 
 ## Other link lists 🗒️
 
