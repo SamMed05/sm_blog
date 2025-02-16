@@ -1,3 +1,28 @@
 <!-- https://applause-button.com/ -->
 <script src="https://unpkg.com/applause-button/dist/applause-button.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/applause-button/dist/applause-button.css">
+
+<script src="https://unpkg.com/applause-button/dist/applause-button.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/applause-button/dist/applause-button.css">
+
+<!-- Trying to fix the CSS problem with the applause button not being a circle -->
+<style>
+    applause-button {
+        width: 60px !important;
+        height: 60px !important;
+        display: flex !important;
+        align-items: center !important;
+        /* justify-content: center !important; */
+        background-color: rgba(255, 255, 255, 0.9) !important;
+        border-radius: 50% !important;
+    }
+
+    applause-button .style-root {
+        width: 60px !important;
+        height: 60px !important;
+        display: flex !important;
+        /* align-items: center !important; */
+        justify-content: center !important;
+        margin-top: -19px !important;
+    }
+</style>
