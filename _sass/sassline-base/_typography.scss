@@ -277,24 +277,28 @@ a {
     font-style: normal;
     font-weight: map-get($headingtype, regular);
     width: 100%;
-    //border: 1px solid;
     border-collapse: collapse;
     margin-bottom: 1rem !important;
     display: block;
     overflow-x: auto;
+    background-color: transparent;
+    color: inherit;
 
     th, td {
       padding:.25em .5em;
       text-align:left;
-      border: 3px solid white;
+      border: 1px solid rgba(0,0,0,0.04);
       font-size: 1rem;
+      vertical-align: top;
     }
+
     tbody tr {
       background-color: #f7f7f7;
     }
     tbody tr:nth-child(odd) {
       background-color: #e6e6e6;
     }
+
     th {
       background-color: $hoverColour;
       color: #fff;
@@ -302,10 +306,56 @@ a {
     }
 
     thead {
-
       th {
         @include sassline(zeta, $headingtype, 1.5, 0, all);
         padding-bottom: 1px;
+      }
+    }
+
+    // Dark mode: respects user preference and a .dark top-level class.
+    @media (prefers-color-scheme: dark) {
+      & {
+        // background-color: #0f1112;
+        color: rgba(255,255,255,0.9);
+
+        th, td {
+          border: 1px solid rgba(255,255,255,0.04);
+        }
+
+        tbody tr {
+          background-color: rgba(255,255,255,0.02);
+        }
+        tbody tr:nth-child(odd) {
+          background-color: rgba(255,255,255,0.03);
+        }
+
+        th {
+          // Ensure header contrast in dark mode; nudge hover colour lighter for legibility
+          background-color: if(function-exists('lighten'), lighten($hoverColour, 10%), $hoverColour);
+          color: #fff;
+        }
+      }
+    }
+
+    // Also allow an explicit .dark class on the page/root to force dark styles.
+    @at-root .dark & {
+      background-color: #0f1112;
+      color: rgba(255,255,255,0.9);
+
+      th, td {
+        border: 1px solid rgba(255,255,255,0.04);
+      }
+
+      tbody tr {
+        background-color: rgba(255,255,255,0.02);
+      }
+      tbody tr:nth-child(odd) {
+        background-color: rgba(255,255,255,0.03);
+      }
+
+      th {
+        background-color: if(function-exists('lighten'), lighten($hoverColour, 10%), $hoverColour);
+        color: #fff;
       }
     }
   }
