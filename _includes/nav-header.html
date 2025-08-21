@@ -14,108 +14,55 @@
       </li>
     {% endfor %}
   </ul>
-  <button class="button  button--nav" aria-label="Menu toggle">
-    {% include icon.html id="nav" title="Menu" %}
-  </button>
 </nav>
 {% else %}
   {% include nav-default.html %}
 {% endif %}
 
-<button class="theme-button" data-theme="light" style="display: none"></button>
+<button class="button theme-button" aria-label="Toggle color theme" title="Toggle theme">
+  <span class="material-symbols-outlined" aria-hidden="true">light_mode</span>
+</button>
 
-<div>
-  {% include site-logo.html %}
-
-  <button class="button button--nav" aria-label="Menu toggle">
-    <!-- {% include icon.html id="nav" title="Menu" %} -->
-    <span class="material-symbols-outlined">
-      menu
-      </span>
-  </button>
-</div>
+<!-- logo is included from site-header to avoid duplication and layout issues -->
 
 <script type="text/javascript">
-  // Get list and button
-  const navList = document.querySelector('.header .container .nav .list--nav')
-  const button = document.querySelector('.header .container div .button--nav')
+  // Theme toggle: simple, reliable, and persistent
+  (function() {
+    const themeButton = document.querySelector('.theme-button');
+    if (!themeButton) return;
 
-  // Hide nav and apply toggle
-  const collapseNav = () => {
-    if (document.body.clientWidth < 640) {
-      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
-    } else {
-      navList.removeAttribute('style')
+    const mq = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)');
+    const stored = localStorage.getItem('theme');
+    const getPreferred = () => stored || (mq && mq.matches ? 'dark' : 'light');
+
+    let current = getPreferred();
+    document.documentElement.setAttribute('data-theme', current);
+
+    const icons = { light: 'light_mode', dark: 'dark_mode' };
+    function render() {
+      // Show the icon that will switch to the opposite theme (clear affordance)
+      themeButton.innerHTML = '<span class="material-symbols-outlined" aria-hidden="true">' + (current === 'light' ? icons.dark : icons.light) + '</span>';
+      themeButton.setAttribute('aria-pressed', current === 'dark');
+      themeButton.setAttribute('title', current === 'light' ? 'Switch to dark theme' : 'Switch to light theme');
     }
 
-    button.onclick = () => {
-      navList.style.setProperty('transition', `margin .1s`)
-      if (navList.style.getPropertyValue('--listHeight')) {
-        navList.style.removeProperty('--listHeight')
-      } else {
-        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
-      }
+    render();
+    themeButton.style.display = '';
+
+    themeButton.addEventListener('click', () => {
+      current = (document.documentElement.getAttribute('data-theme') === 'light') ? 'dark' : 'light';
+      document.documentElement.setAttribute('data-theme', current);
+      localStorage.setItem('theme', current);
+      render();
+    });
+
+    // If user has no explicit stored preference, respond to OS changes
+    if (mq && !stored) {
+      mq.addEventListener('change', (e) => {
+        current = e.matches ? 'dark' : 'light';
+        document.documentElement.setAttribute('data-theme', current);
+        render();
+      });
     }
-  }
-
-  collapseNav()
-
-  // Check on resize if to collapse nav
-  window.addEventListener('resize', () => {
-    collapseNav()
-  })
-
-  // Theme
-  if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-    document.documentElement.setAttribute('data-theme', "dark");
-  } else {
-    document.documentElement.setAttribute('data-theme', "dark");
-  }
-
-  const themeButton = document.getElementsByClassName("theme-button")[0];
-  let storedTheme = localStorage.getItem('theme') || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
-  if (storedTheme)
-      document.documentElement.setAttribute('data-theme', storedTheme)
-
-  let targetTheme;
-
-  if (localStorage.getItem('theme') == "light") {
-    themeButton.textContent = "🌑";
-    document.documentElement.setAttribute('data-theme', "dark");
-  } else {
-    themeButton.textContent = "☀️";
-    document.documentElement.setAttribute('data-theme', "light");
-  }
-
-  // Toggle dark/light theme
-  themeButton.onclick = () => {
-    if (document.documentElement.getAttribute("data-theme") == "light") {
-      themeButton.textContent = "🌑";
-      document.documentElement.setAttribute('data-theme', "dark");
-      targetTheme = "dark";
-    } else {
-      themeButton.textContent = "☀️";
-      document.documentElement.setAttribute('data-theme', "light");
-      targetTheme = "light";
-    }
-  }
-
-  localStorage.setItem('theme', targetTheme);
-
-  /*// https://lukelowrey.com/css-variable-theme-switcher/
-  let storedTheme = localStorage.getItem('theme') || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
-  if (storedTheme)
-      document.documentElement.setAttribute('data-theme', storedTheme)
-
-  themeButton.onclick = function() {
-    let currentTheme = document.documentElement.getAttribute("data-theme");
-    let targetTheme = "light";
-
-    if (currentTheme === "light") {
-        targetTheme = "dark";
-    }
-
-    document.documentElement.setAttribute('data-theme', targetTheme)
-    localStorage.setItem('theme', targetTheme);
-  };*/
+  })();
 </script>

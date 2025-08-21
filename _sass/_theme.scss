@@ -548,13 +548,68 @@ input[type=checkbox]:checked:after {
 }
 
 .theme-button {
-  padding: .17em 0 .17em 0;
-  background: $focusColour;
-  display: inline-block;
-  margin: 5px;
-  font-size: 2rem;
-  border: 2px solid $focusColour;
-  border-radius: 100px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: .2rem;
+  margin: 0.25rem;
+  font-size: 1.1rem; /* icon size */
+  min-width: 2.2rem;
+  min-height: 2.2rem;
+  line-height: 1;
+  background: transparent; /* keep subtle */
+  color: inherit;
+  border: 1px solid transparent;
+  border-radius: 50%;
+  box-shadow: none;
+  cursor: pointer;
+}
+
+/* Dark theme overrides to ensure visible contrast when data-theme changes */
+:root[data-theme="dark"] {
+  body {
+    background: #1a1c1f !important; /* matches _settings.scss */
+    color: #f0f0f0 !important;
+  }
+  /* Text & headings */
+  h1, h2, h3, h4, h5, h6 { color: #f0f0f0 !important; }
+  a { color: #7fbfff; }
+  .caption, .small, .figcaption { color: #d9e3f0 !important; }
+  .footer { background: #111214; color: #9ea8ad; }
+  .typeset, .content, .article--post { background: transparent; }
+  /* Code and pre */
+  code { background: #2b2b2b; color: #f0f0f0; border-color: #3a3a3a; }
+  pre { background: #222; color: #e8e8e8; }
+  /* Buttons and inputs */
+  input, textarea, select, button, .button { background: #232425; color: #f0f0f0; border-color: #333; }
+  /* Lists */
+  .list .item--post, .list .item--result, .list .item--category { background-color: rgba(180,191,197,0.08); }
+  /* Ensure logo keeps its white drop-shadow in dark mode */
+  .blogImage {
+    -webkit-filter: drop-shadow(0px 0px 4px #fff);
+    filter: drop-shadow(0px 0px 4px #fff);
+  }
+}
+
+/* Header responsive: keep nav and logo from squishing each other on small screens */
+.header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: .5rem;
+}
+
+/* Allow nav to wrap but keep logo and theme-button visible */
+.header .nav { flex: 1 1 auto; min-width: 0; }
+.logo { flex: 0 0 auto; margin-left: .5rem; }
+.theme-button { flex: 0 0 auto; margin-right: .5rem; }
+
+@media screen and (max-width: 640px) {
+  .header .container { padding: .5rem; }
+  .header .nav ul.list--nav { display: block; }
+  .header .nav ul.list--nav li { display: inline-block; margin-right: .6rem; }
+  .logo img { max-height: 3rem; }
+  .theme-button { min-width: 2rem; min-height: 2rem; font-size: 1.05rem; }
 }
 
 .feature {
