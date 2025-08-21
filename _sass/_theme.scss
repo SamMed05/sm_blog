@@ -484,6 +484,15 @@ input[type=checkbox]:checked:after {
     text-align: center;
     padding-bottom: 0.3rem;
   }
+  ul.list.list--nav {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap; /* allow items to wrap to multiple lines so text can wrap */
+  }
+  ul.list.list--nav li {
+    min-width: 0;       /* allow flex items to shrink properly */
+    white-space: normal; /* permit text wrapping inside nav items */
+  }
   li:nth-child(3) { // remove unnecessary home link
     display: none;
   }
@@ -493,7 +502,7 @@ input[type=checkbox]:checked:after {
   .container {
     @include flexbox;
     @include flex-direction(row);
-    @include justify-content(space-evenly);
+    @include justify-content(space-between);
     padding: 1rem 0;
     @include breakpoint(break-1) {
       @include align-items(center);
@@ -748,9 +757,11 @@ input[type=checkbox]:checked:after {
 // Lists
 .list {
   list-style: none;
+  min-height: 4rem;
   &--nav {
     overflow: hidden;
-    margin-bottom: var(--listHeight, 0);
+    // margin-bottom: var(--listHeight, 0);
+    max-width: 55em;
   }
   .item--post,
   .item--result,

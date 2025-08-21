@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Terms and Privacy
+title: Terms & Privacy
 permalink: /privacy/
 ---
 
-# Terms and Privacy Policy
+# Terms & Privacy Policy
 
 This is my personal blog written and edited by me (Samuel Mediani). Your use of this website, in any and all forms, constitutes an acceptance of these terms and policies. This page is reviewed and revised from time to time.
 
