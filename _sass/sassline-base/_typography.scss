@@ -29,10 +29,17 @@ a {
 // Styles for typeset text.
 
 // Helper: apply content for both system dark preference and explicit dark theme
+// If the user has explicitly chosen a light theme (via `:root[data-theme="light"]` or
+// a `.light` class on the root), avoid applying the system dark preference styles.
 @mixin in-dark-mode {
+  // Apply system dark styles only when there is NOT an explicit light theme set on :root
   @media (prefers-color-scheme: dark) {
-    & { @content; }
+    @at-root :root:not([data-theme="light"]):not(.light) & {
+      @content;
+    }
   }
+
+  // Always apply when an explicit dark theme is set (class or data attribute)
   @at-root .dark &, [data-theme="dark"] & {
     @content;
   }

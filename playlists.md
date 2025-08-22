@@ -15,48 +15,57 @@ In general, I have a soft spot for well-produced songs, meaning with great maste
 Below I've put the embeds of the playlists I think you should check out, but if for some reason they aren't loading, you can got to my Spotify profile page where you'll find all the [pinned playlists](https://open.spotify.com/user/tufc032h2onz3ugn7ejc1u6db/playlists).
 
 <!-- markdownlint-disable MD033 -->
-<table style="table-layout: fixed;">
-    <tr>
-        <td style="width:50%">
-            <iframe style="border-radius:12px;display:block;width:100%;height:352px;" src="https://open.spotify.com/embed/playlist/4iriTYwxqDJ5ncNNBNTZCZ?utm_source=generator" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-            <div class="caption" style="margin:0 0 5px 0; line-height: 1.5rem">My all-time favourite songs I listen to in every mood and across various genres. These tracks are my reliable go-tos for any occasion.</div>
-        </td>
-        <td style="width:50%">
-            <iframe style="border-radius:12px;display:block;width:100%;height:352px;" src="https://open.spotify.com/embed/playlist/6daD0ILJyd1gWpCWZc2YeH?utm_source=generator" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-            <div class="caption" style="margin:0 0 5px 0; line-height: 1.5rem">A playlist best suited for hi-fi sound systems, where the details and ear candy really matter. Expect well-produced melodic dubstep, future bass, chillstep, synthpop, indie electronic, pop, and more.</div>
-        </td>
-    </tr>
-    <tr>
-        <td style="width:50%">
-            <iframe style="border-radius:12px;display:block;width:100%;height:352px;" src="https://open.spotify.com/embed/playlist/5zd3aisPCca2RsetKY0t5M?utm_source=generator" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-            <div class="caption" style="margin:0 0 5px 0; line-height: 1.5rem">A playlist to listen to when you want to slow down and relax. Perfect for mornings and evenings. Only music without harsh, jarring, or overly loud sounds is selected.</div>
-        </td>
-        <td style="width:50%">
-            <iframe style="border-radius:12px;display:block;width:100%;height:352px;" src="https://open.spotify.com/embed/playlist/74lKUuEiJwclP2Pa5t7F8c?utm_source=generator" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-            <div class="caption" style="margin:0 0 5px 0; line-height: 1.5rem">A playlist to listen to when you want to slow down and relax. Perfect for mornings and evenings. Only music without harsh, jarring, or overly loud sounds is selected. Lyrics-only songs playlist version.</div>
-        </td>
-    </tr>
-    <tr>
-        <td style="width:50%">
-            <iframe style="border-radius:12px;display:block;width:100%;height:352px;" src="https://open.spotify.com/embed/playlist/1atQUWBbBD5SRURUSpe6GR?utm_source=generator" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-            <div class="caption" style="margin:0 0 5px 0; line-height: 1.5rem">Acoustic versions of some my favourite songs (at least the ones available on Spotify).</div>
-        </td>
-        <td style="width:50%">
-            <iframe style="border-radius:12px;display:block;width:100%;height:352px;" src="https://open.spotify.com/embed/playlist/63q9gV5GmaagJ7yoRWUa1D?utm_source=generator" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-            <div class="caption" style="margin:0 0 5px 0; line-height: 1.5rem">Live versions of some my favourite songs (at least the ones available on Spotify).</div>
-        </td>
-    </tr>
-    <tr>
-        <td style="width:50%">
-            <iframe style="border-radius:12px;display:block;width:100%;height:352px;" src="https://open.spotify.com/embed/playlist/7jps6YhDBEBCdWA6hCMdIA?utm_source=generator" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-            <div class="caption" style="margin:0 0 5px 0; line-height: 1.5rem">definitely NOT chill music</div>
-        </td>
-        <td style="width:50%">
-            <iframe style="border-radius:12px;display:block;width:100%;height:352px;" src="https://open.spotify.com/embed/playlist/0B31GqTHePpExQyL3VaLjE?utm_source=generator" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-            <div class="caption" style="margin:0 0 5px 0; line-height: 1.5rem">Songs that I find too weird to listen to regularly but still musically interesting.</div>
-        </td>
-    </tr>
-</table>
+<style>
+.playlist-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1rem;align-items:start;}
+.playlist-item iframe{border-radius:12px;display:block;width:100%;height:352px;border:0;}
+.playlist-item .caption{margin:0 0 5px 0;line-height:1.5rem;}
+@media (max-width:640px){
+    .playlist-grid{grid-template-columns:1fr;}
+    .playlist-item iframe{height:420px;}
+}
+</style>
+
+<div class="playlist-grid">
+    <div class="playlist-item">
+        <iframe src="https://open.spotify.com/embed/playlist/4iriTYwxqDJ5ncNNBNTZCZ?utm_source=generator" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <div class="caption">My all-time favourite songs I listen to in every mood and across various genres. These tracks are my reliable go-tos for any occasion.</div>
+    </div>
+
+    <div class="playlist-item">
+        <iframe src="https://open.spotify.com/embed/playlist/6daD0ILJyd1gWpCWZc2YeH?utm_source=generator" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <div class="caption">A playlist best suited for hi-fi sound systems, where the details and ear candy really matter. Expect well-produced melodic dubstep, future bass, chillstep, synthpop, indie electronic, pop, and more.</div>
+    </div>
+
+    <div class="playlist-item">
+        <iframe src="https://open.spotify.com/embed/playlist/5zd3aisPCca2RsetKY0t5M?utm_source=generator" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <div class="caption">A playlist to listen to when you want to slow down and relax. Perfect for mornings and evenings. Only music without harsh, jarring, or overly loud sounds is selected.</div>
+    </div>
+
+    <div class="playlist-item">
+        <iframe src="https://open.spotify.com/embed/playlist/74lKUuEiJwclP2Pa5t7F8c?utm_source=generator" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <div class="caption">A playlist to listen to when you want to slow down and relax. Perfect for mornings and evenings. Only music without harsh, jarring, or overly loud sounds is selected. Lyrics-only songs playlist version.</div>
+    </div>
+
+    <div class="playlist-item">
+        <iframe src="https://open.spotify.com/embed/playlist/1atQUWBbBD5SRURUSpe6GR?utm_source=generator" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <div class="caption">Acoustic versions of some my favourite songs (at least the ones available on Spotify).</div>
+    </div>
+
+    <div class="playlist-item">
+        <iframe src="https://open.spotify.com/embed/playlist/63q9gV5GmaagJ7yoRWUa1D?utm_source=generator" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <div class="caption">Live versions of some my favourite songs (at least the ones available on Spotify).</div>
+    </div>
+
+    <div class="playlist-item">
+        <iframe src="https://open.spotify.com/embed/playlist/7jps6YhDBEBCdWA6hCMdIA?utm_source=generator" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <div class="caption">definitely NOT chill music</div>
+    </div>
+
+    <div class="playlist-item">
+        <iframe src="https://open.spotify.com/embed/playlist/0B31GqTHePpExQyL3VaLjE?utm_source=generator" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <div class="caption">Songs that I find too weird to listen to regularly but still musically interesting.</div>
+    </div>
+</div>
 <!-- markdownlint-enable MD033 -->
 
 P.S.: I also made the graphics on the playlist covers. Feel free to use them on yours if you need them!
