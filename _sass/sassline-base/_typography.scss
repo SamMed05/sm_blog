@@ -27,6 +27,17 @@ a {
 }
 
 // Styles for typeset text.
+
+// Helper: apply content for both system dark preference and explicit dark theme
+@mixin in-dark-mode {
+  @media (prefers-color-scheme: dark) {
+    & { @content; }
+  }
+  @at-root .dark &, [data-theme="dark"] & {
+    @content;
+  }
+}
+
 .typeset {
   a {
     color: $linkColour;
@@ -312,9 +323,8 @@ a {
       }
     }
 
-    // Dark mode: respects user preference and a .dark top-level class.
-    @media (prefers-color-scheme: dark) {
-      & {
+      // Dark mode: respect user preference and explicit dark theme toggle
+      @include in-dark-mode {
         // background-color: #0f1112;
         color: rgba(255,255,255,0.9);
 
@@ -335,29 +345,6 @@ a {
           color: #fff;
         }
       }
-    }
-
-    // Also allow an explicit .dark class on the page/root to force dark styles.
-    @at-root .dark & {
-      background-color: #0f1112;
-      color: rgba(255,255,255,0.9);
-
-      th, td {
-        border: 1px solid rgba(255,255,255,0.04);
-      }
-
-      tbody tr {
-        background-color: rgba(255,255,255,0.02);
-      }
-      tbody tr:nth-child(odd) {
-        background-color: rgba(255,255,255,0.03);
-      }
-
-      th {
-        background-color: if(function-exists('lighten'), lighten($hoverColour, 10%), $hoverColour);
-        color: #fff;
-      }
-    }
   }
 
   // Bold.
@@ -425,7 +412,7 @@ a {
         $baseline-shift: #{($get-size / 2 * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001};
         $baseline-push: #{3 - (($get-size * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001)};
 
-        @media screen and (min-width: nth($points, $i) / 16 * 1em ) {
+        @media screen and (min-width: #{nth($points, $i) / 16 * 1em}) {
           margin-bottom: #{$baseline-push}rem;
           padding-bottom: #{$baseline-shift}rem;
         }
@@ -434,6 +421,15 @@ a {
 
     @include breakpoint(break-1) {
       margin-left: -1rem;
+    }
+    // Dark mode: improve blockquote legibility; use shared helper to avoid duplication
+    @include in-dark-mode {
+      background-image: linear-gradient(to right, rgba(255,255,255,0.1), rgba(255,255,255,0));
+      p {
+        color: rgba(255,255,255,0.92);
+        border-left: 0.25rem solid rgba(255,255,255,0.12);
+        padding-left: 1.25rem;
+      }
     }
   }
 
