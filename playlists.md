@@ -65,7 +65,16 @@ Below I've put the embeds of the playlists I think you should check out, but if 
         <iframe src="https://open.spotify.com/embed/playlist/0B31GqTHePpExQyL3VaLjE?utm_source=generator" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         <div class="caption">Songs that I find too weird to listen to regularly but still musically interesting.</div>
     </div>
+
+    <div class="playlist-item">
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4X0k7ZvEALNRFykfAb4WUd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+
+    <div class="playlist-item">
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/668lgTgi3AQKz5ZzNRL0Bg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
 </div>
+<br>
 <!-- markdownlint-enable MD033 -->
 
 P.S.: I also made the graphics on the playlist covers. Feel free to use them on yours if you need them!
