@@ -6,6 +6,11 @@ permalink: /playlists/
 
 In this section you'll find some of the music playlists I carefully created over the years containing the songs I like the most, or the most interesting ones, roughly subdivided into different genres, moods or likeness.
 
+<!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=music_history" /> -->
+
+{: .box-success}
+<span class="material-symbols-outlined">music_history</span> **Music history & Stats:** If you are curious about what I've been listening to, check out my [stats.fm](https://stats.fm/sammed) and [last.fm](https://www.last.fm/user/samumedio) social profiles and let's discover new tunes together! :)
+
 Unfortunately, I'm currently using Spotify and playlists are only available there, but in the future I want to add a way to download the `.csv` file so that you can import and listen to them in your favourite music streaming platform! [Exportify](https://exportify.net/) is a great free tool for that, btw. And for importing, I've never tried, but tools like Soundiiz, TuneMyMusic or MusConv should work fine.
 
 I grew up mostly listening to neoclassical/piano music ([Ludovico Einaudi](https://ludovicoeinaudi.com/complete-works/) in particular) but then, at about 16-17 I quickly broadened my listening radar to many different genres, including not only pop (my first love was [OneRepublic](https://www.onerepublic.com/music/)) and, some time later, melodic dubstep ([Illenium](https://illenium.com/)), but also some lesser-known, fascinating musical niches like glitch, house, riddim, brostep, chillstep and more ([Just Shapes & Beats](https://www.justshapesandbeats.com/) game and [Neddie](https://www.youtube.com/@NeddieOfficial?themeRefresh=1) YouTube videos being the biggest early influences).
