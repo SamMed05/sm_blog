@@ -9,7 +9,7 @@ In this section you'll find some of the music playlists I carefully created over
 <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=music_history" /> -->
 
 {: .box-success}
-<span class="material-symbols-outlined">music_history</span> **Music history & Stats:** If you are curious about what I've been listening to, check out my [stats.fm](https://stats.fm/sammed) and [last.fm](https://www.last.fm/user/samumedio) social profiles and let's discover new tunes together! :)
+<span class="material-symbols-outlined">music_history</span> **Music history & Stats:** If you are curious about what I've been listening to, check out my [stats.fm](https://stats.fm/user/sammed?range=lifetime) and [last.fm](https://www.last.fm/user/samumedio) social profiles and let's discover new tunes together! :)
 
 Unfortunately, I'm currently using Spotify and playlists are only available there, but in the future I want to add a way to download the `.csv` file so that you can import and listen to them in your favourite music streaming platform! [Exportify](https://exportify.net/) is a great free tool for that, btw. And for importing, I've never tried, but tools like Soundiiz, TuneMyMusic or MusConv should work fine.
 
