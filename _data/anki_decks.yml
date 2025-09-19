@@ -1,0 +1,30 @@
+# Anki decks data
+#
+# Fields per deck:
+# - title: string (required)
+# - description: short text (optional)
+# - image: path (starting with /) or absolute URL (optional)
+# - links: map with optional 'it' and 'en' URLs (optional)
+#
+# Preview images to be palced under /assets/anki/
+
+- title: Calculus 1
+  description: "Essential calculus concepts with interactive Geogebra embeds and video references."
+  image: /assets/anki/calculus-1.png
+  links:
+    it: https://ankiweb.net/shared/info/992382120
+    en: https://ankiweb.net/shared/info/1919998254
+
+- title: Computer architecture
+  description: "Boolean logic, RISC-V assembly, and processor design with simulators and exercises."
+  image: /assets/anki/computer-architecture.png
+  links:
+    it: https://ankiweb.net/shared/info/1501235737
+    en: https://ankiweb.net/shared/info/1737020042
+
+- title: Linear Algebra
+  description: "Vector spaces, matrices, and combinatorics with MathJax formulas and interactive visuals."
+  image: /assets/anki/linear-algebra.png
+  links:
+    it: https://ankiweb.net/shared/info/1800454148
+    en: https://ankiweb.net/shared/info/2070876889
