@@ -1,7 +1,7 @@
 <nav class="no-print nav">
   <ul class="list list--nav">
     {% for item in site.html_pages %}
-      {% unless item.title == false or item.url contains "/page" or item.url contains "/404.html" %}
+      {%- unless item.title == false or item.url contains "/page" or item.url contains "/404.html" or item.url == "/" or item.title == nil or item.title == "" -%}
         <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
 
           {% if item.url contains '://' %}
@@ -14,12 +14,10 @@
             {% assign collectiondata = site.collections | where: "label", item.collectionpage | first %}
             <a href="{{ url }}">{{ collectiondata.title }}</a>
           {% else %}
-            {% unless item.url == '/' %}
-              <a href="{{ url }}">{{ item.title }}</a>
-            {% endunless %}
+            <a href="{{ url }}">{{ item.title }}</a>
           {% endif %}
         </li>
-      {% endunless %}
+      {%- endunless -%}
     {% endfor %}
   </ul>
 </nav>
