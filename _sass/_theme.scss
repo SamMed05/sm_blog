@@ -551,18 +551,21 @@ input[type=checkbox]:checked:after {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  padding: .2rem;
-  margin: 0.25rem;
-  font-size: 1.1rem; /* icon size */
-  min-width: 2.2rem;
-  min-height: 2.2rem;
-  line-height: 1;
+  // padding: .2rem;
+  // margin: 0.25rem;
+  margin-top: 10px; /* align with logo */
+  font-size: 1.3rem; /* icon size */
+  width: 3.4rem;
+  height: 3.4rem;
   background: transparent; /* keep subtle */
   color: inherit;
   border: 1px solid transparent;
   border-radius: 50%;
   box-shadow: none;
   cursor: pointer;
+}
+.theme-button button, .button {
+  display: flex !important; /* align icon at center */
 }
 
 /* Dark theme overrides to ensure visible contrast when data-theme changes */
