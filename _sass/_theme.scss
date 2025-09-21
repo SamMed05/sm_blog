@@ -388,10 +388,10 @@ input[type=checkbox]:checked:after {
 
 .box-note {
   background-color: #b2bfc52d; // #edf2f5
-  border-left-color: #2980b9;
+  border-left-color: #3489d8;
   svg, span {
-    fill: #2980b9;
-    color: #2980b9;
+    fill: #3489d8;
+    color: #3489d8;
   }
 }
 
@@ -830,9 +830,7 @@ input[type=checkbox]:checked:after {
     padding-right: 1em;
     padding-bottom: 0.01em;
     border-radius: 5px;
-    background-color: #b4bfc52f; // #edf2f5
-    box-shadow: 0px 3px $hoverColour, 0px 6px $linkColour, 0px 9px $focusColour;
-    //box-shadow: 5px 10px #a8adac inset;
+    background-color: #b4bfc52f;
   }
   .item--post:hover {
     box-shadow: 0px 5px 15px #a0a9ad;
@@ -840,7 +838,7 @@ input[type=checkbox]:checked:after {
     transform: translateY(-4px);
   }
   .item--post:not(:hover) {
-    box-shadow: 0px 3px $hoverColour, 0px 6px $linkColour, 0px 9px $focusColour;
+    box-shadow: 0px 3px #00528dab, 0px 6px #0779dd86, 0px 9px #6eb2e45b;
     transition: .3s ease;
   }
   h4 {
