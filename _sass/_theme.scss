@@ -388,11 +388,10 @@ input[type=checkbox]:checked:after {
 
 .box-note {
   background-color: #b2bfc52d; // #edf2f5
-  border-left-color: $hoverColour; //#2980b9
+  border-left-color: #2980b9;
   svg, span {
-    fill: $hoverColour;
-    color: $hoverColour;
-    //filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(87deg) brightness(119%) contrast(119%);
+    fill: #2980b9;
+    color: #2980b9;
   }
 }
 
