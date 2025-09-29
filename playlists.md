@@ -6,6 +6,8 @@ permalink: /playlists/
 
 In this section you'll find some of the music playlists I carefully created over the years containing the songs I like the most, or the most interesting ones, roughly subdivided into different genres, moods or likeness.
 
+<!-- markdownlint-disable MD033 -->
+
 <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=music_history" /> -->
 
 {: .box-success}
@@ -19,7 +21,6 @@ In general, I have a soft spot for well-produced songs, meaning with great maste
 
 Below I've put the embeds of the playlists I think you should check out, but if for some reason they aren't loading, you can got to my Spotify profile page where you'll find all the [pinned playlists](https://open.spotify.com/user/tufc032h2onz3ugn7ejc1u6db/playlists).
 
-<!-- markdownlint-disable MD033 -->
 <style>
 .playlist-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1rem;align-items:start;}
 .playlist-item iframe{border-radius:12px;display:block;width:100%;height:352px;border:0;}
@@ -77,6 +78,11 @@ Below I've put the embeds of the playlists I think you should check out, but if 
 
     <div class="playlist-item">
         <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/668lgTgi3AQKz5ZzNRL0Bg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+
+    <div class="playlist-item">
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/75SIxB7G3isc6jnE5WYVsN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <div class="caption">The <300 songs I never skip and I think everyone should listen to at least once, in no particular order. Title says it all  ¬‿¬</div>
     </div>
 </div>
 <br>
