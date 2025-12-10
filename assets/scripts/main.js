@@ -22,6 +22,7 @@ function topFunction() {
 }
 
 /* ========= KEEP SCROLL POSITION ========= */
+/*
 function refreshPage() {
   let page_y = document.getElementsByTagName("body")[0].scrollTop;
   window.location.href = window.location.href.split('?')[0] + '?page_y=' + page_y;
@@ -32,6 +33,7 @@ window.onload = function() {
       document.getElementsByTagName("body")[0].scrollTop = match[1];
   }
 };
+*/
 
 /* ========= LIGHT / DARK THEME ========= */
 /*const darkButton = document.getElementById('dark');

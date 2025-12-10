@@ -84,6 +84,10 @@ defaults:
 # Google Analytics
 google_analytics: G-26MQZ1PWBZ
 
+# Include static files
+include:
+  - robots.txt
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

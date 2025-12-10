@@ -466,6 +466,22 @@ a {
     font-family: unquote(map-get($monospacetype, font-family));
   }
 
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]):not(.light) & code,
+    :root:not([data-theme="light"]):not(.light) & pre {
+      background-color: #252525;
+      color: #e0e0e0;
+    }
+  }
+
+  .dark & code,
+  .dark & pre,
+  [data-theme="dark"] & code,
+  [data-theme="dark"] & pre {
+    background-color: #1c1c1c;
+    color: #e0e0e0;
+  }
+
   pre {
     display: block;
     margin-bottom: 2rem;
@@ -510,17 +526,37 @@ a {
     overflow: auto;
   }
   .highlight > pre {
+    background-image: none;
+    border: 1px solid rgba(0,0,0,0.1);
+    //border-left: 0.4375rem solid #444;
+    border-left: 0.25rem solid $captionColour; //border-left-width //0.3125rem
+    margin-top: .7rem;
+    margin-bottom: .7rem;
     background-image: linear-gradient(
       rgba(0,0,0,0.03), rgba(0,0,0,0.03) 1.5em, rgba(0,0,0,0.02) 1.5em, rgba(0,0,0,0.02) 3em);
     background-size: auto 3em;
     background-position-y: 0.625rem;
-    border: 1px solid rgba(0,0,0,0.1);
-    //border-left: 0.4375rem solid #444;
-    border-left: 0.25rem solid $captionColour; //border-left-width //0.3125rem
 
     @include breakpoint(break-1) {
       margin-left: -1rem;
     }
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]):not(.light) & .highlight > pre {
+      //background-image: none;
+      // background-image: linear-gradient(
+      //   rgba(255,255,255,0.05), rgba(255,255,255,0.05) 1.5em, rgba(255,255,255,0.02) 1.5em, rgba(255,255,255,0.02) 3em);
+      border-left-color: #555;
+    }
+  }
+
+  .dark & .highlight > pre,
+  [data-theme="dark"] & .highlight > pre {
+    //background-image: none;
+    // background-image: linear-gradient(
+    //     rgba(255,255,255,0.05), rgba(255,255,255,0.05) 1.5em, rgba(255,255,255,0.02) 1.5em, rgba(255,255,255,0.02) 3em);
+    border-left-color: #555;
   }
   .highlight > pre:not([class~="highlight"]) { /* code block with line number */
     padding: 0;
@@ -579,6 +615,68 @@ a {
   // Ascending and descending numbers with OpenType.
   .oldstyle-numerals {
     font-feature-settings: 'onum', 'kern';
+  }
+}
+
+/* Code block horizontal scrollbar styling */
+pre,
+.highlight > pre {
+  overflow-x: auto;
+  
+  /* Hide scrollbar on mobile */
+  @media (hover: none) {
+    scrollbar-width: none;
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+  
+  /* Firefox */
+  scrollbar-width: none;
+  scrollbar-color: rgba(0,0,0,0.3) transparent;
+  
+  @include in-dark-mode {
+    scrollbar-color: rgba(255,255,255,0.3) transparent;
+  }
+  
+  /* Show on hover (desktop) */
+  @media (hover: hover) {
+    &:hover {
+      scrollbar-width: thin;
+    }
+  }
+  
+  /* WebKit browsers */
+  &::-webkit-scrollbar {
+    height: 8px;
+  }
+  
+  &::-webkit-scrollbar-thumb {
+    background-color: transparent;
+    border-radius: 8px;
+    transition: background-color 0.2s;
+  }
+  
+  @media (hover: hover) {
+    &:hover::-webkit-scrollbar-thumb {
+      background-color: rgba(0,0,0,0.35);
+    }
+    
+    &::-webkit-scrollbar-thumb:hover {
+      background-color: rgba(0,0,0,0.5);
+    }
+  }
+  
+  @include in-dark-mode {
+    @media (hover: hover) {
+      &:hover::-webkit-scrollbar-thumb {
+        background-color: rgba(255,255,255,0.35);
+      }
+      
+      &::-webkit-scrollbar-thumb:hover {
+        background-color: rgba(255,255,255,0.5);
+      }
+    }
   }
 }
 

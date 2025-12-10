@@ -2,7 +2,7 @@
 body {
   background: $backgroundColour;
   color: $bodyColour;
-  height: 100%;
+  min-height: 100vh;
   display: flex;
   @include flex-direction(column);
   //-webkit-filter: grayscale(100%);
@@ -31,7 +31,7 @@ body {
 }
 
 @media screen and (min-width: 640px) {
-  // Custom scrollbar
+  // Custom scrollbar - Light mode
   body::-webkit-scrollbar {
     width: 13px;               /* width of the entire scrollbar */
   }
@@ -42,6 +42,27 @@ body {
     background-color: #99a3a8;    /* color of the scroll thumb */ //#7b848c
     border-radius: 5px;       /* roundness of the scroll thumb */
     border: 2px solid #ebedf0;  /* creates padding around scroll thumb */
+  }
+
+  // Custom scrollbar - Dark mode
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]):not(.light) body::-webkit-scrollbar-track {
+      background: #151616;
+    }
+    :root:not([data-theme="light"]):not(.light) body::-webkit-scrollbar-thumb {
+      background-color: #4a5158;
+      border-radius: 5px;
+      border: 2px solid #151616;
+    }
+  }
+
+  :root[data-theme="dark"] body::-webkit-scrollbar-track {
+    background: #151616;
+  }
+  :root[data-theme="dark"] body::-webkit-scrollbar-thumb {
+    background-color: #4a5158;
+    border-radius: 5px;
+    border: 2px solid #151616;
   }
 }
 
@@ -218,9 +239,15 @@ ul {
   list-style: none; /* Remove default bullets */
 }
 
+ul li {
+  position: relative;
+  // padding-left: 1.8rem;
+}
+
 ul li::before {
   content: url('../assets/images/svg-list-arrow.svg');  /* Add content: \2022 is the CSS Code/unicode for a bullet */
   //color: $linkColour; /* Change the color */
+  // position: absolute;
   display: inline-block; /* Needed to add space between the bullet and the text */
   width: 1.8rem; /* Also needed for space (tweak if needed) */
   margin-left: -1.8rem; /* Also needed for space (tweak if needed) */
@@ -582,6 +609,17 @@ input[type=checkbox]:checked:after {
   /* Code and pre */
   code { background: #2b2b2b; color: #f0f0f0; border-color: #3a3a3a; }
   pre { background: #222; color: #e8e8e8; }
+  /* Keyboard keys */
+  kbd { 
+    background: #2b2b2b; 
+    color: #f0f0f0; 
+    border-color: #3a3a3a; 
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.3);
+    &:hover {
+      background: #333;
+      box-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);
+    }
+  }
   /* Buttons and inputs */
   input, textarea, select, button, .button { background: #232425; color: #f0f0f0; border-color: #333; }
   /* Lists */
@@ -1093,6 +1131,44 @@ code {
 
 pre code {
   padding: 0;
+}
+
+// Keyboard key styles
+kbd {
+  display: inline-block;
+  padding: .25rem .5rem;
+  font-family: unquote(map-get($monospacetype, font-family));
+  font-size: 0.875em;
+  line-height: 1;
+  color: #333333;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-bottom-width: 3px;
+  border-radius: 5px;
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
+  white-space: nowrap;
+  vertical-align: middle;
+  transition: all 0.1s ease;
+  
+  &:hover {
+    background-color: #f0f0f0;
+    transform: translateY(1px);
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+    border-bottom-width: 3px; // keep consistent to prevent layout shift
+  }
+}
+
+// Nested kbd for key combinations
+kbd kbd {
+  padding: .15rem .3rem;
+  font-size: 0.9em;
+  box-shadow: none;
+  border-bottom-width: 1px;
+  
+  &:hover {
+    transform: none;
+    border-bottom-width: 1px;
+  }
 }
 
 .required {

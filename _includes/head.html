@@ -37,9 +37,6 @@
 
   <script type="text/javascript" src="{{ "./assets/scripts/main.js" | relative_url }}"></script>
   {%- feed_meta -%}
-  {%- if jekyll.environment == 'production' and site.google_analytics and readCookie('cookie-notice-dismissed')=='true'-%}
-    {%- include google-analytics.html -%}
-  {%- endif -%}
   <!-- Add AnchorJS -->
   <!-- {%- include anchorjs.html -%} -->
 

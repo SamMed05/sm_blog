@@ -1,0 +1,10 @@
+{
+  "name": "Sam's Blog",
+  "short_name": "Sam's Blog",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0072d6",
+  "description": "Samuel's personal blog",
+  "icons": []
+}
