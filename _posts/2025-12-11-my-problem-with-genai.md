@@ -96,4 +96,10 @@ Plus, they will feel even more behind on every field they want to study, a feeli
     </div>
     <small><a href="https://youtu.be/ERiXDhLHxmo">"Generative AI" is not what you think it is</a></small>
   </div>
+  <div>
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/H_c6MWk7PQc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <small><a href="https://youtu.be/H_c6MWk7PQc">Why is Everyone So Wrong About AI Water Use??</a></small>
+  </div>
 </div>
