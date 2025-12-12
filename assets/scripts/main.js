@@ -1,16 +1,23 @@
 /* ========= SCROLL TO TOP BUTTON ========= */
 /* ========= from https://www.w3schools.com/howto/howto_js_scroll_to_top.asp ========= */
 //Get the button:
-topbutton = document.getElementById("topBtn");
+let topbutton = document.getElementById("topBtn");
 
 // When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
-  if (window.scrollY > 20 || window.scrollY > 20) {
+  // Re-fetch the button if it wasn't found initially (e.g. script ran in head)
+  if (!topbutton) {
+    topbutton = document.getElementById("topBtn");
+  }
+  
+  if (!topbutton) return;
+
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
     topbutton.style.display = "block";
   } else {
-    button.style.display = "none";
+    topbutton.style.display = "none";
   }
 }
 
