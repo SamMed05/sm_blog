@@ -21,7 +21,9 @@ I’ll link some videos/resources at the bottom with interesting points of view 
 {: .box-note}
 <span class="material-icons-outlined">info</span> **Note:** when I say “AI”, for this post, I’m only referring to generative AI, and will sometimes use just “AI” for brevity.  
 The other types of beneficial AIs we all know about (spam filters, fraud detection systems, AlphaFold, …) don’t generally have so many ethical problems / they are not so divisive, and I don’t want to treat them in this post.  
-I’m aware that some of those AIs, like recommendation engines, search ranking algorithms, and more, still have their problems, especially if abused by the monopolies that control them.
+I’m aware that some of those AIs, like recommendation engines, search ranking algorithms, and more, still have their problems, especially if abused by the monopolies that control them.  
+There's a spectrum of opinions on things that you can do with generative AI (even when it seems like it's not involved) that can be considered more or less acceptable depending on context, use and personal beliefs. For example, generative AI used for describing an image for visual impaired users is generally considered acceptable, but that also replaces a human labeler and can make hallucinations in the description, so it's suddently less acceptable. Grammar and spell check tools seem fine but the more advanced ones can completely change the original text. And so on.  
+Usually, the more advanced and different from the input the generated output gets, the less that work is considered human-made. But there's not always a clear line that separates the two, and the more society will accept GenAI intervention on human work, the more the boundary will shift along the spectrum towards greater acceptance of AI involvement.
 
 ### Points
 
@@ -51,7 +53,7 @@ I’m aware that some of those AIs, like recommendation engines, search ranking 
 
 In the end, the deepest problem AI creates (in any field) is its erosion of human autonomy in intelligence. That’s the issue beneath all the others, and the one that makes me reluctant to accept its spreading and feel bad every time I use it.
 
-> "I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one."" — David Parnas
+> "I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one." — David Parnas
 
 AI is a nice shortcut. It offers convenience, and that convenience has many advantages initially, but it also comes at the cost of knowledge, control, and ultimately the ceiling of what a person can achieve.
 
