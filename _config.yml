@@ -25,6 +25,7 @@ language: "en"
 lang_direction: "ltr"
 color: "#032040"
 # email: your-email@example.com
+author: "Samuel Mediani"
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog, feel free to explore the website.
   I'm Samuel Mediani and here you'll find posts about my life, my thoughts and my hobbies.
@@ -35,6 +36,16 @@ url: "https://sammed05.github.io" # the base hostname & protocol for your site, 
 domain: sammed05.github.io # force HTTPS, specify the domain without the http at the start, e.g. example.com
 twitter_username: MedianiSamuel
 github_username:  SamMed05
+bluesky_username: sam-med.bsky.social
+
+# Social profiles for SEO
+social:
+  name: Samuel Mediani
+  links:
+    - https://twitter.com/MedianiSamuel
+    - https://github.com/SamMed05
+    - https://samdev.netlify.app
+    - https://bsky.app/profile/sam-med.bsky.social
 
 # Build settings
 # theme: minima
@@ -47,6 +58,7 @@ github_username:  SamMed05
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-toc
 #  - jekyll-remote-theme
 
@@ -87,6 +99,7 @@ google_analytics: G-26MQZ1PWBZ
 # Include static files
 include:
   - robots.txt
+  - humans.txt
   - _partials
 
 # Service Worker

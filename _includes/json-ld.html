@@ -1,0 +1,56 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "{{ site.url }}{{ site.baseurl }}/#person",
+      "name": "Samuel Mediani",
+      "alternateName": "SamMed",
+      "description": "Computer Science student from Italy, programmer, and content creator",
+      "url": "{{ site.url }}{{ site.baseurl }}/",
+      "sameAs": [
+        "https://github.com/SamMed05",
+        "https://twitter.com/MedianiSamuel",
+        "https://samdev.netlify.app",
+        "https://bsky.app/profile/sam-med.bsky.social"
+      ]
+    },
+    {
+      "@type": "Blog",
+      "@id": "{{ site.url }}{{ site.baseurl }}/#blog",
+      "name": "Samuel's Blog | Samuel Mediani",
+      "alternateName": "Samuel's Blog",
+      "url": "{{ site.url }}{{ site.baseurl }}/",
+      "description": "{{ site.description | strip_html | strip_newlines }}",
+      "inLanguage": "en",
+      "author": {
+        "@id": "{{ site.url }}{{ site.baseurl }}/#person"
+      },
+      "publisher": {
+        "@id": "{{ site.url }}{{ site.baseurl }}/#person"
+      }
+    }
+    {% if page.is_post %}
+    ,{
+      "@type": "BlogPosting",
+      "headline": "{{ page.title }}",
+      "description": "{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% endif %}",
+      "datePublished": "{{ page.date | date_to_xmlschema }}",
+      "dateModified": "{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}",
+      "author": {
+        "@id": "{{ site.url }}{{ site.baseurl }}/#person"
+      },
+      "publisher": {
+        "@id": "{{ site.url }}{{ site.baseurl }}/#person"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ page.url | absolute_url }}"
+      },
+      "url": "{{ page.url | absolute_url }}"
+    }
+    {% endif %}
+  ]
+}
+</script>

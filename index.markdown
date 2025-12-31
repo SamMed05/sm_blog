@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: blog
+description: "My personal blog featuring posts about programming, technology, art, music, and life experiences."
 ---
 
 Welcome to my blog! Click the logo on the right when you want to return here. <a href="{{ site.baseurl }}/feed.xml">RSS feed&nbsp;<span class="material-icons" title="RSS Feed">rss_feed</span></a>

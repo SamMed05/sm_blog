@@ -1,0 +1,16 @@
+/* TEAM */
+Creator: Samuel Mediani
+Site: https://samdev.netlify.app
+Twitter: @MedianiSamuel
+GitHub: SamMed05
+Location: Italy
+
+/* THANKS */
+Thanks to everyone who visits and reads this blog!
+
+/* SITE */
+Last update: 2026
+Language: English
+Standards: HTML5, CSS3, JavaScript
+Components: Jekyll, GitHub Pages
+Software: VS Code
