@@ -9,7 +9,8 @@ Here are some of the decks I made on Anki while studying Computer Science at uni
 {: .box-note}
 <span class="material-symbols-outlined">info</span> **Note:**<br>
 More decks and add-ons on my <a href="https://ankiweb.net/shared/by-author/2070876889" target="_blank" rel="noopener">AnkiWeb author page</a>.<br>
-Card collages made with [PicPitch Collage 🖼️](https://sammed05.github.io/picpitch-collage/) ([code](https://github.com/SamMed05/picpitch-collage)).
+Card collages made with [PicPitch Collage 🖼️](https://sammed05.github.io/picpitch-collage/) ([code](https://github.com/SamMed05/picpitch-collage)).<br>
+Read how I create these decks on my <a href="https://sammed05.github.io/sm_blog/2025/12/10/how-i-make-anki-decks" target="_blank">dedicated post</a>.
 
 <!-- markdownlint-disable MD033 -->
 <style>
