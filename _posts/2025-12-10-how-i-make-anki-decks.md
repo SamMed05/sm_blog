@@ -19,13 +19,21 @@ A set of tips & tricks and other useful info I learned while creating my [Anki d
 
 ## Introduction
 
-Since I first discovered Anki last year, I continued using it extensively to study for my university courses, mostly because, once you make the cards, it is the most frictionless way of studying for me: I have all material and exercises ready and I get presented them again automatically when I'm almost forgetting them.
+Since I first discovered Anki last year, I kept using it extensively to study for my university courses, mostly because, once the cards are made, it is the most frictionless way of studying for me: I have all the material and exercises ready and I get presented them again automatically when I'm almost forgetting them.
 
-I use is like an interactive textbook to study it when I can focus without the friction of managing papers and notes. I don't necessarily learn by heart every card, especially since I include exercises in my decks too in addition to theory concepts & formulas, but when I try making them again, I can easily determine if I understood something or I should revise it.
+I use Anki like an interactive textbook to study whenever I can focus without the friction of managing papers and notes (even on mobile with Ankidroid, with all cards synched). I don't always learn by heart every card, especially since I include exercises in my decks too in addition to theory concepts & formulas, but when I try making them again, I can easily determine if I understood something or I should revise it.
 
 While creating new decks, I've discovered and learned many tricks and useful tools to improve and speed up my workflow, and I want to put them all in one place and share them with anyone who might find all this useful. I always try to make my cards interactive and possibly with visuals (preferrably in SVG), so I know a lot about integrating those elements in the flashcards.
 
 Don't expect super clever tricks or life changing tips, though, the following are just little useful things to know if you also create Anki decks!
+
+### Browse view
+
+One thing I find useful is to display the Stability and Created fields in the Browse window and to sort flashcards by their creation date. I try to create cards roughly in the same order as the content I need to study, and that is usually the same in which you get presented the cards during review, too. This is my usual view:
+
+![Anki browse view](/sm_blog/assets/anki/browse-view.png)
+
+In general, flashcards should not have an order as they are self-contained pieces of information, but in reality, it's often useful to know some bits of knowledge before studying other ones, so this is my way of trying to order my Anki flashcards both in the Browse windows and during review without using advanced features. That's surely not the best way to do that, it's just the one I currently use.
 
 ### Shortcuts & RegEx
 
