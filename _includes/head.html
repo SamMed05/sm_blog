@@ -2,6 +2,13 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  {% if page.indexing == false %}
+    <meta name="robots" content="noindex">
+  {% endif %}
+  
+  <meta name="theme-color" content="{{ site.manifest.theme_color | default: '#032040' }}"/>
+
   <meta name="description" content="Samuel Mediani's personal blog about programming, technology, art, music, and life.">
   <meta name="author" content="Samuel Mediani">
 
@@ -10,9 +17,12 @@
   
   {%- seo title=false -%}
   <title>
-  {% if page.tag or page.title %}
+  {% if page.collectionpage %}
+    {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
+    {{ collectiondata.title }} - {{ site.title }}
+  {% elsif page.tag or page.title %}
     {% if page.tag %}
-      {{ page.tag | escape }}
+  {{ page.tag | escape }}
     {% else %}
       {{ page.title | escape }}
     {% endif %}
@@ -26,9 +36,9 @@
 <!-- {% unless page.tag or page.title %}
   - {{ site.description | escape }}
 {% endunless %} -->
-  <link rel="stylesheet" href="{{ "./assets/styles.css" | relative_url }}">
   <link rel="shortcut icon" type="image/x-icon" href="/sm_blog/assets/favicon.ico">
   <!--<script src="https://unpkg.com/boxicons@latest/dist/boxicons.js"></script>-->
+
   <!-- Preconnect to external domains -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -38,6 +48,13 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js" defer></script>
   <link href="https://fonts.googleapis.com/css?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap" />
+
+  {% if site.css_inline == true %}
+    {% include site-styles.html %}
+  {% else %}
+    <link rel="stylesheet" href="{{ "./assets/styles.css" | relative_url }}">
+  {% endif %}
+
   <script src="/sm_blog/assets/scripts/app.js"></script>
   <meta name="keywords" content="samuel, mediani, blog, sammed05">
   <meta name="twitter:dnt" content="on">
@@ -48,4 +65,13 @@
   <!-- {%- include anchorjs.html -%} -->
 
   <link rel="manifest" href="{{ "/_partials/manifest.json" | relative_url }}">
+  {%- if page.layout == "post" or page.title == "Useful links" -%}
+    {% include applause-button.html %}
+  {% endif %}
+
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+    {% include site-analytics.html %}
+  {% endif %}
+
+  {% include site-before-start.html %}
 </head>

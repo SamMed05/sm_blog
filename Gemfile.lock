@@ -134,6 +134,8 @@ DEPENDENCIES
   alembic-jekyll-theme
   jekyll (~> 4.2.0)
   jekyll-feed (~> 0.12)
+  jekyll-seo-tag
+  jekyll-sitemap
   jekyll-toc
   tzinfo (~> 1.2)
   tzinfo-data

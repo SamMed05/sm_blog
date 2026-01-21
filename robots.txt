@@ -52,6 +52,11 @@ Disallow: /
 User-agent: YouBot
 Disallow: /
 
+User-agent: *
+Allow: /
+
+Sitemap: https://sammed05.github.io/sm_blog/sitemap.xml
+
 #              ________
 #   __,_,     |        |
 #  [_|_/      |   OK   |
