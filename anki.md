@@ -17,9 +17,14 @@ Read how I create these decks on my <a href="https://sammed05.github.io/sm_blog/
 .anki-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:.8rem;align-items:stretch}
 .anki-card{display:flex;flex-direction:column;height:100%;background:rgba(0,0,0,.04);border:1px solid rgba(0,0,0,.08);border-radius:12px;overflow:hidden;box-shadow:0 6px 18px rgba(0,0,0,.06);transition:transform .15s ease,box-shadow .15s ease}
 .anki-card:hover{transform:translateY(-4px);box-shadow:0 10px 24px rgba(0,0,0,.10)}
-.anki-media{position:relative;overflow:hidden;aspect-ratio:16/9;background:#f4f4f4}
+.anki-media{position:relative;overflow:hidden;aspect-ratio:16/9;background:#f4f4f4;cursor:zoom-in}
 .anki-media img{width:100%;height:100%;object-fit:cover;transform:scale(1.5);transition:transform .25s ease;display:block; image-rendering: smooth; will-change: scale}
 .anki-card:hover .anki-media img{transform:scale(1.8)}
+/* Zoom modal */
+.anki-zoom-overlay{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.92);z-index:9999;display:none;align-items:center;justify-content:center;cursor:zoom-out;animation:fadeIn .2s ease}
+.anki-zoom-overlay.active{display:flex}
+.anki-zoom-overlay img{max-width:90%;max-height:90%;object-fit:contain;box-shadow:0 20px 60px rgba(0,0,0,.5);border-radius:8px}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
 .anki-content{flex:1;display:flex;flex-direction:column;padding:10px 12px 10px}
 .anki-title{font-weight:700;margin:0 0 2px 0;font-size:.88rem;line-height:1.25}
 .anki-desc{margin:0 0 15px 0}
@@ -52,13 +57,18 @@ Read how I create these decks on my <a href="https://sammed05.github.io/sm_blog/
 
 {% assign decks = site.data.anki_decks %}
 {% if decks and decks.size > 0 %}
+<!-- Zoom overlay -->
+<div class="anki-zoom-overlay" id="ankiZoomOverlay">
+  <img id="ankiZoomImage" src="" alt="Zoomed preview">
+</div>
+
 <div class="anki-grid">
 
   {% for deck in decks %}
     <article class="anki-card">
       <div class="anki-media">
         {% assign img = deck.image | default: '/default-offline-image.png' %}
-        <img src="{{ img | relative_url }}" alt="Preview of {{ deck.title }} Anki deck">
+        <img class="anki-deck-img" src="{{ img | relative_url }}" alt="Preview of {{ deck.title }} Anki deck">
       </div>
       <div class="anki-content">
         <h4 class="anki-title">{{ deck.title }}</h4>
@@ -94,4 +104,32 @@ Read how I create these decks on my <a href="https://sammed05.github.io/sm_blog/
 {% else %}
 <p>No decks added yet.</p>
 {% endif %}
+
+<script>
+(function() {
+  const overlay = document.getElementById('ankiZoomOverlay');
+  const zoomImg = document.getElementById('ankiZoomImage');
+  const deckImages = document.querySelectorAll('.anki-media img');
+  
+  deckImages.forEach(img => {
+    img.addEventListener('click', (e) => {
+      e.stopPropagation();
+      zoomImg.src = img.src;
+      zoomImg.alt = img.alt;
+      overlay.classList.add('active');
+    });
+  });
+  
+  overlay.addEventListener('click', () => {
+    overlay.classList.remove('active');
+  });
+  
+  // ESC key to close
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && overlay.classList.contains('active')) {
+      overlay.classList.remove('active');
+    }
+  });
+})();
+</script>
 <!-- markdownlint-enable MD033 -->

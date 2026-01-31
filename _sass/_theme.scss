@@ -935,7 +935,7 @@ img {
   margin-left: auto; // center
   margin-right: auto; // center
 }
-img:hover {
+img:not(.anki-deck-img):not(#ankiZoomImage):hover {
   transform: scale(1.4);
   transition: .3s ease;
   transition-delay: .8s;

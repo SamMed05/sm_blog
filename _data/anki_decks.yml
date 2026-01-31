@@ -28,3 +28,17 @@
   links:
     it: https://ankiweb.net/shared/info/1800454148
     en: https://ankiweb.net/shared/info/2070876889
+
+- title: OS Concepts (Linux) & Bash
+  description: "Core OS concepts (using Linux) and important Bash commands, with useful video clips, code examples and exercises."
+  image: /assets/anki/os-concepts-linux-bash.png
+  links:
+    it: https://ankiweb.net/shared/info/1807241155
+    en: https://ankiweb.net/shared/info/139736516
+
+- title: Databases & SQL
+  description: "Relational database design, SQL queries, DBMS technology and more, with diagrams, examples and exercises."
+  image: /assets/anki/databases-sql.png
+  links:
+    it: https://ankiweb.net/shared/info/2007938185
+    en: https://ankiweb.net/shared/info/194686002
