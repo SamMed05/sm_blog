@@ -33,6 +33,11 @@ Below I've put the embeds of the playlists I think you should check out, but if 
 
 <div class="playlist-grid">
     <div class="playlist-item">
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/75SIxB7G3isc6jnE5WYVsN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <div class="caption">The &lt;300 songs I never skip and I think everyone should listen to at least once, in no particular order. Title says it all  ¬‿¬</div>
+    </div>
+
+    <div class="playlist-item">
         <iframe src="https://open.spotify.com/embed/playlist/4iriTYwxqDJ5ncNNBNTZCZ?utm_source=generator" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         <div class="caption">My all-time favourite songs I listen to in every mood and across various genres. These tracks are my reliable go-tos for any occasion.</div>
     </div>
@@ -74,15 +79,33 @@ Below I've put the embeds of the playlists I think you should check out, but if 
 
     <div class="playlist-item">
         <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4X0k7ZvEALNRFykfAb4WUd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <div class="caption">Essentially Wubstep</div>
     </div>
 
     <div class="playlist-item">
         <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/668lgTgi3AQKz5ZzNRL0Bg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <div class="caption">Best Movie & Game Soundtracks/OSTs</div>
     </div>
 
     <div class="playlist-item">
-        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/75SIxB7G3isc6jnE5WYVsN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-        <div class="caption">The <300 songs I never skip and I think everyone should listen to at least once, in no particular order. Title says it all  ¬‿¬</div>
+        <iframe src="https://open.spotify.com/embed/playlist/7sAOog718AEIsxW5CypM2V?utm_source=generator" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+
+    <div class="playlist-item">
+        <iframe src="https://open.spotify.com/embed/playlist/1hor9yIpdtFQXMlv6SiCyr?utm_source=generator" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        <div class="caption">Check on <a href="https://soundcloud.com/sampl3r/sets/not-on-spotify">SoundCloud</a> for more underground music I like that isn't here on Spotify! For Colour Bass specifically, also check out <a href="https://www.chimetunes.net/blog#colourbasslist">Chime's playlist</a>.</div>
+    </div>
+
+    <div class="playlist-item">
+        <iframe src="https://open.spotify.com/embed/playlist/4MFBK2iQSR2gyHX3YZhlsj?utm_source=generator" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+    
+    <div class="playlist-item">
+        <iframe src="https://open.spotify.com/embed/playlist/3RtsvoaOuZdebFVM0uycgy?utm_source=generator" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+
+    <div class="playlist-item">
+        <iframe src="https://open.spotify.com/embed/playlist/41ruUputfSJzZ69HdRcBEr?utm_source=generator" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </div>
 </div>
 <br>
