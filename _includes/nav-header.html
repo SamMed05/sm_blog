@@ -49,11 +49,58 @@
     render();
     themeButton.style.display = '';
 
+    // ---- Twitter/X embedded tweet theme sync ----
+    // Pre-set data-theme on blockquotes so widgets.js picks it up on first render.
+    function preseTweetTheme(theme) {
+      document.querySelectorAll('blockquote.twitter-tweet').forEach(function(bq) {
+        bq.setAttribute('data-theme', theme);
+      });
+    }
+
+    // Re-render already-processed tweets with the new theme.
+    function syncTweetTheme(theme) {
+      var blockquotes = document.querySelectorAll('blockquote.twitter-tweet');
+      if (!blockquotes.length) return;
+      blockquotes.forEach(function(bq) {
+        // Update theme attribute
+        bq.setAttribute('data-theme', theme);
+        // Remove Twitter's inline display:none added when it rendered the tweet
+        bq.style.display = '';
+        // Remove Twitter's "already processed" markers so it re-renders
+        bq.classList.remove('twitter-tweet-rendered');
+        bq.removeAttribute('data-twitter-tweet-id');
+        // Remove the rendered iframe sibling Twitter inserted next to the blockquote
+        var sibling = bq.nextSibling;
+        while (sibling) {
+          var next = sibling.nextSibling;
+          if (sibling.nodeType === 1 &&
+              sibling.tagName === 'IFRAME' &&
+              sibling.id && sibling.id.indexOf('twitter-widget') === 0) {
+            sibling.remove();
+          }
+          sibling = next;
+        }
+      });
+      // Ask Twitter's widgets.js to re-process the restored blockquotes
+      if (window.twttr && window.twttr.widgets) {
+        window.twttr.widgets.load();
+      }
+    }
+
+    // Pre-set theme once the DOM (and therefore the blockquotes) is available
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', function() { preseTweetTheme(current); });
+    } else {
+      preseTweetTheme(current);
+    }
+    // ---- end tweet theme sync ----
+
     themeButton.addEventListener('click', () => {
       current = (document.documentElement.getAttribute('data-theme') === 'light') ? 'dark' : 'light';
       document.documentElement.setAttribute('data-theme', current);
       localStorage.setItem('theme', current);
       render();
+      syncTweetTheme(current);
     });
 
     // If user has no explicit stored preference, respond to OS changes
@@ -62,6 +109,7 @@
         current = e.matches ? 'dark' : 'light';
         document.documentElement.setAttribute('data-theme', current);
         render();
+        syncTweetTheme(current);
       });
     }
   })();
