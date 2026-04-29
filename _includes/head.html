@@ -9,13 +9,12 @@
   
   <meta name="theme-color" content="{{ site.manifest.theme_color | default: '#032040' }}"/>
 
-  <meta name="description" content="Samuel Mediani's personal blog about programming, technology, art, music, and life.">
-  <meta name="author" content="Samuel Mediani">
-
-  {% include social-media-tags.html %}
-  {% include json-ld.html %}
-  
   {%- seo title=false -%}
+
+  {% if page.feature_image %}
+  <meta property="og:image" content="{{ site.url }}{{ page.feature_image }}" />
+  <meta name="twitter:image" content="{{ site.url }}{{ page.feature_image }}" />
+  {% endif %}
   <title>
   {% if page.collectionpage %}
     {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
