@@ -1595,7 +1595,6 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [The Weird History of JavaScript - Fireship](https://www.youtube.com/watch?v=Sh6lK57Cuk4&list=PL0vfts4VzfNixzfaQWwDUg3W5TRbE7CyI&pp=iAQB)
 - [What is the tragedy of the commons? - Nicholas Amendolare - TED-Ed](https://www.youtube.com/watch?v=CxC161GvMPc&list=PL45DD1CA57AA3122A&pp=iAQB)
 - [How scrolling textures gave Super Mario Galaxy 2 its charm - Jasper](https://www.youtube.com/watch?v=8rCRsOLiO7k&list=PLnr-m5FhMgRLnt1_CbVWEgGoVhMHA84L9&pp=iAQB)
-- https://www.youtube.com/watch?v=u28emz64IW4&list=PLmdFyQYShrjcxsrAR9keci-INx_8bvrvl&pp=iAQB
 - [Crash Course Intellectual Property Preview - CrashCourse](https://www.youtube.com/watch?v=VchmEsK_VFY&list=PL8dPuuaLjXtMwV2btpcij8S3YohW9gUGN&pp=iAQB)
 - [Pikmin 2 Title Screen Quirks - Scruffy](https://www.youtube.com/watch?v=Z11RFTE_vow&list=PLQY6PNl6p3Mac8ItJwWqWAEFdfSsqpBi2&pp=iAQB)
 - [HACKING GOOGLE: Series Trailer (:30) - Google](https://www.youtube.com/watch?v=5nEyjYn9_LI&list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H&pp=iAQB)
