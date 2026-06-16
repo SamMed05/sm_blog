@@ -145,7 +145,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Programming](https://www.nayuki.io/category/programming)
 - [Collision Detection](https://www.jeffreythompson.org/collision-detection/)
 - [Qt Tutorial (playlist) - Derek Banas](https://www.youtube.com/watch?v=I96uPDifZ1w&list=PLGLfVvz_LVvQrqLpBB4Sfz7gxMN9shP6v&ab_channel=DerekBanas)
-- [Compose Camp  -  Android Developers](https://developer.android.com/compose-camp)
+- [Compose Camp - Android Developers](https://developer.android.com/compose-camp)
 - [Mia Tang](https://www.mia-tang.com/blog)
 - [Welcome to Comprehensive Rust 🦀 - Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/)
 - [CodesCracker: Learn Online Coding](https://codescracker.com/)
@@ -178,8 +178,6 @@ Alternatively, you can find the same list on this page (but it might not be in s
 ##### 💼 Job Interview Preparation
 
 - [Problems - LeetCode](https://leetcode.com/problemset/all/)
-- [Google Tech Dev Guide - Interview Prep](https://techdevguide.withgoogle.com/paths/interview/)
-- [Google Tech Dev Guide - DSA](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
 - [How to Build an Effective Dev Portfolio](https://www.joshwcomeau.com/effective-portfolio/)
 
 #### 🌐 Web development (mainly front-end)
@@ -280,6 +278,10 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Alpine.js](https://alpinejs.dev/)
 - [Underscore.js](https://underscorejs.org/)
 - [Homepage - GSAP](https://gsap.com/)
+- [MathJax - Beautiful math in all browsers.](https://www.mathjax.org/)
+- [Packery](https://packery.metafizzy.co/)
+- [Fancy Components](https://www.fancycomponents.dev/components)
+- [Anime.js - JavaScript Animation Engine](https://animejs.com/)
 
 #### 🎮 Game development
 
@@ -292,7 +294,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [GODOT Community Poll 2024](https://docs.google.com/forms/d/1eicOppRQG2RFZ8CjIGFf5Kha5yklO854fV8-YFtlWxk/viewanalytics)
 - [Course - CS50's Introduction to Game Development - edX](https://learning.edx.org/course/course-v1:HarvardX+CS50G+Games/home)
 - [Unreal Engine 5 Beginner Tutorial - UE5 Starter Course 2022](https://youtu.be/k-zMkzmduqI)
-- [The Unity Tutorial For Complete Beginners -  Game Maker's Toolkit](https://youtu.be/XtQMytORBmM)
+- [The Unity Tutorial For Complete Beginners - Game Maker's Toolkit](https://youtu.be/XtQMytORBmM)
 - [Download the latest indie games - itch.io](https://itch.io/)
 - [Home - Dev Assets](http://devassets.com/)
 - [Matt Stark’s Game Development Portfolio](https://matt.stark.scot/)
@@ -378,7 +380,6 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - Videos
   - [Shader Basics, Blending & Textures • Shaders for Game Devs [Part 1]](https://www.youtube.com/watch?v=kfM-yu0iQBk&t=4s)
   - [Shaders 101 - Intro to Shaders](https://www.youtube.com/watch?v=T-HXmQAMhG0&t=3s)
-    
   - [Shadertoy for absolute beginners](https://www.youtube.com/watch?v=u5HAYVHsasc&t=350s)
   - [Basics of Shader Graph - Unity Tutorial](https://www.youtube.com/watch?v=Ar9eIn4z6XE)
   - [Coding Adventure: Compute Shaders](https://www.youtube.com/watch?v=9RHGLZLUuwc)
@@ -506,7 +507,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 - [OpenGL Step by Step - OpenGL Development](https://ogldev.org/index.html)
 - [Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/) ([Raycasting](https://lodev.org/cgtutor/raycasting.html))
-- [How do Video Game Graphics Work? -  Branch Education](https://www.youtube.com/watch?v=C8YtdC8mxTU&ab_channel=BranchEducation) (video)
+- [How do Video Game Graphics Work? - Branch Education](https://www.youtube.com/watch?v=C8YtdC8mxTU&ab_channel=BranchEducation) (video)
 - [How Ray Tracing (Modern CGI) Works And How To Do It 600x Faster](https://youtu.be/gsZiJeaMO48)
 - [Coding Adventure: Ray Tracing](https://youtu.be/Qz0KTGYJtUk)
 - [Computer Graphics from Scratch - Gabriel Gambetta](https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html) (also [Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html))
@@ -528,7 +529,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Dribbble - Discover the World’s Top Designers & Creative Professionals](https://dribbble.com/shots)
 - [FlutterFlow - Build beautiful, modern apps incredibly fast!](https://flutterflow.io/)
 - [Build with Theta - Remote design systems](https://buildwiththeta.com/)
-- [Material 3 Design Kit - Figma](https://www.figma.com/community/file/1035203688168086460)
+- [Material 3 Design Kit - Figma](https://www.figma.com/community/file/1035203688168086460)
 - [Penpot: The Design Tool for Design & Code Collaboration](https://penpot.app/)
 
 #### 🤖 Artificial Intelligence
@@ -563,7 +564,8 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Magenta](https://magenta.tensorflow.org/)
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Google's latest experiments in Labs](https://labs.google/)
-- [Machine Learning  -  Google for Developers](https://developers.google.com/machine-learning/)
+- [Machine Learning - Google for Developers](https://developers.google.com/machine-learning/)
+- [AI Based Solutions for Developers - Google for Developers](https://developers.google.com/focus/ai-development)
 - [AI Based Solutions for Developers - Google for Developers](https://developers.google.com/focus/ai-development)
 - [Diffusers.ipynb - Colaboratory](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/diffusers_intro.ipynb)
 - [Stability AI](https://stability.ai/)
@@ -572,7 +574,6 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Anthropic \ Home](https://www.anthropic.com/)
 - [Home - colah's blog](https://colah.github.io/)
 - [AI Expert Roadmap](https://i.am.ai/roadmap)
-- [AI Based Solutions for Developers - Google for Developers](https://developers.google.com/focus/ai-development) ([Machine Learning  -  Google for Developers](https://developers.google.com/machine-learning/))
 - [Hello, Perceptron: An introduction to artificial neural networks](https://matt.might.net/articles/hello-perceptron/)
 - [How does Stable Diffusion work?](https://stable-diffusion-art.com/how-stable-diffusion-work/)
 - [Mathematics for Machine Learning - Companion webpage to the book “Mathematics for Machine Learning”](https://mml-book.github.io/)
@@ -596,7 +597,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [LAION](https://laion.ai/)
 - [Apple, Nvidia, Anthropic Used Thousands of Swiped YouTube Videos to Train AI](https://www.proofnews.org/apple-nvidia-anthropic-used-thousands-of-swiped-youtube-videos-to-train-ai/) and [Search the YouTube Videos Secretly Powering Generative AI](https://www.proofnews.org/youtube-ai-search/)
 - [No one’s ready for this - The Verge](https://www.theverge.com/2024/8/22/24225972/ai-photo-era-what-is-reality-google-pixel-9)
-- [Is Google Training AI on YouTube Videos? - YouTube](https://www.youtube.com/watch?v=JiMXb2NkAxQ)
+- [Is Google Training AI on YouTube Videos? - vlogbrothers](https://www.youtube.com/watch?v=JiMXb2NkAxQ)
 - [MNIST MLP – Visualisierung der Inferenz](https://nn-vis.noelith.dev/)
 - Videos
   - [Neural Networks from Scratch - P.4 Batches, Layers, and Objects](https://www.youtube.com/watch?v=TEWy9vZcxW4&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&index=6)
@@ -678,7 +679,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
   - [gsplat](https://gsplat.tech/)
   - [Introduction to 3D Gaussian Splatting](https://huggingface.co/blog/gaussian-splatting)
   - [Stable Diffusion WebUI Online](https://stablediffusionweb.com/WebUI)
-  - [Explore – Replicate](https://replicate.com/explore)
+  - [Explore – Replicate](https://replicate.com/explore)
   - [IllusionDiffusion - a Hugging Face Space by AP123](https://huggingface.co/spaces/AP123/IllusionDiffusion)
   - [MusicGen - a Hugging Face Space by facebook](https://huggingface.co/spaces/facebook/MusicGen)
   - [AlphaCode](https://alphacode.deepmind.com/)
@@ -718,12 +719,12 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Coding a basic reverb algorithm- Part 2: An introduction to audio programming - by Rishikesh Daoo - The Seeker’s Project - Medium](https://medium.com/the-seekers-project/coding-a-basic-reverb-algorithm-part-2-an-introduction-to-audio-programming-4db79dd4e325)
 - [Notes on Waveguide Synthesis](https://www.osar.fr/notes/waveguides/)
 - [Model-based digital pianos: from physics to sound synthesis](https://hal.inria.fr/hal-01894219/document)
-- [PWLTO#11 – Peter Sobot on An Industrial-Strength Audio Search Algorithm](https://www.youtube.com/watch?v=WhXgpkQ8E-Q)
+- [PWLTO#11 – Peter Sobot on An Industrial-Strength Audio Search Algorithm - PapersWeLove](https://www.youtube.com/watch?v=WhXgpkQ8E-Q)
 - [Realtime Procedural Audio and Synthesized Piano in Unity 3D](https://link.medium.com/btsp3Om6ysb)
 - [Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/)
-- [PFM::SimpleEQ - Free Course!](https://youtu.be/ZKmFZpJEZ3k)
-- [Learn Modern C++ by Building an Audio Plugin (w/ JUCE Framework) - Full Course](https://youtu.be/i_Iq4_Kd7Rc)
-- [Juce Framework Tutorial 00- Intro & Building Your First Project](https://youtu.be/7n16Yw51xkI?list=PLLgJJsrdwhPxa6-02-CeHW8ocwSwl2jnu)
+- [PFM::SimpleEQ - Free Course! - Matkat Music](https://youtu.be/ZKmFZpJEZ3k)
+- [Learn Modern C++ by Building an Audio Plugin (w/ JUCE Framework) - Full Course - freeCodeCamp.org](https://youtu.be/i_Iq4_Kd7Rc)
+- [Juce Framework Tutorial 00- Intro & Building Your First Project - The Audio Programmer](https://youtu.be/7n16Yw51xkI?list=PLLgJJsrdwhPxa6-02-CeHW8ocwSwl2jnu)
 - [Image to Audio, Spectrogram Player](https://nsspot.herokuapp.com/imagetoaudio/)
 - [Oscilloscope Graphics Editor](http://bummsn.de/osc_txt/)
 - [amcoustics.com: let's help each other to build the best acoustics](https://amcoustics.com/)
