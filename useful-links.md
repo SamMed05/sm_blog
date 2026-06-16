@@ -50,7 +50,9 @@ Alternatively, you can find the same list on this page (but it might not be in s
 </div>
 {% endunless %}
 
-## General 🧠
+## 🧠 General
+
+[Wikipedia](https://www.wikipedia.org/)
 
 - [Khan Academy - Free Online Courses, Lessons & Practice](https://www.khanacademy.org/)
 - [Explorable Explanation](https://explorabl.es/)
@@ -63,7 +65,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Mozaik Digital Education and Learning](https://www.mozaweb.com/)
 - [Google Codelabs](https://codelabs.developers.google.com/)
 
-## Maths 🧮
+## 🧮 Maths
 
 - [Mathigon – The Mathematical Playground](https://mathigon.org/)
 - [3Blue1Brown](https://www.3blue1brown.com/)
@@ -99,9 +101,9 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Symbolab Math Calculator - Step by Step calculator](https://www.symbolab.com/)
 - [The On-Line Encyclopedia of Integer Sequences® (OEIS®)](https://oeis.org/)
 
-## ICT/Software 💻
+## 💻 ICT/Software
 
-#### Programming 👨‍💻
+#### 👨‍💻 Programming
 
 - [Course - CS50's Introduction to Computer Science - edX](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) ([CS50x 2024](https://cs50.harvard.edu/x/2024/))
 - [Scratch - Imagine, Program, Share](https://scratch.mit.edu/)
@@ -161,14 +163,14 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [-terpreter In Go - Thorsten Ball](https://interpreterbook.com/)
 - [Semantic Versioning 2.0.0 - Semantic Versioning](https://semver.org/)
 
-##### Job Interview Preparation 💼
+##### 💼 Job Interview Preparation
 
 - [Problems - LeetCode](https://leetcode.com/problemset/all/)
 - [Google Tech Dev Guide - Interview Prep](https://techdevguide.withgoogle.com/paths/interview/)
 - [Google Tech Dev Guide - DSA](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
 - [How to Build an Effective Dev Portfolio](https://www.joshwcomeau.com/effective-portfolio/)
 
-#### Web development (front-end) 🌐
+#### 🌐 Web development (mostly front-end)
 
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [JavaScript language overview - JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview)
@@ -227,7 +229,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
   - [HSL Color Game](https://hslcolourgame.netlify.app/)
   - [aem1k - JS Hacks & Creativity](https://aem1k.com/) ([aem1k.com/world/](https://aem1k.com/world/))
 
-##### Frameworks and libraries ⚙️
+##### ⚙️ Frameworks, libraries & components
 
 - [JuxtaposeJS](https://juxtapose.knightlab.com/)
 - [three.js – JavaScript 3D library](https://threejs.org/)
@@ -262,7 +264,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Underscore.js](https://underscorejs.org/)
 - [Homepage - GSAP](https://gsap.com/)
 
-#### Game development 🎮
+#### 🎮 Game development
 
 - [Unity C# and Shader Tutorials](https://catlikecoding.com/unity/tutorials/)
 - [Unity Tutorials - Roystan](https://roystan.net/articles/)
@@ -307,7 +309,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [What is an Entity Component System architecture for game development?](https://www.richardlord.net/blog/ecs/what-is-an-entity-framework)
 - [Godot 4.3, a shared effort](https://godotengine.org/releases/4.3/)
 
-##### Shaders/VFX 🌟
+##### 🌟 Shaders/VFX
 
 - [Intro to Shaders - Cyanilux](https://www.cyanilux.comtutorials/intro-to-shaders/)
 - [Intro to Shader Graph - Cyanilux](https://www.cyaniluxcom/tutorials/intro-to-shader-graph/)
@@ -358,7 +360,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
   - [Three.js Tutorial on Shaders (beginners)](https://www.youtube.com/watch?v=C8Cuwq1eqDw)
   - [An introduction to Shader Art Coding](https://youtu.be/f4s1h2YETNY)
 
-#### Creative coding/generative art 🎨
+#### 🎨 Creative coding & generative art (+ graphic design)
 
 - [https://p5js.org/](https://p5js.org/)
 - [p5.js Web Editor](https://editor.p5js.org/)
@@ -396,7 +398,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [cables](https://cables.gl/)
 - [Home - Winterbloed](https://winterbloed.be/)
 
-##### Cellular automata & reaction-diffusion 🧪
+##### 🧪 Cellular automata & reaction-diffusion
 
 - [Reaction-Diffusion Tutorial - KarlSims](https://www.karlsims.com/rd.html)
 - [Reaction diffusion simulation](https://pmneila.github.io/jsexp/grayscott/)
@@ -412,7 +414,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [The Life Engine](https://thelifeengine.net/)
 - [Lenia](https://chakazul.github.io/lenia.html)
 
-#### Fractals, raymarching and SDF ❄️
+#### ❄️ Fractals, raymarching and SDF
 
 - [Distance Estimated 3D Fractals (Part I) - Syntopia](http://blog.hvidtfeldts.net/index.php/2011/06/distance-estimated-3d-fractals-part-i/)
 - [How to Fold a Julia Fractal — Acko.net](https://acko.net/blog/how-to-fold-a-julia-fractal/)
@@ -436,14 +438,14 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Log-spherical Mapping in SDF Raymarching](https://www.osar.fr/notes/logspherical/)
 - [Signed distance functions in 46 lines of Python](https://vgel.me/posts/donut/)
 
-#### Fluid simulations 🌪️
+#### 🌪️ Fluid simulations
 
 - [Fluid Flow Tutorial](https://www.karlsims.com/fluid-flow.html)
 - [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 - [[PDF] Real-Time Fluid Dynamics for Games - Semantic Scholar](https://www.semanticscholar.org/paper/Real-Time-Fluid-Dynamics-for-Games-Stam/5127ac7b58e36ffd13ca4437fc123c6a018dc436?p2df)
 - [The water technology behind Avatar: The Way of Water - Unity Blog](https://blog.unity.com/industry/technology-behind-avatar-the-way-of-water)
 
-#### Computer Graphics 🎞️
+#### 🎞️ Computer Graphics
 
 - [Ray Tracing in One Weekend](https://raytracing.github.io/)
 - [Introduction to Computer Graphics -- Title Page](https://math.hws.edu/graphicsbook/)
@@ -467,7 +469,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [How Ray Tracing (Modern CGI) Works And How To Do It 600x Faster](https://youtu.be/gsZiJeaMO48)
 - [Coding Adventure: Ray Tracing](https://youtu.be/Qz0KTGYJtUk)
 
-#### Design (web, app and art) 🖍
+#### 🎨 Design (web, app)
 
 - [Figma: the collaborative interface design tool.](https://www.figma.com/)
 - [Spline - Design tool for 3D web browser experiences](https://spline.design/)
@@ -485,7 +487,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Material 3 Design Kit - Figma](https://www.figma.com/community/file/1035203688168086460)
 - [Penpot: The Design Tool for Design & Code Collaboration](https://penpot.app/)
 
-#### Artificial Intelligence 🤖
+#### 🤖 Artificial Intelligence
 
 - [CS50's Introduction to Artificial Intelligence with Python - Course](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home) ([CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/))
 - [Introduction to Machine Learning - MIT Open Learning Library](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
@@ -658,7 +660,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
   - [Luma Dream Machine](https://lumalabs.ai/dream-machine)
   - [FLUX AI: Image Generator - Free, Fast & High-Quality](https://flux1.org/)
 
-#### Sound/audio/waves 🔊
+#### 🔊 Sound/audio/waves
 
 - [Coding a basic reverb algorithm- Part 2: An introduction to audio programming - by Rishikesh Daoo - The Seeker’s Project - Medium](https://medium.com/the-seekers-project/coding-a-basic-reverb-algorithm-part-2-an-introduction-to-audio-programming-4db79dd4e325)
 - [Notes on Waveguide Synthesis](https://www.osar.fr/notes/waveguides/)
@@ -681,7 +683,11 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Sound Studio and Audio Calculations - Eberhard Sengpiel](https://sengpielaudio.com/Calculations03.htm)
 - [Converting wavetables to Ableton Operator AMS waves - Bart Wronski](https://bartwronski.com/2021/01/05/converting-wavetables-to-ableton-operator-ams-waves/)
 
-## Music 🎵
+#### 🖍️ Drawing/visual arts (+ textures & brushes)
+
+- [Drawabox | A free, exercise based approach to learning the fundamentals of drawing](https://drawabox.com/)
+
+## 🎵 Music (+ samples & plugins)
 
 - [Chrome Music Lab](https://musiclab.chromeexperiments.com/)
 - [Euphony](http://qiao.github.io/euphony/)
@@ -769,7 +775,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
   - [Free Sound Packs - SoundPacks.com](https://soundpacks.com/category/free-sound-packs/)
   - [home - glitch.cool](https://www.glitch.cool/) ([glitch with friends: samples vol. 3 - glitch.cool](https://www.glitch.cool/projects/glitch-with-friends-samples-vol-3))
 
-## Science/engineering/data visualization 🔬
+## 🔬 Science/engineering/data visualization
 
 - [What is a Day? - MinuteLabs.io](https://labs.minutelabs.io/what-is-a-day/)
 - [SCIENCE HOBBYIST: Top Page](http://amasci.com/)
@@ -815,7 +821,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Heavens-Above](https://www.heavens-above.com/) ([Interactive sky chart](https://www.heavens-above.com/skychart2.aspx))
 - [Next-Generation Molecular Workbench](http://mw.concord.org/nextgen/#interactives/)
 
-## News/articles/comics 🗞
+## 🗞 News/articles/comics
 
 - [Hacker News](https://news.ycombinator.com/news)
 - [80 Level](https://80.lv/)
@@ -827,7 +833,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [xkcd](https://xkcd.com/)
 - [symmetry magazine - dimensions of particle physics](https://www.symmetrymagazine.org/) ([The deconstructed Standard Model equation](https://www.symmetrymagazine.org/article/the-deconstructed-standard-model-equation?language_content_entity=und))
 
-## Blogs/essays/books 📄
+## 📄 Blogs/essays/books
 
 - [understanding - nabeelqu](https://nabeelqu.co/understanding) and [Video Games are the Future of Education](https://nabeelqu.co/education)
 - [Essays - Paul Graham](http://paulgraham.com/articles.html) ([What You'll Wish You'd Known](http://paulgraham.com/hs.html), [How to Do Great Work](http://www.paulgraham.com/greatwork.html) and [Write Simply](http://paulgraham.com/simply.html))
@@ -861,7 +867,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [So You Want Continuous Time Zones @ Things Of Interest](https://qntm.org/continuous)
 - [Steph Ango](https://stephango.com/) ([File over app](https://stephango.com/file-over-app), [What can we remove?](https://stephango.com/remove), [Don't specialize, hybridize](https://stephango.com/hybridize))
 
-## Misc 🎲
+## 🎲 Misc
 
 - [Neal.fun](https://neal.fun/)
 - [games - eieio.games](https://eieio.games/)
@@ -1025,7 +1031,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [What is PeerTube? - JoinPeerTube](https://joinpeertube.org/)
 - [Electricity Maps - Live 24/7 CO₂ emissions of electricity consumption](https://app.electricitymaps.com/map)
 
-## Tools 🛠
+## 🛠 Tools
 
 - [Print Friendly & PDF](https://www.printfriendly.com/)
 - [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
@@ -1293,7 +1299,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
   - [Interior Design Software with AI-Powered Architectural Visualization Tools](https://www.spacely.ai/tools)
   - [Tabby](https://tabby.tabbyml.com/)
 
-## Useful YouTube playlists/courses 📽️
+## 📽️ Useful YouTube playlists/courses (everything)
 
 - [Why The Government Shouldn't Break WhatsApp](https://www.youtube.com/watch?v=CINVwWHlzTY&list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha)
 - [Characters, Symbols and the Unicode Miracle - Computerphile](https://www.youtube.com/watch?v=MijmeoH9LT4&list=PLzH6n4zXuckqmf_xUcvU5caZVoctP2ehL)
@@ -1419,7 +1425,7 @@ Alternatively, you can find the same list on this page (but it might not be in s
 - [Our Planet - One Planet - FULL EPISODE - Netflix](https://www.youtube.com/watch?v=GfO-3Oir-qM&list=PLe2nGhEGXFVuwS0G15adnT3vQfNBCqjbJ)
 [- Ultimate Guide to Camera Shots: Every Shot Size Explained [The Shot List, Ep 1] - YouTube](https://www.youtube.com/watch?v=AyML8xuKfoc&list=PLEzQZpmbzckV0_a2QCO2qF9Yfe-LKSDha)
 
-## Other link lists 🗒️
+## 🗒️ Other collections of useful content
 
 - [sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
 - [Curated list of awesome lists - Project-Awesome.org](https://project-awesome.org/)
