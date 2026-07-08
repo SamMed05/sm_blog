@@ -4,41 +4,74 @@
 # - title: string (required)
 # - description: short text (optional)
 # - image: path (starting with /) or absolute URL (optional)
+# - slug: stable identifier used by the page templates
+# - description_it / description_en: local markdown files for the modal content
+# - download: hosted deck file path on this blog
 # - links: map with optional 'it' and 'en' URLs (optional)
 #
 # Preview images to be palced under /assets/anki/
 
 - title: Calculus 1
+  slug: calculus-1
   description: "Essential calculus concepts with interactive Geogebra embeds and video references."
   image: /assets/anki/calculus-1.png
+  description_it: _data/anki_descriptions/calculus-1-it.md
+  description_en: _data/anki_descriptions/calculus-1-en.md
+  download: /assets/anki/downloads/Calculus_1_-_Maths.apkg
+  download_it: /assets/anki/downloads/Calculus_1_-_Maths.apkg
+  download_en: /assets/anki/downloads/Calculus_1_-_Maths.apkg
   links:
     it: https://ankiweb.net/shared/info/992382120
     en: https://ankiweb.net/shared/info/1919998254
 
 - title: Computer architecture
+  slug: computer-architecture
   description: "Boolean logic, RISC-V assembly, and processor design with simulators and exercises."
   image: /assets/anki/computer-architecture.png
+  description_it: _data/anki_descriptions/computer-architecture-it.md
+  description_en: _data/anki_descriptions/computer-architecture-en.md
+  download: /assets/anki/downloads/Computer_architecture_logic_RISC-V_assembly__processor.apkg
+  download_it: /assets/anki/downloads/Computer_architecture_logic_RISC-V_assembly__processor.apkg
+  download_en: /assets/anki/downloads/Computer_architecture_logic_RISC-V_assembly__processor.apkg
   links:
     it: https://ankiweb.net/shared/info/1501235737
     en: https://ankiweb.net/shared/info/1737020042
 
 - title: Linear Algebra
+  slug: linear-algebra
   description: "Vector spaces, matrices, and combinatorics with MathJax formulas and interactive visuals."
   image: /assets/anki/linear-algebra.png
+  description_it: _data/anki_descriptions/linear-algebra-it.md
+  description_en: _data/anki_descriptions/linear-algebra-en.md
+  download: /assets/anki/downloads/Linear_Algebra__Combinatorics.apkg
+  download_it: /assets/anki/downloads/Linear_Algebra__Combinatorics.apkg
+  download_en: /assets/anki/downloads/Linear_Algebra__Combinatorics.apkg
   links:
     it: https://ankiweb.net/shared/info/1800454148
     en: https://ankiweb.net/shared/info/2070876889
 
 - title: OS Concepts (Linux) & Bash
+  slug: os-concepts-linux-bash
   description: "Core OS concepts (using Linux) and important Bash commands, with useful video clips, code examples and exercises."
   image: /assets/anki/os-concepts-linux-bash.png
+  description_it: _data/anki_descriptions/os-concepts-linux-bash-it.md
+  description_en: _data/anki_descriptions/os-concepts-linux-bash-en.md
+  download: /assets/anki/downloads/Operating_System_Concepts_Linux__Bash_Commands.apkg
+  download_it: /assets/anki/downloads/Operating_System_Concepts_Linux__Bash_Commands.apkg
+  download_en: /assets/anki/downloads/Operating_System_Concepts_Linux__Bash_Commands.apkg
   links:
     it: https://ankiweb.net/shared/info/1807241155
     en: https://ankiweb.net/shared/info/139736516
 
 - title: Databases & SQL
+  slug: databases-sql
   description: "Relational database design, SQL queries, DBMS technology and more, with diagrams, examples and exercises."
   image: /assets/anki/databases-sql.png
+  description_it: _data/anki_descriptions/databases-sql-it.md
+  description_en: _data/anki_descriptions/databases-sql-en.md
+  download: /assets/anki/downloads/Databases__SQL.apkg
+  download_it: /assets/anki/downloads/Databases__SQL.apkg
+  download_en: /assets/anki/downloads/Databases__SQL.apkg
   links:
     it: https://ankiweb.net/shared/info/1201910420
     en: https://ankiweb.net/shared/info/194686002
