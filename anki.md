@@ -65,7 +65,10 @@ Read how I create these decks on my <a href="https://sammed05.github.io/sm_blog/
 .anki-modal__hero::before{content:"";position:absolute;inset:0;background-image:var(--anki-modal-image);background-size:cover;background-position:center;filter:grayscale(.1) saturate(.9) brightness(.82);transform:scale(1.06);z-index:-2}
 .anki-modal__hero::after{content:"";position:absolute;inset:0;background:linear-gradient(to bottom,rgba(10,18,28,.18) 0%,rgba(10,18,28,.06) 65%,#fff 100%);z-index:-1}
 .anki-modal__eyebrow{margin:0 0 .35rem 0;font-size:.8rem;letter-spacing:.08em;text-transform:uppercase;opacity:.8}
-.anki-modal__title{margin:0;font-size:1.7rem;line-height:1.12;letter-spacing:-.03em;max-width:16ch;text-shadow: 0 2px 4px rgba(255, 255, 255, 0.62);}
+.anki-modal__title{margin:0;font-size:1.7rem;line-height:1.12;letter-spacing:-.03em;max-width:16ch;text-shadow:
+  0 0 2px rgba(255,255,255,.95),
+  0 0 8px rgba(255,255,255,.75),
+  0 0 16px rgba(255,255,255,.45);}
 .anki-modal__meta{margin:.45rem 0 0 0;opacity:.88}
 .anki-modal__scroll{min-height:0;overflow:auto;scrollbar-gutter:stable both-edges;padding:1rem 1.15rem 1.25rem}
 .anki-modal__tabs{display:flex;gap:.45rem;flex-wrap:wrap;margin:0 0 .8rem 0}
@@ -123,7 +126,7 @@ html[data-theme="dark"] .anki-modal__body blockquote{border-left-color:rgba(255,
   <div class="anki-modal__backdrop" data-anki-modal-close></div>
   <section class="anki-modal__dialog" role="dialog" aria-modal="true" aria-labelledby="ankiDeckModalTitle">
     <div class="anki-modal__hero">
-      <p class="anki-modal__eyebrow">Deck description</p>
+      <!-- <p class="anki-modal__eyebrow">Deck description & local  download</p> -->
       <h2 class="anki-modal__title" id="ankiDeckModalTitle"></h2>
       <!-- <p class="anki-modal__meta" id="ankiDeckModalMeta"></p> -->
     </div>

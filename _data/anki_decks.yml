@@ -18,7 +18,7 @@
   description_it: _data/anki_descriptions/calculus-1-it.md
   description_en: _data/anki_descriptions/calculus-1-en.md
   download: /assets/anki/downloads/Calculus_1_-_Maths.apkg
-  download_it: /assets/anki/downloads/Calculus_1_-_Maths.apkg
+  download_it: /assets/anki/downloads/Analisi_1_-_Matematica.apkg
   download_en: /assets/anki/downloads/Calculus_1_-_Maths.apkg
   links:
     it: https://ankiweb.net/shared/info/992382120
@@ -31,7 +31,7 @@
   description_it: _data/anki_descriptions/computer-architecture-it.md
   description_en: _data/anki_descriptions/computer-architecture-en.md
   download: /assets/anki/downloads/Computer_architecture_logic_RISC-V_assembly__processor.apkg
-  download_it: /assets/anki/downloads/Computer_architecture_logic_RISC-V_assembly__processor.apkg
+  download_it: /assets/anki/downloads/Architettura_calcolatori_1_logica_booleana_e_RISC-V.apkg
   download_en: /assets/anki/downloads/Computer_architecture_logic_RISC-V_assembly__processor.apkg
   links:
     it: https://ankiweb.net/shared/info/1501235737
@@ -44,7 +44,7 @@
   description_it: _data/anki_descriptions/linear-algebra-it.md
   description_en: _data/anki_descriptions/linear-algebra-en.md
   download: /assets/anki/downloads/Linear_Algebra__Combinatorics.apkg
-  download_it: /assets/anki/downloads/Linear_Algebra__Combinatorics.apkg
+  download_it: /assets/anki/downloads/Algebra_Lineare_e_Combinatoria.apkg
   download_en: /assets/anki/downloads/Linear_Algebra__Combinatorics.apkg
   links:
     it: https://ankiweb.net/shared/info/1800454148
@@ -57,7 +57,7 @@
   description_it: _data/anki_descriptions/os-concepts-linux-bash-it.md
   description_en: _data/anki_descriptions/os-concepts-linux-bash-en.md
   download: /assets/anki/downloads/Operating_System_Concepts_Linux__Bash_Commands.apkg
-  download_it: /assets/anki/downloads/Operating_System_Concepts_Linux__Bash_Commands.apkg
+  download_it: /assets/anki/downloads/Sistemi_Operativi_(Linux)_&_Comandi_Bash.apkg
   download_en: /assets/anki/downloads/Operating_System_Concepts_Linux__Bash_Commands.apkg
   links:
     it: https://ankiweb.net/shared/info/1807241155
@@ -70,7 +70,7 @@
   description_it: _data/anki_descriptions/databases-sql-it.md
   description_en: _data/anki_descriptions/databases-sql-en.md
   download: /assets/anki/downloads/Databases__SQL.apkg
-  download_it: /assets/anki/downloads/Databases__SQL.apkg
+  download_it: /assets/anki/downloads/Basi_di_DatiDatabase__SQL.apkg
   download_en: /assets/anki/downloads/Databases__SQL.apkg
   links:
     it: https://ankiweb.net/shared/info/1201910420
