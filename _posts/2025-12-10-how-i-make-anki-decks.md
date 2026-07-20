@@ -109,9 +109,11 @@ For this to work, the add-on [Add Appendix](https://ankiweb.net/shared/info/1648
 
 I've asked on Anki Forums to add a PDF viewer natively on Anki, as it shouldn't be too heavy in size or difficult to implement, but development is slow (due to its open source nature) and at the time of writing there's no such a feature out-of-the-box.
 
-### CSS Styling
+### CSS Styling and Light/Dark mode compatibility
 
 If you need to style an HTML element in Anki, I'd recommend to **always use inline styles**. That's because, for some unclear reason, [style tags get removed when exporting flashcards in .txt format](https://github.com/ankitects/anki/issues/4044) and that can become very annoying. The Ankitects team still hasn't fixed this issue, so I'd keep using exclusively inline styling to be safe.
+
+If you noticed, when switching light/dark mode in Anki, the text with no custom color switches from black to white and vice versa (assuming no custom card styling) to keep it readable against the background. You can reuse that functionality in your custom styling too by using the `currentColor` value (instead of a static hardcoded color such as `#ffffff`/ `white`) for any elements whose color should automatically update when the theme changes.
 
 ### SVGs
 
