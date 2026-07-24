@@ -23,7 +23,10 @@ Since I first discovered Anki last year, I kept using it extensively to study fo
 
 I use Anki like an interactive textbook to study whenever I can focus without the friction of managing papers and notes (even on mobile with Ankidroid, with all cards synched). I don't always learn by heart every card, especially since I include exercises in my decks too in addition to theory concepts & formulas, but when I try making them again, I can easily determine if I understood something or I should revise it.
 
-While creating new decks, I've discovered and learned many tricks and useful tools to improve and speed up my workflow, and I want to put them all in one place and share them with anyone who might find all this useful. I always try to make my cards interactive and possibly with visuals (preferrably in SVG), so I know a lot about integrating those elements in the flashcards.
+While creating new decks, I've discovered and learned many tricks and useful tools to improve and speed up my workflow, and I want to put them all in one place and share them with anyone who might find all this useful. I always try to make my cards interactive and possibly with visuals (preferrably in SVG or MathJax), so I know a lot about integrating those elements in the flashcards.
+
+![Anki visual flashcards example](/sm_blog/assets/anki/computer-architecture.png)
+<span class="caption">An example of the visual things you can achieve with just HTML, CSS, SVGs and pure MathJax[^1].</span>
 
 Don't expect super clever tricks or life changing tips, though, the following are just little useful things to know if you also create Anki decks!
 
@@ -143,6 +146,11 @@ Even with AI, this task will remain very tedious, especially if the deck include
 
 It might be useful to run the deck text file through this [cleanup script](https://github.com/SamMed05/anki-text-import-cleaner) that tries to fix most import errors, but it doesn't work in all situations.
 
+#### Further links
+
+* [Anki Manual](https://docs.ankiweb.net/intro.html)
+* [Anki FAQs](https://faqs.ankiweb.net/)
+
 ---
 
 ## My university workflow
@@ -162,3 +170,42 @@ On Windows, there's a great but not so famous app called Microsoft Journal. It's
 #### File sync with desktop PC
 
 I've set up a few shared folders on both my laptop and desktop using Syncthing, so whenever I get home, everything syncs automatically and quickly over Wi-Fi. That's a bit more complex to setup but doesn't require any code so non-programmers can still find it perfectly usable and worth the initial setup effort.
+
+### <span class="material-icons">speaker_notes</span> Footnotes:
+
+[^1]: Anki bundles the `tex-chtml-full` component of MathJax 3 by default (though `-full` combined components are deprecated from MathJax v4 as they became too large and impractical to bundle into a single file).<br><br>
+    <details>
+    <summary>Packages automatically available out of the box</summary>
+    <b>Core & Standard AMS Packages:</b>
+    <ul>
+      <li><code>base</code>: the foundational MathJax engine structure.</li>
+      <li><code>ams</code>: general AMS math environments and alignments (e.g., align, gather, split).</li>
+      <li><code>amsmath</code>: extended mathematical formatting and command structures.</li>
+      <li><code>amssymb</code>: the complete library of AMS mathematical symbols.</li>
+      <li><code>amsfonts</code>: core mathematical fonts and typefaces (like Blackboard Bold <span style="color: #309eff;">\mathbb</span>).</li>
+    </ul>
+    <b>Extensions & Formatting Packages:</b>
+    <ul>
+      <li><code>mathtools</code>: advanced extensions to the amsmath package.</li>
+      <li><code>noundefined</code>: prevents rendering failure if an undefined macro is written (displays the macro name in red instead).</li>
+      <li><code>noerrors</code>: catches internal errors to keep the card text legible.</li>
+      <li><code>autoload</code>: automatically triggers and lazy-loads other standard packages when specific macros are typed.</li>
+      <li><code>require</code>: allows you to manually call external extensions directly within a card using the <span style="color: #309eff;">\require{package_name}</span> syntax.</li>
+      <li><code>newcommand</code>: enables custom macro definitions (like <span style="color: #309eff;">\newcommand</span> and <span style="color: #309eff;">\def</span>) directly within your card templates or fields.</li>
+      <li><code>configmacros</code>: handles backend configuration of user macros.</li>
+    </ul>
+    <b>Specialty Layout & Utility Packages:</b>
+    <ul>
+      <li><code>bbox</code>: adds background colors and borders to specific math formulas via <span style="color: #309eff;">\bbox</span>.</li>
+      <li><code>boldsymbol</code>: forces bold mathematical symbol formatting (<span style="color: #309eff;">\boldsymbol</span>).</li>
+      <li><code>braket</code>: provides Dirac bra-ket notation for quantum mechanics.</li>
+      <li><code>cancel</code>: draws lines through mathematical structures to show cancellations (<span style="color: #309eff;">\cancel</span>, <span style="color: #309eff;">\bcancel</span>, <span style="color: #309eff;">\xcancel</span>).</li>
+      <li><code>color</code>: adds inline text and math color mapping options (<span style="color: #309eff;">\color{red}{x}</span>).</li>
+      <li><code>enclose</code>: draws borders, boxes, and structures around notations.</li>
+      <li><code>extpfeil</code>: adds customizable extensible arrows.</li>
+      <li><code>html</code>: links formulas or handles web-specific layouts.</li>
+      <li><code>mhchem</code>: renders comprehensive chemical equations and notation (<span style="color: #309eff;">\ce{H2O}</span>).</li>
+      <li><code>unicode</code>: permits the usage of any explicit unicode character point within equations.</li>
+      <li><code>verb</code>: inserts verbatim code strings inside math blocks.</li>
+    </ul>
+    </details>
