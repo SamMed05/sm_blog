@@ -14,41 +14,6 @@ $captionColour: #2d343d;
 $footerColour: #9ea8ad;
 $white: #ffffff;
 
-:root[data-theme="light"] {
-// Background colours
-$backgroundColour: #ffffff; // #ebfaff
-$codeBackgroundColour: #f3f4f4;
-$featureBackgroundColour: #f9fafa;
-$accentColour: #309eff;
-
-// Text colours
-$headingColour: #032040; // #031b2b
-$bodyColour: #000000; // #101824
-$linkColour: #0072d6;
-$hoverColour: #00528d;
-$focusColour: #b6dffc;
-$blockquoteColour: #edf2f5;
-$captionColour: #2d343d;
-$footerColour: #9ea8ad;
-$white: #ffffff;
-}
-:root[data-theme="dark"] {
-  $backgroundColour: #1a1c1f;
-  $codeBackgroundColour: #303030;
-  $featureBackgroundColour: #f9fafa;
-  $accentColour: #309eff;
-
-  $headingColour: #f0f0f0;
-  $bodyColour: #f0f0f0;
-  $linkColour: #0072d6;
-  $hoverColour: #00528d;
-  $focusColour: #b6dffc;
-  $blockquoteColour: #30353a;
-  $captionColour: #d9e3f0;
-  $footerColour: #9ea8ad;
-  $white: #ffffff;
-}
-
 // Typography
 $bodytype: (
   // font-family: "Georgia, serif",
@@ -76,13 +41,6 @@ $monospacetype: (
   cap-height: 0.68
 ) !default;
 
-// Font import for non-standard web fonts
-//@import url("https://fonts.googleapis.com/css?family=Merriweather:400,700");
-//@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-//@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
-//@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Nunito&display=swap');
-// Consolidated font import
-// @import url('https://fonts.googleapis.com/css2?family=Jost:wght@400;500&family=Poppins&family=Sen&family=Lato&family=Lora&family=Inter&family=Rubik&family=Open+Sans&family=Mulish&family=Noto+Sans&display=swap');
-// @import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
-// @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Poppins:wght@400;500&display=swap');
+// Font import for non-standard web fonts (moved to HTML head as @import is deprecated for Sass module imports)
+//@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Poppins:wght@400;500&display=swap');
+// Other nice fonts: Merriweather, Roboto, Inconsolata, Jost, Barlow, Nunito+Sans, Lato, Lora, Rubik, Open+Sans, Mulish, Noto+Sans
