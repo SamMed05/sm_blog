@@ -26,6 +26,10 @@ Read how I create these decks on my <a href="https://sammed05.github.io/sm_blog/
 .anki-media img{width:100%;height:100%;object-fit:cover;transform:scale(1.45);transition:transform .28s ease;display:block;image-rendering:auto;will-change:transform}
 .anki-card:hover .anki-media img{transform:scale(1.62)}
 
+/* Top-Right Preview Eye Icon (Light Gray BG, Dark Blue Icon) */
+.anki-preview-btn{position:absolute;top:10px;right:10px;z-index:5;display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:50%;background:rgba(241,245,249,.9);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);color:#1e3a8a;border:1px solid rgba(30,58,138,.2);box-shadow:0 2px 8px rgba(0,0,0,.15);transition:background .18s ease,transform .18s ease,border-color .18s ease,color .18s ease;text-decoration:none;cursor:pointer}
+.anki-preview-btn:hover{background:rgba(255,255,255,.98);color:#1d4ed8;transform:scale(1.08);border-color:rgba(29,78,216,.4)}
+
 /* Zoom modal */
 .anki-zoom-overlay{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.92);z-index:9999;display:none;align-items:center;justify-content:center;cursor:zoom-out;animation:fadeIn .2s ease}
 .anki-zoom-overlay.active{display:flex}
@@ -113,6 +117,16 @@ html[data-theme="dark"] .anki-modal__body, html[data-theme="dark"] .anki-modal__
 html[data-theme="dark"] .anki-modal__body a{color:#8ab4f8}
 html[data-theme="dark"] .anki-modal__body pre{background:rgba(255,255,255,.08)}
 html[data-theme="dark"] .anki-modal__body blockquote{border-left-color:rgba(255,255,255,.22)}
+html[data-theme="dark"] .anki-preview-btn {
+  background: rgba(30, 41, 59, 0.85);
+  color: #93c5fd;
+  border-color: rgba(147, 197, 253, 0.3);
+}
+html[data-theme="dark"] .anki-preview-btn:hover {
+  background: rgba(30, 41, 59, 0.98);
+  color: #bfdbfe;
+  border-color: rgba(147, 197, 253, 0.6);
+}
 </style>
 
 {% assign decks = site.data.anki_decks %}
@@ -147,10 +161,29 @@ html[data-theme="dark"] .anki-modal__body blockquote{border-left-color:rgba(255,
     {% assign deck_download = deck.download | relative_url %}
     {% capture deck_description_it %}{% case deck.slug %}{% when 'calculus-1' %}{% include_relative _data/anki_descriptions/calculus-1-it.md %}{% when 'computer-architecture' %}{% include_relative _data/anki_descriptions/computer-architecture-it.md %}{% when 'linear-algebra' %}{% include_relative _data/anki_descriptions/linear-algebra-it.md %}{% when 'os-concepts-linux-bash' %}{% include_relative _data/anki_descriptions/os-concepts-linux-bash-it.md %}{% when 'databases-sql' %}{% include_relative _data/anki_descriptions/databases-sql-it.md %}{% endcase %}{% endcapture %}
     {% capture deck_description_en %}{% case deck.slug %}{% when 'calculus-1' %}{% include_relative _data/anki_descriptions/calculus-1-en.md %}{% when 'computer-architecture' %}{% include_relative _data/anki_descriptions/computer-architecture-en.md %}{% when 'linear-algebra' %}{% include_relative _data/anki_descriptions/linear-algebra-en.md %}{% when 'os-concepts-linux-bash' %}{% include_relative _data/anki_descriptions/os-concepts-linux-bash-en.md %}{% when 'databases-sql' %}{% include_relative _data/anki_descriptions/databases-sql-en.md %}{% endcase %}{% endcapture %}
+    
+    {% comment %} Prefer English deck download URL, fallback to default or Italian {% endcomment %}
+    {% assign raw_preview_file = deck.download_en | default: deck.download | default: deck.download_it %}
+    {% assign preview_deck_url = raw_preview_file | absolute_url %}
+
     <article class="anki-card">
       <div class="anki-media">
         {% assign img = deck.image | default: '/default-offline-image.png' %}
         <img class="anki-deck-img" src="{{ img | relative_url }}" alt="Preview of {{ deck.title }} Anki deck">
+        
+        {% if raw_preview_file %}
+          <a class="anki-preview-btn" 
+             href="https://sammed05.github.io/anki_card_previewer/?deck={{ preview_deck_url | uri_escape }}" 
+             target="_blank" 
+             rel="noopener" 
+             title="Preview" 
+             aria-label="Preview deck in Anki Card Previewer">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+              <circle cx="12" cy="12" r="3"></circle>
+            </svg>
+          </a>
+        {% endif %}
       </div>
       <div class="anki-content">
         <h4 class="anki-title">{{ deck.title }}</h4>
