@@ -75,3 +75,17 @@
   links:
     it: https://ankiweb.net/shared/info/1201910420
     en: https://ankiweb.net/shared/info/194686002
+
+
+- title: Data Structures & Algorithms
+  slug: dsa
+  description: "An interactive and comprehensive Anki deck covering the basics of Data Structures and Algorithms, with SVGs, responsive design, embedded media, and many exercises."
+  image: /assets/anki/dsa.png
+  description_it: _data/anki_descriptions/dsa-it.md
+  description_en: _data/anki_descriptions/dsa-en.md
+  download: /assets/anki/downloads/Data_Structures_and_Algorithms.apkg
+  download_it: /assets/anki/downloads/Algoritmi_e_Strutture_Dati.apkg
+  download_en: /assets/anki/downloads/Data_Structures_and_Algorithms.apkg
+  links:
+    it: 
+    en: 
