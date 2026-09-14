@@ -9,7 +9,7 @@
 # - download: hosted deck file path on this blog
 # - links: map with optional 'it' and 'en' URLs (optional)
 #
-# Preview images to be palced under /assets/anki/
+# Preview images to be placed under /assets/anki/
 
 - title: Calculus 1
   slug: calculus-1
@@ -87,5 +87,5 @@
   download_it: /assets/anki/downloads/Algoritmi_e_Strutture_Dati.apkg
   download_en: /assets/anki/downloads/Data_Structures_and_Algorithms.apkg
   links:
-    it: 
-    en: 
+    it: https://ankiweb.net/shared/info/1421093485
+    en: https://ankiweb.net/shared/info/1065502536
