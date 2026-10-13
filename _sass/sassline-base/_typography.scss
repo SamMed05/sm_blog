@@ -1,9 +1,21 @@
+@use "sass:math";
+
+@use "sass:color";
+@use "sass:list";
+@use "sass:map";
+@use "sass:meta";
+@use "sass:string";
+@use "../settings";
+@use "mixins";
+@use "modular-scale";
+@use "variables";
+
 // Typography
 // ---------------------------------------
 
 // Setting root sizes and base styles.
 html {
-  @include rootsize;
+  @include mixins.rootsize;
 
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -11,17 +23,17 @@ html {
 
 // Site-wide base styles.
 body {
-  @include fontsize(zeta, all);
+  @include mixins.fontsize(zeta, all);
 
-  font-family: unquote(map-get($bodytype, font-family));
+  font-family: string.unquote(map.get(variables.$bodytype, font-family));
   font-style: normal;
-  font-weight: map-get($bodytype, regular);
+  font-weight: map.get(variables.$bodytype, regular);
   line-height: 2rem;
 }
 
 // Links
 a {
-  color: $linkColour;
+  color: variables.$linkColour;
   transition: color .1s, background-color .1s;
   text-decoration: none;
 }
@@ -47,28 +59,28 @@ a {
 
 .typeset {
   a {
-    color: $linkColour;
+    color: variables.$linkColour;
     transition: color .1s, background-color .1s;
 
     &:hover, &:active, &:focus {
-      color: $hoverColour;
+      color: variables.$hoverColour;
     }
   }
 
   a {
-    background-image: -webkit-gradient(linear, left top, left bottom, from($focusColour), to($focusColour));
-    background-image: linear-gradient(to right, $focusColour 0%, $focusColour 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(settings.$focusColour), to(settings.$focusColour));
+    background-image: linear-gradient(to right, settings.$focusColour 0%, settings.$focusColour 100%);
     background-repeat: no-repeat;
     background-size: 100% 0;
     background-position: 0 111%;
     -webkit-transition: background-size .25s ease;
     transition: background-size .25s ease;
     padding: 2px 2px 0 0;
-    border-bottom: 2px solid $linkColour;
+    border-bottom: 2px solid variables.$linkColour;
     &:hover {
       background-size: 100% 92%;
       cursor: pointer;
-      border-bottom: 2px solid $hoverColour;
+      border-bottom: 2px solid variables.$hoverColour;
     }
   }
   sup a {
@@ -94,7 +106,7 @@ a {
 
   // Paragraphs. OpenType ligatures and oldstyle figures enabled if available.
   p {
-    @include baseline($fontsize: zeta, $font: $bodytype, $lineheight: 1.9, $below: 2, $breakpoint: all);
+    @include mixins.baseline($fontsize: zeta, $font: variables.$bodytype, $lineheight: 1.9, $below: 2, $breakpoint: all);
     // Justify paragraphs content
     // text-align: justify;
     line-height: 1.7rem;
@@ -126,48 +138,48 @@ a {
 
   // Headings. OpenType ligatures, discretionary ligatures and lining figures enabled if available.
   h1, h2, h3, h4, h5, h6 {
-    color: $headingColour;
-    font-family: unquote(map-get($headingtype, font-family));
+    color: variables.$headingColour;
+    font-family: string.unquote(map.get(variables.$headingtype, font-family));
     font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
     font-style: normal;
-    font-weight: map-get($headingtype, bold);
+    font-weight: map.get(variables.$headingtype, bold);
     text-align: left;
     padding-bottom: 0.3rem;
   }
 
   // Heading level 1.
   h1, .alpha {
-    @include sassline($fontsize: alpha, $font: $headingtype, $lineheight: 3.5, $below: 1, $breakpoint: all);
+    @include mixins.sassline($fontsize: alpha, $font: variables.$headingtype, $lineheight: 3.5, $below: 1, $breakpoint: all);
   }
 
   // Heading level 2.
   h2, .beta {
-    @include sassline(beta, $headingtype, 3, 1, all);
+    @include mixins.sassline(beta, variables.$headingtype, 3, 1, all);
   }
 
   // Heading level 3.
   h3, .gamma {
-    @include sassline(gamma, $headingtype, 3, 1, all);
+    @include mixins.sassline(gamma, variables.$headingtype, 3, 1, all);
   }
 
   // Heading level 4.
   h4, .delta {
-    @include sassline(delta, $headingtype, 2, 0, all);
+    @include mixins.sassline(delta, variables.$headingtype, 2, 0, all);
   }
 
   // Heading level 5.
   h5, .epsilon {
-    @include sassline(epsilon, $headingtype, 2, 0, all);
+    @include mixins.sassline(epsilon, variables.$headingtype, 2, 0, all);
   }
 
   // Heading level 6.
   h6, .zeta {
-    @include sassline(zeta, $headingtype, 2, 0, all);
+    @include mixins.sassline(zeta, variables.$headingtype, 2, 0, all);
   }
 
   // Lists.
   ul, ol {
-    @include baseline(zeta, $bodytype, 2, 2, all);
+    @include mixins.baseline(zeta, variables.$bodytype, 2, 2, all);
 
     padding-top: 0 !important;
 
@@ -177,7 +189,7 @@ a {
 
       margin-bottom: .4rem;
 
-      @include breakpoint(break-1) {
+      @include mixins.breakpoint(break-1) {
         margin-left: 0;
       }
 
@@ -204,7 +216,7 @@ a {
         position: absolute;
         text-align: right;
         width: 2em;
-        @include breakpoint(break-1) {
+        @include mixins.breakpoint(break-1) {
           margin-left: -3rem;
         }
       }
@@ -266,19 +278,19 @@ a {
 
   // Definition lists.
   dl {
-    @include baseline(zeta, $bodytype, 2, 2, all);
+    @include mixins.baseline(zeta, variables.$bodytype, 2, 2, all);
 
     dt, dd {
       font-feature-settings: 'kern', 'onum', 'liga';
       margin-left: 2rem;
 
-      @include breakpoint(break-1) {
+      @include mixins.breakpoint(break-1) {
         margin-left: 0;
       }
     }
 
     dt {
-      font-weight: map-get($bodytype, bold);
+      font-weight: map.get(variables.$bodytype, bold);
     }
 
     dd + dt {
@@ -288,12 +300,12 @@ a {
 
   // Tables.
   table {
-    @include sassline(eta, $headingtype, 1.5, 0, all);
+    @include mixins.sassline(eta, variables.$headingtype, 1.5, 0, all);
 
-    font-family: unquote(map-get($headingtype, font-family));
+    font-family: string.unquote(map.get(variables.$headingtype, font-family));
     font-feature-settings: 'liga', 'lnum', 'tnum', 'kern';
     font-style: normal;
-    font-weight: map-get($headingtype, regular);
+    font-weight: map.get(variables.$headingtype, regular);
     width: 100%;
     border-collapse: collapse;
     margin-bottom: 1rem !important;
@@ -318,14 +330,14 @@ a {
     }
 
     th {
-      background-color: $hoverColour;
+      background-color: variables.$hoverColour;
       color: #fff;
       font-weight: bold;
     }
 
     thead {
       th {
-        @include sassline(zeta, $headingtype, 1.5, 0, all);
+        @include mixins.sassline(zeta, variables.$headingtype, 1.5, 0, all);
         padding-bottom: 1px;
       }
     }
@@ -348,7 +360,7 @@ a {
 
         th {
           // Ensure header contrast in dark mode; nudge hover colour lighter for legibility
-          background-color: if(function-exists('lighten'), lighten($hoverColour, 10%), $hoverColour);
+          background-color: if(sass(meta.function-exists('lighten')): color.adjust(variables.$hoverColour, $lightness: 10%); else: variables.$hoverColour);
           color: #fff;
         }
       }
@@ -356,21 +368,21 @@ a {
 
   // Bold.
   b, strong, .bold {
-    font-weight: map-get($bodytype, bold);
+    font-weight: map.get(variables.$bodytype, bold);
   }
 
   // Italic.
   em, i, .italic {
-    font-style: map-get($bodytype, italic);
+    font-style: map.get(variables.$bodytype, italic);
   }
 
   // Caption and inline small text.
   small, .caption {
-    @include fontsize(theta, all); // theta
+    @include mixins.fontsize(theta, all); // theta
 
-    font-family: unquote(map-get($headingtype, font-family));
+    font-family: string.unquote(map.get(variables.$headingtype, font-family));
     font-style: normal;
-    font-weight: map-get($headingtype, regular);
+    font-weight: map.get(variables.$headingtype, regular);
   }
 
   small {
@@ -378,9 +390,9 @@ a {
   }
 
   .caption {
-    @include baseline(theta, $headingtype, 2, 2, all);
+    @include mixins.baseline(theta, variables.$headingtype, 2, 2, all);
 
-    color: $captionColour;
+    color: variables.$captionColour;
   }
 
   // Nice spacing for captions.
@@ -395,38 +407,38 @@ a {
   // Quotes.
   blockquote {
     // background-color: $blockquoteColour;
-    background-image: linear-gradient(to right, $blockquoteColour, rgba(255, 255, 255, 0)); //$blockquoteColour
+    background-image: linear-gradient(to right, settings.$blockquoteColour, rgba(255, 255, 255, 0)); //$blockquoteColour
     p {
-      color: $captionColour;
-      border-left: 0.25rem solid $captionColour; //$linkColour //0.20rem
+      color: variables.$captionColour;
+      border-left: 0.25rem solid variables.$captionColour; //$linkColour //0.20rem
       //font-style: map-get($bodytype, italic);
       padding-left: 1rem;
 
       // Add spacing below blockquote paragraphs to align to baseline grid.
-      $get-scale: map-get($modular-scale, scale-0);
-      $get-size: map-get($get-scale, zeta);
-      $rootsize: nth($sizes, 1);
-      $baseline-shift: #{($get-size / 2 * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001};
-      $baseline-push: #{3 - (($get-size * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001)};
+      $get-scale: map.get(modular-scale.$modular-scale, scale-0);
+      $get-size: map.get($get-scale, zeta);
+      $rootsize: list.nth(mixins.$sizes, 1);
+      $baseline-shift: #{math.div($get-size * 0.5 * (math.div(2 * $rootsize, $get-size) - map.get(variables.$bodytype, cap-height)), $rootsize) + 0.00001};
+      $baseline-push: #{3 - (math.div($get-size * (math.div(2 * $rootsize, $get-size) - map.get(variables.$bodytype, cap-height)), $rootsize) + 0.00001)};
 
       margin-bottom: #{$baseline-push}rem;
       padding-bottom: #{$baseline-shift}rem;
 
-      @for $i from 2 through $breakpoints-limit {
-        $get-scale: map-get($modular-scale, scale-#{$i - 1});
-        $get-size: map-get($get-scale, zeta);
-        $rootsize: nth($sizes, $i);
-        $baseline-shift: #{($get-size / 2 * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001};
-        $baseline-push: #{3 - (($get-size * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001)};
+      @for $i from 2 through mixins.$breakpoints-limit {
+        $get-scale: map.get(modular-scale.$modular-scale, scale-#{$i - 1});
+        $get-size: map.get($get-scale, zeta);
+        $rootsize: list.nth(mixins.$sizes, $i);
+        $baseline-shift: #{math.div($get-size * 0.5 * (math.div(2 * $rootsize, $get-size) - map.get(variables.$bodytype, cap-height)), $rootsize) + 0.00001};
+        $baseline-push: #{3 - (math.div($get-size * (math.div(2 * $rootsize, $get-size) - map.get(variables.$bodytype, cap-height)), $rootsize) + 0.00001)};
 
-        @media screen and (min-width: #{nth($points, $i) / 16 * 1em}) {
+        @media screen and (min-width: #{math.div(list.nth(mixins.$points, $i), 16) * 1em}) {
           margin-bottom: #{$baseline-push}rem;
           padding-bottom: #{$baseline-shift}rem;
         }
       }
     }
 
-    @include breakpoint(break-1) {
+    @include mixins.breakpoint(break-1) {
       margin-left: -1rem;
     }
     // Dark mode: improve blockquote legibility; use shared helper to avoid duplication
@@ -447,7 +459,7 @@ a {
 
   // Horizontal rule.
   hr {
-    background-image: linear-gradient(to left,rgba(0, 0, 0, 0) 0%,$linkColour 50%);
+    background-image: linear-gradient(to left,rgba(0, 0, 0, 0) 0%,variables.$linkColour 50%);
     background-position: 0 50%;
     background-repeat: repeat-x;
     background-size: 100% 0.15rem;
@@ -462,8 +474,8 @@ a {
 
   // Code block.
   code, pre {
-    background-color: $codeBackgroundColour;
-    font-family: unquote(map-get($monospacetype, font-family));
+    background-color: variables.$codeBackgroundColour;
+    font-family: string.unquote(map.get(variables.$monospacetype, font-family));
   }
 
   @media (prefers-color-scheme: dark) {
@@ -493,7 +505,7 @@ a {
   }
 
   code {
-    @include fontsize(eta, all); //theta
+    @include mixins.fontsize(eta, all); //theta
 
     line-height: 1rem;
 }
@@ -529,7 +541,7 @@ a {
     background-image: none;
     border: 1px solid rgba(0,0,0,0.1);
     //border-left: 0.4375rem solid #444;
-    border-left: 0.25rem solid $captionColour; //border-left-width //0.3125rem
+    border-left: 0.25rem solid variables.$captionColour; //border-left-width //0.3125rem
     margin-top: .7rem;
     margin-bottom: .7rem;
     background-image: linear-gradient(
@@ -537,7 +549,7 @@ a {
     background-size: auto 3em;
     background-position-y: 0.625rem;
 
-    @include breakpoint(break-1) {
+    @include mixins.breakpoint(break-1) {
       margin-left: -1rem;
     }
   }

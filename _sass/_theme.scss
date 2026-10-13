@@ -1,10 +1,21 @@
+@use "sass:math";
+
+@use "sass:list";
+@use "sass:map";
+@use "sass:string";
+@use "flex";
+@use "sassline-base/mixins";
+@use "sassline-base/modular-scale";
+@use "sassline-base/variables";
+@use "settings";
+
 // Structural elements
 body {
-  background: $backgroundColour;
-  color: $bodyColour;
+  background: variables.$backgroundColour;
+  color: variables.$bodyColour;
   min-height: 100vh;
   display: flex;
-  @include flex-direction(column);
+  @include flex.flex-direction(column);
   //-webkit-filter: grayscale(100%);
   //filter: grayscale(100%);
 }
@@ -79,8 +90,8 @@ body {
 
 .tooltip code {
   background: none;
-  @include fontsize(zeta, all);
-  font-family: unquote(map-get($monospacetype, font-family)); // or $headingtype
+  @include mixins.fontsize(zeta, all);
+  font-family: string.unquote(map.get(variables.$monospacetype, font-family)); // or $headingtype
   color: #e33b24;
   padding-left: 1px;
   border: none;
@@ -90,7 +101,7 @@ body {
   position: absolute;
   visibility: hidden;
   width: 25vw; //300px
-  background-color: $footerColour; //$focusColour
+  background-color: variables.$footerColour; //$focusColour
   color: #fff;
   text-align: center;
   border-radius: 5px;
@@ -102,7 +113,7 @@ body {
   margin-left: -12.6vw;
   opacity: 0;
   transition: opacity 0.4s;
-  @include fontsize(eta, all);
+  @include mixins.fontsize(eta, all);
   font-weight: 400;
   line-height: 1.3rem;
   box-shadow: 0px 0px 30px white;
@@ -116,7 +127,7 @@ body {
   margin-left: -5px;
   border-width: 5px;
   border-style: solid;
-  border-color: $footerColour transparent transparent transparent;
+  border-color: variables.$footerColour transparent transparent transparent;
 }
 
 .tooltip:hover .tooltiptext {
@@ -162,7 +173,7 @@ body {
 
 // Accordion
 details {
-  border: 0px solid $linkColour;
+  border: 0px solid variables.$linkColour;
   border-radius: 9px;
   padding: .5em .5em 0;
   margin-bottom: 1rem;
@@ -175,7 +186,7 @@ summary {
   padding: .5em;
   cursor: pointer;
   border-radius: 7px;
-  background: linear-gradient(-45deg, $headingColour, $linkColour, #23a6d5, #23d5ab);
+  background: linear-gradient(-45deg, variables.$headingColour, variables.$linkColour, #23a6d5, #23d5ab);
   background-size: 400% 400%;
   animation: gradient 15s ease infinite;
   margin-bottom: 1rem;
@@ -199,11 +210,11 @@ summary::before {
 
 details[open] {
   padding: .5em;
-  border: 2px solid $linkColour;
+  border: 2px solid variables.$linkColour;
 }
 
 details[open] summary {
-  border-bottom: 2px solid $linkColour;
+  border-bottom: 2px solid variables.$linkColour;
   margin-bottom: .5em;
   border-radius: 7px 7px 0 0;
 }
@@ -225,7 +236,7 @@ ol li {
 ol li:before {
   content: counter(counterVariable) ". ";
   content: counters(counterVariable, '.') ' ';
-  color: $linkColour;
+  color: variables.$linkColour;
   font-weight: bold;
   //text-shadow: 1px 1px 3px $focusColour;
 }
@@ -251,7 +262,7 @@ ul li::before {
   display: inline-block; /* Needed to add space between the bullet and the text */
   width: 1.8rem; /* Also needed for space (tweak if needed) */
   margin-left: -1.8rem; /* Also needed for space (tweak if needed) */
-  text-shadow: 1px 1px 3px $focusColour;
+  text-shadow: 1px 1px 3px settings.$focusColour;
 }
 
 
@@ -277,7 +288,7 @@ input[type=checkbox] {
   //vertical-align: middle;
   outline-offset: -.2rem;
 
-  @include breakpoint(break-1) {
+  @include mixins.breakpoint(break-1) {
     margin-left: -2rem;
   }
 }
@@ -300,7 +311,7 @@ input[type=checkbox]:checked:before {
   // height: 20px;
   // top: 0;
   // left: 0;
-  background-color: $linkColour;
+  background-color: variables.$linkColour;
 }
 input[type=checkbox]:checked:after {
   content: "";
@@ -326,12 +337,12 @@ input[type=checkbox]:checked:after {
 
 // From https://www.cyanilux.com/ (.node {...})
 .highlight-box {
-  color: $backgroundColour;
+  color: variables.$backgroundColour;
 	display: inline-block;
 	line-height: 100%;
   user-select: none;
 	//color: $white;
-	background-color: $captionColour; //$focusColour, $headingColour or $linkColour
+	background-color: variables.$captionColour; //$focusColour, $headingColour or $linkColour
 	padding-top : 3px;
 	padding-bottom : 2px;
 	padding-left : 5px;
@@ -365,7 +376,7 @@ input[type=checkbox]:checked:after {
   background-image: none !important;
   font-weight: bold;
   img {
-    background-color: $captionColour;
+    background-color: variables.$captionColour;
   }
 }
 
@@ -380,35 +391,35 @@ input[type=checkbox]:checked:after {
   border-left-width: 0.25rem; //0.3125rem
   border-radius: 5px;
   p {
-    border-left: 0.20rem solid $linkColour;
-    font-style: map-get($bodytype, italic);
+    border-left: 0.20rem solid variables.$linkColour;
+    font-style: map.get(variables.$bodytype, italic);
     padding-left: 1rem;
 
     // Add spacing below blockquote paragraphs to align to baseline grid.
-    $get-scale: map-get($modular-scale, scale-0);
-    $get-size: map-get($get-scale, zeta);
-    $rootsize: nth($sizes, 1);
-    $baseline-shift: #{($get-size / 2 * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001};
-    $baseline-push: #{3 - (($get-size * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001)};
+    $get-scale: map.get(modular-scale.$modular-scale, scale-0);
+    $get-size: map.get($get-scale, zeta);
+    $rootsize: list.nth(mixins.$sizes, 1);
+    $baseline-shift: #{math.div($get-size * 0.5 * (math.div(2 * $rootsize, $get-size) - map.get(variables.$bodytype, cap-height)), $rootsize) + 0.00001};
+    $baseline-push: #{3 - (math.div($get-size * (math.div(2 * $rootsize, $get-size) - map.get(variables.$bodytype, cap-height)), $rootsize) + 0.00001)};
 
     margin-bottom: #{$baseline-push}rem;
     padding-bottom: #{$baseline-shift}rem;
 
-    @for $i from 2 through $breakpoints-limit {
-      $get-scale: map-get($modular-scale, scale-#{$i - 1});
-      $get-size: map-get($get-scale, zeta);
-      $rootsize: nth($sizes, $i);
-      $baseline-shift: #{($get-size / 2 * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001};
-      $baseline-push: #{3 - (($get-size * ((2 * $rootsize / $get-size) - map-get($bodytype, cap-height))) / $rootsize + 0.00001)};
+    @for $i from 2 through mixins.$breakpoints-limit {
+      $get-scale: map.get(modular-scale.$modular-scale, scale-#{$i - 1});
+      $get-size: map.get($get-scale, zeta);
+      $rootsize: list.nth(mixins.$sizes, $i);
+      $baseline-shift: #{math.div($get-size * 0.5 * (math.div(2 * $rootsize, $get-size) - map.get(variables.$bodytype, cap-height)), $rootsize) + 0.00001};
+      $baseline-push: #{3 - (math.div($get-size * (math.div(2 * $rootsize, $get-size) - map.get(variables.$bodytype, cap-height)), $rootsize) + 0.00001)};
 
-      @media screen and (min-width: nth($points, $i) / 16 * 1em ) {
+      @media screen and (min-width: math.div(list.nth(mixins.$points, $i), 16) * 1em ) {
         margin-bottom: #{$baseline-push}rem;
         padding-bottom: #{$baseline-shift}rem;
       }
     }
   }
 
-  @include breakpoint(break-1) {
+  @include mixins.breakpoint(break-1) {
     margin-left: -1rem;
   }
 }
@@ -523,15 +534,15 @@ input[type=checkbox]:checked:after {
     display: none;
   }
   .logo {
-    @include flex(0 0 auto);
+    @include flex.flex(0 0 auto);
   }
   .container {
-    @include flexbox;
-    @include flex-direction(row);
-    @include justify-content(space-between);
+    @include flex.flexbox;
+    @include flex.flex-direction(row);
+    @include flex.justify-content(space-between);
     padding: 1rem 0;
-    @include breakpoint(break-1) {
-      @include align-items(center);
+    @include mixins.breakpoint(break-1) {
+      @include flex.align-items(center);
     }
   }
 }
@@ -557,7 +568,7 @@ input[type=checkbox]:checked:after {
     margin: 0;
     margin-right: 2vw;
     white-space: nowrap;
-    border-bottom: 2px solid $linkColour;
+    border-bottom: 2px solid variables.$linkColour;
   }
   li:nth-child(3) { // remove unnecessary home link
     display: none;
@@ -672,8 +683,8 @@ input[type=checkbox]:checked:after {
 .header > .feature > .container {
   min-height: 50vmin;
   max-width: 60%;
-  @include flex-direction(column);
-  @include justify-content(center);
+  @include flex.flex-direction(column);
+  @include flex.justify-content(center);
 }
 .article--post .feature {
   // max-height: 10rem;
@@ -693,7 +704,7 @@ input[type=checkbox]:checked:after {
 .item--post a {
   text-decoration: none !important;
   text-decoration-line: none;
-  color: $headingColour;
+  color: variables.$headingColour;
   border-bottom: none;
   background-image: none;
   padding: 0;
@@ -714,8 +725,8 @@ input[type=checkbox]:checked:after {
   display: inline-block;
   line-height: 0;
   max-height: 4rem;
-  @include flexbox;
-  @include align-items(center);
+  @include flex.flexbox;
+  @include flex.align-items(center);
   img {
     max-height: 5rem;
   }
@@ -754,25 +765,25 @@ input[type=checkbox]:checked:after {
 
 .small {
   // padding-top: .2rem;
-  color: $captionColour;
+  color: variables.$captionColour;
   display: inline-block;
 }
 
 .footer {
-  background: $captionColour; //$headingColour
-  color: $footerColour; // $captionColour
+  background: variables.$captionColour; //$headingColour
+  color: variables.$footerColour; // $captionColour
   a {
-    color: $footerColour; // $captionColour
+    color: variables.$footerColour; // $captionColour
     font-weight: bold;
     background-image: none;
     border-bottom: none;
     &:hover {
-      color: $backgroundColour;
+      color: variables.$backgroundColour;
       border-bottom: none;
     }
   }
   .container {
-    @include flex-wrap(wrap);
+    @include flex.flex-wrap(wrap);
   }
   .small {
     padding-top: 0;
@@ -782,9 +793,9 @@ input[type=checkbox]:checked:after {
 
 // Pagination nav
 .nav--paginator {
-  @include flexbox;
-  @include justify-content(space-between);
-  color: $captionColour;
+  @include flex.flexbox;
+  @include flex.justify-content(space-between);
+  color: variables.$captionColour;
   text-align: center;
 }
 
@@ -795,25 +806,25 @@ input[type=checkbox]:checked:after {
 
 // Main content
 .main {
-  @include flexbox;
-  @include flex-direction(column);
-  @include flex(1, 0, auto);
-  @include justify-content(flex-start);
+  @include flex.flexbox;
+  @include flex.flex-direction(column);
+  @include flex.flex(1, 0, auto);
+  @include flex.justify-content(flex-start);
   margin-bottom: 1.6rem;
-  @include breakpoint(break-1) {
-    @include justify-content(center);
-    @include flex-direction(row);
+  @include mixins.breakpoint(break-1) {
+    @include flex.justify-content(center);
+    @include flex.flex-direction(row);
   }
 }
 
 .header,
 .feature,
 .footer {
-  @include flex(0, 0, auto);
+  @include flex.flex(0, 0, auto);
 }
 
 .content {
-  @include breakpoint(break-1) {
+  @include mixins.breakpoint(break-1) {
     width: 65%;
   }
 }
@@ -823,10 +834,10 @@ input[type=checkbox]:checked:after {
 }
 
 .aside {
-  @include breakpoint(break-1) {
+  @include mixins.breakpoint(break-1) {
     max-width: 34%;
     margin-left: 4%;
-    @include flex(1, 0, auto);
+    @include flex.flex(1, 0, auto);
     opacity: 0.5;
     transition: opacity .1s;
     .section {
@@ -893,10 +904,10 @@ input[type=checkbox]:checked:after {
 
 .item {
   &--nav {
-    @include breakpoint(break-1) {
+    @include mixins.breakpoint(break-1) {
       margin-left: .4rem;
       display: inline-block;
-      color: $linkColour;
+      color: variables.$linkColour;
     }
     &:first-of-type {
       margin-left: 0;
@@ -904,7 +915,7 @@ input[type=checkbox]:checked:after {
   }
   &--current {
     a {
-      color: $captionColour;
+      color: variables.$captionColour;
     }
   }
 }
@@ -1008,7 +1019,7 @@ video {
   position: relative;
   &__legend {
     font-style: italic;
-    color: $captionColour;
+    color: variables.$captionColour;
     position: absolute;
     overflow: hidden;
     right: 0;
@@ -1044,8 +1055,8 @@ button,
 .button {
   cursor: pointer;
   display: inline-block;
-  color: $backgroundColour;
-  background: $accentColour;
+  color: variables.$backgroundColour;
+  background: settings.$accentColour;
   transition: box-shadow .1s;
   will-change: box-shadow;
   box-shadow: inset 0 0 0 2rem transparent;
@@ -1059,11 +1070,11 @@ button,
 }
 
 .button--nav {
-  @include breakpoint(break-1) {
+  @include mixins.breakpoint(break-1) {
     display: none;
   }
   background: none;
-  color: $linkColour;
+  color: variables.$linkColour;
   margin-bottom: 0;
   min-height: 4rem;
   min-width: 4rem;
@@ -1071,11 +1082,11 @@ button,
   &:hover,
   &:focus {
     box-shadow: none;
-    color: $hoverColour;
+    color: variables.$hoverColour;
   }
   span {
     font-size: 3rem;
-    color: $headingColour;
+    color: variables.$headingColour;
   }
 }
 
@@ -1087,7 +1098,7 @@ textarea,
 select {
   &:focus,
   &:hover:focus {
-    outline: solid .2rem $focusColour;
+    outline: solid .2rem settings.$focusColour;
     //outline-offset: -.2rem;
     outline-style: dashed;
   }
@@ -1104,14 +1115,14 @@ input[type="color"],
 textarea,
 select {
   width: 100%;
-  border: 1px solid $captionColour;
+  border: 1px solid variables.$captionColour;
   &:hover {
-    border-color: $bodyColour;
+    border-color: variables.$bodyColour;
   }
 }
 
 select {
-  background: $codeBackgroundColour;
+  background: variables.$codeBackgroundColour;
 }
 
 textarea {
@@ -1119,7 +1130,7 @@ textarea {
 }
 
 label {
-  @include baseline($fontsize: zeta, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
+  @include mixins.baseline($fontsize: zeta, $font: variables.$bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
 }
 
 code {
@@ -1137,7 +1148,7 @@ pre code {
 kbd {
   display: inline-block;
   padding: .25rem .5rem;
-  font-family: unquote(map-get($monospacetype, font-family));
+  font-family: string.unquote(map.get(variables.$monospacetype, font-family));
   font-size: 0.875em;
   line-height: 1;
   color: #333333;
@@ -1189,8 +1200,8 @@ kbd kbd {
 }
 
 ::selection {
-  background: $linkColour; //$focusColour
-  color: $backgroundColour; //$bodyColour
+  background: variables.$linkColour; //$focusColour
+  color: variables.$backgroundColour; //$bodyColour
   text-shadow: none;
 }
 
@@ -1204,12 +1215,12 @@ kbd kbd {
   button {
     background-image: none;
     text-shadow: none;
-    color: $backgroundColour;
+    color: variables.$backgroundColour;
     &:hover,
     &:active,
     &:focus {
       background-image: none;
-      color: $backgroundColour;
+      color: variables.$backgroundColour;
     }
   }
   hr {
@@ -1240,13 +1251,13 @@ kbd kbd {
   border-radius: 12px;
   padding-bottom: 1px;
   background: #9fafb321; // $focusColour
-  border: 2px dotted $footerColour;
+  border: 2px dotted variables.$footerColour;
 }
 #inline_toc li {
   font-size: .98rem;
   margin-bottom: 1.5;
   line-height: 1.5;
-  font-family: unquote(map-get($headingtype, font-family));
+  font-family: string.unquote(map.get(variables.$headingtype, font-family));
 }
 #inline_toc a:not(:hover) {
   border-bottom: none;
@@ -1257,7 +1268,7 @@ kbd kbd {
   //width: 1.8rem;
   //height: 1rem;
   //margin-left: -1.8rem;
-  color: $linkColour;
+  color: variables.$linkColour;
 }
 #inline_toc ul li {
   margin-left: 0;
