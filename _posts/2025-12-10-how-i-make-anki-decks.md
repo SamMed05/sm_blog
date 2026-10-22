@@ -56,10 +56,14 @@ You can't use JavaScript code in vanilla Anki for security reasons, but you can 
 
 #### YouTube videos
 
+On YouTube you can easily get the embed code for the video you are watching by right clicking and selecting the "Copy embed code" option. It will set the current width and height in that code so if you want it smaller you can first resize your browser window or open DevTools (F12) sidebar temporarily. Or just edit the px values manually, but you'll have to try keeping same ratio so I prefer avoiding that.
+
+In the video URL you can customize parameters like the start of the video (e.g. `?start=123`) or enable the subtitles specifying a language (e.g. `?hl=en&cc_load_policy=1&cc_lang_pref=en`).
+
 ```html
 <iframe 
 width="819" height="461" 
-src="<URL>?start=123" title="<title>" 
+src="<URL>?start=123&hl=en" title="<VIDEO TITLE HERE>" 
 frameborder="0" allow="encrypted-media; picture-in-picture;" 
 referrerpolicy="strict-origin-when-cross-origin" 
 allowfullscreen=""></iframe>
@@ -120,15 +124,24 @@ If you noticed, when switching light/dark mode in Anki, the text with no custom 
 
 ### SVGs
 
-To create and edit SVGs, I use [Inkscape](https://inkscape.org/) (FOSS).
+To create and edit SVGs, I use several tools, the main ones being [Inkscape](https://inkscape.org/) (FOSS), PowerPoint, handwritten diagrams on paper and free AI LLMs that support vision. As for the latter ones, they are more useful when you already have a diagram/drawing of the SVG you want and generally bad at making one from scratch. I found Google Gemini 3.5 Flash or above (with thinking enabled) to be particulary good at generating SVG code, while being extremely token efficient and fast.
 
-Sometimes I need to extract diagrams or other vector drawings from PDFs, and for that, I initially used [online tools](https://cloudconvert.com/pdf-to-svg) to convert PDF pages into SVGs, but it was very cumbersome and limited.
+And most interestingly, they are capable of using SMIL and other non JS related/native advanced SVG features to create animated and/or interactive diagrams. For supporting both light and dark theme I specify in the prompt to use the `currentColor` value which is black on light theme and white on dark them, and the model generally builds the SVG correctly with that info in mind.
 
-So I made my own GUI tool in Python to "crop out" areas of a PDF page. It supports PDFs from URLs (local too) and also has features to fix some issues with text when converting. It's called [PDF to SVG Cropper](https://github.com/SamMed05/pdf-to-svg-crop) if you are interested in using it.
+Once I have the SVG file, I just copy its code and paste it in the HTML code editor (<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>X</kbd>) where I want it to be. For convenience, I made an [SVG Editor add-on](https://ankiweb.net/shared/info/1469315222) for Anki (and [web](https://sammed05.github.io/anki_svg_editor/web/editor.html)) that enables quick basic editing on one or more SVGs in the current card field so there's no need to open Inkscape externally or ask AI to do edits.
+
+![Anki SVG editor](https://raw.githubusercontent.com/SamMed05/anki_svg_editor/refs/heads/main/screenshot.png)
+<span class="caption">Anki SVG editor for making quick adjustments to SVGs in your cards.</span>
+
+For graphs in my [Data Structures and Algorithms (DSA) deck](https://ankiweb.net/shared/info/1065502536) I used [GraphViz](https://graphviz.org/) (you can also try it [online](https://dreampuf.github.io/GraphvizOnline/)), an open-source graph visualization software that uses a simple text language called DOT to describe graphs, nodes, and edges, applying some layout algorithms to position elements cleanly for you automatically without them overlapping or having to make manual adjustments.
+
+Sometimes I need to extract diagrams or other vector drawings from PDFs, and for that, I initially used [online tools](https://cloudconvert.com/pdf-to-svg) to convert PDF pages into SVGs, but it was very cumbersome and limited. So I made my own GUI tool in Python to "crop out" areas of a PDF page. It supports PDFs from URLs (local too) and also has features to fix some issues with text when converting. It's called [PDF to SVG Cropper](https://github.com/SamMed05/pdf-to-svg-crop) if you are interested in using it.
 
 To resize an SVG in Anki, first make sure it has a `viewbox`, then you can simply use the `width` HTML parameter on the `<svg>` tag to change size without altering the aspect ratio or clipping.
 
 For quick previews, optimizations and prettify, I find [svgviewer.dev](https://www.svgviewer.dev/) to be very useful. There's also [svgomg.net](https://svgomg.net/).
+
+What's cool about SVGs and why I always use them over raster images is that they are small in size while infinitely high-res, text based so I can translate them, editable without loss of quality, and can even be made interactive or animated if necessary!
 
 ### Translating decks
 
