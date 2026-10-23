@@ -635,26 +635,22 @@ pre,
 .highlight > pre {
   overflow-x: auto;
   
-  /* Hide scrollbar on mobile */
-  @media (hover: none) {
-    scrollbar-width: none;
-    &::-webkit-scrollbar {
-      display: none;
-    }
-  }
-  
   /* Firefox */
-  scrollbar-width: none;
-  scrollbar-color: rgba(0,0,0,0.3) transparent;
-  
-  @include in-dark-mode {
-    scrollbar-color: rgba(255,255,255,0.3) transparent;
-  }
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
   
   /* Show on hover (desktop) */
   @media (hover: hover) {
     &:hover {
-      scrollbar-width: thin;
+      scrollbar-color: rgba(0,0,0,0.3) transparent;
+    }
+  }
+
+  @include in-dark-mode {
+    @media (hover: hover) {
+      &:hover {
+        scrollbar-color: rgba(255,255,255,0.3) transparent;
+      }
     }
   }
   
@@ -688,6 +684,14 @@ pre,
       &::-webkit-scrollbar-thumb:hover {
         background-color: rgba(255,255,255,0.5);
       }
+    }
+  }
+
+  /* Hide scrollbar on mobile */
+  @media (hover: none) {
+    scrollbar-width: none;
+    &::-webkit-scrollbar {
+      display: none;
     }
   }
 }

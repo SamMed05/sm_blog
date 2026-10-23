@@ -69,6 +69,19 @@ referrerpolicy="strict-origin-when-cross-origin"
 allowfullscreen=""></iframe>
 ```
 
+##### Local videos
+
+To embed videos locally without requiring an internet connection, with autoplay and no sound (like GIFs but better compressed), you can use styling of video element like in this example[^2]:
+
+```html
+<video src="Test-VP9.webm" autoplay="" 
+loop="" muted="" playsinline="" disablepictureinpicture=""
+preload="auto" style="max-width:100%; pointer-events:none;"></video>
+```
+
+{: .box-warning}
+<span class="material-icons-outlined">report_problem</span> **Warning:** the only format that works on the Windows Anki client, iOS Anki, and AnkiDroid is `.webm` encoded in VP9.
+
 #### Websites
 
 Most websites will load as normal when embedding them in your flashcards with iframes, including the ones hosted with GitHub Pages, but if the site sets a `X-Frame-Options` header or a `Content-Security-Policy` rule that blocks framing, then it won't load inside an iframe.
@@ -145,7 +158,7 @@ What's cool about SVGs and why I always use them over raster images is that they
 
 ### Translating decks
 
-I'm Italian but I want to make my best decks available in English too. I have no time to translate by hand but I found ont that LLMs are great for this mechannical task!
+I'm Italian but I want to make my best decks available in English too. I have no time to translate by hand but I found out that LLMs are great for this mechannical task!
 
 What I need is just Visual Studio Code with Copilot and the deck in .txt format. So I export decks as *Notes in Plain Text format* (with "Include deck name" checked) and import them int VS Code. For that, again, I make sure not to use `<style>` tags in the flaschard Anki-HTML code as they are stripped down.
 
@@ -222,3 +235,4 @@ I've set up a few shared folders on both my laptop and desktop using Syncthing, 
       <li><code>verb</code>: inserts verbatim code strings inside math blocks.</li>
     </ul>
     </details>
+[^2]: Thanks [u/MoreDimension5963](https://www.reddit.com/r/Anki/comments/1wndzht/comment/19riz0dedpn8j/) for suggesting me this technique!
